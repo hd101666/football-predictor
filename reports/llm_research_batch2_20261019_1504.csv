@@ -1,0 +1,6 @@
+match,llm_pick,confidence,adjust,key_absences,news
+曼联 vs 热刺,H,0.56,neutral,[],low
+马德里竞技 vs 塞维利亚,H,0.7,slight_upgrade,[],none
+尤文图斯 vs 那不勒斯,H,0.48,downgrade,"['伊尔迪兹', '孔塞桑', '洛卡特利', '图拉姆', '内雷斯', '布翁乔尔诺', '阿利松']",medium
+莱比锡红牛 vs 勒沃库森,H,0.46,neutral,[],none
+摩纳哥 vs 里昂,H,0.46,neutral,[],none

@@ -1,0 +1,7 @@
+match,llm_pick,confidence,adjust,key_absences
+Arsenal vs Chelsea,H,0.56,neutral,[]
+拜仁慕尼黑 vs 多特蒙德,H,0.74,slight_upgrade,['埃姆雷·詹']
+皇家马德里 vs 巴塞罗那,H,0.51,neutral,[]
+国际米兰 vs AC米兰,H,0.46,neutral,[]
+利物浦 vs 曼城,A,0.4,neutral,[]
+巴黎圣日耳曼 vs 马赛,H,0.65,neutral,[]
