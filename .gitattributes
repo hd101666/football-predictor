@@ -1,1 +1,2 @@
 data/corners_jc/*.csv filter=lfs diff=lfs merge=lfs -text
+data/user_db/*.gz filter=lfs diff=lfs merge=lfs -text
