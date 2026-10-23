@@ -1,5 +1,5 @@
 {
-  "exported_at_utc": "2026-10-23T08:42:52Z",
+  "exported_at_utc": "2026-10-23T09:01:09Z",
   "source_db": "bok500.db",
   "files": {
     "matches.csv.gz": {
@@ -9,16 +9,14 @@
       "rows": 1752
     },
     "odds_ah.csv.gz": {
-      "rows": 0,
-      "note": "本轮未采集（见 README 缺口说明）"
+      "rows": 706
     },
     "odds_ou.csv.gz": {
-      "rows": 0,
-      "note": "本轮未采集（见 README 缺口说明）"
+      "rows": 880
     },
     "results.csv.gz": {
       "rows": 0,
-      "note": "本轮未采集（见 README 缺口说明）"
+      "note": "赛果页 stat-*.shtml 未实现解析"
     },
     "team_map.csv": {
       "rows": 98
@@ -46,7 +44,7 @@
   },
   "total_matches": 49,
   "snapshot_range": {
-    "from": "2026-10-23T08:35:14Z",
-    "to": "2026-10-23T08:35:14Z"
+    "from": "2026-10-23T08:52:45Z",
+    "to": "2026-10-23T08:52:45Z"
   }
 }

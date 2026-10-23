@@ -1,6 +1,6 @@
 # 500.com 百家欧指样本集
 
-导出时间: 2026-10-23T08:42:52Z
+导出时间: 2026-10-23T09:01:09Z
 数据源: **500.com**（https://live.500.com/ 赛程 + https://odds.500.com/fenxi/ouzhi-<fid>.shtml 欧赔页）
 
 ## 文件与行数
@@ -9,15 +9,15 @@
 |---|---|---|
 | `matches.csv.gz` | 49 |  |
 | `odds_1x2.csv.gz` | 1752 |  |
-| `odds_ah.csv.gz` | 0 | 本轮未采集（见 README 缺口说明） |
-| `odds_ou.csv.gz` | 0 | 本轮未采集（见 README 缺口说明） |
-| `results.csv.gz` | 0 | 本轮未采集（见 README 缺口说明） |
+| `odds_ah.csv.gz` | 706 |  |
+| `odds_ou.csv.gz` | 880 |  |
+| `results.csv.gz` | 0 | 赛果页 stat-*.shtml 未实现解析 |
 | `team_map.csv` | 98 | 队名映射 |
 | `README.md` | - | 本文件 |
 
 ## 时间范围与快照
 
-- 快照时间: `2026-10-23T08:35:14Z` ~ `2026-10-23T08:35:14Z`
+- 快照时间: `2026-10-23T08:52:45Z` ~ `2026-10-23T08:52:45Z`
 - 比赛场次: **49** 场
 
 ## 公司覆盖率
