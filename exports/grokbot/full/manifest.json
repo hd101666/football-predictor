@@ -1,0 +1,46 @@
+{
+  "label": "full",
+  "generated_at_utc": "2026-10-23T06:33:47Z",
+  "files": {
+    "unified_matches.csv.gz": {
+      "rows": 74603,
+      "sha256": "84a1bac093c655c856d05b296b3801ec24271a81106feeabed79f4b822d9f10e",
+      "bytes": 4090694
+    },
+    "hit_recommendations.csv.gz": {
+      "rows": 1705,
+      "sha256": "e0ff44172521000cb3dce11f23c8e1b7c05603ca63abfc069b6c0efd9e651d39",
+      "bytes": 91459
+    },
+    "shadow_all.csv.gz": {
+      "rows": 8275,
+      "sha256": "a989e560a03304ecc873647ab8db1c6e0d7ebd7753662914ea3ac9cd3674ff8c",
+      "bytes": 316818
+    },
+    "settled_results.csv.gz": {
+      "rows": 21228,
+      "sha256": "54f693ead41118759ed4319d831e1dfc235d761763e2e00890ab75a01256ab7e",
+      "bytes": 1754413
+    },
+    "soft_snapshots.csv.gz": {
+      "rows": 0,
+      "sha256": "128a62249c1d6f6caba29c866a647c27756ea6c82baef9798a17d48d6275ed15",
+      "bytes": 168
+    },
+    "pin_snapshots.csv.gz": {
+      "rows": 0,
+      "sha256": "8353d263e6da4c6ac0d4e14e29b025d6b6b80e1a40fdc4820f9e24083f9f0059",
+      "bytes": 146
+    },
+    "model_params.json": {
+      "rows": 1,
+      "sha256": "66b5d1d87b3c728ccee3950e78f245271f218db6ad9a5686918daa6574c21a34",
+      "bytes": 1561
+    },
+    "README.md": {
+      "rows": 0,
+      "sha256": "66fe73f9a4744ddb044ba9ecc11ad07bc1f73d2dfb1a683c5ed182324eb33de4",
+      "bytes": 1916
+    }
+  }
+}

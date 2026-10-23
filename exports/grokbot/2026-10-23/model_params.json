@@ -1,0 +1,18 @@
+{
+  "HIT_SCORE_GLOBAL_THRESHOLD": 0.7,
+  "HIT_SCORE_V2_THRESHOLD": null,
+  "p_fusion_weights": {
+    "book": 0.5,
+    "poisson": 0.3,
+    "elo": 0.2
+  },
+  "kelly_divisor": 4,
+  "_param_overrides_snapshot": {
+    "HIT_SCORE_GLOBAL_THRESHOLD": 0.7,
+    "_last_calibrated": "2026-07-22 (手动修正)",
+    "_calibration_roi": 7.0,
+    "_calibration_n": 605,
+    "_note": "手动校准(2026-07-17复盘,2026-07-18复核修正): 7月correct_score(ROI-43%)大量转正拖垮整体。原计划踢出correct_score后把total阈值从0.70上调到0.76聚焦高质量,但2026-07-18用真实hit_recommendations结算数据复核发现0.78+区间胜率(50.0%,n=68)反而低于0.70-0.77区间(57.1%,n=28)——上调到0.76的依据不成立,维持0.70。原0.68是7-6自动校准设的,混入了correct_score垃圾样本,阈值偏低,这一点仍成立(0.70本身是合理修正),只是不再进一步上调到0.76。2026-07-20 22:48自动校准曾把这个值错误改成0.55——_compute_new_threshold()的lo_bucket过滤没有下界，把门槛提高到0.70之前遗留的陈年低分历史数据(hit_score 0.45-0.65，早被现行门槛挡在外面)也当成'当前门槛附近表现差'的证据，误判需要下调。2026-07-22核实：当前门槛(0.70)/MARKET_BIAS专属门槛(0.65)真正附近的[0.65,0.75)两档实际胜率53%+，完全正常，不该调。已修复_auto_calibrate.py的bug并手动把这个值改回0.70。"
+  },
+  "_note": "HIT_SCORE_V2_THRESHOLD 与 p_fusion 权重请以 config.py 为准，此处为导出时的快照"
+}
