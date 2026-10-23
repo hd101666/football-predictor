@@ -1,0 +1,35 @@
+{
+  "day_utc": "2026-10-23",
+  "generated_at_utc": "2026-10-23T05:54:16Z",
+  "source_db": "sports_data.db",
+  "files": {
+    "soft_snapshots.csv.gz": {
+      "rows": 2766,
+      "sha256": "abbc99dee7779add733f5386b036a0a3251621f28d424bd0d64569bac9b4aeef",
+      "bytes": 122479
+    },
+    "pin_snapshots.csv.gz": {
+      "rows": 48477,
+      "sha256": "7041a0c9dcb29245b9e6128437b6d6ee23e844c2face19820eed800805d64946",
+      "bytes": 502387
+    },
+    "v2_picks.csv": {
+      "rows": 0,
+      "sha256": "f0ef42d1fca4154c595f52ddc4cc2d4fa94fd9888043e769fa4b2fb4cb170ea8",
+      "bytes": 18
+    },
+    "old_official.csv": {
+      "rows": 0,
+      "sha256": "44dfec92ca36b2799317131134cb643e823eb7b5809b3e677c43aaf099eda36c",
+      "bytes": 292,
+      "hs_over_obs_rows": 0
+    }
+  },
+  "timezone_notes": {
+    "soft_snapshots.captured_at_utc": "UTC（原样）",
+    "pin_snapshots.captured_at_utc": "UTC（v_odds_snapshots_all 已转）",
+    "v2_picks.issued_at_utc": "UTC（原样）",
+    "old_official.created_at_bj": "北京时间（库内原值）",
+    "old_official.created_at_utc": "已减 8 小时转 UTC"
+  }
+}
