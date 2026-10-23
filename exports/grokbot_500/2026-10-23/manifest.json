@@ -1,5 +1,5 @@
 {
-  "exported_at_utc": "2026-10-23T09:01:09Z",
+  "exported_at_utc": "2026-10-23T09:11:35Z",
   "source_db": "bok500.db",
   "files": {
     "matches.csv.gz": {
@@ -15,8 +15,8 @@
       "rows": 880
     },
     "results.csv.gz": {
-      "rows": 0,
-      "note": "赛果页 stat-*.shtml 未实现解析"
+      "rows": 238,
+      "with_corners": 238
     },
     "team_map.csv": {
       "rows": 98
