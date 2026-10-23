@@ -1,0 +1,64 @@
+{
+  "exported_at_utc": "2026-10-23T17:58:57Z",
+  "source": "500.com (per-match ouzhi/yazhi/daxiao pages)",
+  "files": {
+    "matches.csv.gz": {
+      "rows": 2448,
+      "bytes": 35349,
+      "sha256": "4bfe0b841130ab56ffb1c2834afd4b50a613bfd60bbe5cdbbeb4fb7a8f9c3636"
+    },
+    "odds_1x2.csv.gz": {
+      "rows": 45770,
+      "bytes": 459210,
+      "sha256": "02312480c3d58a4f79c4ab6985c47610cd23335c65e563c545bff40e73c6fd2c"
+    },
+    "odds_ah.csv.gz": {
+      "rows": 26754,
+      "bytes": 206267,
+      "sha256": "d21944c1ccf75a5187377163b3a7cadcd7ab573874603292133b6b1d1775657a"
+    },
+    "odds_ou.csv.gz": {
+      "rows": 34791,
+      "bytes": 239329,
+      "sha256": "aa25d2f7e5e72de4264cb1d0c9e4d707384eaa0b0088f5582f553a4390b7fd47"
+    },
+    "coverage.csv": {
+      "rows": 86,
+      "bytes": 2462,
+      "sha256": "d2ddbfe3e105659891feac58e8ac83922208fd7a0d4470e0c4c0a24c0796fb13"
+    }
+  },
+  "matches": 2448,
+  "companies": [
+    "10bet",
+    "Bwin",
+    "Eurobet",
+    "Interwetten",
+    "Oddset",
+    "Pinnacle平博",
+    "bet365",
+    "snai",
+    "伟德",
+    "博天堂",
+    "威廉希尔",
+    "必发",
+    "易胜博",
+    "澳门彩票",
+    "皇冠",
+    "立博"
+  ],
+  "by_market": {
+    "1X2": {
+      "close": 22885,
+      "open": 22885
+    },
+    "AH": {
+      "close": 13377,
+      "open": 13377
+    },
+    "OU": {
+      "close": 17395,
+      "open": 17396
+    }
+  }
+}
