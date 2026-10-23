@@ -1,35 +1,35 @@
 {
   "label": "2026-10-23",
-  "generated_at_utc": "2026-10-23T06:33:31Z",
+  "generated_at_utc": "2026-10-23T07:13:46Z",
   "files": {
     "unified_matches.csv.gz": {
-      "rows": 520,
-      "sha256": "186854f908a26abe9f52b78e8b51bb75e1096d6c5b61718b9fd04fb0a33a666b",
-      "bytes": 23985
+      "rows": 538,
+      "sha256": "c0ddbd1d0c14b5221666035d336bdd2ea5009fef9eefbf4e04b979b163d3e3d8",
+      "bytes": 24833
     },
     "hit_recommendations.csv.gz": {
-      "rows": 0,
-      "sha256": "5dfb3998489756651992d4dce668d6ba3c32e158651d69b94047d5001467299c",
-      "bytes": 294
+      "rows": 4,
+      "sha256": "d922d8486f46f216114d060ef81dc3c6af9b778c9248f925747189bdc8a24896",
+      "bytes": 1196
     },
     "shadow_all.csv.gz": {
-      "rows": 0,
-      "sha256": "804e826edff520684ac7e85ed164372dfe2a5908967aa62dace0eb7689656aa8",
-      "bytes": 168
+      "rows": 107,
+      "sha256": "1763307d7317140148ac73ec43567e3270c5bbe8d113db44a4f40335ce04ada9",
+      "bytes": 3739
     },
     "settled_results.csv.gz": {
       "rows": 0,
-      "sha256": "9180a7bbcb30b9fc23cb09f2b1d8e526e5efb0b3cb8f1cc274d37e3c0821bc97",
+      "sha256": "1b0ee58fa06bcf245b7759f8ca49a2cbe72ee520c33e626be3f45232aad724bc",
       "bytes": 151
     },
     "soft_snapshots.csv.gz": {
       "rows": 4415,
-      "sha256": "2ec1eaaf766e96a2bc06cd81a0c8b836d61607d788100e24c2bcf187ac0a5be3",
+      "sha256": "a11fa90eb2563335919447f1b41aa4a86047cb32515be8b2290721cddb485fe4",
       "bytes": 195473
     },
     "pin_snapshots.csv.gz": {
       "rows": 56161,
-      "sha256": "463c83ff728c80128abe6d5ec75d2804c2d476501ae0f800586ba5408c18057a",
+      "sha256": "114215388a907559030f36230de36af8fd244e4b3022462cc5d26cb39eb96399",
       "bytes": 582137
     },
     "model_params.json": {
@@ -39,7 +39,7 @@
     },
     "README.md": {
       "rows": 0,
-      "sha256": "6e14ad74ac20b108ef1a0037cd2d772634f6b1381202246bb4248563844c04e4",
+      "sha256": "03ffc2fb214aea1b4c7306b7ec30d5043376c8ab8074841fbc1efa6066754cad",
       "bytes": 1922
     }
   }
