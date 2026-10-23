@@ -1,22 +1,25 @@
 {
-  "exported_at_utc": "2026-10-23T09:11:35Z",
+  "exported_at_utc": "2026-10-23T11:07:54Z",
   "source_db": "bok500.db",
   "files": {
     "matches.csv.gz": {
       "rows": 49
     },
     "odds_1x2.csv.gz": {
-      "rows": 1752
+      "rows": 3722,
+      "with_close": 1970
     },
     "odds_ah.csv.gz": {
-      "rows": 706
+      "rows": 1671,
+      "with_close": 979
     },
     "odds_ou.csv.gz": {
-      "rows": 880
+      "rows": 2377,
+      "with_close": 1457
     },
     "results.csv.gz": {
-      "rows": 238,
-      "with_corners": 238
+      "rows": 249,
+      "with_corners": 249
     },
     "team_map.csv": {
       "rows": 98
@@ -44,7 +47,7 @@
   },
   "total_matches": 49,
   "snapshot_range": {
-    "from": "2026-10-23T08:52:45Z",
-    "to": "2026-10-23T08:52:45Z"
+    "from": "2026-10-23T09:36:17Z",
+    "to": "2026-10-23T09:36:17Z"
   }
 }
