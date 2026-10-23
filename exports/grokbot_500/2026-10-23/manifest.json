@@ -1,0 +1,52 @@
+{
+  "exported_at_utc": "2026-10-23T08:42:52Z",
+  "source_db": "bok500.db",
+  "files": {
+    "matches.csv.gz": {
+      "rows": 49
+    },
+    "odds_1x2.csv.gz": {
+      "rows": 1752
+    },
+    "odds_ah.csv.gz": {
+      "rows": 0,
+      "note": "本轮未采集（见 README 缺口说明）"
+    },
+    "odds_ou.csv.gz": {
+      "rows": 0,
+      "note": "本轮未采集（见 README 缺口说明）"
+    },
+    "results.csv.gz": {
+      "rows": 0,
+      "note": "本轮未采集（见 README 缺口说明）"
+    },
+    "team_map.csv": {
+      "rows": 98
+    }
+  },
+  "company_coverage": {
+    "10bet": 49,
+    "Bwin": 49,
+    "Interwetten": 49,
+    "Pinnacle平博": 49,
+    "bet365": 49,
+    "snai": 49,
+    "伟德": 49,
+    "博天堂": 49,
+    "威廉希尔": 49,
+    "平均": 49,
+    "必发": 49,
+    "易胜博": 49,
+    "澳门彩票": 49,
+    "皇冠": 49,
+    "立博": 49,
+    "Eurobet": 48,
+    "Oddset": 47,
+    "888sport": 46
+  },
+  "total_matches": 49,
+  "snapshot_range": {
+    "from": "2026-10-23T08:35:14Z",
+    "to": "2026-10-23T08:35:14Z"
+  }
+}
