@@ -1,34 +1,42 @@
 {
-  "exported_at_utc": "2026-10-23T17:58:57Z",
-  "source": "500.com (per-match ouzhi/yazhi/daxiao pages)",
+  "exported_at_utc": "2026-10-24T06:00:43Z",
+  "source": "500.com per-match ouzhi/yazhi/daxiao pages",
   "files": {
     "matches.csv.gz": {
       "rows": 2448,
-      "bytes": 35349,
-      "sha256": "4bfe0b841130ab56ffb1c2834afd4b50a613bfd60bbe5cdbbeb4fb7a8f9c3636"
+      "bytes": 35487,
+      "sha256": "fd4fc667059509b21cae2565f084312a2de5e72a072c62ce4311858b9e72681e"
     },
     "odds_1x2.csv.gz": {
       "rows": 45770,
-      "bytes": 459210,
-      "sha256": "02312480c3d58a4f79c4ab6985c47610cd23335c65e563c545bff40e73c6fd2c"
+      "bytes": 470293,
+      "sha256": "d7c7bde922b7057960f46103841a702b5d6d019fcc0820efbab17f2a37b7a67d"
     },
     "odds_ah.csv.gz": {
       "rows": 26754,
-      "bytes": 206267,
-      "sha256": "d21944c1ccf75a5187377163b3a7cadcd7ab573874603292133b6b1d1775657a"
+      "bytes": 209206,
+      "sha256": "1141933c4d4ca505bc9408f0ba7fdb9fbb32c295f33a3787bbe980d2ae3f301f"
     },
     "odds_ou.csv.gz": {
-      "rows": 34791,
-      "bytes": 239329,
-      "sha256": "aa25d2f7e5e72de4264cb1d0c9e4d707384eaa0b0088f5582f553a4390b7fd47"
+      "rows": 34789,
+      "bytes": 247737,
+      "sha256": "7908c30e78ca590e443a97ec5740985b324216c5daf0e545e299f7c7f26893d8"
     },
     "coverage.csv": {
       "rows": 86,
-      "bytes": 2462,
-      "sha256": "d2ddbfe3e105659891feac58e8ac83922208fd7a0d4470e0c4c0a24c0796fb13"
+      "bytes": 2646,
+      "sha256": "9845231f0d6be3bfeb35eee11390e5d0d1d669c8c5b10ab9eebdec58f9dcac84"
     }
   },
-  "matches": 2448,
+  "fixes_applied": [
+    "3: 234 场未开赛比分置空",
+    "6: OU 删 2 行占位；全部标 is_main=1（数据源每场只有 1 个盘口）",
+    "6: AH/OU 增加 is_exchange 字段，必发=1 表示交易所"
+  ],
+  "unplayed_matches_blanked": 234,
+  "matches_total": 2448,
+  "company_covered": 1480,
+  "company_missing": 968,
   "companies": [
     "10bet",
     "Bwin",
@@ -46,19 +54,5 @@
     "澳门彩票",
     "皇冠",
     "立博"
-  ],
-  "by_market": {
-    "1X2": {
-      "close": 22885,
-      "open": 22885
-    },
-    "AH": {
-      "close": 13377,
-      "open": 13377
-    },
-    "OU": {
-      "close": 17395,
-      "open": 17396
-    }
-  }
+  ]
 }

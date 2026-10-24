@@ -157,7 +157,7 @@ def main():
     now = datetime.now(timezone.utc).strftime("%Y-%m-%dT%H:%M:%SZ")
 
     t0 = time.time()
-    n_rows = n_done = 0
+    n_rows = n_done = n_fail = 0
     for i, fid in enumerate(todo, 1):
         total_rows = 0
         pages = 0
@@ -182,6 +182,14 @@ def main():
                 total_rows += 1
             time.sleep(a.sleep)
             # 进度存盘：先把这一步的入库定住，避免中断丢已完成标记
+        if pages == 0:
+            # 三页全失败（页面空响应/限流）—— 绝不能标记为已完成，
+            # 否则断点续跑会永久跳过这场比赛（实测曾因此丢了 968 场）
+            con.commit()
+            n_fail += 1
+            if n_fail <= 20:
+                print(f"    [skip] fid={fid} 三页全失败，未标记完成")
+            continue
         con.execute("INSERT OR REPLACE INTO hist_company_done VALUES (?,?,?,?)",
                     (fid, pages, total_rows, now))
         con.commit()
@@ -193,7 +201,7 @@ def main():
             eta = (len(todo) - i) / rate if rate else 0
             print(f"  {i}/{len(todo)}  {n_rows} 条  速率 {rate:.1f} 场/分  ETA {eta:.0f} 分")
 
-    print(f"\n完成: {n_done} 场, {n_rows} 条, 耗时 {(time.time()-t0)/60:.1f} 分钟")
+    print(f"\n完成: {n_done} 场成功, {n_fail} 场全失败(未标记,可重跑), {n_rows} 条, 耗时 {(time.time()-t0)/60:.1f} 分钟")
     con.close()
 
 
