@@ -108,6 +108,16 @@ def main():
     played_ft = [r for r in played if r[9] is not None]
     played_ht = [r for r in played if r[11] is not None]
 
+    # ── 读取时间质量判定（fix_book_update_time.py 产出）──
+    quality = {}
+    try:
+        for fid, mk, st, q, note in comp.execute(
+                "SELECT fid, market, stage, quality, note FROM book_update_quality"):
+            quality[(fid, mk, st)] = (q, note or "")
+    except sqlite3.OperationalError:
+        print("  ⚠ book_update_quality 表不存在，先跑 fix_book_update_time.py --write-db")
+    print(f"  时间质量标记: {len(quality)} 条")
+
     # ── odds_1x2（公司级）──
     KO = dict(hist.execute("SELECT fid, kickoff_utc FROM matches").fetchall())
     rows = comp.execute("""SELECT c.fid, c.bookmaker, c.stage, c.home_val, c.draw_val, c.away_val,
@@ -115,9 +125,13 @@ def main():
                            FROM company_odds c WHERE c.market='1X2'
                            ORDER BY c.fid, c.bookmaker, c.stage""").fetchall()
     hdr = ["match_id", "bookmaker", "is_exchange", "stage", "snapshot_utc",
-           "home_odds", "draw_odds", "away_odds", "book_update_bj", "source"]
-    out_rows = [[f"500_{r[0]}", r[1], "1" if r[1] in EXCHANGE_BOOKS else "0", r[2],
-                 KO.get(r[0]) or "", r[3], r[4], r[5], r[6], "500.com"] for r in rows]
+           "home_odds", "draw_odds", "away_odds", "book_update_bj",
+           "book_update_quality", "book_update_note", "source"]
+    out_rows = []
+    for r in rows:
+        q, note = quality.get((str(r[0]), "1X2", r[2]), ("unknown", ""))
+        out_rows.append([f"500_{r[0]}", r[1], "1" if r[1] in EXCHANGE_BOOKS else "0", r[2],
+                         KO.get(r[0]) or "", r[3], r[4], r[5], r[6], q, note, "500.com"])
     put("odds_1x2.csv.gz", hdr, out_rows)
 
     # ── odds_ah（公司级，修复项 5：不再产出 match_avg）──
@@ -127,9 +141,12 @@ def main():
                            ORDER BY c.fid, c.bookmaker, c.stage""").fetchall()
     hdr = ["match_id", "bookmaker", "is_exchange", "stage", "snapshot_utc",
            "line", "line_text", "home_price", "away_price", "price_format",
-           "book_update_bj", "source"]
-    out_rows = [[f"500_{r[0]}", r[1], "1" if r[1] in EXCHANGE_BOOKS else "0", r[2],
-                 KO.get(r[0]) or "", r[3], r[4], r[5], r[6], "HK", r[7], "500.com"] for r in rows]
+           "book_update_bj", "book_update_quality", "book_update_note", "source"]
+    out_rows = []
+    for r in rows:
+        q, note = quality.get((str(r[0]), "AH", r[2]), ("unknown", ""))
+        out_rows.append([f"500_{r[0]}", r[1], "1" if r[1] in EXCHANGE_BOOKS else "0", r[2],
+                         KO.get(r[0]) or "", r[3], r[4], r[5], r[6], "HK", r[7], q, note, "500.com"])
     put("odds_ah.csv.gz", hdr, out_rows)
 
     # ── odds_ou（公司级，修复项 6：只主盘 + 删占位行）──
@@ -139,7 +156,7 @@ def main():
                            ORDER BY c.fid, c.bookmaker, c.stage""").fetchall()
     hdr = ["match_id", "bookmaker", "is_exchange", "stage", "snapshot_utc", "line",
            "over_price", "under_price", "price_format", "is_main",
-           "book_update_bj", "source"]
+           "book_update_bj", "book_update_quality", "book_update_note", "source"]
     out_rows = []
     dropped = 0
     for r in rows:
@@ -148,8 +165,9 @@ def main():
         if ov == 1.0 and un == 1.0:
             dropped += 1
             continue
+        q, note = quality.get((str(r[0]), "OU", r[2]), ("unknown", ""))
         out_rows.append([f"500_{r[0]}", r[1], "1" if r[1] in EXCHANGE_BOOKS else "0", r[2],
-                         KO.get(r[0]) or "", r[3], ov, un, "HK", "1", r[6], "500.com"])
+                         KO.get(r[0]) or "", r[3], ov, un, "HK", "1", r[6], q, note, "500.com"])
     put("odds_ou.csv.gz", hdr, out_rows)
     print(f"    → 删除 {dropped} 行占位（水位恰 1.00/1.00）")
     man["fixes_applied"].append(f"6: OU 删 {dropped} 行占位；全部标 is_main=1（数据源每场只有 1 个盘口）")
@@ -188,7 +206,7 @@ def main():
 | # | 问题 | 影响 | 原因 |
 |---|---|---|---|
 | **1** | **公司级赔率只覆盖 1479/2448 场**（到 2024-04-14 为止） | 2023/24 尾段 ~ 2026/27 共 **969 场缺公司级赔率** | 抓取时 500.com 触发 JS 反爬（`EO_Bot_Ssid` 挑战），三页返回空，脚本原先把空结果误标成"已完成"。**当前 IP 已被全线封锁（所有页面 0 字节），无法补抓** |
-| **2** | **初盘与收盘的 `book_update_bj` 相同；AH/OU 时间晚于开赛约 24 小时** | 无法区分初盘/收盘的时点 | 欧赔页每家公司只有**一个** `data-time` 属性，初盘行和收盘行共用了它；亚盘/大小球页的 `<time>` 标签位置与欧赔不同，抓取时取错了来源。**同样需重新抓页面才能修** |
+| **2** | 初盘/收盘庄家更新时间不可靠 | **已用 `book_update_quality` 字段显式标注**，见下表。真实修复需重新抓页面 | 欧赔页每家公司只有一个 `data-time`；亚盘/大小球页的 `<time>` 位置不同，抓取时取错来源，得到「开赛 +24.0h」的固定偏移 |
 | 4 | **本数据集没有角球字段** | 无法用于角球相关分析 | 历史库 `matches` 表无 `corners_home/away` 列。角球只在**当日**采集（`collect_500_results.py --with-corners`）里才有 |
 
 ## 已修复项
@@ -219,6 +237,19 @@ def main():
 | ft_home/ft_away | 全场比分，**未开赛为空** |
 | ht_home/ht_away | 半场比分，**未开赛为空** |
 | status | 5=完场，其他=未开赛/进行中 |
+
+### `book_update_quality` 取值说明（修复项 2）
+
+| 值 | 含义 | 实测条数 | 能否用于分析 |
+|---|---|---|---|
+| `exact` | open/close 时间不同，可信 | 1X2 2,956 | ✅ 可用 |
+| `row_level` | open/close 共用同一时间，无法区分初盘/收盘 | 1X2 2 / AH 308 / OU 310 | 🟡 只能当「该场某时刻的报价」，不能区分分期 |
+| `placeholder` | 开赛后 +24h 的固定偏移值，**非真实更新时间** | AH 2,642 / OU 2,644 | ❌ 必须忽略 |
+| `unknown` | 时间缺失或格式异常 | — | ❌ |
+
+`book_update_note` 给出该行的具体判定原因（含实测偏移小时数）。
+
+**结论：只有 1X2 的 `book_update_bj` 可当作庄家更新时间使用；AH/OU 的该字段整体不可用。**
 
 **odds_1x2.csv.gz / odds_ah.csv.gz / odds_ou.csv.gz**
 | 字段 | 说明 |
