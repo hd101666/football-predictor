@@ -1,0 +1,713 @@
+{
+ "俄罗斯联赛U19": [
+  "Russia - Youth Championship U19"
+ ],
+ "土耳其杯资格赛": [
+  "Turkey - Cup"
+ ],
+ "伊拉克超级联赛": [
+  "Iraq - Premier League"
+ ],
+ "沙特甲级联赛": [
+  "Saudi Arabia - Division 1"
+ ],
+ "美国足球甲级联赛": [
+  "USA - USL League One"
+ ],
+ "俄罗斯甲级联赛": [
+  "Russia - First League"
+ ],
+ "乌拉圭联赛后备队": [
+  "Uruguay - Reserve League"
+ ],
+ "阿尔及利亚联赛U20": [
+  "Algeria - U20 League"
+ ],
+ "瑞典超级联赛": [
+  "Sweden - Allsvenskan"
+ ],
+ "瑞典超级甲级联赛": [
+  "Sweden - Superettan"
+ ],
+ "波兰超级联赛": [
+  "Poland - Ekstraklasa"
+ ],
+ "捷克联赛U19": [
+  "Czech Republic - U19 League"
+ ],
+ "哥伦比亚甲级联赛": [
+  "Colombia - Primera A"
+ ],
+ "印尼超级联赛": [
+  "Indonesia - Super League"
+ ],
+ "乌克兰超级联赛": [
+  "Ukraine - Premier League"
+ ],
+ "葡萄牙联赛U23": [
+  "Portugal - U23 Championship"
+ ],
+ "瑞典北部甲级联赛": [
+  "Sweden - Division 1 Norra"
+ ],
+ "斯洛文尼亚联赛U19": [
+  "Slovenia - U19 League"
+ ],
+ "奥地利乙级联赛": [
+  "Austria - 2. Liga"
+ ],
+ "埃及超级联赛": [
+  "Egypt - Premier League"
+ ],
+ "英格兰伊斯米安超级联赛": [
+  "England - Isthmian Premier League"
+ ],
+ "塞尔维亚超级联赛": [
+  "Serbia - Super Liga"
+ ],
+ "保加利亚乙级联赛": [
+  "Bulgaria - Second League"
+ ],
+ "以色列超级联赛": [
+  "Israel - Premier League"
+ ],
+ "罗马尼亚甲级联赛": [
+  "Romania - Liga 1"
+ ],
+ "格鲁吉亚丙级联赛": [
+  "Georgia - Liga 3"
+ ],
+ "斯洛伐克联赛U19": [
+  "Slovakia - U19 League"
+ ],
+ "挪威杯": [
+  "Norway - Cup"
+ ],
+ "以色列超级联赛U19": [
+  "Israel - U19 Elite Division"
+ ],
+ "乌干达超级联赛": [
+  "Uganda - Premier League"
+ ],
+ "中国青少年足球联赛U20": [
+  "China - U20 League"
+ ],
+ "阿联酋联赛杯": [
+  "UAE - League Cup"
+ ],
+ "阿塞拜疆甲级联赛": [
+  "Azerbaijan - Division 1"
+ ],
+ "西班牙女子甲级联赛": [
+  "Spain - Primera Division Women"
+ ],
+ "希腊超级联赛乙级": [
+  "Greece - Elite League"
+ ],
+ "巴西杯U20": [
+  "Brazil - U20 Cup"
+ ],
+ "哈萨克斯坦超级联赛": [
+  "Kazakhstan - Premier League"
+ ],
+ "俄罗斯超级联赛": [
+  "Russia - Super League"
+ ],
+ "乌兹别克超级联赛": [
+  "Uzbekistan - Super League"
+ ],
+ "阿塞拜疆超级联赛": [
+  "Azerbaijan - Premier League"
+ ],
+ "英格兰职业联赛U21": [
+  "England - Premier League 2 U21"
+ ],
+ "挪威超级联赛": [
+  "Norway - Eliteserien"
+ ],
+ "巴拉圭丙级联赛": [
+  "Paraguay - Tercera Division"
+ ],
+ "土耳其联赛U19": [
+  "Turkey - Super Lig U19"
+ ],
+ "保加利亚甲级联赛": [
+  "Bulgaria - First League"
+ ],
+ "阿联酋甲级联赛": [
+  "UAE - Division 1"
+ ],
+ "英格兰联赛杯": [
+  "England - EFL Cup"
+ ],
+ "秘鲁甲级联赛": [
+  "Peru - Liga 1"
+ ],
+ "玻利维亚甲级联赛": [
+  "Bolivia - Primera Division"
+ ],
+ "捷克杯": [
+  "Czech Republic - Cup"
+ ],
+ "巴拉圭甲级联赛": [
+  "Paraguay - Primera"
+ ],
+ "孟加拉国超级联赛": [
+  "Bangladesh - Premier League"
+ ],
+ "墨西哥甲级联赛": [
+  "Mexico - Liga Premier Serie A"
+ ],
+ "亚美尼亚超级联赛": [
+  "Armenia - Premier League"
+ ],
+ "丹麦甲级联赛": [
+  "Denmark - Division 1"
+ ],
+ "葡萄牙全国甲级联赛U19": [
+  "Portugal - U19 Championship"
+ ],
+ "白俄罗斯超级联赛": [
+  "Belarus - Premier League"
+ ],
+ "瑞士超级联赛": [
+  "Switzerland - Super League"
+ ],
+ "日本天皇杯": [
+  "Japan - Cup"
+ ],
+ "巴西里约州甲级二联赛U20": [
+  "Brazil - Paulista FPB U20"
+ ],
+ "巴西圣保罗联赛U20": [
+  "Brazil - Paulista FPB U20"
+ ],
+ "委内瑞拉甲级联赛": [
+  "Venezuela - Primera Division"
+ ],
+ "委内瑞拉杯": [
+  "Venezuela - Cup"
+ ],
+ "乌拉圭甲级联赛": [
+  "Uruguay - Primera Division"
+ ],
+ "丹麦超级联赛": [
+  "Denmark - Superliga"
+ ],
+ "丹麦杯": [
+  "Denmark - Cup"
+ ],
+ "黎巴嫩超级联赛": [
+  "Lebanon - Premier League"
+ ],
+ "马耳他超级联赛": [
+  "Malta - Premier League"
+ ],
+ "英格兰女子超级联赛": [
+  "England - Women Super League"
+ ],
+ "苏格兰女子超级联赛": [
+  "Scotland - Premier League Women"
+ ],
+ "约旦超级联赛": [
+  "Jordan - Pro League"
+ ],
+ "科索沃超级联赛": [
+  "Kosovo - Superliga"
+ ],
+ "瑞士甲级联赛": [
+  "Switzerland - 1. Liga Classic"
+ ],
+ "瑞典女子超级联赛": [
+  "Sweden - Damallsvenskan"
+ ],
+ "玻利维亚杯": [
+  "Bolivia - Copa Simon Bolivar"
+ ],
+ "智利乙级联赛": [
+  "Chile - LNB Segunda"
+ ],
+ "斯洛伐克超级联赛": [
+  "Slovakia - Super Liga"
+ ],
+ "斯洛伐克乙级联赛": [
+  "Slovakia - 2. Liga"
+ ],
+ "斯洛伐克丙级联赛": [
+  "Slovakia - 3. Liga"
+ ],
+ "埃及联赛杯": [
+  "Egypt - League Cup"
+ ],
+ "南非女子超级联赛": [
+  "South Africa - Super League Women"
+ ],
+ "马来西亚足总杯": [
+  "Malaysia - FA Cup"
+ ],
+ "阿根廷女子甲级联赛": [
+  "Argentina - Primera Division Women"
+ ],
+ "阿尔巴尼亚超级联赛": [
+  "Albania - Superliga"
+ ],
+ "越南女子全国锦标赛": [
+  "Vietnam - Womens National League"
+ ],
+ "西班牙足协杯": [
+  "Spain - Copa Espana"
+ ],
+ "西班牙女子足协甲级联赛": [
+  "Spain - Primera Division Women"
+ ],
+ "萨尔瓦多甲级联赛": [
+  "El Salvador - Primera Division"
+ ],
+ "萨尔瓦多乙级联赛": [
+  "El Salvador - Segunda Division"
+ ],
+ "英格兰足总女子联赛杯": [
+  "England - National League Cup Women"
+ ],
+ "牙买加超级联赛": [
+  "Jamaica - Premier League"
+ ],
+ "日本女子职业足球联赛杯": [
+  "Japan - League Cup Women"
+ ],
+ "挪威联赛U19": [
+  "Norway - U19 League"
+ ],
+ "希腊超级联赛甲级": [
+  "Greece - Elite League"
+ ],
+ "卢旺达超级联赛": [
+  "Rwanda - Premier League"
+ ],
+ "亚洲运动会2026 - 女子(在日本)": [
+  "Japan - Women Empowerment League"
+ ],
+ "香港超级联赛U22": [
+  "Hong Kong - Premier League"
+ ],
+ "阿联酋总统杯": [
+  "UAE - League Cup"
+ ],
+ "越南全国杯资格赛": [
+  "Vietnam - Cup"
+ ],
+ "美国国家女子足球联赛": [
+  "USA - Women Premier Soccer League"
+ ],
+ "瑞士乙级联赛升级赛": [
+  "Switzerland - 2. Liga Interregional"
+ ],
+ "玻利维亚国家联赛U19": [
+  "Bolivia - Liga Nacional U19"
+ ],
+ "爱尔兰女子超级联赛": [
+  "Northern Ireland - Premiership Women"
+ ],
+ "比利时联赛U21": [
+  "Belgium - Reserve Pro League U21"
+ ],
+ "格鲁吉亚乙级联赛": [
+  "Georgia - Erovnuli Liga 2"
+ ],
+ "日本女子甲级联赛": [
+  "Japan - Nadeshiko Division 1 Women"
+ ],
+ "希腊杯": [
+  "Greece - Super Cup"
+ ],
+ "巴拿马甲级联赛": [
+  "Panama - Primera Division"
+ ],
+ "塞尔维亚联赛U19": [
+  "Serbia - U19 League"
+ ],
+ "危地马拉甲级联赛": [
+  "Guatemala - Primera Division de Ascenso"
+ ],
+ "印度米佐拉姆超级联赛": [
+  "India - Mizoram Premier League"
+ ],
+ "加纳超级联赛": [
+  "Ghana - Premier League"
+ ],
+ "加拿大超级联赛": [
+  "Canada - Premier League"
+ ],
+ "乌拉圭乙级联赛": [
+  "Uruguay - Segunda Division"
+ ],
+ "阿尔及利亚全国女子锦标赛": [
+  "Algeria - Championship Elite Women"
+ ],
+ "英格兰南部南区甲级联赛": [
+  "England - Isthmian Division 1 South Central"
+ ],
+ "芬兰甲级联赛": [
+  "Finland - Division 1B"
+ ],
+ "爱尔兰甲级联赛": [
+  "Northern Ireland - Championship"
+ ],
+ "泰国联赛U21": [
+  "Thailand - U21 League"
+ ],
+ "法罗群岛超级联赛": [
+  "Faroe Islands - Premier League"
+ ],
+ "沙特精英联赛U21": [
+  "Saudi Arabia - Elite League U21"
+ ],
+ "新加坡超级联赛": [
+  "Singapore - Premier League"
+ ],
+ "斯洛文尼亚杯": [
+  "Slovenia - Super Cup"
+ ],
+ "希腊超级联赛U19": [
+  "Greece - Super League U19"
+ ],
+ "巴西伯南布哥联赛U20": [
+  "Brazil - Paulista FPB U20"
+ ],
+ "威尔士杯": [
+  "Wales - Cup"
+ ],
+ "委内瑞拉乙级联赛": [
+  "Venezuela - Segunda Division"
+ ],
+ "坦桑尼亚超级联赛": [
+  "Tanzania - Premier League"
+ ],
+ "土耳其女子超级联赛": [
+  "Turkey - Super League Women"
+ ],
+ "以色列国家杯": [
+  "Israel - League Cup"
+ ],
+ "葡萄牙女子全国联赛": [
+  "Portugal - Division 1 Women"
+ ],
+ "英格兰南部中区甲级联赛": [
+  "England - Isthmian Division 1 South Central"
+ ],
+ "肯尼亚超级联赛": [
+  "Kenya - Premier League"
+ ],
+ "缅甸全国联赛U20": [
+  "Myanmar - National League U20"
+ ],
+ "约旦杯资格赛": [
+  "Jordan - Super Cup"
+ ],
+ "澳大利亚甲级联赛": [
+  "Australia - Championship"
+ ],
+ "法国女子甲级联赛": [
+  "France - Feminine Division 1"
+ ],
+ "柬埔寨超级联赛": [
+  "Cambodia - Premier League"
+ ],
+ "日本女子职业联赛": [
+  "Japan - Women Empowerment League"
+ ],
+ "斯洛伐克杯": [
+  "Slovakia - Cup"
+ ],
+ "巴西圣保罗州杯": [
+  "Brazil - Cup"
+ ],
+ "巴西圣保罗乙级联赛U20": [
+  "Brazil - Paulista Serie B U20"
+ ],
+ "巴西国亚诺乙级联赛": [
+  "Brazil - Serie B"
+ ],
+ "巴林国王杯资格赛": [
+  "Bahrain - Kings Cup"
+ ],
+ "哥斯达黎加甲级联赛": [
+  "Costa Rica - Primera Division"
+ ],
+ "吉尔吉斯斯坦超级联赛": [
+  "Kyrgyzstan - Premier League"
+ ],
+ "印度西隆超级联赛": [
+  "India - Mizoram Premier League"
+ ],
+ "乌拉圭杯资格赛": [
+  "Uruguay - Cup"
+ ],
+ "乌兹别克杯": [
+  "Uzbekistan - Cup"
+ ],
+ "乌克兰杯": [
+  "Ukraine - Cup"
+ ],
+ "丹麦女子超级联赛": [
+  "Denmark - Elitedivisionen Women"
+ ],
+ "中华台北木兰女子足球联赛": [
+  "Chinese Taipei - Mulan Football League Women"
+ ],
+ "马来西亚总统杯U20": [
+  "Malaysia - President Cup U20"
+ ],
+ "阿联酋联赛U19": [
+  "UAE - U19 League"
+ ],
+ "赞比亚超级联赛": [
+  "Zambia - Super League"
+ ],
+ "西班牙女子足协乙级联赛": [
+  "Spain - Liga 2 Women"
+ ],
+ "英格兰挑战杯": [
+  "England - EFL Cup"
+ ],
+ "英格兰南部南区超级联赛": [
+  "England - Southern Premier League Central"
+ ],
+ "英格兰伊斯米安中南部甲级联赛": [
+  "England - Isthmian Division 1 South Central"
+ ],
+ "美国女子足球超级联赛": [
+  "USA - USL Super League Women"
+ ],
+ "美国公开赛冠军杯": [
+  "USA - USL Cup"
+ ],
+ "瑞士乙级联赛": [
+  "Switzerland - 2. Liga Interregional"
+ ],
+ "玻利维亚西蒙玻利瓦尔杯": [
+  "Bolivia - Copa Simon Bolivar"
+ ],
+ "沙特乙级联赛": [
+  "Saudi Arabia - Division 2"
+ ],
+ "智利甲级联赛": [
+  "Chile - Primera Division"
+ ],
+ "挪威杯U19": [
+  "Norway - U19 Cup"
+ ],
+ "哥斯达黎加女子甲级联赛": [
+  "Costa Rica - Primera Division Women"
+ ],
+ "印度超级联赛": [
+  "India - Mizoram Premier League"
+ ],
+ "卡塔尔联赛杯": [
+  "Qatar - Stars Cup"
+ ],
+ "北爱尔兰女子超级联赛": [
+  "Northern Ireland - Premiership Women"
+ ],
+ "克罗地亚杯": [
+  "Croatia - Cup"
+ ],
+ "乌拉圭杯": [
+  "Uruguay - Cup"
+ ],
+ "香港超级联赛": [
+  "Hong Kong - Premier League"
+ ],
+ "超级联赛国际杯U21(在英格兰)": [
+  "England - Premier League Cup U21"
+ ],
+ "英格兰伊斯米安北部甲级联赛": [
+  "England - Isthmian Division 1 North"
+ ],
+ "英格兰伊斯米安东南甲级联赛": [
+  "England - Isthmian Division 1 South East"
+ ],
+ "科威特超级联赛": [
+  "Kuwait - Premier League"
+ ],
+ "科威特甲级联赛": [
+  "Kuwait - Division 1"
+ ],
+ "比利时女子超级联赛": [
+  "Belgium - Super League Women"
+ ],
+ "智利杯": [
+  "Chile - Cup"
+ ],
+ "布基纳法索超级联赛": [
+  "Burkina Faso - Premier League"
+ ],
+ "巴西高卓乙级联赛": [
+  "Brazil - Serie B"
+ ],
+ "巴西里约杯": [
+  "Brazil - Cup"
+ ],
+ "巴西帕拉恩斯丙级联赛": [
+  "Brazil - Serie C"
+ ],
+ "巴西帕拉伊巴乙级联赛": [
+  "Brazil - Serie B"
+ ],
+ "巴西圣保罗联赛U20 - 附加赛": [
+  "Brazil - U20 Cup"
+ ],
+ "巴林超级联赛": [
+  "Bahrain - Premier League"
+ ],
+ "奥地利女子乙级联赛": [
+  "Austria - Bundesliga 2 Women"
+ ],
+ "塞尔维亚女子超级联赛": [
+  "Serbia - Super Liga Women"
+ ],
+ "埃塞俄比亚超级联赛": [
+  "Ethiopia - Premier League"
+ ],
+ "危地马拉乙级联赛": [
+  "Guatemala - Segunda Division"
+ ],
+ "博茨瓦纳超级联赛": [
+  "Botswana - Premier League"
+ ],
+ "丹麦联赛U19": [
+  "Denmark - U19 League"
+ ],
+ "黑山联赛U19": [
+  "Montenegro - U19 League"
+ ],
+ "阿根廷杯": [
+  "Argentina - Cup"
+ ],
+ "阿曼甲级联赛": [
+  "Romania - Liga 1"
+ ],
+ "葡萄牙乙级联赛": [
+  "Portugal - Liga 2"
+ ],
+ "英格兰女子超级联赛2": [
+  "England - Women Super League"
+ ],
+ "英格兰南部中区超级联赛": [
+  "England - Southern Premier League Central"
+ ],
+ "英格兰中央联赛后备队": [
+  "England - Central League Reserves"
+ ],
+ "肯尼亚女子超级联赛": [
+  "Kenya - Premier League Women"
+ ],
+ "罗马尼亚女子甲级联赛": [
+  "Romania - Liga 1 Women"
+ ],
+ "约旦女子联赛": [
+  "Jordan - Pro League Women"
+ ],
+ "秘鲁女子联赛": [
+  "Peru - Primera Division Women"
+ ],
+ "瑞士联赛U19": [
+  "Switzerland - U19 Elite"
+ ],
+ "瑞典女子杯资格赛": [
+  "Sweden - Women Cup"
+ ],
+ "澳大利亚杯": [
+  "Australia - Cup"
+ ],
+ "波兰杯": [
+  "Poland - Super Cup"
+ ],
+ "波兰女子杯": [
+  "Poland - Super Cup Women"
+ ],
+ "沙特女子超级联赛": [
+  "Saudi Arabia - Premier League Women"
+ ],
+ "比利时女子甲级联赛": [
+  "Belgium - Division 1 Women"
+ ],
+ "柬埔寨洪森杯": [
+  "Cambodia - Cup"
+ ],
+ "新西兰女子国家冠军联赛": [
+  "New Zealand - NBL Women"
+ ],
+ "挪威国家冠军联赛U19 - 附加赛": [
+  "Norway - U19 Cup"
+ ],
+ "意大利女子甲级联赛": [
+  "Italy - Serie A2 Women"
+ ],
+ "巴西阿拉戈斯联赛U20": [
+  "Brazil - Paulista FPB U20"
+ ],
+ "巴西米内罗联赛U20 - 附加赛": [
+  "Brazil - U20 Cup"
+ ],
+ "巴西米内罗丙级联赛": [
+  "Brazil - Serie C"
+ ],
+ "巴西皮奥伊恩斯甲级联赛": [
+  "Brazil - Serie A"
+ ],
+ "巴西帕拉恩斯联赛U20": [
+  "Brazil - Paulista FPB U20"
+ ],
+ "巴西巴亚诺女子联赛 - 附加赛": [
+  "Brazil - Cup Women"
+ ],
+ "巴西女子杯": [
+  "Brazil - Cup Women"
+ ],
+ "巴西卡皮沙巴乙级联赛": [
+  "Brazil - Serie B"
+ ],
+ "尼加拉瓜甲级联赛": [
+  "Nicaragua - Primera Division"
+ ],
+ "塞浦路斯杯": [
+  "Cyprus - Cup"
+ ],
+ "国际足联东盟杯第一级(在印尼)": [
+  "Indonesia - Presidents Cup"
+ ],
+ "哥伦比亚杯": [
+  "Colombia - Cup"
+ ],
+ "厄瓜多尔甲级联赛": [
+  "Ecuador - Serie A"
+ ],
+ "印度锡金总督金杯": [
+  "India - Regional Cup"
+ ],
+ "南非联赛杯": [
+  "South Africa - 8 Cup"
+ ],
+ "北马其顿女子联赛": [
+  "North Macedonia - 1st League Women"
+ ],
+ "加纳甲级联赛": [
+  "Ghana - Division 1"
+ ],
+ "加拿大北部女子超级联赛": [
+  "Canada - Northern Super League Women"
+ ],
+ "冰岛女子超级联赛": [
+  "Iceland - Premier League Women"
+ ],
+ "保加利亚职业杯": [
+  "Bulgaria - Super Cup"
+ ],
+ "以色列女子超级联赛": [
+  "Israel - Premier League Women"
+ ],
+ "乌拉圭女子甲级联赛": [
+  "Uruguay - Primera Division Women"
+ ]
+}
