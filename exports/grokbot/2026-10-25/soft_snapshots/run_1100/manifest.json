@@ -1,0 +1,35 @@
+{
+  "exported_at_utc": "2026-10-25T03:00:06Z",
+  "day_bj": "2026-10-25",
+  "run": "run_1100",
+  "window_hours": 24.0,
+  "source_db": "sports_data.db",
+  "files": {
+    "soft_snapshots.csv.gz": {
+      "rows": 5126,
+      "bytes": 162914,
+      "sha256": "671764b20fe719dd0a55aa30fd07e5d89112c0f92b43c77556e46ca557cf6fa2"
+    },
+    "qiety_team_map.csv": {
+      "rows": 4603,
+      "bytes": 136547,
+      "sha256": "0d64fbb5c4e7a04dfd3862b3b0c9ced5b46998263ff28d9120c0a66d83856dc3"
+    }
+  },
+  "matches": {
+    "total": 379,
+    "with_pinn_id": 88
+  },
+  "markets": {
+    "1X2": 2190,
+    "AH": 1468,
+    "OU": 1468
+  },
+  "timezone_notes": {
+    "captured_at_utc": "UTC（抓取时刻）",
+    "book_last_update_utc": "UTC（庄家最后更新）",
+    "kickoff_utc": "UTC",
+    "day_bj": "目录日期按北京时间（赛程习惯）"
+  },
+  "source_note": "qiety (企鹅体育) 胜平负/亚盘/大小球，采集脚本 29_qiety_yb_full_scraper.py --within-hours 12；本目录为 soft_odds_snapshots 的定时导出"
+}
