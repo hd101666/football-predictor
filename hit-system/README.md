@@ -17,9 +17,8 @@
 | 足球爬虫 | 38 |
 | 篮球爬虫 | 7 |
 | 爬虫合计 | **45** |
-| 能跑 | 39 |
-| 需修复 | 5（根因已定位） |
-| 已停用 | 1（订阅无权限） |
+| 能跑 | **39** |
+| 已停用（废弃，不修） | 6 |
 | 数据表 | 231 张 |
 | 全库行数 | 13,839,923 |
 | 已导出样本 | 190 张表 × ≤100 行 |
@@ -143,19 +142,29 @@ m.basketball_total_probs(220.5, 18.0, [215.5, 220.5, 225.5])
 
 ## ⚠ 已知问题（诚实清单）
 
-| # | 问题 | 影响 | 根因 |
-|---|---|---|---|
-| 1 | `unified_matches` 赛程断更 | 跑 `--latest` 得到「今日待预测 0 场」 | 库内最新 `fetch_date=2026-10-23`，需先跑赛程类爬虫补齐 |
-| 2 | `models/05_9_Backtest_Module.py` 文件损坏 | 无法导入 | 第 16 行三引号被误转义为 `\"\"\"`，SyntaxError |
-| 3 | 现成回测结论不可采信 | 勿直接据此下注 | `backtest_summary` 仅 180 场且 `real_odds_used=0`，最大回撤 -95.39%，详见 MODELS.md |
-| 4 | `11_fbref_xg_scraper.py` 解析 0 行 | 表空 | FBref 改版，列名变为 `Unnamed: 0_level_0_Squad`，代码找 `squad`/`xG` 失败 |
-| 5 | `19_whoscored_scraper.py` 报错 | 表空 | Playwright Sync API 在 asyncio loop 内调用 |
-| 6 | `30_qiety_history_scraper.py` 登录失败 | 表空 | 硬编码旧域名 qiety1692/1726/1748.vip 全部失效，建议改用 29 号的 token 方式 |
-| 7 | `46_sportmonks_fixtures_scraper.py` | 已停用 | 账号仅 Free Plan，无 football 访问权限（HTTP200 但返回 no access） |
-| 8 | `24_betfair_scraper.py` | 表空 | 未配置 `BETFAIR_API_KEY`，且 IP 被 403 封锁 |
-| 9 | `13_bet365_scraper.py` | 表空 | 依赖 RapidAPI bet365 订阅 |
+### 已修复（2026-10-30）
 
----
+| 问题 | 处理结果 |
+|---|---|
+| `unified_matches` 赛程断更 7 天 | ✅ **已修复**。跑 `00_命中系统.py --no-scrape --date 2026-10-30` 重新聚合，今日 445 场已入库；`predict_football.py --latest` 现输出 436 场预测（原为 0 场） |
+
+### 已停用爬虫（按"废弃不修"原则不再维护）
+
+| 文件 | 停用原因 | 替代方案 |
+|---|---|---|
+| `11_fbref_xg_scraper.py` | 实测 FBref 免费页已彻底移除 xG 列（standard 表仅 21 列，`/xg/` 页 shooting 表 13 列均无 xG），页面只剩 Subscribe/Sign up | ✅ `understat_xg_teams`(336队) / `understat_xg_matches`(5,976场) 已有数据 |
+| `13_bet365_scraper.py` | 需 RapidAPI 付费订阅；`RAPIDAPI_KEY` 当前仍是占位符 `***` | 用 `35_theoddsapi_multi_scraper.py` 覆盖主流联赛 |
+| `19_whoscored_scraper.py` | 已修好 camoufox 插件（UBO 空目录导致 manifest.json 缺失），但 WhoScored 全站被 Cloudflare IP 级封锁，连首页都返回 `Attention Required` | 无 |
+| `24_betfair_scraper.py` | 需官方 Exchange API Key + 应用证书，且 IP 已被 403 | 无 |
+| `30_qiety_history_scraper.py` | 浏览器 UI 自动化登录需 `QIETY_ACCOUNT/PASSWORD`；硬编码 `qiety1748/1692/1726.vip`、`h5.qiety.vip` 全部失效 | 用 `29_qiety_yb_full_scraper.py` 的 `qiety_matches` 表 |
+| `46_sportmonks_fixtures_scraper.py` | 账号仅 Free Plan，无 football 权限（HTTP 200 但返回 no access） | 无 |
+
+### 仍未处理
+
+| 问题 | 影响 | 说明 |
+|---|---|---|
+| `models/05_9_Backtest_Module.py` 文件损坏 | 无法导入 | 第 16 行三引号被误转义为 `\"\"\"`，SyntaxError |
+| 现成回测结论不可采信 | 勿据此下注 | `backtest_summary` 仅 180 场且 `real_odds_used=0`，最大回撤 -95.39%，详见 MODELS.md |
 
 ## 📊 字段与空值约定
 
