@@ -1,0 +1,36 @@
+# 命中系统 运行依赖
+# 实测环境: Windows 10 / Python 3.11.9
+# 版本号为 2026-10-30 本机实际运行的版本
+
+# ── 核心数据 ──
+pandas>=2.0
+numpy>=1.24
+scipy>=1.10
+openpyxl>=3.1
+joblib>=1.3
+
+# ── 数据库 ──
+SQLAlchemy>=2.0
+
+# ── HTTP / 抓取 ──
+requests>=2.31
+requests-toolbelt>=1.0
+httpx>=0.27
+curl_cffi>=0.7          # 部分站点 TLS 指纹要求
+beautifulsoup4>=4.12
+lxml>=5.0
+
+# ── 浏览器自动化（OddsPortal / FBref / WhoScored 等 JS 渲染站）──
+playwright>=1.40
+playwright-stealth>=2.0
+nodriver>=0.34          # FBref / Cloudflare 绕过用真实 Chrome
+
+# ── 配置 ──
+python-dotenv>=1.0
+
+# ── 可选：机器学习（LSTM 模型）──
+# scikit-learn>=1.3
+# torch>=2.0            # 04_1_LSTM 需要，默认不装（体积大）
+
+# 安装后还需安装浏览器内核：
+#   python -m playwright install chromium
