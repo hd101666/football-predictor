@@ -1,0 +1,101 @@
+﻿id,corner_matchup_id,parent_matchup_id,league_name,home_team,away_team,kickoff_utc,market_type,period,side,team_side,line,price_amer,price_dec,is_alternate,max_bet,status,fetch_date,recorded_at
+153452,1638557868,1638073271,France - Ligue 1,Brest,Nice,2026-10-23 18:45:00,total,1,under,,5.0,-180.0,1.5556,1,100.0,open,2026-10-20,2026-10-20T12:53:15
+153451,1638557868,1638073271,France - Ligue 1,Brest,Nice,2026-10-23 18:45:00,total,1,over,,5.0,131.0,2.31,1,100.0,open,2026-10-20,2026-10-20T12:53:15
+153450,1638557868,1638073271,France - Ligue 1,Brest,Nice,2026-10-23 18:45:00,total,1,under,,4.0,114.0,2.14,1,100.0,open,2026-10-20,2026-10-20T12:53:15
+153449,1638557868,1638073271,France - Ligue 1,Brest,Nice,2026-10-23 18:45:00,total,1,over,,4.0,-155.0,1.6452,1,100.0,open,2026-10-20,2026-10-20T12:53:15
+153448,1638557868,1638073271,France - Ligue 1,Brest,Nice,2026-10-23 18:45:00,total,1,under,,4.5,-123.0,1.813,0,100.0,open,2026-10-20,2026-10-20T12:53:15
+153447,1638557868,1638073271,France - Ligue 1,Brest,Nice,2026-10-23 18:45:00,total,1,over,,4.5,-106.0,1.9434,0,100.0,open,2026-10-20,2026-10-20T12:53:15
+153446,1638557868,1638073271,France - Ligue 1,Brest,Nice,2026-10-23 18:45:00,spread,1,away,,-0.5,133.0,2.33,1,100.0,open,2026-10-20,2026-10-20T12:53:15
+153445,1638557868,1638073271,France - Ligue 1,Brest,Nice,2026-10-23 18:45:00,spread,1,home,,0.5,-184.0,1.5435,1,100.0,open,2026-10-20,2026-10-20T12:53:15
+153444,1638557868,1638073271,France - Ligue 1,Brest,Nice,2026-10-23 18:45:00,spread,1,away,,0.5,-150.0,1.6667,1,100.0,open,2026-10-20,2026-10-20T12:53:15
+153443,1638557868,1638073271,France - Ligue 1,Brest,Nice,2026-10-23 18:45:00,spread,1,home,,-0.5,111.0,2.11,1,100.0,open,2026-10-20,2026-10-20T12:53:15
+153442,1638557868,1638073271,France - Ligue 1,Brest,Nice,2026-10-23 18:45:00,spread,1,away,,0.0,-102.0,1.9804,0,100.0,open,2026-10-20,2026-10-20T12:53:15
+153441,1638557868,1638073271,France - Ligue 1,Brest,Nice,2026-10-23 18:45:00,spread,1,home,,0.0,-127.0,1.7874,0,100.0,open,2026-10-20,2026-10-20T12:53:15
+153440,1638557868,1638073271,France - Ligue 1,Brest,Nice,2026-10-23 18:45:00,total,0,under,,10.5,-176.0,1.5682,1,200.0,open,2026-10-20,2026-10-20T12:53:15
+153439,1638557868,1638073271,France - Ligue 1,Brest,Nice,2026-10-23 18:45:00,total,0,over,,10.5,133.0,2.33,1,200.0,open,2026-10-20,2026-10-20T12:53:15
+153438,1638557868,1638073271,France - Ligue 1,Brest,Nice,2026-10-23 18:45:00,total,0,under,,10.0,-140.0,1.7143,1,200.0,open,2026-10-20,2026-10-20T12:53:15
+153437,1638557868,1638073271,France - Ligue 1,Brest,Nice,2026-10-23 18:45:00,total,0,over,,10.0,110.0,2.1,1,200.0,open,2026-10-20,2026-10-20T12:53:15
+153436,1638557868,1638073271,France - Ligue 1,Brest,Nice,2026-10-23 18:45:00,total,0,under,,9.0,121.0,2.21,1,200.0,open,2026-10-20,2026-10-20T12:53:15
+153435,1638557868,1638073271,France - Ligue 1,Brest,Nice,2026-10-23 18:45:00,total,0,over,,9.0,-155.0,1.6452,1,200.0,open,2026-10-20,2026-10-20T12:53:15
+153434,1638557868,1638073271,France - Ligue 1,Brest,Nice,2026-10-23 18:45:00,total,0,under,,8.5,146.0,2.46,1,200.0,open,2026-10-20,2026-10-20T12:53:15
+153433,1638557868,1638073271,France - Ligue 1,Brest,Nice,2026-10-23 18:45:00,total,0,over,,8.5,-197.0,1.5076,1,200.0,open,2026-10-20,2026-10-20T12:53:15
+153432,1638557868,1638073271,France - Ligue 1,Brest,Nice,2026-10-23 18:45:00,total,0,under,,9.5,-106.0,1.9434,0,200.0,open,2026-10-20,2026-10-20T12:53:15
+153431,1638557868,1638073271,France - Ligue 1,Brest,Nice,2026-10-23 18:45:00,total,0,over,,9.5,-115.0,1.8696,0,200.0,open,2026-10-20,2026-10-20T12:53:15
+153430,1638557868,1638073271,France - Ligue 1,Brest,Nice,2026-10-23 18:45:00,spread,0,away,,-0.5,124.0,2.24,1,100.0,open,2026-10-20,2026-10-20T12:53:15
+153429,1638557868,1638073271,France - Ligue 1,Brest,Nice,2026-10-23 18:45:00,spread,0,home,,0.5,-170.0,1.5882,1,100.0,open,2026-10-20,2026-10-20T12:53:15
+153428,1638557868,1638073271,France - Ligue 1,Brest,Nice,2026-10-23 18:45:00,spread,0,away,,0.0,104.0,2.04,1,100.0,open,2026-10-20,2026-10-20T12:53:15
+153427,1638557868,1638073271,France - Ligue 1,Brest,Nice,2026-10-23 18:45:00,spread,0,home,,0.0,-137.0,1.7299,1,100.0,open,2026-10-20,2026-10-20T12:53:15
+153426,1638557868,1638073271,France - Ligue 1,Brest,Nice,2026-10-23 18:45:00,spread,0,away,,1.0,-154.0,1.6494,1,100.0,open,2026-10-20,2026-10-20T12:53:15
+153425,1638557868,1638073271,France - Ligue 1,Brest,Nice,2026-10-23 18:45:00,spread,0,home,,-1.0,115.0,2.15,1,100.0,open,2026-10-20,2026-10-20T12:53:15
+153424,1638557868,1638073271,France - Ligue 1,Brest,Nice,2026-10-23 18:45:00,spread,0,away,,1.5,-190.0,1.5263,1,100.0,open,2026-10-20,2026-10-20T12:53:15
+153423,1638557868,1638073271,France - Ligue 1,Brest,Nice,2026-10-23 18:45:00,spread,0,home,,-1.5,137.0,2.37,1,100.0,open,2026-10-20,2026-10-20T12:53:15
+153422,1638557868,1638073271,France - Ligue 1,Brest,Nice,2026-10-23 18:45:00,spread,0,away,,0.5,-118.0,1.8475,0,100.0,open,2026-10-20,2026-10-20T12:53:15
+153421,1638557868,1638073271,France - Ligue 1,Brest,Nice,2026-10-23 18:45:00,spread,0,home,,-0.5,-107.0,1.9346,0,100.0,open,2026-10-20,2026-10-20T12:53:15
+153420,1638557868,1638073271,France - Ligue 1,Brest,Nice,2026-10-23 18:45:00,team_total,0,under,away,4.5,-121.0,1.8264,0,100.0,open,2026-10-20,2026-10-20T12:53:15
+153419,1638557868,1638073271,France - Ligue 1,Brest,Nice,2026-10-23 18:45:00,team_total,0,over,away,4.5,-107.0,1.9346,0,100.0,open,2026-10-20,2026-10-20T12:53:15
+153418,1638557868,1638073271,France - Ligue 1,Brest,Nice,2026-10-23 18:45:00,team_total,0,under,home,4.5,109.0,2.09,0,100.0,open,2026-10-20,2026-10-20T12:53:15
+153417,1638557868,1638073271,France - Ligue 1,Brest,Nice,2026-10-23 18:45:00,team_total,0,over,home,4.5,-145.0,1.6897,0,100.0,open,2026-10-20,2026-10-20T12:53:15
+153416,1638587532,1638587532,Brazil - Serie B,Londrina (Corners),Cuiaba (Corners),2026-10-20 22:30:00,total,1,under,,5.5,-184.0,1.5435,1,100.0,open,2026-10-20,2026-10-20T12:50:28
+153415,1638587532,1638587532,Brazil - Serie B,Londrina (Corners),Cuiaba (Corners),2026-10-20 22:30:00,total,1,over,,5.5,130.0,2.3,1,100.0,open,2026-10-20,2026-10-20T12:50:28
+153414,1638587532,1638587532,Brazil - Serie B,Londrina (Corners),Cuiaba (Corners),2026-10-20 22:30:00,total,1,under,,4.5,-101.0,1.9901,1,100.0,open,2026-10-20,2026-10-20T12:50:28
+153413,1638587532,1638587532,Brazil - Serie B,Londrina (Corners),Cuiaba (Corners),2026-10-20 22:30:00,total,1,over,,4.5,-139.0,1.7194,1,100.0,open,2026-10-20,2026-10-20T12:50:28
+153412,1638587532,1638587532,Brazil - Serie B,Londrina (Corners),Cuiaba (Corners),2026-10-20 22:30:00,total,1,under,,5.0,-137.0,1.7299,0,100.0,open,2026-10-20,2026-10-20T12:50:28
+153411,1638587532,1638587532,Brazil - Serie B,Londrina (Corners),Cuiaba (Corners),2026-10-20 22:30:00,total,1,over,,5.0,-100.0,2.0,0,100.0,open,2026-10-20,2026-10-20T12:50:28
+153410,1638587532,1638587532,Brazil - Serie B,Londrina (Corners),Cuiaba (Corners),2026-10-20 22:30:00,spread,1,away,,-0.5,132.0,2.32,1,100.0,open,2026-10-20,2026-10-20T12:50:28
+153409,1638587532,1638587532,Brazil - Serie B,Londrina (Corners),Cuiaba (Corners),2026-10-20 22:30:00,spread,1,home,,0.5,-188.0,1.5319,1,100.0,open,2026-10-20,2026-10-20T12:50:28
+153408,1638587532,1638587532,Brazil - Serie B,Londrina (Corners),Cuiaba (Corners),2026-10-20 22:30:00,spread,1,away,,0.5,-147.0,1.6803,1,100.0,open,2026-10-20,2026-10-20T12:50:28
+153407,1638587532,1638587532,Brazil - Serie B,Londrina (Corners),Cuiaba (Corners),2026-10-20 22:30:00,spread,1,home,,-0.5,105.0,2.05,1,100.0,open,2026-10-20,2026-10-20T12:50:28
+153406,1638587532,1638587532,Brazil - Serie B,Londrina (Corners),Cuiaba (Corners),2026-10-20 22:30:00,spread,1,away,,0.0,-102.0,1.9804,0,100.0,open,2026-10-20,2026-10-20T12:50:28
+153405,1638587532,1638587532,Brazil - Serie B,Londrina (Corners),Cuiaba (Corners),2026-10-20 22:30:00,spread,1,home,,0.0,-134.0,1.7463,0,100.0,open,2026-10-20,2026-10-20T12:50:28
+153404,1638587532,1638587532,Brazil - Serie B,Londrina (Corners),Cuiaba (Corners),2026-10-20 22:30:00,total,0,under,,11.5,-199.0,1.5025,1,100.0,open,2026-10-20,2026-10-20T12:50:28
+153403,1638587532,1638587532,Brazil - Serie B,Londrina (Corners),Cuiaba (Corners),2026-10-20 22:30:00,total,0,over,,11.5,150.0,2.5,1,100.0,open,2026-10-20,2026-10-20T12:50:28
+153402,1638587532,1638587532,Brazil - Serie B,Londrina (Corners),Cuiaba (Corners),2026-10-20 22:30:00,total,0,under,,11.0,-164.0,1.6098,1,100.0,open,2026-10-20,2026-10-20T12:50:28
+153401,1638587532,1638587532,Brazil - Serie B,Londrina (Corners),Cuiaba (Corners),2026-10-20 22:30:00,total,0,over,,11.0,127.0,2.27,1,100.0,open,2026-10-20,2026-10-20T12:50:28
+153400,1638587532,1638587532,Brazil - Serie B,Londrina (Corners),Cuiaba (Corners),2026-10-20 22:30:00,total,0,under,,10.0,102.0,2.02,1,100.0,open,2026-10-20,2026-10-20T12:50:28
+153399,1638587532,1638587532,Brazil - Serie B,Londrina (Corners),Cuiaba (Corners),2026-10-20 22:30:00,total,0,over,,10.0,-130.0,1.7692,1,100.0,open,2026-10-20,2026-10-20T12:50:28
+153398,1638587532,1638587532,Brazil - Serie B,Londrina (Corners),Cuiaba (Corners),2026-10-20 22:30:00,total,0,under,,9.5,127.0,2.27,1,100.0,open,2026-10-20,2026-10-20T12:50:28
+153397,1638587532,1638587532,Brazil - Serie B,Londrina (Corners),Cuiaba (Corners),2026-10-20 22:30:00,total,0,over,,9.5,-167.0,1.5988,1,100.0,open,2026-10-20,2026-10-20T12:50:28
+153396,1638587532,1638587532,Brazil - Serie B,Londrina (Corners),Cuiaba (Corners),2026-10-20 22:30:00,total,0,under,,10.5,-126.0,1.7937,0,100.0,open,2026-10-20,2026-10-20T12:50:28
+153395,1638587532,1638587532,Brazil - Serie B,Londrina (Corners),Cuiaba (Corners),2026-10-20 22:30:00,total,0,over,,10.5,101.0,2.01,0,100.0,open,2026-10-20,2026-10-20T12:50:28
+153394,1638587532,1638587532,Brazil - Serie B,Londrina (Corners),Cuiaba (Corners),2026-10-20 22:30:00,spread,0,away,,-0.5,125.0,2.25,1,100.0,open,2026-10-20,2026-10-20T12:50:28
+153393,1638587532,1638587532,Brazil - Serie B,Londrina (Corners),Cuiaba (Corners),2026-10-20 22:30:00,spread,0,home,,0.5,-181.0,1.5525,1,100.0,open,2026-10-20,2026-10-20T12:50:28
+153392,1638587532,1638587532,Brazil - Serie B,Londrina (Corners),Cuiaba (Corners),2026-10-20 22:30:00,spread,0,away,,0.0,105.0,2.05,1,100.0,open,2026-10-20,2026-10-20T12:50:28
+153391,1638587532,1638587532,Brazil - Serie B,Londrina (Corners),Cuiaba (Corners),2026-10-20 22:30:00,spread,0,home,,0.0,-148.0,1.6757,1,100.0,open,2026-10-20,2026-10-20T12:50:28
+153390,1638587532,1638587532,Brazil - Serie B,Londrina (Corners),Cuiaba (Corners),2026-10-20 22:30:00,spread,0,away,,1.0,-149.0,1.6711,1,100.0,open,2026-10-20,2026-10-20T12:50:28
+153389,1638587532,1638587532,Brazil - Serie B,Londrina (Corners),Cuiaba (Corners),2026-10-20 22:30:00,spread,0,home,,-1.0,106.0,2.06,1,100.0,open,2026-10-20,2026-10-20T12:50:28
+153388,1638587532,1638587532,Brazil - Serie B,Londrina (Corners),Cuiaba (Corners),2026-10-20 22:30:00,spread,0,away,,1.5,-182.0,1.5495,1,100.0,open,2026-10-20,2026-10-20T12:50:28
+153387,1638587532,1638587532,Brazil - Serie B,Londrina (Corners),Cuiaba (Corners),2026-10-20 22:30:00,spread,0,home,,-1.5,126.0,2.26,1,100.0,open,2026-10-20,2026-10-20T12:50:28
+153386,1638587532,1638587532,Brazil - Serie B,Londrina (Corners),Cuiaba (Corners),2026-10-20 22:30:00,spread,0,away,,0.5,-116.0,1.8621,0,100.0,open,2026-10-20,2026-10-20T12:50:28
+153385,1638587532,1638587532,Brazil - Serie B,Londrina (Corners),Cuiaba (Corners),2026-10-20 22:30:00,spread,0,home,,-0.5,-116.0,1.8621,0,100.0,open,2026-10-20,2026-10-20T12:50:28
+153384,1638587532,1638587532,Brazil - Serie B,Londrina (Corners),Cuiaba (Corners),2026-10-20 22:30:00,team_total,0,under,away,4.5,-104.0,1.9615,0,100.0,open,2026-10-20,2026-10-20T12:50:28
+153383,1638587532,1638587532,Brazil - Serie B,Londrina (Corners),Cuiaba (Corners),2026-10-20 22:30:00,team_total,0,over,away,4.5,-132.0,1.7576,0,100.0,open,2026-10-20,2026-10-20T12:50:28
+153382,1638587532,1638587532,Brazil - Serie B,Londrina (Corners),Cuiaba (Corners),2026-10-20 22:30:00,team_total,0,under,home,5.5,-137.0,1.7299,0,100.0,open,2026-10-20,2026-10-20T12:50:28
+153381,1638587532,1638587532,Brazil - Serie B,Londrina (Corners),Cuiaba (Corners),2026-10-20 22:30:00,team_total,0,over,home,5.5,-100.0,2.0,0,100.0,open,2026-10-20,2026-10-20T12:50:28
+153380,1638564125,1638564125,Indonesia - Super League,Bhayangkara (Corners),PSIM Yogyakarta (Corners),2026-10-20 12:00:00,total,1,under,,5.0,-179.0,1.5587,1,100.0,open,2026-10-20,2026-10-20T12:49:38
+153379,1638564125,1638564125,Indonesia - Super League,Bhayangkara (Corners),PSIM Yogyakarta (Corners),2026-10-20 12:00:00,total,1,over,,5.0,125.0,2.25,1,100.0,open,2026-10-20,2026-10-20T12:49:38
+153378,1638564125,1638564125,Indonesia - Super League,Bhayangkara (Corners),PSIM Yogyakarta (Corners),2026-10-20 12:00:00,total,1,under,,4.0,115.0,2.15,1,100.0,open,2026-10-20,2026-10-20T12:49:38
+153377,1638564125,1638564125,Indonesia - Super League,Bhayangkara (Corners),PSIM Yogyakarta (Corners),2026-10-20 12:00:00,total,1,over,,4.0,-162.0,1.6173,1,100.0,open,2026-10-20,2026-10-20T12:49:38
+153376,1638564125,1638564125,Indonesia - Super League,Bhayangkara (Corners),PSIM Yogyakarta (Corners),2026-10-20 12:00:00,total,1,under,,4.5,-123.0,1.813,0,100.0,open,2026-10-20,2026-10-20T12:49:38
+153375,1638564125,1638564125,Indonesia - Super League,Bhayangkara (Corners),PSIM Yogyakarta (Corners),2026-10-20 12:00:00,total,1,over,,4.5,-110.0,1.9091,0,100.0,open,2026-10-20,2026-10-20T12:49:38
+153374,1638564125,1638564125,Indonesia - Super League,Bhayangkara (Corners),PSIM Yogyakarta (Corners),2026-10-20 12:00:00,spread,1,away,,0.0,127.0,2.27,1,100.0,open,2026-10-20,2026-10-20T12:49:38
+153373,1638564125,1638564125,Indonesia - Super League,Bhayangkara (Corners),PSIM Yogyakarta (Corners),2026-10-20 12:00:00,spread,1,home,,0.0,-182.0,1.5495,1,100.0,open,2026-10-20,2026-10-20T12:49:38
+153372,1638564125,1638564125,Indonesia - Super League,Bhayangkara (Corners),PSIM Yogyakarta (Corners),2026-10-20 12:00:00,spread,1,away,,1.0,-175.0,1.5714,1,100.0,open,2026-10-20,2026-10-20T12:49:38
+153371,1638564125,1638564125,Indonesia - Super League,Bhayangkara (Corners),PSIM Yogyakarta (Corners),2026-10-20 12:00:00,spread,1,home,,-1.0,122.0,2.22,1,100.0,open,2026-10-20,2026-10-20T12:49:38
+153370,1638564125,1638564125,Indonesia - Super League,Bhayangkara (Corners),PSIM Yogyakarta (Corners),2026-10-20 12:00:00,spread,1,away,,0.5,-116.0,1.8621,0,100.0,open,2026-10-20,2026-10-20T12:49:38
+153369,1638564125,1638564125,Indonesia - Super League,Bhayangkara (Corners),PSIM Yogyakarta (Corners),2026-10-20 12:00:00,spread,1,home,,-0.5,-116.0,1.8621,0,100.0,open,2026-10-20,2026-10-20T12:49:38
+153368,1638564125,1638564125,Indonesia - Super League,Bhayangkara (Corners),PSIM Yogyakarta (Corners),2026-10-20 12:00:00,total,0,under,,10.5,-176.0,1.5682,1,100.0,open,2026-10-20,2026-10-20T12:49:38
+153367,1638564125,1638564125,Indonesia - Super League,Bhayangkara (Corners),PSIM Yogyakarta (Corners),2026-10-20 12:00:00,total,0,over,,10.5,130.0,2.3,1,100.0,open,2026-10-20,2026-10-20T12:49:38
+153366,1638564125,1638564125,Indonesia - Super League,Bhayangkara (Corners),PSIM Yogyakarta (Corners),2026-10-20 12:00:00,total,0,under,,10.0,-139.0,1.7194,1,100.0,open,2026-10-20,2026-10-20T12:49:38
+153365,1638564125,1638564125,Indonesia - Super League,Bhayangkara (Corners),PSIM Yogyakarta (Corners),2026-10-20 12:00:00,total,0,over,,10.0,106.0,2.06,1,100.0,open,2026-10-20,2026-10-20T12:49:38
+153364,1638564125,1638564125,Indonesia - Super League,Bhayangkara (Corners),PSIM Yogyakarta (Corners),2026-10-20 12:00:00,total,0,under,,9.0,122.0,2.22,1,100.0,open,2026-10-20,2026-10-20T12:49:38
+153363,1638564125,1638564125,Indonesia - Super League,Bhayangkara (Corners),PSIM Yogyakarta (Corners),2026-10-20 12:00:00,total,0,over,,9.0,-164.0,1.6098,1,100.0,open,2026-10-20,2026-10-20T12:49:38
+153362,1638564125,1638564125,Indonesia - Super League,Bhayangkara (Corners),PSIM Yogyakarta (Corners),2026-10-20 12:00:00,total,0,under,,8.5,149.0,2.49,1,100.0,open,2026-10-20,2026-10-20T12:49:38
+153361,1638564125,1638564125,Indonesia - Super League,Bhayangkara (Corners),PSIM Yogyakarta (Corners),2026-10-20 12:00:00,total,0,over,,8.5,-206.0,1.4854,1,100.0,open,2026-10-20,2026-10-20T12:49:38
+153360,1638564125,1638564125,Indonesia - Super League,Bhayangkara (Corners),PSIM Yogyakarta (Corners),2026-10-20 12:00:00,total,0,under,,9.5,-107.0,1.9346,0,100.0,open,2026-10-20,2026-10-20T12:49:38
+153359,1638564125,1638564125,Indonesia - Super League,Bhayangkara (Corners),PSIM Yogyakarta (Corners),2026-10-20 12:00:00,total,0,over,,9.5,-121.0,1.8264,0,100.0,open,2026-10-20,2026-10-20T12:49:38
+153358,1638564125,1638564125,Indonesia - Super League,Bhayangkara (Corners),PSIM Yogyakarta (Corners),2026-10-20 12:00:00,spread,0,away,,0.5,118.0,2.18,1,100.0,open,2026-10-20,2026-10-20T12:49:38
+153357,1638564125,1638564125,Indonesia - Super League,Bhayangkara (Corners),PSIM Yogyakarta (Corners),2026-10-20 12:00:00,spread,0,home,,-0.5,-167.0,1.5988,1,100.0,open,2026-10-20,2026-10-20T12:49:38
+153356,1638564125,1638564125,Indonesia - Super League,Bhayangkara (Corners),PSIM Yogyakarta (Corners),2026-10-20 12:00:00,spread,0,away,,1.0,-103.0,1.9709,1,100.0,open,2026-10-20,2026-10-20T12:49:38
+153355,1638564125,1638564125,Indonesia - Super League,Bhayangkara (Corners),PSIM Yogyakarta (Corners),2026-10-20 12:00:00,spread,0,home,,-1.0,-134.0,1.7463,1,100.0,open,2026-10-20,2026-10-20T12:49:38
+153354,1638564125,1638564125,Indonesia - Super League,Bhayangkara (Corners),PSIM Yogyakarta (Corners),2026-10-20 12:00:00,spread,0,away,,2.0,-171.0,1.5848,1,100.0,open,2026-10-20,2026-10-20T12:49:38
+153353,1638564125,1638564125,Indonesia - Super League,Bhayangkara (Corners),PSIM Yogyakarta (Corners),2026-10-20 12:00:00,spread,0,home,,-2.0,120.0,2.2,1,100.0,open,2026-10-20,2026-10-20T12:49:38

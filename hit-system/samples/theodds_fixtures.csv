@@ -1,0 +1,101 @@
+﻿id,source,sport_code,league_name,home_team,away_team,kickoff_utc,status,pinn_id,op_event_id,fetch_date,created_at
+225994,pinnacle,soccer,Paraguay - Reserve League,Deportivo Recoleta,Sportivo Ameliano,2026-10-30T10:30:00Z,pending,1639289890,,2026-10-30,2026-10-30 05:10:37
+225951,pinnacle,soccer,Iraq - Stars League,Al-Shorta,Newroz,2026-10-30T16:30:00Z,pending,1639392624,,2026-10-30,2026-10-30 05:10:37
+225911,pinnacle,soccer,Sierra Leone - Premier League,Wilberforce Strikers,Diamond Stars,2026-10-30T16:15:00Z,pending,1639496262,,2026-10-30,2026-10-30 05:10:37
+225910,pinnacle,soccer,Sierra Leone - Premier League,Western United Freetown,East End Lions,2026-10-30T16:15:00Z,pending,1639525447,,2026-10-30,2026-10-30 05:10:37
+225869,pinnacle,soccer,Poland - U19 League,Gornik Zabrze,Lech Poznan,2026-10-30T11:00:00Z,pending,1639034781,,2026-10-30,2026-10-30 05:10:37
+225847,pinnacle,soccer,Israel - Liga Bet,Hapoel Yeruham,Bnei Eilat,2026-10-30T10:30:00Z,pending,1639414616,,2026-10-30,2026-10-30 05:10:37
+225653,pinnacle,soccer,Israel - Liga Bet,Beitar Kfar Saba Shlomi,Beitar Petah Tikva,2026-10-30T10:00:00Z,pending,1639281335,,2026-10-30,2026-10-30 04:40:56
+225651,pinnacle,soccer,Israel - Liga Bet,Sektzia Ness Ziona,Beitar Mevaseret Zion,2026-10-30T10:00:00Z,pending,1639296383,,2026-10-30,2026-10-30 04:40:56
+225597,pinnacle,soccer,Japan - Women Empowerment League,JEF United Chiba,Nojima Stella,2026-10-31T04:00:00Z,pending,1639139713,,2026-10-30,2026-10-30 04:40:56
+225544,pinnacle,soccer,India - Bangalore Super Division,Bangalore Dream United,South United,2026-10-30T10:30:00Z,pending,1639235181,,2026-10-30,2026-10-30 04:40:56
+225470,pinnacle,soccer,Jordan - 1st Division,Jerash SC,Hayy Al-Amir Hassan,2026-10-30T13:00:00Z,pending,1639333689,,2026-10-30,2026-10-30 04:40:56
+225447,pinnacle,soccer,UAE - Division 2,Arabian Falcons,Forte Virtus II,2026-10-30T16:00:00Z,pending,1639496275,,2026-10-30,2026-10-30 04:40:56
+225435,pinnacle,soccer,Burkina Faso - Premier League,RC de Kadiogo,FocuSport,2026-10-30T15:30:00Z,pending,1639525492,,2026-10-30,2026-10-30 04:11:03
+225418,pinnacle,soccer,Estonia - Meistriliiga Women,Saku Sporting,Flora Tallinn,2026-10-30T16:00:00Z,pending,1639333722,,2026-10-30,2026-10-30 04:11:03
+225365,pinnacle,soccer,Lithuania - 1 Lyga,Be1 Nfa,Babrungas Plunge,2026-10-30T15:30:00Z,pending,1639065225,,2026-10-30,2026-10-30 04:11:03
+225305,pinnacle,soccer,Poland - U19 League,Stal Rzeszow,Korona Kielce,2026-10-30T10:00:00Z,pending,1639034759,,2026-10-30,2026-10-30 04:11:02
+225296,pinnacle,soccer,Bulgaria - Second League,Pirin Blagoevgrad,Etar Veliko Tarnovo,2026-10-30T15:30:00Z,pending,1639152926,,2026-10-30,2026-10-30 04:11:02
+225294,pinnacle,soccer,Bulgaria - Second League,Lokomotiv Gorna Oryahovitsa,Beroe,2026-10-30T15:30:00Z,pending,1639061756,,2026-10-30,2026-10-30 04:11:02
+225273,pinnacle,soccer,Mexico - Liga TDP,Halcones Zuniga,Muxes,2026-10-30T16:00:00Z,pending,1639296388,,2026-10-30,2026-10-30 04:11:02
+225272,pinnacle,soccer,Mexico - Liga TDP,CDyC Olimpo,Canteras Coka,2026-10-30T16:00:00Z,pending,1639326192,,2026-10-30,2026-10-30 04:11:02
+225271,pinnacle,soccer,Mexico - Liga TDP,CH Futbol Club,Atlético Mexicano F.E.,2026-10-30T16:00:00Z,pending,1639318591,,2026-10-30,2026-10-30 04:11:02
+225120,pinnacle,soccer,Iraq - Stars League,Karbala,Al-Talaba,2026-10-30T14:45:00Z,pending,1639261579,,2026-10-30,2026-10-30 03:40:28
+225107,pinnacle,soccer,Myanmar - National League 2,Asia Lions,VUE Nay Pyi Taw FC,2026-10-30T09:00:00Z,pending,1639017737,,2026-10-30,2026-10-30 03:40:28
+225092,pinnacle,soccer,Lithuania - 1 Lyga,Ekranas,Tauras Taurage,2026-10-30T15:00:00Z,pending,1639065257,,2026-10-30,2026-10-30 03:40:28
+225044,pinnacle,soccer,Algeria - Championship Elite Women,CS Constantine,Akbou,2026-10-30T09:00:00Z,pending,1639476260,,2026-10-30,2026-10-30 03:40:28
+225043,pinnacle,soccer,Algeria - Championship Elite Women,AFAK Relizane,ASE Alger Centre,2026-10-30T09:00:00Z,pending,1639288147,,2026-10-30,2026-10-30 03:40:28
+225023,pinnacle,soccer,Israel - Liga Bet,Maccabi Ironi Amishav Petah Tikva,Maccabi Bnei Jaljulia,2026-10-30T09:00:00Z,pending,1639281346,,2026-10-30,2026-10-30 03:40:28
+225021,pinnacle,soccer,Israel - Liga Bet,Maccabi Ashkelon,Arad FC,2026-10-30T09:00:00Z,pending,1639288142,,2026-10-30,2026-10-30 03:40:28
+224989,pinnacle,soccer,UAE - Division 2,Dubai United II,Masfut,2026-10-30T15:00:00Z,pending,1639510653,,2026-10-30,2026-10-30 03:40:28
+224972,pinnacle,soccer,India - I-League,Real Kashmir,Nagaland United,2026-10-30T13:00:00Z,pending,1639456043,,2026-10-30,2026-10-30 03:40:27
+224942,pinnacle,soccer,Myanmar - National League,Myawady,Yangon City,2026-10-30T09:00:00Z,pending,1639017924,,2026-10-30,2026-10-30 03:40:27
+224941,pinnacle,soccer,Myanmar - National League,Ispe,Yadanarbon,2026-10-30T09:00:00Z,pending,1639017736,,2026-10-30,2026-10-30 03:40:27
+224917,pinnacle,soccer,Jordan - 1st Division,Sahl Horan,Amman FC,2026-10-30T15:00:00Z,pending,1639235183,,2026-10-30,2026-10-30 03:40:27
+224916,pinnacle,soccer,Jordan - 1st Division,Al Hashemeya,Al-Yarmouk Amman,2026-10-30T15:00:00Z,pending,1639288069,,2026-10-30,2026-10-30 03:40:27
+224891,pinnacle,soccer,Poland - 3rd Liga,Sleza Wroclaw,Gornik Polkowice,2026-10-30T13:00:00Z,pending,1639081930,,2026-10-30,2026-10-30 03:01:38
+224871,pinnacle,soccer,Algeria - Ligue 2,RC Kouba,Taghit,2026-10-30T14:00:00Z,pending,1639326160,,2026-10-30,2026-10-30 03:01:38
+224870,pinnacle,soccer,Algeria - Ligue 2,USM Blida,WA Mostaganem,2026-10-30T14:00:00Z,pending,1639476225,,2026-10-30,2026-10-30 03:01:38
+224869,pinnacle,soccer,Algeria - Ligue 2,NRB Teleghma,CA Batna,2026-10-30T14:00:00Z,pending,1639394597,,2026-10-30,2026-10-30 03:01:38
+224868,pinnacle,soccer,Algeria - Ligue 2,ES Mostaganem,MC Saida,2026-10-30T14:00:00Z,pending,1639353379,,2026-10-30,2026-10-30 03:01:38
+224867,pinnacle,soccer,Algeria - Ligue 2,Irb Sidi M Hamed Benali,WA Tlemcen,2026-10-30T14:00:00Z,pending,1639347037,,2026-10-30,2026-10-30 03:01:38
+224866,pinnacle,soccer,Algeria - Ligue 2,ESM Kolea,USM EL Harrach,2026-10-30T14:00:00Z,pending,1639289910,,2026-10-30,2026-10-30 03:01:38
+224865,pinnacle,soccer,Algeria - Ligue 2,GC Mascara,NA Hussein Dey,2026-10-30T14:00:00Z,pending,1639278021,,2026-10-30,2026-10-30 03:01:38
+224855,pinnacle,soccer,Israel - Liga Bet,Beitar Tel Aviv Bat-Yam,Beitar Ramat Gan,2026-10-30T08:45:00Z,pending,1639394584,,2026-10-30,2026-10-30 03:01:38
+224854,pinnacle,soccer,Israel - Liga Bet,FC Kababir,Ironi Ariel,2026-10-30T08:45:00Z,pending,1639288088,,2026-10-30,2026-10-30 03:01:38
+224795,pinnacle,soccer,Algeria - Championship Elite Women,Belouizdad,MC Oran,2026-10-30T08:30:00Z,pending,1639318582,,2026-10-30,2026-10-30 03:01:38
+224756,pinnacle,soccer,Iraq - Stars League,Al-Karma,Duhok,2026-10-30T14:00:00Z,pending,1639261749,,2026-10-30,2026-10-30 03:01:38
+224396,pinnacle,soccer,Uganda - Premier League,Kataka FC,Police FC Uganda,2026-10-30T13:00:00Z,pending,1639289812,,2026-10-30,2026-10-30 02:07:51
+224358,pinnacle,soccer,Bulgaria - Second League,Rilski Sportist,Vihren Sandanski,2026-10-30T12:15:00Z,pending,1639048313,,2026-10-30,2026-10-30 02:07:51
+224357,pinnacle,soccer,Poland - Ekstraliga Women,Slask Wroclaw,GKS Katowice,2026-10-30T12:00:00Z,pending,1639037792,,2026-10-30,2026-10-30 02:07:51
+224356,pinnacle,soccer,Poland - Ekstraliga Women,Gornik Leczna,UKS SMS Lodz,2026-10-30T12:00:00Z,pending,1639029227,,2026-10-30,2026-10-30 02:07:51
+224335,pinnacle,soccer,Lebanon - Premier League,Tadamon,Al Safa Beirut,2026-10-30T12:15:00Z,pending,1639048299,,2026-10-30,2026-10-30 02:07:51
+224334,pinnacle,soccer,Lebanon - Premier League,Shabab Al Sahel,Al Ahed,2026-10-30T12:15:00Z,pending,1639037777,,2026-10-30,2026-10-30 02:07:51
+224285,pinnacle,soccer,Bolivia - Primera Division,Oriente Petrolero,Aurora,2026-10-31T00:00:00Z,pending,1639121224,,2026-10-30,2026-10-30 02:07:51
+224275,pinnacle,soccer,Panama - Primera Division,Arabe Unido,Tauro,2026-10-31T01:30:00Z,pending,1639339670,,2026-10-30,2026-10-30 02:07:50
+224270,pinnacle,soccer,Turkey - Super Lig U19,Konyaspor,Galatasaray,2026-10-30T12:00:00Z,pending,1639339685,,2026-10-30,2026-10-30 02:07:50
+224255,pinnacle,soccer,Indonesia - Championship,Semen Padang,Sumsel United,2026-10-30T12:00:00Z,pending,1639037791,,2026-10-30,2026-10-30 02:07:50
+224250,pinnacle,soccer,Uruguay - Primera Division Amateur,Deutscher,Terremoto,2026-10-30T13:00:00Z,pending,1639414579,,2026-10-30,2026-10-30 02:07:50
+224247,pinnacle,soccer,South Africa - Super League Women,Richmond United,University of Pretoria,2026-10-30T13:00:00Z,pending,1639333728,,2026-10-30,2026-10-30 02:07:50
+224213,pinnacle,soccer,India - Bangalore Super Division,Roots FC,Agniputhra,2026-10-30T08:00:00Z,pending,1639235180,,2026-10-30,2026-10-30 02:07:50
+224206,pinnacle,soccer,China - U20 League,Shanghai Port,Shandong Taishan,2026-10-30T08:00:00Z,pending,1639240687,,2026-10-30,2026-10-30 02:07:50
+224199,pinnacle,soccer,Poland - 3rd Liga,Miedz Legnica II,Warta Gorzow Wielkopolski,2026-10-30T12:00:00Z,pending,1639048307,,2026-10-30,2026-10-30 02:07:50
+224198,pinnacle,soccer,Poland - 3rd Liga,Wieczysta Krakow II,Wisla Krakow II,2026-10-30T13:00:00Z,pending,1639037816,,2026-10-30,2026-10-30 02:07:50
+224197,pinnacle,soccer,Poland - 3rd Liga,Jagiellonia Bialystok II,Polonia Lidzbark Warminski,2026-10-30T12:00:00Z,pending,1639048305,,2026-10-30,2026-10-30 02:07:50
+224196,pinnacle,soccer,Poland - 3rd Liga,Rakow Czestochowa II,ROW 1964 Rybnik,2026-10-30T12:30:00Z,pending,1639048321,,2026-10-30,2026-10-30 02:07:50
+224115,pinnacle,soccer,Ukraine - Premier League,Shakhtar Donetsk,Obolon,2026-10-30T16:00:00Z,pending,1639529648,,2026-10-30,2026-10-30 00:01:19
+224105,pinnacle,soccer,Czech Republic - U19 League,Slovacko,Pardubice,2026-10-30T11:00:00Z,pending,1639013947,,2026-10-30,2026-10-30 00:01:19
+224053,pinnacle,soccer,Israel - Liga Alef,Hapoel Bnei Musmus,Hapoel Migdal Haemeq,2026-10-30T11:30:00Z,pending,1639169910,,2026-10-30,2026-10-30 00:01:19
+224005,pinnacle,soccer,India - Bangalore Super Division,HAL SC Bangalore,Kodagu,2026-10-30T05:30:00Z,pending,1639235179,,2026-10-30,2026-10-30 00:01:19
+223861,pinnacle,soccer,Israel - Liga Alef,Hapoel Beit Shean Mesilot,Tira,2026-10-30T10:25:00Z,pending,1639034767,,2026-10-30,2026-10-29 23:01:32
+223860,pinnacle,soccer,Israel - Liga Alef,Dimona Sport Club,Hapoel Herzliya,2026-10-30T10:30:00Z,pending,1639034770,,2026-10-30,2026-10-29 23:01:32
+223859,pinnacle,soccer,Israel - Liga Alef,Hapoel Mahane Yehuda,Hapoel Hadera,2026-10-30T10:35:00Z,pending,1639034771,,2026-10-30,2026-10-29 23:01:32
+223858,pinnacle,soccer,Israel - Liga Alef,Sderot,Ironi Beit Shemesh,2026-10-30T10:00:00Z,pending,1639192336,,2026-10-30,2026-10-29 23:01:32
+223844,pinnacle,soccer,Czech Republic - U19 League,SFC Opava,Sigma Olomouc,2026-10-30T10:00:00Z,pending,1639013949,,2026-10-30,2026-10-29 23:01:31
+223840,pinnacle,soccer,Bolivia - Primera Division,Real Potosi,Independiente Petrolero,2026-10-30T22:00:00Z,pending,1639121195,,2026-10-30,2026-10-29 23:01:31
+223637,pinnacle,soccer,Czech Republic - U19 League,Banik Ostrava,MFK Karvina,2026-10-30T09:00:00Z,pending,1639017880,,2026-10-30,2026-10-29 22:01:20
+223636,pinnacle,soccer,Czech Republic - U19 League,Dukla Prague,Sparta Prague,2026-10-30T09:15:00Z,pending,1639017645,,2026-10-30,2026-10-29 22:01:20
+223456,pinnacle,soccer,Indonesia - Championship,Persiku Kudus,Persiraja Banda Aceh,2026-10-30T08:30:00Z,pending,1639029182,,2026-10-30,2026-10-29 21:01:45
+223455,pinnacle,soccer,Indonesia - Championship,Barito Putera,Persis Solo,2026-10-30T08:30:00Z,pending,1639017728,,2026-10-30,2026-10-29 21:01:45
+223269,pinnacle,soccer,England - Championship,Sheffield United (Bookings),Wrexham (Bookings),2026-10-30T20:00:00Z,pending,1639310931,,2026-10-30,2026-10-29 20:31:23
+223163,pinnacle,soccer,Egypt - 2nd Division A,Tersana,Maleyet Kafr El Zayiat,2026-10-30T12:30:00Z,pending,1639278064,,2026-10-30,2026-10-29 20:31:23
+223111,pinnacle,soccer,Wales - Championship,Caerphilly Athletic,Caerau Ely,2026-10-30T19:45:00Z,pending,1639318594,,2026-10-30,2026-10-29 20:31:22
+223110,pinnacle,soccer,Malaysia - Super League,DPMM,Negeri Sembilan,2026-10-30T08:00:00Z,pending,1639017904,,2026-10-30,2026-10-29 20:31:22
+222976,pinnacle,soccer,Spain - Tercera Division,AD San Juan,Doneztebe FT,2026-10-30T19:30:00Z,pending,1639339677,,2026-10-30,2026-10-29 20:01:20
+222975,pinnacle,soccer,Spain - Tercera Division,Revilla,Vimenor,2026-10-30T19:30:00Z,pending,1639289874,,2026-10-30,2026-10-29 20:01:20
+222972,pinnacle,soccer,Wales - Championship,Baglan Dragons,Treowen Stars,2026-10-30T19:30:00Z,pending,1639374132,,2026-10-30,2026-10-29 20:01:20
+222971,pinnacle,soccer,Wales - Championship,Pontypridd United,Llanelli Town,2026-10-30T19:30:00Z,pending,1639104521,,2026-10-30,2026-10-29 20:01:20
+222953,pinnacle,soccer,Italy - Serie C Group A,Albinoleffe,Pergolettese,2026-10-30T19:30:00Z,pending,1639104523,,2026-10-30,2026-10-29 20:01:20
+222829,pinnacle,soccer,Algeria - Ligue 1,MC Oran,Olympique Akbou,2026-10-30T19:00:00Z,pending,1639280162,,2026-10-30,2026-10-29 19:31:23
+222569,pinnacle,soccer,Spain - Tercera Division,Bidezarra,CD Aoiz,2026-10-30T18:30:00Z,pending,1639496247,,2026-10-30,2026-10-29 19:01:28
+222568,pinnacle,soccer,Spain - Tercera Division,Selaya,CD Cayon,2026-10-30T18:30:00Z,pending,1639289816,,2026-10-30,2026-10-29 19:01:28
+222562,pinnacle,soccer,England - Premier League Cup U21,Coventry City,Ipswich Town,2026-10-30T19:00:00Z,pending,1639288063,,2026-10-30,2026-10-29 19:01:28
+222436,pinnacle,soccer,Germany - Regionalliga North East,Lokomotive Leipzig,VSG Altglienicke,2026-10-30T18:00:00Z,pending,1639081950,,2026-10-30,2026-10-29 18:31:30
+222435,pinnacle,soccer,Denmark - 3rd Division,Helsingor,Ringsted,2026-10-30T18:00:00Z,pending,1639081945,,2026-10-30,2026-10-29 18:31:30
+222372,pinnacle,soccer,Germany - Regionalliga South West,FC 08 Homburg,Eintracht Trier,2026-10-30T18:00:00Z,pending,1639081951,,2026-10-30,2026-10-29 18:31:30
+222371,pinnacle,soccer,Germany - Regionalliga South West,Steinbach Haiger,FSV Frankfurt,2026-10-30T18:00:00Z,pending,1639099835,,2026-10-30,2026-10-29 18:31:30
+222336,pinnacle,soccer,Czech Republic - 3. Liga,Pisek,Aritma Prague,2026-10-30T18:00:00Z,pending,1639081941,,2026-10-30,2026-10-29 18:31:30
+222312,pinnacle,soccer,France - Feminine Division 1,Marseille,Nantes,2026-10-30T20:00:00Z,pending,1639112303,,2026-10-30,2026-10-29 18:31:30
+222197,pinnacle,soccer,Spain - La Liga,Villarreal (Bookings),Espanyol (Bookings),2026-10-30T20:00:00Z,pending,1639085876,,2026-10-30,2026-10-29 18:01:34
+222111,pinnacle,soccer,England - Premier League Cup U21,Luton Town,Nottingham Forest,2026-10-30T19:00:00Z,pending,1639112276,,2026-10-30,2026-10-29 18:01:33
+222110,pinnacle,soccer,England - Premier League Cup U21,West Ham United,Sheffield United,2026-10-30T19:00:00Z,pending,1639112275,,2026-10-30,2026-10-29 18:01:33

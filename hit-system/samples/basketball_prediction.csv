@@ -1,0 +1,101 @@
+﻿league,sport_type,home_team,away_team,home_exp_score,away_exp_score,total_exp,home_win_prob,draw_prob,away_win_prob,top_score,top_score_prob,home_kelly,draw_kelly,away_kelly,home_odds,draw_odds,away_odds
+Australia - NPL New South Wales,football,Marconi Stallions,Wollongong Wolves,0.65,0.65,1.3,0.4187,0.1626,0.4187,0-0,0.2725,0.0,0.0,0.0,2.0,3.5,2.0
+Australia - NPL New South Wales,football,Blacktown City,Rockdale Ilinden,0.65,0.65,1.3,0.4187,0.1626,0.4187,0-0,0.2725,0.0,0.0,0.0,2.0,3.5,2.0
+Japan - J2/J3 League,football,Zweigen Kanazawa,Thespa Gunma,0.65,0.65,1.3,0.4187,0.1626,0.4187,0-0,0.2725,0.0,0.0,0.0,2.0,3.5,2.0
+Japan - J2/J3 League,football,Tochigi,Giravanz Kitakyushu,0.65,0.65,1.3,0.4187,0.1626,0.4187,0-0,0.2725,0.0,0.0,0.0,2.0,3.5,2.0
+Japan - J2/J3 League,football,Blaublitz Akita,Kagoshima United,0.65,0.65,1.3,0.4187,0.1626,0.4187,0-0,0.2725,0.0,0.0,0.0,2.0,3.5,2.0
+Japan - J2/J3 League,football,Fukushima United,Ryukyu,0.65,0.65,1.3,0.4187,0.1626,0.4187,0-0,0.2725,0.0,0.0,0.0,2.0,3.5,2.0
+Japan - Nadeshiko Division 2 Women,football,JFA Academy Fukushima,Nankatsu,0.65,0.65,1.3,0.4187,0.1626,0.4187,0-0,0.2725,0.0,0.0,0.0,2.0,3.5,2.0
+Korea Republic - K4 League,football,Namyangju,Geoje Citizen,0.65,0.65,1.3,0.4187,0.1626,0.4187,0-0,0.2725,0.0,0.0,0.0,2.0,3.5,2.0
+Korea Republic - K4 League,football,Pyeongchang United,Geumsan Insam,0.65,0.65,1.3,0.4187,0.1626,0.4187,0-0,0.2725,0.0,0.0,0.0,2.0,3.5,2.0
+Korea Republic - K4 League,football,Jincheon HR,Gijang United,0.65,0.65,1.3,0.4187,0.1626,0.4187,0-0,0.2725,0.0,0.0,0.0,2.0,3.5,2.0
+Australia - NPL Queensland Women,football,Souths United,Sunshine Coast Wanderers,0.65,0.65,1.3,0.4187,0.1626,0.4187,0-0,0.2725,0.0,0.0,0.0,2.0,3.5,2.0
+Australia - NPL New South Wales Women,football,Gladesville Ravens,Northern Tigers,0.65,0.65,1.3,0.4187,0.1626,0.4187,0-0,0.2725,0.0,0.0,0.0,2.0,3.5,2.0
+Australia - NPL Queensland,football,Gold Coast United,Wynnum Wolves,0.65,0.65,1.3,0.4187,0.1626,0.4187,0-0,0.2725,0.0,0.0,0.0,2.0,3.5,2.0
+Australia - NPL Victoria,football,South Melbourne,Altona Magic,0.65,0.65,1.3,0.4187,0.1626,0.4187,0-0,0.2725,0.0,0.0,0.0,2.0,3.5,2.0
+Australia - Queensland Premier League Women,football,The Gap,Virginia United,0.65,0.65,1.3,0.4187,0.1626,0.4187,0-0,0.2725,0.0,0.0,0.0,2.0,3.5,2.0
+Australia - NBL1,basketball,Geraldton Buccaneers,Willetton Tigers,0.65,0.65,1.3,0.5,,0.5,-,0.0,0.0,0.0,0.0,2.0,3.5,2.0
+Australia - NBL1,basketball,Ipswich Force,Rockhampton Rockets,0.65,0.65,1.3,0.5,,0.5,-,0.0,0.0,0.0,0.0,2.0,3.5,2.0
+Australia - NBL1,basketball,Southern Districts Spartans,Townsville Heat,0.65,0.65,1.3,0.5,,0.5,-,0.0,0.0,0.0,0.0,2.0,3.5,2.0
+Australia - Queensland Premier League,football,St George Willawong,Redlands United,0.65,0.65,1.3,0.4187,0.1626,0.4187,0-0,0.2725,0.0,0.0,0.0,2.0,3.5,2.0
+Australia - NPL New South Wales Women,football,Sydney University,Apia Leichhardt,0.65,0.65,1.3,0.4187,0.1626,0.4187,0-0,0.2725,0.0,0.0,0.0,2.0,3.5,2.0
+Australia - NPL New South Wales Women,football,Western Sydney Wanderers II,Illawarra Stingrays,0.65,0.65,1.3,0.4187,0.1626,0.4187,0-0,0.2725,0.0,0.0,0.0,2.0,3.5,2.0
+Australia - NPL New South Wales Women,football,Manly United,Macarthur Rams,0.65,0.65,1.3,0.4187,0.1626,0.4187,0-0,0.2725,0.0,0.0,0.0,2.0,3.5,2.0
+Japan - J2/J3 League,football,Oita Trinita,Montedio Yamagata,0.65,0.65,1.3,0.4187,0.1626,0.4187,0-0,0.2725,0.0,0.0,0.0,2.0,3.5,2.0
+International - Friendlies U19,football,Bulgaria,Albania,0.65,0.65,1.3,0.4187,0.1626,0.4187,0-0,0.2725,0.0,0.0,0.0,2.0,3.5,2.0
+Australia - NPL South Australia,football,West Adelaide,Adelaide United II,0.65,0.65,1.3,0.4187,0.1626,0.4187,0-0,0.2725,0.0,0.0,0.0,2.0,3.5,2.0
+Japan - Regional League,football,SRC Hiroshima,Miyajima United,0.65,0.65,1.3,0.4187,0.1626,0.4187,0-0,0.2725,0.0,0.0,0.0,2.0,3.5,2.0
+Spain - Tercera Division,football,Trival Valderas,Las Rozas,0.65,0.65,1.3,0.4187,0.1626,0.4187,0-0,0.2725,0.0,0.0,0.0,2.0,3.5,2.0
+Spain - Tercera Division,football,Manacor,Pena Deportiva,0.65,0.65,1.3,0.4187,0.1626,0.4187,0-0,0.2725,0.0,0.0,0.0,2.0,3.5,2.0
+Korea Republic - K3 League,football,Mokpo,Yangpyeong,0.65,0.65,1.3,0.4187,0.1626,0.4187,0-0,0.2725,0.0,0.0,0.0,2.0,3.5,2.0
+Korea Republic - K3 League,football,Yeoju Citizen,Siheung Citizen,0.65,0.65,1.3,0.4187,0.1626,0.4187,0-0,0.2725,0.0,0.0,0.0,2.0,3.5,2.0
+Spain - Regional Leagues,football,CD Castuera,Quintanar Del Rey,0.65,0.65,1.3,0.4187,0.1626,0.4187,0-0,0.2725,0.0,0.0,0.0,2.0,3.5,2.0
+Spain - Regional Leagues,football,Benidorm,Torrevieja CF,0.65,0.65,1.3,0.4187,0.1626,0.4187,0-0,0.2725,0.0,0.0,0.0,2.0,3.5,2.0
+Spain - Tercera Division,football,Covadonga,Caudal Deportivo,0.65,0.65,1.3,0.4187,0.1626,0.4187,0-0,0.2725,0.0,0.0,0.0,2.0,3.5,2.0
+Poland - 4th Liga,football,Piast Kobylnica,Obra 1912 Koscian,0.65,0.65,1.3,0.4187,0.1626,0.4187,0-0,0.2725,0.0,0.0,0.0,2.0,3.5,2.0
+Korea Republic - K League 2,football,Seoul E-Land,Chungbuk Cheongju,0.65,0.65,1.3,0.4187,0.1626,0.4187,0-0,0.2725,0.0,0.0,0.0,2.0,3.5,2.0
+Korea Republic - K League 2,football,Gimpo,Jeonnam Dragons,0.65,0.65,1.3,0.4187,0.1626,0.4187,0-0,0.2725,0.0,0.0,0.0,2.0,3.5,2.0
+Korea Republic - K League 2,football,Cheonan City,Suwon FC,0.65,0.65,1.3,0.4187,0.1626,0.4187,0-0,0.2725,0.0,0.0,0.0,2.0,3.5,2.0
+International - Friendlies,football,Afghanistan,Pakistan,0.65,0.65,1.3,0.4187,0.1626,0.4187,0-0,0.2725,0.0,0.0,0.0,2.0,3.5,2.0
+Sweden - Division 1 Sodra,football,AFC Malmo,Eskilsminne,0.65,0.65,1.3,0.4187,0.1626,0.4187,0-0,0.2725,0.0,0.0,0.0,2.0,3.5,2.0
+Sweden - Division 1 Sodra,football,Kristianstad,Lunds,0.65,0.65,1.3,0.4187,0.1626,0.4187,0-0,0.2725,0.0,0.0,0.0,2.0,3.5,2.0
+Vietnam - V League,football,Hai Phong,Nam Dinh,0.65,0.65,1.3,0.4187,0.1626,0.4187,0-0,0.2725,0.0,0.0,0.0,2.0,3.5,2.0
+Vietnam - V League,football,Song Lam Nghe An,PVF-CAND,0.65,0.65,1.3,0.4187,0.1626,0.4187,0-0,0.2725,0.0,0.0,0.0,2.0,3.5,2.0
+Vietnam - V League,football,Ninh Binh,Hong Linh Ha Tinh,0.65,0.65,1.3,0.4187,0.1626,0.4187,0-0,0.2725,0.0,0.0,0.0,2.0,3.5,2.0
+Vietnam - V League,football,Hanoi FC,Cong An Ho Chi Minh,0.65,0.65,1.3,0.4187,0.1626,0.4187,0-0,0.2725,0.0,0.0,0.0,2.0,3.5,2.0
+Vietnam - V League,football,Viettel,Cong An Ha Noi,0.65,0.65,1.3,0.4187,0.1626,0.4187,0-0,0.2725,0.0,0.0,0.0,2.0,3.5,2.0
+Vietnam - V League,football,Becamex HCMC,Hoang Anh Gia Lai,0.65,0.65,1.3,0.4187,0.1626,0.4187,0-0,0.2725,0.0,0.0,0.0,2.0,3.5,2.0
+Ireland - Leinster Senior League,football,Malahide United,Finglas United,0.65,0.65,1.3,0.4187,0.1626,0.4187,0-0,0.2725,0.0,0.0,0.0,2.0,3.5,2.0
+Ireland - Leinster Senior League,football,Killester Donnycarney,Bangor GG,0.65,0.65,1.3,0.4187,0.1626,0.4187,0-0,0.2725,0.0,0.0,0.0,2.0,3.5,2.0
+Ireland - Leinster Senior League,football,Kilbarrack United,St. Mochtas,0.65,0.65,1.3,0.4187,0.1626,0.4187,0-0,0.2725,0.0,0.0,0.0,2.0,3.5,2.0
+Sweden - 2nd Division,football,Helges,Kungsangens,0.65,0.65,1.3,0.4187,0.1626,0.4187,0-0,0.2725,0.0,0.0,0.0,2.0,3.5,2.0
+Sweden - 2nd Division,football,Herrestads,Motala AIF,0.65,0.65,1.3,0.4187,0.1626,0.4187,0-0,0.2725,0.0,0.0,0.0,2.0,3.5,2.0
+Sweden - 2nd Division,football,Franke,Bollstanas,0.65,0.65,1.3,0.4187,0.1626,0.4187,0-0,0.2725,0.0,0.0,0.0,2.0,3.5,2.0
+Sweden - 2nd Division,football,Karlslunds,Sleipner,0.65,0.65,1.3,0.4187,0.1626,0.4187,0-0,0.2725,0.0,0.0,0.0,2.0,3.5,2.0
+Sweden - 2nd Division,football,Viggbyholms,IFK Lidingo,0.65,0.65,1.3,0.4187,0.1626,0.4187,0-0,0.2725,0.0,0.0,0.0,2.0,3.5,2.0
+Spain - Tercera Division,football,UD San Fernando,Tamaraceite,0.65,0.65,1.3,0.4187,0.1626,0.4187,0-0,0.2725,0.0,0.0,0.0,2.0,3.5,2.0
+Vietnam - V League,football,Da Nang,Thanh Hoa,0.65,0.65,1.3,0.4187,0.1626,0.4187,0-0,0.2725,0.0,0.0,0.0,2.0,3.5,2.0
+Poland - 4th Liga,football,Chemik Police,Astra Ustronie Morskie,0.65,0.65,1.3,0.4187,0.1626,0.4187,0-0,0.2725,0.0,0.0,0.0,2.0,3.5,2.0
+Denmark - Denmark Series,football,Tarup-Paarup,Holstebro,0.65,0.65,1.3,0.4187,0.1626,0.4187,0-0,0.2725,0.0,0.0,0.0,2.0,3.5,2.0
+Philippines - PBA Commissioners Cup,basketball,Barangay Ginebra,Tropang Giga,0.65,0.65,1.3,0.5,,0.5,-,0.0,0.0,0.0,0.0,2.0,3.5,2.0
+Sweden - Division 1 Norra,football,Pitea IF,Enkopings,0.65,0.65,1.3,0.4187,0.1626,0.4187,0-0,0.2725,0.0,0.0,0.0,2.0,3.5,2.0
+Brazil - Baiano U20,football,SSA FC,Galicia,0.65,0.65,1.3,0.4187,0.1626,0.4187,0-0,0.2725,0.0,0.0,0.0,2.0,3.5,2.0
+Sweden - 2nd Division,football,Dalstorps,Onsala,0.65,0.65,1.3,0.4187,0.1626,0.4187,0-0,0.2725,0.0,0.0,0.0,2.0,3.5,2.0
+Sweden - 2nd Division,football,Kumla,Ahlafors,0.65,0.65,1.3,0.4187,0.1626,0.4187,0-0,0.2725,0.0,0.0,0.0,2.0,3.5,2.0
+Sweden - 2nd Division,football,Oskarshamns AIK,Osterlen,0.65,0.65,1.3,0.4187,0.1626,0.4187,0-0,0.2725,0.0,0.0,0.0,2.0,3.5,2.0
+Indonesia - Basketball League,basketball,Satria Muda Jakarta,Borneo Hornbills,0.65,0.65,1.3,0.5,,0.5,-,0.0,0.0,0.0,0.0,2.0,3.5,2.0
+Denmark - Division 2 Women,football,Svogerslev,BK Fremad Valby,0.65,0.65,1.3,0.4187,0.1626,0.4187,0-0,0.2725,0.0,0.0,0.0,2.0,3.5,2.0
+Sweden - Division 1 Norra,football,Sollentuna,Umea,0.65,0.65,1.3,0.4187,0.1626,0.4187,0-0,0.2725,0.0,0.0,0.0,2.0,3.5,2.0
+International - Friendlies,football,Kenya,Lesotho,0.65,0.65,1.3,0.4187,0.1626,0.4187,0-0,0.2725,0.0,0.0,0.0,2.0,3.5,2.0
+International - Friendlies,football,Liechtenstein,Cyprus,0.65,0.65,1.3,0.4187,0.1626,0.4187,0-0,0.2725,0.0,0.0,0.0,2.0,3.5,2.0
+International - Maurice Revello Youth Tournament,football,DR Congo,Colombia,0.65,0.65,1.3,0.4187,0.1626,0.4187,0-0,0.2725,0.0,0.0,0.0,2.0,3.5,2.0
+AFF - U19 Championship,football,Indonesia,Vietnam,0.65,0.65,1.3,0.4187,0.1626,0.4187,0-0,0.2725,0.0,0.0,0.0,2.0,3.5,2.0
+Uruguay - Primera Division,football,CA Progreso,Albion,0.65,0.65,1.3,0.4187,0.1626,0.4187,0-0,0.2725,0.0,0.0,0.0,2.0,3.5,2.0
+Europe - VTB United League,basketball,Lokomotiv Kuban,Zenit St Petersburg,0.65,0.65,1.3,0.5,,0.5,-,0.0,0.0,0.0,0.0,2.0,3.5,2.0
+Finland - Kolmonen,football,PK-37,JIPPO II,0.65,0.65,1.3,0.4187,0.1626,0.4187,0-0,0.2725,0.0,0.0,0.0,2.0,3.5,2.0
+Brazil - Carioca C,football,Independente RJ,Brescia Clube,0.65,0.65,1.3,0.4187,0.1626,0.4187,0-0,0.2725,0.0,0.0,0.0,2.0,3.5,2.0
+Brazil - Mineiro 2,football,Caldense,Boa EC MG,0.65,0.65,1.3,0.4187,0.1626,0.4187,0-0,0.2725,0.0,0.0,0.0,2.0,3.5,2.0
+Austria - Regionalliga West,football,SCR Altach II,Kitzbuhel,0.65,0.65,1.3,0.4187,0.1626,0.4187,0-0,0.2725,0.0,0.0,0.0,2.0,3.5,2.0
+Brazil - Paulista Serie B,football,Osasco Audax,Votoraty,0.65,0.65,1.3,0.4187,0.1626,0.4187,0-0,0.2725,0.0,0.0,0.0,2.0,3.5,2.0
+Brazil - Paulista Serie B,football,Matonense,Sao Carlos,0.65,0.65,1.3,0.4187,0.1626,0.4187,0-0,0.2725,0.0,0.0,0.0,2.0,3.5,2.0
+AFF - U19 Championship,football,East Timor,Myanmar,0.65,0.65,1.3,0.4187,0.1626,0.4187,0-0,0.2725,0.0,0.0,0.0,2.0,3.5,2.0
+Finland - U21 League,football,Kontu,HJK Helsinki,0.65,0.65,1.3,0.4187,0.1626,0.4187,0-0,0.2725,0.0,0.0,0.0,2.0,3.5,2.0
+Zimbabwe - PSL,football,CAPS United,ZPC Kariba,0.65,0.65,1.3,0.4187,0.1626,0.4187,0-0,0.2725,0.0,0.0,0.0,2.0,3.5,2.0
+Sweden - 2nd Division,football,IFK Karlshamn,Lilla Torg,0.65,0.65,1.3,0.4187,0.1626,0.4187,0-0,0.2725,0.0,0.0,0.0,2.0,3.5,2.0
+Argentina - Youth League U20,football,Flandria,Chacarita Juniors,0.65,0.65,1.3,0.4187,0.1626,0.4187,0-0,0.2725,0.0,0.0,0.0,2.0,3.5,2.0
+Poland - 4th Liga,football,Nielba Wagrowiec,MGKS Huragan Pobiedziska,0.65,0.65,1.3,0.4187,0.1626,0.4187,0-0,0.2725,0.0,0.0,0.0,2.0,3.5,2.0
+Norway - Cup,football,Ready Fotball,Union Carl Berner,0.65,0.65,1.3,0.4187,0.1626,0.4187,0-0,0.2725,0.0,0.0,0.0,2.0,3.5,2.0
+Austria - Landesliga,football,USK Anif,Bramberg,0.65,0.65,1.3,0.4187,0.1626,0.4187,0-0,0.2725,0.0,0.0,0.0,2.0,3.5,2.0
+International - Friendlies,football,Oman,Mozambique,0.65,0.65,1.3,0.4187,0.1626,0.4187,0-0,0.2725,0.0,0.0,0.0,2.0,3.5,2.0
+Mali - Premere Division,basketball,Centre Mamoutou Kane,CRBT,0.65,0.65,1.3,0.5,,0.5,-,0.0,0.0,0.0,0.0,2.0,3.5,2.0
+Zanzibar - Premier League,football,KVZ,Mlandege,0.65,0.65,1.3,0.4187,0.1626,0.4187,0-0,0.2725,0.0,0.0,0.0,2.0,3.5,2.0
+Europe - BNXT League,basketball,Zorg En Zekerheid Leiden,Landstede Hammers,0.65,0.65,1.3,0.5,,0.5,-,0.0,0.0,0.0,0.0,2.0,3.5,2.0
+Lebanon - Lebanese Basketball League,basketball,Antranik,Club Antonin Sportif,0.65,0.65,1.3,0.5,,0.5,-,0.0,0.0,0.0,0.0,2.0,3.5,2.0
+Lithuania - Lietuvos Krepsinio Lyga,basketball,BC Zalgiris Kaunas,BC Juventus Utena,0.65,0.65,1.3,0.5,,0.5,-,0.0,0.0,0.0,0.0,2.0,3.5,2.0
+Brazil - Copa Sul-Sudeste,football,Chapecoense,Avai,0.65,0.65,1.3,0.4187,0.1626,0.4187,0-0,0.2725,0.0,0.0,0.0,2.0,3.5,2.0
+Sweden - Division 1 Sodra,football,Trelleborgs,Skovde AIK,0.65,0.65,1.3,0.4187,0.1626,0.4187,0-0,0.2725,0.0,0.0,0.0,2.0,3.5,2.0
+Sweden - Division 1 Sodra,football,Aatvidabergs,Tvaakers,0.65,0.65,1.3,0.4187,0.1626,0.4187,0-0,0.2725,0.0,0.0,0.0,2.0,3.5,2.0
+Germany - Pro A,basketball,Phoenix Hagen,VFL Kirchheim Knights,0.65,0.65,1.3,0.5,,0.5,-,0.0,0.0,0.0,0.0,2.0,3.5,2.0
+Brazil - LBF Women,basketball,Sesi Araraquara,Sampaio Basquete,0.65,0.65,1.3,0.5,,0.5,-,0.0,0.0,0.0,0.0,2.0,3.5,2.0
+Sweden - 2nd Division,football,Staffanstorp United,Vaxjo Norra,0.65,0.65,1.3,0.4187,0.1626,0.4187,0-0,0.2725,0.0,0.0,0.0,2.0,3.5,2.0
+Sweden - 2nd Division,football,Orebro Syrianska,Smedby AIS,0.65,0.65,1.3,0.4187,0.1626,0.4187,0-0,0.2725,0.0,0.0,0.0,2.0,3.5,2.0

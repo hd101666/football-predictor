@@ -1,0 +1,101 @@
+﻿id,match_id,team_id,side,period,group_key,group_title,stat_key,stat_title,stat_format,raw_value,value_num,value_pct,unit,highlight,observed_at_utc,observation_id
+68282,5186620,1029687,away,SecondHalf,discipline,Discipline,fouls,Fouls committed,integer,8,8.0,,,away,2026-10-12T04:19:53Z,209e24196ae95c4cbc7932914d796d4a3c425732
+68281,5186620,737054,home,SecondHalf,discipline,Discipline,fouls,Fouls committed,integer,11,11.0,,,away,2026-10-12T04:19:53Z,209e24196ae95c4cbc7932914d796d4a3c425732
+68280,5186620,1029687,away,SecondHalf,discipline,Discipline,red_cards,Red cards,integer,0,0.0,,,equal,2026-10-12T04:19:53Z,209e24196ae95c4cbc7932914d796d4a3c425732
+68279,5186620,737054,home,SecondHalf,discipline,Discipline,red_cards,Red cards,integer,0,0.0,,,equal,2026-10-12T04:19:53Z,209e24196ae95c4cbc7932914d796d4a3c425732
+68278,5186620,1029687,away,SecondHalf,discipline,Discipline,yellow_cards,Yellow cards,integer,2,2.0,,,home,2026-10-12T04:19:53Z,209e24196ae95c4cbc7932914d796d4a3c425732
+68277,5186620,737054,home,SecondHalf,discipline,Discipline,yellow_cards,Yellow cards,integer,1,1.0,,,home,2026-10-12T04:19:53Z,209e24196ae95c4cbc7932914d796d4a3c425732
+68276,5186620,1029687,away,SecondHalf,duels,Duels,dribbles_succeeded,Successful dribbles,integerWithPercentage,4 (67%),4.0,67.0,%,away,2026-10-12T04:19:53Z,209e24196ae95c4cbc7932914d796d4a3c425732
+68275,5186620,737054,home,SecondHalf,duels,Duels,dribbles_succeeded,Successful dribbles,integerWithPercentage,3 (60%),3.0,60.0,%,away,2026-10-12T04:19:53Z,209e24196ae95c4cbc7932914d796d4a3c425732
+68274,5186620,1029687,away,SecondHalf,duels,Duels,aerials_won,Aerial duels won,integerWithPercentage,10 (43%),10.0,43.0,%,home,2026-10-12T04:19:53Z,209e24196ae95c4cbc7932914d796d4a3c425732
+68273,5186620,737054,home,SecondHalf,duels,Duels,aerials_won,Aerial duels won,integerWithPercentage,13 (57%),13.0,57.0,%,home,2026-10-12T04:19:53Z,209e24196ae95c4cbc7932914d796d4a3c425732
+68272,5186620,1029687,away,SecondHalf,duels,Duels,ground_duels_won,Ground duels won,integerWithPercentage,22 (55%),22.0,55.0,%,away,2026-10-12T04:19:53Z,209e24196ae95c4cbc7932914d796d4a3c425732
+68271,5186620,737054,home,SecondHalf,duels,Duels,ground_duels_won,Ground duels won,integerWithPercentage,18 (45%),18.0,45.0,%,away,2026-10-12T04:19:53Z,209e24196ae95c4cbc7932914d796d4a3c425732
+68270,5186620,1029687,away,SecondHalf,duels,Duels,duel_won,Duels won,integer,32,32.0,,,away,2026-10-12T04:19:53Z,209e24196ae95c4cbc7932914d796d4a3c425732
+68269,5186620,737054,home,SecondHalf,duels,Duels,duel_won,Duels won,integer,31,31.0,,,away,2026-10-12T04:19:53Z,209e24196ae95c4cbc7932914d796d4a3c425732
+68268,5186620,1029687,away,SecondHalf,defence,Defence,keeper_saves,Keeper saves,integer,0,0.0,,,home,2026-10-12T04:19:53Z,209e24196ae95c4cbc7932914d796d4a3c425732
+68267,5186620,737054,home,SecondHalf,defence,Defence,keeper_saves,Keeper saves,integer,1,1.0,,,home,2026-10-12T04:19:53Z,209e24196ae95c4cbc7932914d796d4a3c425732
+68266,5186620,1029687,away,SecondHalf,defence,Defence,clearances,Clearances,integer,10,10.0,,,away,2026-10-12T04:19:53Z,209e24196ae95c4cbc7932914d796d4a3c425732
+68265,5186620,737054,home,SecondHalf,defence,Defence,clearances,Clearances,integer,6,6.0,,,away,2026-10-12T04:19:53Z,209e24196ae95c4cbc7932914d796d4a3c425732
+68264,5186620,1029687,away,SecondHalf,defence,Defence,shot_blocks,Blocks,integer,5,5.0,,,away,2026-10-12T04:19:53Z,209e24196ae95c4cbc7932914d796d4a3c425732
+68263,5186620,737054,home,SecondHalf,defence,Defence,shot_blocks,Blocks,integer,0,0.0,,,away,2026-10-12T04:19:53Z,209e24196ae95c4cbc7932914d796d4a3c425732
+68262,5186620,1029687,away,SecondHalf,defence,Defence,interceptions,Interceptions,integer,5,5.0,,,home,2026-10-12T04:19:53Z,209e24196ae95c4cbc7932914d796d4a3c425732
+68261,5186620,737054,home,SecondHalf,defence,Defence,interceptions,Interceptions,integer,8,8.0,,,home,2026-10-12T04:19:53Z,209e24196ae95c4cbc7932914d796d4a3c425732
+68260,5186620,1029687,away,SecondHalf,defence,Defence,matchstats.headers.tackles,Tackles,integer,7,7.0,,,home,2026-10-12T04:19:53Z,209e24196ae95c4cbc7932914d796d4a3c425732
+68259,5186620,737054,home,SecondHalf,defence,Defence,matchstats.headers.tackles,Tackles,integer,8,8.0,,,home,2026-10-12T04:19:53Z,209e24196ae95c4cbc7932914d796d4a3c425732
+68258,5186620,1029687,away,SecondHalf,passes,Passes,Offsides,Offsides,integer,0,0.0,,,away,2026-10-12T04:19:53Z,209e24196ae95c4cbc7932914d796d4a3c425732
+68257,5186620,737054,home,SecondHalf,passes,Passes,Offsides,Offsides,integer,1,1.0,,,away,2026-10-12T04:19:53Z,209e24196ae95c4cbc7932914d796d4a3c425732
+68256,5186620,1029687,away,SecondHalf,passes,Passes,touches_opp_box,Touches in opposition box,,5,5.0,,,home,2026-10-12T04:19:53Z,209e24196ae95c4cbc7932914d796d4a3c425732
+68255,5186620,737054,home,SecondHalf,passes,Passes,touches_opp_box,Touches in opposition box,,11,11.0,,,home,2026-10-12T04:19:53Z,209e24196ae95c4cbc7932914d796d4a3c425732
+68254,5186620,1029687,away,SecondHalf,passes,Passes,player_throws,Throws,integer,12,12.0,,,home,2026-10-12T04:19:53Z,209e24196ae95c4cbc7932914d796d4a3c425732
+68253,5186620,737054,home,SecondHalf,passes,Passes,player_throws,Throws,integer,13,13.0,,,home,2026-10-12T04:19:53Z,209e24196ae95c4cbc7932914d796d4a3c425732
+68252,5186620,1029687,away,SecondHalf,passes,Passes,accurate_crosses,Accurate crosses,integerWithPercentage,2 (33%),2.0,33.0,%,equal,2026-10-12T04:19:53Z,209e24196ae95c4cbc7932914d796d4a3c425732
+68251,5186620,737054,home,SecondHalf,passes,Passes,accurate_crosses,Accurate crosses,integerWithPercentage,2 (33%),2.0,33.0,%,equal,2026-10-12T04:19:53Z,209e24196ae95c4cbc7932914d796d4a3c425732
+68250,5186620,1029687,away,SecondHalf,passes,Passes,long_balls_accurate,Accurate long balls,integerWithPercentage,12 (44%),12.0,44.0,%,home,2026-10-12T04:19:53Z,209e24196ae95c4cbc7932914d796d4a3c425732
+68249,5186620,737054,home,SecondHalf,passes,Passes,long_balls_accurate,Accurate long balls,integerWithPercentage,13 (41%),13.0,41.0,%,home,2026-10-12T04:19:53Z,209e24196ae95c4cbc7932914d796d4a3c425732
+68248,5186620,1029687,away,SecondHalf,passes,Passes,opposition_half_passes,Opposition half,,68,68.0,,,away,2026-10-12T04:19:53Z,209e24196ae95c4cbc7932914d796d4a3c425732
+68247,5186620,737054,home,SecondHalf,passes,Passes,opposition_half_passes,Opposition half,,51,51.0,,,away,2026-10-12T04:19:53Z,209e24196ae95c4cbc7932914d796d4a3c425732
+68246,5186620,1029687,away,SecondHalf,passes,Passes,own_half_passes,Own half,,119,119.0,,,away,2026-10-12T04:19:53Z,209e24196ae95c4cbc7932914d796d4a3c425732
+68245,5186620,737054,home,SecondHalf,passes,Passes,own_half_passes,Own half,,53,53.0,,,away,2026-10-12T04:19:53Z,209e24196ae95c4cbc7932914d796d4a3c425732
+68244,5186620,1029687,away,SecondHalf,passes,Passes,accurate_passes,Accurate passes,integerWithPercentage,187 (80%),187.0,80.0,%,away,2026-10-12T04:19:53Z,209e24196ae95c4cbc7932914d796d4a3c425732
+68243,5186620,737054,home,SecondHalf,passes,Passes,accurate_passes,Accurate passes,integerWithPercentage,104 (70%),104.0,70.0,%,away,2026-10-12T04:19:53Z,209e24196ae95c4cbc7932914d796d4a3c425732
+68242,5186620,1029687,away,SecondHalf,passes,Passes,passes,Passes,integer,234,234.0,,,away,2026-10-12T04:19:53Z,209e24196ae95c4cbc7932914d796d4a3c425732
+68241,5186620,737054,home,SecondHalf,passes,Passes,passes,Passes,integer,149,149.0,,,away,2026-10-12T04:19:53Z,209e24196ae95c4cbc7932914d796d4a3c425732
+68240,5186620,1029687,away,SecondHalf,shots,Shots,shots_outside_box,Shots outside box,integer,1,1.0,,,home,2026-10-12T04:19:53Z,209e24196ae95c4cbc7932914d796d4a3c425732
+68239,5186620,737054,home,SecondHalf,shots,Shots,shots_outside_box,Shots outside box,integer,7,7.0,,,home,2026-10-12T04:19:53Z,209e24196ae95c4cbc7932914d796d4a3c425732
+68238,5186620,1029687,away,SecondHalf,shots,Shots,shots_inside_box,Shots inside box,integer,3,3.0,,,home,2026-10-12T04:19:53Z,209e24196ae95c4cbc7932914d796d4a3c425732
+68237,5186620,737054,home,SecondHalf,shots,Shots,shots_inside_box,Shots inside box,integer,4,4.0,,,home,2026-10-12T04:19:53Z,209e24196ae95c4cbc7932914d796d4a3c425732
+68236,5186620,1029687,away,SecondHalf,shots,Shots,shots_woodwork,Hit woodwork,integer,0,0.0,,,equal,2026-10-12T04:19:53Z,209e24196ae95c4cbc7932914d796d4a3c425732
+68235,5186620,737054,home,SecondHalf,shots,Shots,shots_woodwork,Hit woodwork,integer,0,0.0,,,equal,2026-10-12T04:19:53Z,209e24196ae95c4cbc7932914d796d4a3c425732
+68234,5186620,1029687,away,SecondHalf,shots,Shots,blocked_shots,Blocked shots,integer,0,0.0,,,home,2026-10-12T04:19:53Z,209e24196ae95c4cbc7932914d796d4a3c425732
+68233,5186620,737054,home,SecondHalf,shots,Shots,blocked_shots,Blocked shots,integer,5,5.0,,,home,2026-10-12T04:19:53Z,209e24196ae95c4cbc7932914d796d4a3c425732
+68232,5186620,1029687,away,SecondHalf,shots,Shots,ShotsOnTarget,Shots on target,integer,2,2.0,,,away,2026-10-12T04:19:53Z,209e24196ae95c4cbc7932914d796d4a3c425732
+68231,5186620,737054,home,SecondHalf,shots,Shots,ShotsOnTarget,Shots on target,integer,1,1.0,,,away,2026-10-12T04:19:53Z,209e24196ae95c4cbc7932914d796d4a3c425732
+68230,5186620,1029687,away,SecondHalf,shots,Shots,ShotsOffTarget,Shots off target,integer,2,2.0,,,home,2026-10-12T04:19:53Z,209e24196ae95c4cbc7932914d796d4a3c425732
+68229,5186620,737054,home,SecondHalf,shots,Shots,ShotsOffTarget,Shots off target,integer,5,5.0,,,home,2026-10-12T04:19:53Z,209e24196ae95c4cbc7932914d796d4a3c425732
+68228,5186620,1029687,away,SecondHalf,shots,Shots,total_shots,Total shots,integer,4,4.0,,,home,2026-10-12T04:19:53Z,209e24196ae95c4cbc7932914d796d4a3c425732
+68227,5186620,737054,home,SecondHalf,shots,Shots,total_shots,Total shots,integer,11,11.0,,,home,2026-10-12T04:19:53Z,209e24196ae95c4cbc7932914d796d4a3c425732
+68226,5186620,1029687,away,SecondHalf,top_stats,Top stats,corners,Corners,integer,1,1.0,,,equal,2026-10-12T04:19:53Z,209e24196ae95c4cbc7932914d796d4a3c425732
+68225,5186620,737054,home,SecondHalf,top_stats,Top stats,corners,Corners,integer,1,1.0,,,equal,2026-10-12T04:19:53Z,209e24196ae95c4cbc7932914d796d4a3c425732
+68224,5186620,1029687,away,SecondHalf,top_stats,Top stats,yellow_cards,Yellow cards,integer,2,2.0,,,home,2026-10-12T04:19:53Z,209e24196ae95c4cbc7932914d796d4a3c425732
+68223,5186620,737054,home,SecondHalf,top_stats,Top stats,yellow_cards,Yellow cards,integer,1,1.0,,,home,2026-10-12T04:19:53Z,209e24196ae95c4cbc7932914d796d4a3c425732
+68222,5186620,1029687,away,SecondHalf,top_stats,Top stats,accurate_passes,Accurate passes,integerWithPercentage,187 (80%),187.0,80.0,%,away,2026-10-12T04:19:53Z,209e24196ae95c4cbc7932914d796d4a3c425732
+68221,5186620,737054,home,SecondHalf,top_stats,Top stats,accurate_passes,Accurate passes,integerWithPercentage,104 (70%),104.0,70.0,%,away,2026-10-12T04:19:53Z,209e24196ae95c4cbc7932914d796d4a3c425732
+68220,5186620,1029687,away,SecondHalf,top_stats,Top stats,big_chance_missed_title,Big chances missed,,0,0.0,,,away,2026-10-12T04:19:53Z,209e24196ae95c4cbc7932914d796d4a3c425732
+68219,5186620,737054,home,SecondHalf,top_stats,Top stats,big_chance_missed_title,Big chances missed,,1,1.0,,,away,2026-10-12T04:19:53Z,209e24196ae95c4cbc7932914d796d4a3c425732
+68218,5186620,1029687,away,SecondHalf,top_stats,Top stats,big_chance,Big chances,integer,1,1.0,,,equal,2026-10-12T04:19:53Z,209e24196ae95c4cbc7932914d796d4a3c425732
+68217,5186620,737054,home,SecondHalf,top_stats,Top stats,big_chance,Big chances,integer,1,1.0,,,equal,2026-10-12T04:19:53Z,209e24196ae95c4cbc7932914d796d4a3c425732
+68216,5186620,1029687,away,SecondHalf,top_stats,Top stats,touches_opp_box,Touches in opposition box,,5,5.0,,,home,2026-10-12T04:19:53Z,209e24196ae95c4cbc7932914d796d4a3c425732
+68215,5186620,737054,home,SecondHalf,top_stats,Top stats,touches_opp_box,Touches in opposition box,,11,11.0,,,home,2026-10-12T04:19:53Z,209e24196ae95c4cbc7932914d796d4a3c425732
+68214,5186620,1029687,away,SecondHalf,top_stats,Top stats,ShotsOnTarget,Shots on target,integer,2,2.0,,,away,2026-10-12T04:19:53Z,209e24196ae95c4cbc7932914d796d4a3c425732
+68213,5186620,737054,home,SecondHalf,top_stats,Top stats,ShotsOnTarget,Shots on target,integer,1,1.0,,,away,2026-10-12T04:19:53Z,209e24196ae95c4cbc7932914d796d4a3c425732
+68212,5186620,1029687,away,SecondHalf,top_stats,Top stats,total_shots,Total shots,integer,4,4.0,,,home,2026-10-12T04:19:53Z,209e24196ae95c4cbc7932914d796d4a3c425732
+68211,5186620,737054,home,SecondHalf,top_stats,Top stats,total_shots,Total shots,integer,11,11.0,,,home,2026-10-12T04:19:53Z,209e24196ae95c4cbc7932914d796d4a3c425732
+68210,5186620,1029687,away,SecondHalf,top_stats,Top stats,BallPossesion,Ball possession,integer,61,61.0,,%,away,2026-10-12T04:19:53Z,209e24196ae95c4cbc7932914d796d4a3c425732
+68209,5186620,737054,home,SecondHalf,top_stats,Top stats,BallPossesion,Ball possession,integer,39,39.0,,%,away,2026-10-12T04:19:53Z,209e24196ae95c4cbc7932914d796d4a3c425732
+68208,5186620,1029687,away,FirstHalf,discipline,Discipline,fouls,Fouls committed,integer,4,4.0,,,away,2026-10-12T04:19:53Z,209e24196ae95c4cbc7932914d796d4a3c425732
+68207,5186620,737054,home,FirstHalf,discipline,Discipline,fouls,Fouls committed,integer,13,13.0,,,away,2026-10-12T04:19:53Z,209e24196ae95c4cbc7932914d796d4a3c425732
+68206,5186620,1029687,away,FirstHalf,discipline,Discipline,red_cards,Red cards,integer,0,0.0,,,equal,2026-10-12T04:19:53Z,209e24196ae95c4cbc7932914d796d4a3c425732
+68205,5186620,737054,home,FirstHalf,discipline,Discipline,red_cards,Red cards,integer,0,0.0,,,equal,2026-10-12T04:19:53Z,209e24196ae95c4cbc7932914d796d4a3c425732
+68204,5186620,1029687,away,FirstHalf,discipline,Discipline,yellow_cards,Yellow cards,integer,2,2.0,,,away,2026-10-12T04:19:53Z,209e24196ae95c4cbc7932914d796d4a3c425732
+68203,5186620,737054,home,FirstHalf,discipline,Discipline,yellow_cards,Yellow cards,integer,3,3.0,,,away,2026-10-12T04:19:53Z,209e24196ae95c4cbc7932914d796d4a3c425732
+68202,5186620,1029687,away,FirstHalf,duels,Duels,dribbles_succeeded,Successful dribbles,integerWithPercentage,2 (50%),2.0,50.0,%,equal,2026-10-12T04:19:53Z,209e24196ae95c4cbc7932914d796d4a3c425732
+68201,5186620,737054,home,FirstHalf,duels,Duels,dribbles_succeeded,Successful dribbles,integerWithPercentage,2 (67%),2.0,67.0,%,equal,2026-10-12T04:19:53Z,209e24196ae95c4cbc7932914d796d4a3c425732
+68200,5186620,1029687,away,FirstHalf,duels,Duels,aerials_won,Aerial duels won,integerWithPercentage,11 (58%),11.0,58.0,%,away,2026-10-12T04:19:53Z,209e24196ae95c4cbc7932914d796d4a3c425732
+68199,5186620,737054,home,FirstHalf,duels,Duels,aerials_won,Aerial duels won,integerWithPercentage,8 (42%),8.0,42.0,%,away,2026-10-12T04:19:53Z,209e24196ae95c4cbc7932914d796d4a3c425732
+68198,5186620,1029687,away,FirstHalf,duels,Duels,ground_duels_won,Ground duels won,integerWithPercentage,17 (57%),17.0,57.0,%,away,2026-10-12T04:19:53Z,209e24196ae95c4cbc7932914d796d4a3c425732
+68197,5186620,737054,home,FirstHalf,duels,Duels,ground_duels_won,Ground duels won,integerWithPercentage,13 (43%),13.0,43.0,%,away,2026-10-12T04:19:53Z,209e24196ae95c4cbc7932914d796d4a3c425732
+68196,5186620,1029687,away,FirstHalf,duels,Duels,duel_won,Duels won,integer,28,28.0,,,away,2026-10-12T04:19:53Z,209e24196ae95c4cbc7932914d796d4a3c425732
+68195,5186620,737054,home,FirstHalf,duels,Duels,duel_won,Duels won,integer,21,21.0,,,away,2026-10-12T04:19:53Z,209e24196ae95c4cbc7932914d796d4a3c425732
+68194,5186620,1029687,away,FirstHalf,defence,Defence,keeper_saves,Keeper saves,integer,0,0.0,,,equal,2026-10-12T04:19:53Z,209e24196ae95c4cbc7932914d796d4a3c425732
+68193,5186620,737054,home,FirstHalf,defence,Defence,keeper_saves,Keeper saves,integer,0,0.0,,,equal,2026-10-12T04:19:53Z,209e24196ae95c4cbc7932914d796d4a3c425732
+68192,5186620,1029687,away,FirstHalf,defence,Defence,clearances,Clearances,integer,16,16.0,,,equal,2026-10-12T04:19:53Z,209e24196ae95c4cbc7932914d796d4a3c425732
+68191,5186620,737054,home,FirstHalf,defence,Defence,clearances,Clearances,integer,16,16.0,,,equal,2026-10-12T04:19:53Z,209e24196ae95c4cbc7932914d796d4a3c425732
+68190,5186620,1029687,away,FirstHalf,defence,Defence,shot_blocks,Blocks,integer,1,1.0,,,away,2026-10-12T04:19:53Z,209e24196ae95c4cbc7932914d796d4a3c425732
+68189,5186620,737054,home,FirstHalf,defence,Defence,shot_blocks,Blocks,integer,0,0.0,,,away,2026-10-12T04:19:53Z,209e24196ae95c4cbc7932914d796d4a3c425732
+68188,5186620,1029687,away,FirstHalf,defence,Defence,interceptions,Interceptions,integer,5,5.0,,,away,2026-10-12T04:19:53Z,209e24196ae95c4cbc7932914d796d4a3c425732
+68187,5186620,737054,home,FirstHalf,defence,Defence,interceptions,Interceptions,integer,3,3.0,,,away,2026-10-12T04:19:53Z,209e24196ae95c4cbc7932914d796d4a3c425732
+68186,5186620,1029687,away,FirstHalf,defence,Defence,matchstats.headers.tackles,Tackles,integer,3,3.0,,,home,2026-10-12T04:19:53Z,209e24196ae95c4cbc7932914d796d4a3c425732
+68185,5186620,737054,home,FirstHalf,defence,Defence,matchstats.headers.tackles,Tackles,integer,7,7.0,,,home,2026-10-12T04:19:53Z,209e24196ae95c4cbc7932914d796d4a3c425732
+68184,5186620,1029687,away,FirstHalf,passes,Passes,Offsides,Offsides,integer,0,0.0,,,equal,2026-10-12T04:19:53Z,209e24196ae95c4cbc7932914d796d4a3c425732
+68183,5186620,737054,home,FirstHalf,passes,Passes,Offsides,Offsides,integer,0,0.0,,,equal,2026-10-12T04:19:53Z,209e24196ae95c4cbc7932914d796d4a3c425732

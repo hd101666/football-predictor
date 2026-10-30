@@ -1,0 +1,101 @@
+﻿match_id_internal,sport_code,league_code,source_name,home_team_id,away_team_id,home_team_name_std,away_team_name_std,best_pick,best_prob,best_odds,best_kelly,home_win_prob,draw_prob,away_win_prob,home_exp_score,away_exp_score,total_exp,confidence_grade,odds_source,run_tag,actual_result,is_hit,actual_home_score,actual_away_score,result_verified_at,match_date
+2,basketball,wnba,run_today_prediction,,,New York Liberty W,Portland Fire W,主胜,0.5625,1.85,0.0478,0.5625,,0.4375,26.0,23.53,49.53,B级 (弱正 edge),默认估值,today_prediction,,0,,,,2026-05-26
+4,basketball,wnba,run_today_prediction,,,Golden State Valkyries W,Connecticut Sun W,客胜,0.5464,1.85,0.0128,0.4536,,0.5464,22.78,24.56,47.34,B级 (凯利 edge 偏弱),默认估值,today_prediction,,0,,,,2026-05-26
+,football,sporttery_allsvenskan,run_today_prediction,,,IFK哥德堡,米亚尔比,客胜,0.4998,3.6,0.25,0.4998,0.0003,0.4998,15.0,15.0,30.0,S级 (强凯利 edge + 概,默认估值,today_prediction,,0,,,,2026-05-26
+,football,sporttery_allsvenskan,run_today_prediction,,,埃尔夫斯堡,赫根,客胜,0.4998,3.6,0.25,0.4998,0.0003,0.4998,15.0,15.0,30.0,S级 (强凯利 edge + 概,默认估值,today_prediction,,0,,,,2026-05-26
+,football,sporttery_eliteserien,run_today_prediction,,,桑纳菲尤尔,腓特烈斯塔,客胜,0.4998,3.6,0.25,0.4998,0.0003,0.4998,15.0,15.0,30.0,S级 (强凯利 edge + 概,默认估值,today_prediction,,0,,,,2026-05-26
+,football,sporttery_bundesliga,run_today_prediction,,,帕德博恩,沃尔夫斯堡,客胜,0.4998,3.6,0.25,0.4998,0.0003,0.4998,15.0,15.0,30.0,S级 (强凯利 edge + 概,默认估值,today_prediction,,0,,,,2026-05-26
+,football,sporttery_allsvenskan,run_today_prediction,,,IFK哥德堡,米亚尔比,客胜,0.4998,3.6,0.25,0.4998,0.0003,0.4998,15.0,15.0,30.0,S级 (强凯利 edge + 概,默认估值,today_prediction,,0,,,,2026-05-26
+,football,sporttery_allsvenskan,run_today_prediction,,,埃尔夫斯堡,赫根,客胜,0.4998,3.6,0.25,0.4998,0.0003,0.4998,15.0,15.0,30.0,S级 (强凯利 edge + 概,默认估值,today_prediction,,0,,,,2026-05-26
+,football,sporttery_eliteserien,run_today_prediction,,,桑纳菲尤尔,腓特烈斯塔,客胜,0.4998,3.6,0.25,0.4998,0.0003,0.4998,15.0,15.0,30.0,S级 (强凯利 edge + 概,默认估值,today_prediction,,0,,,,2026-05-26
+,football,sporttery_bundesliga,run_today_prediction,,,帕德博恩,沃尔夫斯堡,客胜,0.4998,3.6,0.25,0.4998,0.0003,0.4998,15.0,15.0,30.0,S级 (强凯利 edge + 概,默认估值,today_prediction,,0,,,,2026-05-26
+,football,sporttery_allsvenskan,run_today_prediction,,,IFK哥德堡,米亚尔比,客胜,0.4998,3.6,0.25,0.4998,0.0003,0.4998,15.0,15.0,30.0,S级 (强凯利 edge + 概,默认估值,today_prediction,,0,,,,2026-05-26
+,football,sporttery_allsvenskan,run_today_prediction,,,埃尔夫斯堡,赫根,客胜,0.4998,3.6,0.25,0.4998,0.0003,0.4998,15.0,15.0,30.0,S级 (强凯利 edge + 概,默认估值,today_prediction,,0,,,,2026-05-26
+,football,sporttery_eliteserien,run_today_prediction,,,桑纳菲尤尔,腓特烈斯塔,客胜,0.4998,3.6,0.25,0.4998,0.0003,0.4998,15.0,15.0,30.0,S级 (强凯利 edge + 概,默认估值,today_prediction,,0,,,,2026-05-26
+,football,sporttery_bundesliga,run_today_prediction,,,帕德博恩,沃尔夫斯堡,客胜,0.4998,3.6,0.25,0.4998,0.0003,0.4998,15.0,15.0,30.0,S级 (强凯利 edge + 概,默认估值,today_prediction,,0,,,,2026-05-26
+,football,sporttery_allsvenskan,run_today_prediction,,,IFK哥德堡,米亚尔比,客胜,0.4998,3.6,0.25,0.4998,0.0003,0.4998,15.0,15.0,30.0,S级 (强凯利 edge + 概,默认估值,today_prediction,,0,,,,2026-05-26
+,football,sporttery_allsvenskan,run_today_prediction,,,埃尔夫斯堡,赫根,客胜,0.4998,3.6,0.25,0.4998,0.0003,0.4998,15.0,15.0,30.0,S级 (强凯利 edge + 概,默认估值,today_prediction,,0,,,,2026-05-26
+,football,sporttery_eliteserien,run_today_prediction,,,桑纳菲尤尔,腓特烈斯塔,客胜,0.4998,3.6,0.25,0.4998,0.0003,0.4998,15.0,15.0,30.0,S级 (强凯利 edge + 概,默认估值,today_prediction,,0,,,,2026-05-26
+,football,sporttery_bundesliga,run_today_prediction,,,帕德博恩,沃尔夫斯堡,客胜,0.4998,3.6,0.25,0.4998,0.0003,0.4998,15.0,15.0,30.0,S级 (强凯利 edge + 概,默认估值,today_prediction,,0,,,,2026-05-26
+7,football,sporttery_allsvenskan,run_today_prediction,,,IFK哥德堡,米亚尔比,客胜,0.4998,3.6,0.25,0.4998,0.0003,0.4998,15.0,15.0,30.0,S级 (强凯利 edge + 概,默认估值,today_prediction,,0,,,,2026-05-26
+8,football,sporttery_allsvenskan,run_today_prediction,,,埃尔夫斯堡,赫根,客胜,0.4998,3.6,0.25,0.4998,0.0003,0.4998,15.0,15.0,30.0,S级 (强凯利 edge + 概,默认估值,today_prediction,,0,,,,2026-05-26
+7,football,sporttery_allsvenskan,run_today_prediction,,,IFK哥德堡,米亚尔比,客胜,0.4998,3.6,0.25,0.4998,0.0003,0.4998,15.0,15.0,30.0,S级 (强凯利 edge + 概,默认估值,today_prediction,,0,,,,2026-05-26
+8,football,sporttery_allsvenskan,run_today_prediction,,,埃尔夫斯堡,赫根,客胜,0.4998,3.6,0.25,0.4998,0.0003,0.4998,15.0,15.0,30.0,S级 (强凯利 edge + 概,默认估值,today_prediction,,0,,,,2026-05-26
+9,football,sporttery_eliteserien,run_today_prediction,,,桑纳菲尤尔,腓特烈斯塔,客胜,0.4998,3.6,0.25,0.4998,0.0003,0.4998,15.0,15.0,30.0,S级 (强凯利 edge + 概,默认估值,today_prediction,,0,,,,2026-05-26
+9,football,sporttery_eliteserien,run_today_prediction,,,桑纳菲尤尔,腓特烈斯塔,客胜,0.4998,3.6,0.25,0.4998,0.0003,0.4998,15.0,15.0,30.0,S级 (强凯利 edge + 概,默认估值,today_prediction,,0,,,,2026-05-26
+10,football,sporttery_bundesliga,run_today_prediction,,,帕德博恩,沃尔夫斯堡,客胜,0.4998,3.6,0.25,0.4998,0.0003,0.4998,15.0,15.0,30.0,S级 (强凯利 edge + 概,默认估值,today_prediction,,0,,,,2026-05-26
+10,football,sporttery_bundesliga,run_today_prediction,,,帕德博恩,沃尔夫斯堡,客胜,0.4998,3.6,0.25,0.4998,0.0003,0.4998,15.0,15.0,30.0,S级 (强凯利 edge + 概,默认估值,today_prediction,,0,,,,2026-05-26
+,football,ligue_1,run_today_prediction,,,Saint Etienne,Nice,客胜,0.5046,3.17,0.25,0.495,0.0003,0.5046,15.0,15.0,30.0,S级 (强凯利 edge + 概,Pinnacle,today_prediction,,0,,,,2026-05-27
+,football,bundesliga_2,run_today_prediction,,,Greuther Fürth,Rot-Weiss Essen,客胜,0.4998,4.12,0.25,0.4998,0.0003,0.4998,15.0,15.0,30.0,S级 (强凯利 edge + 概,Pinnacle,today_prediction,,0,,,,2026-05-27
+,football,sporttery_nba,run_today_prediction,,,克利夫兰骑士,纽约尼克斯,客胜,0.4998,3.6,0.25,0.4998,0.0003,0.4998,15.0,15.0,30.0,S级 (强凯利 edge + 概,默认估值,today_prediction,,0,,,,2026-05-26
+,football,sporttery_美职女篮,run_today_prediction,,,纽约自由,波特兰火焰,客胜,0.4998,3.6,0.25,0.4998,0.0003,0.4998,15.0,15.0,30.0,S级 (强凯利 edge + 概,默认估值,today_prediction,,0,,,,2026-05-26
+,football,sporttery_美职女篮,run_today_prediction,,,金州女武神,康涅狄格太阳,客胜,0.4998,3.6,0.25,0.4998,0.0003,0.4998,15.0,15.0,30.0,S级 (强凯利 edge + 概,默认估值,today_prediction,,0,,,,2026-05-26
+,football,sporttery_nba,run_today_prediction,,,克利夫兰骑士,纽约尼克斯,客胜,0.4998,3.6,0.25,0.4998,0.0003,0.4998,15.0,15.0,30.0,S级 (强凯利 edge + 概,默认估值,today_prediction,,0,,,,2026-05-26
+,football,sporttery_美职女篮,run_today_prediction,,,纽约自由,波特兰火焰,客胜,0.4998,3.6,0.25,0.4998,0.0003,0.4998,15.0,15.0,30.0,S级 (强凯利 edge + 概,默认估值,today_prediction,,0,,,,2026-05-26
+,football,sporttery_美职女篮,run_today_prediction,,,金州女武神,康涅狄格太阳,客胜,0.4998,3.6,0.25,0.4998,0.0003,0.4998,15.0,15.0,30.0,S级 (强凯利 edge + 概,默认估值,today_prediction,,0,,,,2026-05-26
+,football,sporttery_nba,run_today_prediction,,,俄克拉荷马城雷霆,圣安东尼奥马刺,客胜,0.4998,3.6,0.25,0.4998,0.0003,0.4998,15.0,15.0,30.0,S级 (强凯利 edge + 概,默认估值,today_prediction,,0,,,,2026-05-27
+,football,sporttery_nba,run_today_prediction,,,俄克拉荷马城雷霆,圣安东尼奥马刺,客胜,0.4998,3.6,0.25,0.4998,0.0003,0.4998,15.0,15.0,30.0,S级 (强凯利 edge + 概,默认估值,today_prediction,,0,,,,2026-05-27
+,football,ligue_1,run_today_prediction,,,Saint Etienne,Nice,客胜,0.5046,3.17,0.25,0.495,0.0003,0.5046,15.0,15.0,30.0,S级 (强凯利 edge + 概,Pinnacle,today_prediction,,0,,,,2026-05-27
+,football,bundesliga_2,run_today_prediction,,,Greuther Fürth,Rot-Weiss Essen,客胜,0.4998,4.12,0.25,0.4998,0.0003,0.4998,15.0,15.0,30.0,S级 (强凯利 edge + 概,Pinnacle,today_prediction,,0,,,,2026-05-27
+,football,sporttery_美职女篮,run_today_prediction,,,金州女武神,康涅狄格太阳,客胜,0.4998,3.6,0.25,0.4998,0.0003,0.4998,15.0,15.0,30.0,S级 (强凯利 edge + 概,默认估值,today_prediction,,0,,,,2026-05-26
+,football,sporttery_美职女篮,run_today_prediction,,,金州女武神,康涅狄格太阳,客胜,0.4998,3.6,0.25,0.4998,0.0003,0.4998,15.0,15.0,30.0,S级 (强凯利 edge + 概,默认估值,today_prediction,,0,,,,2026-05-26
+,football,sporttery_nba,run_today_prediction,,,俄克拉荷马城雷霆,圣安东尼奥马刺,客胜,0.4998,3.6,0.25,0.4998,0.0003,0.4998,15.0,15.0,30.0,S级 (强凯利 edge + 概,默认估值,today_prediction,,0,,,,2026-05-27
+,football,sporttery_nba,run_today_prediction,,,俄克拉荷马城雷霆,圣安东尼奥马刺,客胜,0.4998,3.6,0.25,0.4998,0.0003,0.4998,15.0,15.0,30.0,S级 (强凯利 edge + 概,默认估值,today_prediction,,0,,,,2026-05-27
+,football,ligue_1,run_today_prediction,,,Saint Etienne,Nice,客胜,0.5715,3.17,0.25,0.3392,0.0894,0.5715,0.55,1.77,2.32,S级 (强凯利 edge + 概,Pinnacle,today_prediction,,0,,,,2026-05-27
+,football,bundesliga_2,run_today_prediction,,,Greuther Fürth,Rot-Weiss Essen,客胜,0.4998,4.12,0.25,0.4998,0.0003,0.4998,15.0,15.0,30.0,S级 (强凯利 edge + 概,Pinnacle,today_prediction,,0,,,,2026-05-27
+,football,sporttery_美职女篮,run_today_prediction,,,金州女武神,康涅狄格太阳,客胜,0.4998,3.6,0.25,0.4998,0.0003,0.4998,15.0,15.0,30.0,S级 (强凯利 edge + 概,默认估值,today_prediction,,0,,,,2026-05-26
+,football,sporttery_美职女篮,run_today_prediction,,,金州女武神,康涅狄格太阳,客胜,0.4998,3.6,0.25,0.4998,0.0003,0.4998,15.0,15.0,30.0,S级 (强凯利 edge + 概,默认估值,today_prediction,,0,,,,2026-05-26
+,football,sporttery_nba,run_today_prediction,,,俄克拉荷马城雷霆,圣安东尼奥马刺,客胜,0.4998,3.6,0.25,0.4998,0.0003,0.4998,15.0,15.0,30.0,S级 (强凯利 edge + 概,默认估值,today_prediction,,0,,,,2026-05-27
+,football,sporttery_nba,run_today_prediction,,,俄克拉荷马城雷霆,圣安东尼奥马刺,客胜,0.4998,3.6,0.25,0.4998,0.0003,0.4998,15.0,15.0,30.0,S级 (强凯利 edge + 概,默认估值,today_prediction,,0,,,,2026-05-27
+,football,ligue_1,run_today_prediction,,,Saint Etienne,Nice,客胜,0.5715,3.17,0.25,0.3392,0.0894,0.5715,0.55,1.77,2.32,S级 (强凯利 edge + 概,Pinnacle,today_prediction,,0,,,,2026-05-27
+,football,bundesliga_2,run_today_prediction,,,Greuther Fürth,Rot-Weiss Essen,客胜,0.4998,4.12,0.25,0.4998,0.0003,0.4998,15.0,15.0,30.0,S级 (强凯利 edge + 概,Pinnacle,today_prediction,,0,,,,2026-05-27
+,football,sporttery_美职女篮,run_today_prediction,,,金州女武神,康涅狄格太阳,客胜,0.4998,3.6,0.25,0.4998,0.0003,0.4998,15.0,15.0,30.0,S级 (强凯利 edge + 概,默认估值,today_prediction,,0,,,,2026-05-26
+,football,sporttery_美职女篮,run_today_prediction,,,金州女武神,康涅狄格太阳,客胜,0.4998,3.6,0.25,0.4998,0.0003,0.4998,15.0,15.0,30.0,S级 (强凯利 edge + 概,默认估值,today_prediction,,0,,,,2026-05-26
+,football,sporttery_nba,run_today_prediction,,,俄克拉荷马城雷霆,圣安东尼奥马刺,客胜,0.4998,3.6,0.25,0.4998,0.0003,0.4998,15.0,15.0,30.0,S级 (强凯利 edge + 概,默认估值,today_prediction,,0,,,,2026-05-27
+,football,sporttery_nba,run_today_prediction,,,俄克拉荷马城雷霆,圣安东尼奥马刺,客胜,0.4998,3.6,0.25,0.4998,0.0003,0.4998,15.0,15.0,30.0,S级 (强凯利 edge + 概,默认估值,today_prediction,,0,,,,2026-05-27
+,football,ligue_1,run_today_prediction,,,Saint Etienne,Nice,客胜,0.5715,3.17,0.25,0.3392,0.0894,0.5715,0.55,1.77,2.32,S级 (强凯利 edge + 概,Pinnacle,today_prediction,,0,,,,2026-05-27
+,football,bundesliga_2,run_today_prediction,,,Greuther Fürth,Rot-Weiss Essen,客胜,0.4998,4.12,0.25,0.4998,0.0003,0.4998,15.0,15.0,30.0,S级 (强凯利 edge + 概,Pinnacle,today_prediction,,0,,,,2026-05-27
+,football,sporttery_美职女篮,run_today_prediction,,,金州女武神,康涅狄格太阳,客胜,0.4998,3.6,0.25,0.4998,0.0003,0.4998,15.0,15.0,30.0,S级 (强凯利 edge + 概,默认估值,today_prediction,,0,,,,2026-05-26
+,football,sporttery_美职女篮,run_today_prediction,,,金州女武神,康涅狄格太阳,客胜,0.4998,3.6,0.25,0.4998,0.0003,0.4998,15.0,15.0,30.0,S级 (强凯利 edge + 概,默认估值,today_prediction,,0,,,,2026-05-26
+,football,sporttery_nba,run_today_prediction,,,俄克拉荷马城雷霆,圣安东尼奥马刺,客胜,0.4998,3.6,0.25,0.4998,0.0003,0.4998,15.0,15.0,30.0,S级 (强凯利 edge + 概,默认估值,today_prediction,,0,,,,2026-05-27
+,football,sporttery_nba,run_today_prediction,,,俄克拉荷马城雷霆,圣安东尼奥马刺,客胜,0.4998,3.6,0.25,0.4998,0.0003,0.4998,15.0,15.0,30.0,S级 (强凯利 edge + 概,默认估值,today_prediction,,0,,,,2026-05-27
+,football,ligue_1,run_today_prediction,,,Saint Etienne,Nice,客胜,0.5715,3.17,0.25,0.3392,0.0894,0.5715,0.55,1.77,2.32,S级 (强凯利 edge + 概,Pinnacle,today_prediction,,0,,,,2026-05-27
+,football,bundesliga_2,run_today_prediction,,,Greuther Fürth,Rot-Weiss Essen,客胜,0.4623,4.12,0.25,0.4125,0.1252,0.4623,0.86,1.1,1.96,S级 (强凯利 edge + 概,Pinnacle,today_prediction,,0,,,,2026-05-27
+,football,sporttery_美职女篮,run_today_prediction,,,金州女武神,康涅狄格太阳,客胜,0.4334,3.6,0.2155,0.4334,0.1332,0.4334,0.9,0.9,1.8,A级 (中强凯利 edge),默认估值,today_prediction,,0,,,,2026-05-26
+,football,sporttery_美职女篮,run_today_prediction,,,金州女武神,康涅狄格太阳,客胜,0.4334,3.6,0.2155,0.4334,0.1332,0.4334,0.9,0.9,1.8,A级 (中强凯利 edge),默认估值,today_prediction,,0,,,,2026-05-26
+,football,sporttery_nba,run_today_prediction,,,俄克拉荷马城雷霆,圣安东尼奥马刺,客胜,0.4334,3.6,0.2155,0.4334,0.1332,0.4334,0.9,0.9,1.8,A级 (中强凯利 edge),默认估值,today_prediction,,0,,,,2026-05-27
+,football,sporttery_nba,run_today_prediction,,,俄克拉荷马城雷霆,圣安东尼奥马刺,客胜,0.4334,3.6,0.2155,0.4334,0.1332,0.4334,0.9,0.9,1.8,A级 (中强凯利 edge),默认估值,today_prediction,,0,,,,2026-05-27
+,football,ligue_1,run_today_prediction,,,Saint Etienne,Nice,客胜,0.5715,3.17,0.25,0.3392,0.0894,0.5715,0.55,1.77,2.32,S级 (强凯利 edge + 概,Pinnacle,today_prediction,,0,,,,2026-05-27
+,basketball,sporttery_美职女篮,run_today_prediction,,,金州女武神,康涅狄格太阳,客胜,0.4334,3.6,0.2155,0.4334,0.1332,0.4334,0.9,0.9,1.8,A级 (中强凯利 edge),默认估值,today_prediction,,0,,,,2026-05-26
+,basketball,sporttery_nba,run_today_prediction,,,俄克拉荷马城雷霆,圣安东尼奥马刺,客胜,0.4334,3.6,0.2155,0.4334,0.1332,0.4334,0.9,0.9,1.8,A级 (中强凯利 edge),默认估值,today_prediction,,0,,,,2026-05-27
+,basketball,sporttery_美职女篮,run_today_prediction,,,金州女武神,康涅狄格太阳,客胜,0.4334,3.6,0.2155,0.4334,0.1332,0.4334,0.9,0.9,1.8,A级 (中强凯利 edge),默认估值,today_prediction,,0,,,,2026-05-26
+,basketball,sporttery_nba,run_today_prediction,,,俄克拉荷马城雷霆,圣安东尼奥马刺,客胜,0.4334,3.6,0.2155,0.4334,0.1332,0.4334,0.9,0.9,1.8,A级 (中强凯利 edge),默认估值,today_prediction,,0,,,,2026-05-27
+,football,bundesliga_2,run_today_prediction,,,Greuther Fürth,Rot-Weiss Essen,客胜,0.30175440706746354,4.12,0.078,0.5076502040673999,0.19059538886513666,0.30175440706746354,0.86,1.1,1.96,A级 (中强凯利 edge),Pinnacle,today_prediction,,0,,,,2026-05-27
+3,basketball,nba,run_today_prediction,,,Cleveland Cavaliers,New York Knicks,主胜,0.5428,13.0,0.25,0.5428,,0.4572,59.57,56.98,116.55,S级 (强凯利 edge + 概,Betway + Pinnacle,today_prediction,,0,,,,2026-05-26
+5,basketball,wnba,run_today_prediction,,,New York Liberty,Portland Fire,主胜,0.5116,2.57,0.2005,0.5116,,0.4884,0.78,0.71,1.49,S级 (强凯利 edge + 概,Pinnacle,today_prediction,,0,,,,2026-05-26
+6.0,basketball,wnba,run_today_prediction,,,Golden State Valkyries,Connecticut Sun,客胜,0.5085,9.62,0.25,0.4915,,0.5085,0.68,0.74,1.42,S级 (强凯利 edge + 概,Pinnacle,today_prediction,,0,,,,2026-05-26
+,football,sporttery_法甲,run_today_prediction,,,圣埃蒂安,尼斯,客胜,0.4334,3.6,0.2155,0.4334,0.1332,0.4334,0.9,0.9,1.8,A级 (中强凯利 edge),默认估值,today_prediction,,0,,,,2026-05-27
+,football,sporttery_德乙,run_today_prediction,,,菲尔特,埃森,客胜,0.4334,3.6,0.2155,0.4334,0.1332,0.4334,0.9,0.9,1.8,A级 (中强凯利 edge),默认估值,today_prediction,,0,,,,2026-05-27
+,football,sporttery_德乙,run_today_prediction,,,菲尔特,埃森,客胜,0.4334,3.6,0.2155,0.4334,0.1332,0.4334,0.9,0.9,1.8,A级 (中强凯利 edge),默认估值,today_prediction,,0,,,,2026-05-27
+,football,sporttery_法甲,run_today_prediction,,,圣埃蒂安,尼斯,客胜,0.4334,3.6,0.2155,0.4334,0.1332,0.4334,0.9,0.9,1.8,A级 (中强凯利 edge),默认估值,today_prediction,,0,,,,2026-05-27
+,basketball,sporttery_西篮联,run_today_prediction,,,萨拉戈萨,巴伦西亚,客胜,0.4334,3.6,0.2155,0.4334,0.1332,0.4334,0.9,0.9,1.8,A级 (中强凯利 edge),默认估值,today_prediction,,0,,,,2026-05-27
+,basketball,sporttery_西篮联,run_today_prediction,,,萨拉戈萨,巴伦西亚,客胜,0.4334,3.6,0.2155,0.4334,0.1332,0.4334,0.9,0.9,1.8,A级 (中强凯利 edge),默认估值,today_prediction,,0,,,,2026-05-27
+6.0,basketball,wnba,run_today_prediction,,,Golden State Valkyries,Connecticut Sun,客胜,0.5085,23.0,0.25,0.4915,,0.5085,0.68,0.74,1.42,S级 (强凯利 edge + 概,Unibet (UK) + Pinnacle,today_prediction,,0,,,,2026-05-26
+,football,sporttery_法甲,run_today_prediction,,,圣埃蒂安,尼斯,客胜,0.4334,3.6,0.2155,0.4334,0.1332,0.4334,0.9,0.9,1.8,A级 (中强凯利 edge),默认估值,today_prediction,,0,,,,2026-05-27
+,football,sporttery_德乙,run_today_prediction,,,菲尔特,埃森,客胜,0.4334,3.6,0.2155,0.4334,0.1332,0.4334,0.9,0.9,1.8,A级 (中强凯利 edge),默认估值,today_prediction,,0,,,,2026-05-27
+,football,sporttery_德乙,run_today_prediction,,,菲尔特,埃森,客胜,0.4334,3.6,0.2155,0.4334,0.1332,0.4334,0.9,0.9,1.8,A级 (中强凯利 edge),默认估值,today_prediction,,0,,,,2026-05-27
+,football,sporttery_法甲,run_today_prediction,,,圣埃蒂安,尼斯,客胜,0.4334,3.6,0.2155,0.4334,0.1332,0.4334,0.9,0.9,1.8,A级 (中强凯利 edge),默认估值,today_prediction,,0,,,,2026-05-27
+,basketball,sporttery_西篮联,run_today_prediction,,,萨拉戈萨,巴伦西亚,客胜,0.4334,3.6,0.2155,0.4334,0.1332,0.4334,0.9,0.9,1.8,A级 (中强凯利 edge),默认估值,today_prediction,,0,,,,2026-05-27
+,basketball,sporttery_西篮联,run_today_prediction,,,萨拉戈萨,巴伦西亚,客胜,0.4334,3.6,0.2155,0.4334,0.1332,0.4334,0.9,0.9,1.8,A级 (中强凯利 edge),默认估值,today_prediction,,0,,,,2026-05-27
+6.0,basketball,wnba,run_today_prediction,,,Golden State Valkyries,Connecticut Sun,客胜,0.5085,17.0,0.25,0.4915,,0.5085,0.68,0.74,1.42,S级 (强凯利 edge + 概,Betway + Pinnacle,today_prediction,,0,,,,2026-05-26
+,football,sporttery_法甲,run_today_prediction,,,圣埃蒂安,尼斯,客胜,0.4334,3.6,0.2155,0.4334,0.1332,0.4334,0.9,0.9,1.8,A级 (中强凯利 edge),默认估值,today_prediction,,0,,,,2026-05-27
+,football,sporttery_德乙,run_today_prediction,,,菲尔特,埃森,客胜,0.4334,3.6,0.2155,0.4334,0.1332,0.4334,0.9,0.9,1.8,A级 (中强凯利 edge),默认估值,today_prediction,,0,,,,2026-05-27
+,football,sporttery_德乙,run_today_prediction,,,菲尔特,埃森,客胜,0.4334,3.6,0.2155,0.4334,0.1332,0.4334,0.9,0.9,1.8,A级 (中强凯利 edge),默认估值,today_prediction,,0,,,,2026-05-27
+,football,sporttery_法甲,run_today_prediction,,,圣埃蒂安,尼斯,客胜,0.4334,3.6,0.2155,0.4334,0.1332,0.4334,0.9,0.9,1.8,A级 (中强凯利 edge),默认估值,today_prediction,,0,,,,2026-05-27
+,basketball,sporttery_西篮联,run_today_prediction,,,萨拉戈萨,巴伦西亚,客胜,0.4334,3.6,0.2155,0.4334,0.1332,0.4334,0.9,0.9,1.8,A级 (中强凯利 edge),默认估值,today_prediction,,0,,,,2026-05-27
+,basketball,sporttery_西篮联,run_today_prediction,,,萨拉戈萨,巴伦西亚,客胜,0.4334,3.6,0.2155,0.4334,0.1332,0.4334,0.9,0.9,1.8,A级 (中强凯利 edge),默认估值,today_prediction,,0,,,,2026-05-27
+,football,sporttery_德乙,run_today_prediction,,,菲尔特,埃森,客胜,0.4334,3.6,0.2155,0.4334,0.1332,0.4334,0.9,0.9,1.8,A级 (中强凯利 edge),默认估值,today_prediction,,0,,,,2026-05-27
+,football,sporttery_法甲,run_today_prediction,,,圣埃蒂安,尼斯,客胜,0.4334,3.6,0.2155,0.4334,0.1332,0.4334,0.9,0.9,1.8,A级 (中强凯利 edge),默认估值,today_prediction,,0,,,,2026-05-27
+,football,sporttery_德乙,run_today_prediction,,,菲尔特,埃森,客胜,0.4334,3.6,0.2155,0.4334,0.1332,0.4334,0.9,0.9,1.8,A级 (中强凯利 edge),默认估值,today_prediction,,0,,,,2026-05-27
+,football,sporttery_法甲,run_today_prediction,,,圣埃蒂安,尼斯,客胜,0.4334,3.6,0.2155,0.4334,0.1332,0.4334,0.9,0.9,1.8,A级 (中强凯利 edge),默认估值,today_prediction,,0,,,,2026-05-27
+,basketball,sporttery_西篮联,run_today_prediction,,,萨拉戈萨,巴伦西亚,客胜,0.4334,3.6,0.2155,0.4334,0.1332,0.4334,0.9,0.9,1.8,A级 (中强凯利 edge),默认估值,today_prediction,,0,,,,2026-05-27

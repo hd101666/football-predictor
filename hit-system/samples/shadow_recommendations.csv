@@ -1,0 +1,101 @@
+﻿id,unified_id,sport_code,league_name,home_team,away_team,kickoff_utc,shadow_type,market,outcome,handicap,best_odds,model_prob,kelly_fraction,hit_score,predicted_score,fetch_date,status,profit_loss,created_at
+10826,4ed3b339e7e0,football,Belgium - Pro League,KV Kortrijk,Mechelen,2026-10-23T18:45:00Z,htft_nofilter,ht_ft,home-home,,3.5845,0.279,0.0,0.279,-,2026-10-23,pending,,2026-10-23T07:01:50
+10825,60df0ed16f4a,football,Austria - Bundesliga Women,Sturm Graz,LASK Linz,2026-10-23T16:00:00Z,htft_nofilter,ht_ft,home-home,,3.4996,0.2857,0.0,0.2857,-,2026-10-23,win,2.4996,2026-10-23T07:01:50
+10824,a7be5bd09968,football,Austria - Bundesliga,阿尔特阿赫,奥地利维也纳,2026-10-23T17:30:00Z,htft_nofilter,ht_ft,home-home,,3.4996,0.2857,0.0,0.2857,-,2026-10-23,pending,,2026-10-23T07:01:50
+10823,478b0d7d0304,football,Germany - Bundesliga Women,RB Leipzig,Bayern Munich,2026-10-23T16:30:00Z,htft_nofilter,ht_ft,home-home,,3.4996,0.2857,0.0,0.2857,-,2026-10-23,pending,,2026-10-23T07:01:50
+10822,542ccefaa754,football,Germany - Bundesliga,Stuttgart,Borussia Monchengladbach,2026-10-23T18:30:00Z,htft_nofilter,ht_ft,home-home,,3.4996,0.2857,0.0,0.2857,-,2026-10-23,pending,,2026-10-23T07:01:50
+10821,c4e082676db5,football,Spain - La Liga,Alaves,Malaga,2026-10-23T19:00:00Z,htft_nofilter,ht_ft,home-home,,3.4848,0.287,0.0,0.287,-,2026-10-23,lose,-1.0,2026-10-23T07:01:50
+10820,fd315c7e0b89,football,Netherlands - Eredivisie,前进之鹰,特尔斯达,2026-10-23T18:00:00Z,htft_nofilter,ht_ft,home-home,,3.3647,0.2972,0.0,0.2972,-,2026-10-23,pending,,2026-10-23T07:01:50
+10819,4ed3b339e7e0,football,Belgium - Pro League,KV Kortrijk,Mechelen,2026-10-23T18:45:00Z,htft,ht_ft,home-home,,3.5845,0.279,0.0,0.279,-,2026-10-23,pending,,2026-10-23T07:01:50
+10818,60df0ed16f4a,football,Austria - Bundesliga Women,Sturm Graz,LASK Linz,2026-10-23T16:00:00Z,htft,ht_ft,home-home,,3.4996,0.2857,0.0,0.2857,-,2026-10-23,win,2.4996,2026-10-23T07:01:50
+10817,a7be5bd09968,football,Austria - Bundesliga,阿尔特阿赫,奥地利维也纳,2026-10-23T17:30:00Z,htft,ht_ft,home-home,,3.4996,0.2857,0.0,0.2857,-,2026-10-23,pending,,2026-10-23T07:01:50
+10816,478b0d7d0304,football,Germany - Bundesliga Women,RB Leipzig,Bayern Munich,2026-10-23T16:30:00Z,htft,ht_ft,home-home,,3.4996,0.2857,0.0,0.2857,-,2026-10-23,pending,,2026-10-23T07:01:50
+10815,542ccefaa754,football,Germany - Bundesliga,Stuttgart,Borussia Monchengladbach,2026-10-23T18:30:00Z,htft,ht_ft,home-home,,3.4996,0.2857,0.0,0.2857,-,2026-10-23,pending,,2026-10-23T07:01:50
+10814,c4e082676db5,football,Spain - La Liga,Alaves,Malaga,2026-10-23T19:00:00Z,htft,ht_ft,home-home,,3.4848,0.287,0.0,0.287,-,2026-10-23,lose,-1.0,2026-10-23T07:01:50
+10813,fd315c7e0b89,football,Netherlands - Eredivisie,前进之鹰,特尔斯达,2026-10-23T18:00:00Z,htft,ht_ft,home-home,,3.3647,0.2972,0.0,0.2972,-,2026-10-23,pending,,2026-10-23T07:01:50
+10812,542ccefaa754,football,Germany - Bundesliga,Stuttgart,Borussia Monchengladbach,2026-10-23T18:30:00Z,fotmob_spread,spread,home,-1.5,1.8929,0.5324,0.0022,0.6629,2-1,2026-10-23,pending,,2026-10-23T07:01:50
+10811,c4e082676db5,football,Spain - La Liga,Alaves,Malaga,2026-10-23T19:00:00Z,fotmob_spread,spread,home,-0.75,1.8696,0.5419,0.0038,0.6668,1-0,2026-10-23,lose,-1.0,2026-10-23T07:01:50
+10810,63ce5d6538cd,football,Sweden - Allsvenskan,Elfsborg,Malmo,2026-10-23T17:00:00Z,fotmob_spread,spread,home,-0.25,1.8197,0.6176,0.0378,0.6694,2-0,2026-10-23,pending,,2026-10-23T07:01:50
+10809,6ced1fbea716,football,Saudi Arabia - Pro League,Al-Ahli,Al-Khaleej,2026-10-23T18:00:00Z,fotmob_spread,spread,home,-1.5,2.0,0.6166,0.0583,0.6698,3-0,2026-10-23,pending,,2026-10-23T07:01:50
+10808,52849fe2f38b,football,Ireland - Premier,Shamrock Rovers,Sligo Rovers,2026-10-23T19:00:00Z,fotmob_spread,spread,home,-2.0,1.7874,0.6078,0.0274,0.6727,1-0,2026-10-23,pending,,2026-10-23T07:01:50
+10807,aabdd05d2fbb,football,India - Super League,Inter Kashi,East Bengal,2026-10-23T11:30:00Z,fotmob_spread,spread,home,1.5,1.885,0.5702,0.0212,0.6843,0-3,2026-10-23,pending,,2026-10-23T07:01:50
+10806,c3058e7e489a,football,Brazil - Serie B,Operario Ferroviario,Athletic Club,2026-10-23T22:30:00Z,fotmob_spread,spread,home,-0.5,1.8929,0.5437,0.0081,0.6875,1-0,2026-10-23,pending,,2026-10-23T07:01:50
+10805,ab38116f1dc9,football,France - Ligue 1,Brest,Nice,2026-10-23T18:45:00Z,fotmob_team_total,team_total_home,over,1.5,2.01,0.526,0.0142,0.6604,1-1,2026-10-23,pending,,2026-10-23T07:01:50
+10804,0f85dfb0b65b,football,Italy - Serie A,Torino,Monza,2026-10-23T18:45:00Z,fotmob_team_total,team_total_home,over,1.5,2.05,0.5629,0.0367,0.6664,1-1,2026-10-23,pending,,2026-10-23T07:01:50
+10803,c4e082676db5,football,Spain - La Liga,Alaves,Malaga,2026-10-23T19:00:00Z,fotmob_team_total,team_total_home,over,1.5,1.8696,0.5509,0.0086,0.6698,1-0,2026-10-23,win,0.8696,2026-10-23T07:01:50
+10802,1b24b4a2d980,football,Portugal - Primeira Liga,Vitoria Guimaraes,Maritimo,2026-10-23T19:45:00Z,fotmob_team_total,team_total_home,under,1.5,2.08,0.6048,0.0597,0.6736,1-0,2026-10-23,pending,,2026-10-23T07:01:50
+10801,94f35e69180e,football,France - Ligue 2,波城,格勒诺布尔,2026-10-23T18:00:00Z,fotmob_team_total,team_total_home,under,1.5,1.7634,0.5749,0.0045,0.7582,1-1,2026-10-23,pending,,2026-10-23T07:01:50
+10800,5578e155903e,football,Denmark - Superliga,兰纳斯,布隆德比,2026-10-23T17:00:00Z,fotmob_team_total,team_total_away,under,1.5,2.1,0.5721,0.0458,0.7593,1-1,2026-10-23,pending,,2026-10-23T07:01:50
+10799,82fd798661b5,football,France - Ligue 2,克莱蒙,甘冈,2026-10-23T18:00:00Z,fotmob_totals,total,under,2.5,1.885,0.6065,0.0404,0.746,1-1,2026-10-23,pending,,2026-10-23T07:01:50
+10798,94f35e69180e,football,France - Ligue 2,波城,格勒诺布尔,2026-10-23T18:00:00Z,fotmob_totals,total,under,2.25,1.9804,0.5056,0.0003,0.7491,1-1,2026-10-23,pending,,2026-10-23T07:01:50
+10797,2ccd1a458cd4,football,Saudi Arabia - Pro League,胡拜尔库迪西亚,利雅得希拉尔,2026-10-23T18:00:00Z,fotmob_totals,total,over,3.25,1.9174,0.5867,0.0341,0.7537,1-1,2026-10-23,pending,,2026-10-23T07:01:50
+10796,5fc067169ab1,football,Sweden - Allsvenskan,韦斯特罗斯,哈尔姆斯塔德,2026-10-23T17:00:00Z,fotmob_totals,total,under,2.75,1.9615,0.5182,0.0043,0.7543,1-1,2026-10-23,pending,,2026-10-23T07:01:50
+10795,517f0d758c35,football,Poland - Ekstraklasa,莫托路宾,卢宾盆地,2026-10-23T16:00:00Z,fotmob_totals,total,under,2.5,1.9901,0.5184,0.008,0.7543,1-1,2026-10-23,pending,,2026-10-23T07:01:50
+10794,fd315c7e0b89,football,Netherlands - Eredivisie,前进之鹰,特尔斯达,2026-10-23T18:00:00Z,fotmob_totals,total,over,3.25,1.8621,0.5842,0.0255,0.7547,2-1,2026-10-23,pending,,2026-10-23T07:01:50
+10793,bf17798ea14c,football,Saudi Arabia - Pro League,吉达联合,德拉伊耶,2026-10-23T15:30:00Z,fotmob_totals,total,over,3.0,1.9005,0.5426,0.0086,0.8415,1-1,2026-10-23,pending,,2026-10-23T07:01:50
+10792,074edde58e17,football,Mexico - Liga MX,Necaxa,FC Juarez,2026-10-24T01:00:00Z,fotmob_1x2,moneyline,home,,1.7576,0.5876,0.0108,0.5802,1-0,2026-10-23,pending,,2026-10-23T07:01:50
+10791,0f85dfb0b65b,football,Italy - Serie A,Torino,Monza,2026-10-23T18:45:00Z,fotmob_1x2,moneyline,home,,2.13,0.5031,0.0159,0.6513,1-1,2026-10-23,pending,,2026-10-23T07:01:50
+10790,ab38116f1dc9,football,France - Ligue 1,Brest,Nice,2026-10-23T18:45:00Z,fotmob_1x2,moneyline,home,,2.27,0.5059,0.0292,0.6523,1-1,2026-10-23,pending,,2026-10-23T07:01:50
+10789,63ce5d6538cd,football,Sweden - Allsvenskan,Elfsborg,Malmo,2026-10-23T17:00:00Z,fotmob_1x2,moneyline,home,,2.07,0.6176,0.0651,0.6694,2-0,2026-10-23,pending,,2026-10-23T07:01:50
+10788,348c0fe167e7,football,Brazil - Serie B,Sport Recife,Criciuma,2026-10-24T00:00:00Z,fotmob_1x2,moneyline,home,,2.47,0.5133,0.0456,0.675,1-1,2026-10-23,pending,,2026-10-23T07:01:50
+10787,c3058e7e489a,football,Brazil - Serie B,Operario Ferroviario,Athletic Club,2026-10-23T22:30:00Z,fotmob_1x2,moneyline,home,,1.885,0.5437,0.007,0.6875,1-0,2026-10-23,pending,,2026-10-23T07:01:50
+10786,5726bae4854f,football,Ireland - Premier,Bohemians,Shelbourne,2026-10-23T18:45:00Z,team_total,team_total_home,under,1.5,2.28,0.5114,0.0324,0.6742,1-1,2026-10-23,pending,,2026-10-23T07:01:50
+10785,146ff7039bf0,football,Uruguay - Primera Division,Juventud,Penarol,2026-10-23T23:00:00Z,team_total,team_total_home,under,0.5,2.43,0.5233,0.0475,0.6791,1-1,2026-10-23,lose,-1.0,2026-10-23T07:01:50
+10784,52849fe2f38b,football,Ireland - Premier,Shamrock Rovers,Sligo Rovers,2026-10-23T19:00:00Z,team_total,team_total_home,over,2.5,1.7634,0.5792,0.007,0.6816,1-0,2026-10-23,pending,,2026-10-23T07:01:50
+10783,7ad345d82c73,football,Ireland - Premier,Waterford,Drogheda United,2026-10-23T18:45:00Z,team_total,team_total_home,over,1.5,1.7812,0.5728,0.0065,0.6835,1-1,2026-10-23,pending,,2026-10-23T07:01:50
+10782,39eb368cc9d1,football,Germany - Bundesliga 2,达姆施塔特,圣保利,2026-10-23T16:30:00Z,team_total,team_total_away,under,1.5,1.9009,0.571,0.0237,0.7376,1-1,2026-10-23,pending,,2026-10-23T07:01:50
+10781,94f35e69180e,football,France - Ligue 2,波城,格勒诺布尔,2026-10-23T18:00:00Z,team_total,team_total_home,under,1.5,1.7634,0.5748,0.0045,0.7583,1-1,2026-10-23,pending,,2026-10-23T07:01:50
+10780,5578e155903e,football,Denmark - Superliga,兰纳斯,布隆德比,2026-10-23T17:00:00Z,team_total,team_total_away,under,1.5,2.1,0.5687,0.0442,0.7606,1-1,2026-10-23,pending,,2026-10-23T07:01:50
+10779,cfb17decf519,football,Israel - Ligat Leumit,Maccabi Herzliya,Maccabi Kabilio Jaffa,2026-10-23T13:00:00Z,lstm_spread,spread,away,0.5,1.9709,0.5127,0.0027,0.5765,?,2026-10-23,pending,,2026-10-23T07:01:50
+10778,6493468fd83d,football,Israel - Ligat Leumit,Maccabi Kiryat Gat,Maccabi Ahi Nazareth,2026-10-23T13:00:00Z,lstm_spread,spread,away,0.5,1.885,0.5323,0.001,0.5834,-,2026-10-23,pending,,2026-10-23T07:01:50
+10777,70f71e8c7730,football,Netherlands - Eerste Divisie,NAC Breda,Heracles Almelo,2026-10-23T18:00:00Z,lstm_spread,spread,home,0.0,1.7874,0.5717,0.007,0.5843,2-1,2026-10-23,pending,,2026-10-23T07:01:50
+10776,cbefc18f2c80,football,England - Premier League,Ipswich Town,Nottingham Forest,2026-10-23T19:00:00Z,lstm_spread,spread,away,-0.25,2.02,0.5187,0.0117,0.6575,1-2,2026-10-23,pending,,2026-10-23T07:01:50
+10775,0f85dfb0b65b,football,Italy - Serie A,Torino,Monza,2026-10-23T18:45:00Z,lstm_spread,spread,home,-0.25,1.8475,0.5502,0.0049,0.6699,1-1,2026-10-23,pending,,2026-10-23T07:01:50
+10774,70f71e8c7730,football,Netherlands - Eerste Divisie,NAC Breda,Heracles Almelo,2026-10-23T18:00:00Z,lstm_1x2,moneyline,home,,2.38,0.5513,0.0566,0.5893,2-1,2026-10-23,pending,,2026-10-23T07:01:50
+10773,0f85dfb0b65b,football,Italy - Serie A,Torino,Monza,2026-10-23T18:45:00Z,lstm_1x2,moneyline,home,,2.13,0.537,0.0318,0.6648,1-1,2026-10-23,pending,,2026-10-23T07:01:50
+10772,cbefc18f2c80,football,England - Premier League,Ipswich Town,Nottingham Forest,2026-10-23T19:00:00Z,lstm_1x2,moneyline,away,,2.34,0.5407,0.0495,0.6663,1-2,2026-10-23,pending,,2026-10-23T07:01:50
+10771,a84337854a11,football,Israel - Liga Alef,Hapoel Ironi Arraba,Maccabi Neve Shaanan,2026-10-23T10:30:00Z,gated_v2,moneyline,home,,3.48,0.5516,0.0927,0.9,?,2026-10-23,pending,,2026-10-23T07:01:50
+10770,d387e44c264b,football,Israel - Liga Alef,Ironi Beit Shemesh,Hapoel Mahane Yehuda,2026-10-23T10:00:00Z,gated_v2,moneyline,away,,3.06,0.5612,0.087,0.9,1-2,2026-10-23,pending,,2026-10-23T07:01:50
+10769,2b97494ad734,football,Georgia - Erovnuli Liga,斯帕里,加格拉,2026-10-23T14:00:00Z,gated_v2,moneyline,away,,3.2,0.5025,0.0661,0.947,1-0,2026-10-23,pending,,2026-10-23T07:01:50
+10768,595f2aa57963,football,Uzbekistan - Super League,塔什干棉农,费尔干纳石油工人,2026-10-23T14:00:00Z,gated_v2,moneyline,away,,3.12,0.5261,0.0729,0.988,?,2026-10-23,pending,,2026-10-23T07:01:50
+10767,1ee043a79dfb,football,Uzbekistan - Super League,FK布索罗,铁尔米兹,2026-10-23T14:00:00Z,gated_v2,moneyline,away,,3.59,0.5614,0.0962,1.0,?,2026-10-23,pending,,2026-10-23T07:01:50
+10766,49c3a717f94a,football,Azerbaijan - Premier League,阿拉兹纳西万PFK,卡巴拉,2026-10-23T11:00:00Z,gated_v2,moneyline,home,,2.57,0.5957,0.0829,1.0,2-0,2026-10-23,pending,,2026-10-23T07:01:50
+10765,d35100a51d95,football,Ukraine - Premier League,维勒斯,克罗斯科瓦利夫卡,2026-10-23T10:00:00Z,gated_v2,moneyline,home,,3.16,0.5283,0.0756,1.0,?,2026-10-23,pending,,2026-10-23T07:01:50
+10764,7ad345d82c73,football,Ireland - Premier,Waterford,Drogheda United,2026-10-23T18:45:00Z,gated,team_total_home,over,1.5,1.7812,0.5728,0.0065,0.7519,1-1,2026-10-23,pending,,2026-10-23T07:01:50
+10763,2b97494ad734,football,Georgia - Erovnuli Liga,斯帕里,加格拉,2026-10-23T14:00:00Z,gated,moneyline,home,,2.08,0.5536,0.0334,0.7923,1-0,2026-10-23,pending,,2026-10-23T07:01:50
+10762,595f2aa57963,football,Uzbekistan - Super League,塔什干棉农,费尔干纳石油工人,2026-10-23T14:00:00Z,gated,moneyline,away,,3.12,0.5261,0.0729,0.9182,?,2026-10-23,pending,,2026-10-23T07:01:50
+10761,93ec1bd22582,football,Poland - 2nd Liga,索克尔克勒泽威,弗罗茨瓦夫B队,2026-10-23T12:30:00Z,1x2,moneyline,away,,2.38,0.5336,0.0472,0.7158,1-1,2026-10-23,pending,,2026-10-23T07:01:50
+10760,457f78198d80,football,Montenegro - Prva Liga,博凯列,德西奇,2026-10-23T13:00:00Z,1x2,moneyline,away,,2.41,0.5577,0.0603,0.7187,?,2026-10-23,pending,,2026-10-23T07:01:50
+10759,2b97494ad734,football,Georgia - Erovnuli Liga,斯帕里,加格拉,2026-10-23T14:00:00Z,1x2,moneyline,home,,2.08,0.5536,0.0334,0.7203,1-0,2026-10-23,pending,,2026-10-23T07:01:50
+10758,1ee043a79dfb,football,Uzbekistan - Super League,FK布索罗,铁尔米兹,2026-10-23T14:00:00Z,1x2,moneyline,draw,,3.3,0.3192,0.0042,0.7495,?,2026-10-23,pending,,2026-10-23T07:01:50
+10757,595f2aa57963,football,Uzbekistan - Super League,塔什干棉农,费尔干纳石油工人,2026-10-23T14:00:00Z,1x2,moneyline,home,,2.2,0.5215,0.0307,0.8329,?,2026-10-23,pending,,2026-10-23T07:01:50
+10756,595f2aa57963,football,Uzbekistan - Super League,塔什干棉农,费尔干纳石油工人,2026-10-23T14:00:00Z,1x2,moneyline,away,,3.12,0.5261,0.0729,0.8348,?,2026-10-23,pending,,2026-10-23T07:01:50
+10755,1ee043a79dfb,football,Uzbekistan - Super League,FK布索罗,铁尔米兹,2026-10-23T14:00:00Z,1x2,moneyline,away,,3.59,0.5614,0.0962,0.8396,?,2026-10-23,pending,,2026-10-23T07:01:50
+10754,094b23e14da4,football,Oman - Pro League,Al Shabab Seeb,Samail,2026-10-23T12:50:00Z,spread,spread,away,1.5,1.813,0.5516,0.0,0.6897,1-1,2026-10-23,pending,,2026-10-23T07:01:50
+10753,49c3a717f94a,football,Azerbaijan - Premier League,阿拉兹纳西万PFK,卡巴拉,2026-10-23T11:00:00Z,spread,spread,home,0.0,1.8917,0.5957,0.0356,0.704,2-0,2026-10-23,pending,,2026-10-23T07:01:50
+10752,211b0dea9248,football,Armenia - Premier League,瓦尼,阿拉特,2026-10-23T11:30:00Z,spread,spread,home,0.0,1.8961,0.5274,0.0,0.7136,?,2026-10-23,pending,,2026-10-23T07:01:50
+10751,93ec1bd22582,football,Poland - 2nd Liga,索克尔克勒泽威,弗罗茨瓦夫B队,2026-10-23T12:30:00Z,spread,spread,away,0.0,1.8742,0.5336,0.0,0.7158,1-1,2026-10-23,pending,,2026-10-23T07:01:50
+10750,bf17798ea14c,football,Saudi Arabia - Pro League,吉达联合,德拉伊耶,2026-10-23T15:30:00Z,spread,spread,home,-0.75,2.02,0.5007,0.0028,0.747,1-1,2026-10-23,pending,,2026-10-23T07:01:50
+10749,595f2aa57963,football,Uzbekistan - Super League,塔什干棉农,费尔干纳石油工人,2026-10-23T14:00:00Z,spread,spread,away,0.25,1.9009,0.5261,0.0,0.7575,?,2026-10-23,pending,,2026-10-23T07:01:50
+10748,fd315c7e0b89,football,Netherlands - Eredivisie,前进之鹰,特尔斯达,2026-10-23T18:00:00Z,spread,spread,home,-1.0,1.9009,0.5379,0.0062,0.7624,2-1,2026-10-23,pending,,2026-10-23T07:01:50
+10747,39c859ffd0c5,football,Germany - 3. Liga,曼海姆,普鲁士明斯特,2026-09-20T14:30:00Z,qiety_h2h,1x2,home,,2.1,0.535,0.0263,0.7163,1-0,2026-09-20,void,,2026-09-20T07:30:29
+10746,4eae6dd5a3d4,football,Korea Republic - K League 2,城南,华城,2026-09-20T10:00:00Z,qiety_h2h,1x2,draw,,3.35,0.3038,0.0008,0.7432,?,2026-09-20,void,,2026-09-20T07:30:29
+10745,50ef7f44ca69,football,Italy - Serie A,帕尔马,热那亚,2026-09-20T13:00:00Z,qiety_h2h,1x2,draw,,3.25,0.3625,0.0129,0.745,0-0,2026-09-20,lose,-1.0,2026-09-20T07:30:29
+10744,d4c06d093b7b,football,Korea Republic - K League 1,江原FC,济州SK,2026-09-20T07:30:00Z,qiety_h2h,1x2,draw,,3.37,0.3398,0.0123,0.758,1-1,2026-09-20,void,,2026-09-20T07:30:29
+10743,1100efc09e3f,football,Germany - Bundesliga,勒沃库森,莱比锡红牛,2026-09-20T13:30:00Z,qiety_h2h,1x2,home,,2.05,0.582,0.0444,0.8061,2-1,2026-09-20,win,1.05,2026-09-20T07:30:29
+10742,0768d071f247,football,Denmark - Superliga,布隆德比,哥本哈根,2026-09-20T12:00:00Z,qiety_h2h,1x2,away,,2.16,0.5088,0.0197,0.8276,1-1,2026-09-20,void,,2026-09-20T07:30:29
+10741,7613d2331f2a,football,Brazil - Serie A,格雷米奥RS,帕尔梅拉斯SP,2026-09-20T14:00:00Z,qiety_h2h,1x2,away,,1.95,0.5724,0.0245,0.8347,1-1,2026-09-20,void,,2026-09-20T07:30:29
+10740,9f7abe3f8297,football,Spain - La Liga,赫塔费,马拉加,2026-09-20T12:00:00Z,htft_nofilter,ht_ft,home-home,,3.4849,0.287,0.0,0.287,-,2026-09-20,void,,2026-09-20T07:30:29
+10739,873ce6ddba29,football,Netherlands - Eredivisie,奈梅亨,前进之鹰,2026-09-20T14:45:00Z,htft_nofilter,ht_ft,home-home,,3.3647,0.2972,0.0,0.2972,-,2026-09-20,void,,2026-09-20T07:30:29
+10738,0ae4cffe7052,football,Netherlands - Eredivisie,阿尔克马尔,特尔斯达,2026-09-20T12:30:00Z,htft_nofilter,ht_ft,home-home,,3.3647,0.2972,0.0,0.2972,-,2026-09-20,void,,2026-09-20T07:30:29
+10737,8b026c4368f4,football,Netherlands - Eredivisie,费耶诺德,乌德勒支,2026-09-20T10:15:00Z,htft_nofilter,ht_ft,home-home,,3.3647,0.2972,0.0,0.2972,-,2026-09-20,win,2.3647,2026-09-20T07:30:29
+10736,d49d07159cf5,football,Netherlands - Eredivisie,特温特,PSV埃因霍温,2026-09-20T12:30:00Z,htft_nofilter,ht_ft,home-home,,3.3647,0.2972,0.0,0.2972,-,2026-09-20,lose,-1.0,2026-09-20T07:30:29
+10735,582166f4acbf,football,Netherlands - Eredivisie Women,PEC Zwolle,De Graafschap,2026-09-20T10:15:00Z,htft_nofilter,ht_ft,home-home,,3.3647,0.2972,0.0,0.2972,-,2026-09-20,void,,2026-09-20T07:30:29
+10734,273a48b22a7b,football,Netherlands - Eredivisie Women,ADO Den Haag,Heerenveen,2026-09-20T14:45:00Z,htft_nofilter,ht_ft,home-home,,3.3647,0.2972,0.0,0.2972,-,2026-09-20,pending,,2026-09-20T07:30:29
+10733,af36e31835b4,football,Spain - La Liga,巴伦西亚,皇家社会,2026-09-20T19:00:00Z,htft,ht_ft,home-home,,3.4849,0.287,0.0,0.287,-,2026-09-20,lose,-1.0,2026-09-20T07:30:29
+10732,b446fe3d58de,football,Spain - La Liga,比利亚雷,莱万特,2026-09-20T16:30:00Z,htft,ht_ft,home-home,,3.4849,0.287,0.0,0.287,-,2026-09-20,lose,-1.0,2026-09-20T07:30:29
+10731,9f7abe3f8297,football,Spain - La Liga,赫塔费,马拉加,2026-09-20T12:00:00Z,htft,ht_ft,home-home,,3.4849,0.287,0.0,0.287,-,2026-09-20,void,,2026-09-20T07:30:29
+10730,873ce6ddba29,football,Netherlands - Eredivisie,奈梅亨,前进之鹰,2026-09-20T14:45:00Z,htft,ht_ft,home-home,,3.3647,0.2972,0.0,0.2972,-,2026-09-20,void,,2026-09-20T07:30:29
+10729,0ae4cffe7052,football,Netherlands - Eredivisie,阿尔克马尔,特尔斯达,2026-09-20T12:30:00Z,htft,ht_ft,home-home,,3.3647,0.2972,0.0,0.2972,-,2026-09-20,void,,2026-09-20T07:30:29
+10728,8b026c4368f4,football,Netherlands - Eredivisie,费耶诺德,乌德勒支,2026-09-20T10:15:00Z,htft,ht_ft,home-home,,3.3647,0.2972,0.0,0.2972,-,2026-09-20,win,2.3647,2026-09-20T07:30:29
+10727,d49d07159cf5,football,Netherlands - Eredivisie,特温特,PSV埃因霍温,2026-09-20T12:30:00Z,htft,ht_ft,home-home,,3.3647,0.2972,0.0,0.2972,-,2026-09-20,lose,-1.0,2026-09-20T07:30:29

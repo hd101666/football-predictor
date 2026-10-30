@@ -1,0 +1,101 @@
+﻿id,source,event_id,sport,competition,home_team,away_team,match_time,market,selection,odds,handicap,fetch_date
+121962,bovada,29471768,basketball,Denver Nuggets @ Golden State Warriors,Golden State Warriors,Denver Nuggets,1798255800000,Game Lines,Golden State Warriors,2.15,,2026-10-12
+121961,bovada,29471768,basketball,Denver Nuggets @ Golden State Warriors,Golden State Warriors,Denver Nuggets,1798255800000,Game Lines,Denver Nuggets,1.741,,2026-10-12
+121960,bovada,29471768,basketball,Denver Nuggets @ Golden State Warriors,Golden State Warriors,Denver Nuggets,1798255800000,Game Lines,Under,1.909091,,2026-10-12
+121959,bovada,29471768,basketball,Denver Nuggets @ Golden State Warriors,Golden State Warriors,Denver Nuggets,1798255800000,Game Lines,Over,1.909091,,2026-10-12
+121956,bovada,29471767,basketball,Oklahoma City Thunder @ Minnesota Timberwolves,Minnesota Timberwolves,Oklahoma City Thunder,1798246800000,Game Lines,Minnesota Timberwolves,2.45,,2026-10-12
+121955,bovada,29471767,basketball,Oklahoma City Thunder @ Minnesota Timberwolves,Minnesota Timberwolves,Oklahoma City Thunder,1798246800000,Game Lines,Oklahoma City Thunder,1.588235,,2026-10-12
+121954,bovada,29471767,basketball,Oklahoma City Thunder @ Minnesota Timberwolves,Minnesota Timberwolves,Oklahoma City Thunder,1798246800000,Game Lines,Under,1.909091,,2026-10-12
+121953,bovada,29471767,basketball,Oklahoma City Thunder @ Minnesota Timberwolves,Minnesota Timberwolves,Oklahoma City Thunder,1798246800000,Game Lines,Over,1.909091,,2026-10-12
+121950,bovada,29471766,basketball,Philadelphia 76ers @ Los Angeles Lakers,Los Angeles Lakers,Philadelphia 76ers,1798236000000,Game Lines,Los Angeles Lakers,1.833333,,2026-10-12
+121949,bovada,29471766,basketball,Philadelphia 76ers @ Los Angeles Lakers,Los Angeles Lakers,Philadelphia 76ers,1798236000000,Game Lines,Philadelphia 76ers,2.0,,2026-10-12
+121948,bovada,29471766,basketball,Philadelphia 76ers @ Los Angeles Lakers,Los Angeles Lakers,Philadelphia 76ers,1798236000000,Game Lines,Under,1.909091,,2026-10-12
+121947,bovada,29471766,basketball,Philadelphia 76ers @ Los Angeles Lakers,Los Angeles Lakers,Philadelphia 76ers,1798236000000,Game Lines,Over,1.909091,,2026-10-12
+121944,bovada,29472363,basketball,Miami Heat @ Boston Celtics,Boston Celtics,Miami Heat,1798227000000,Game Lines,Boston Celtics,1.571429,,2026-10-12
+121943,bovada,29472363,basketball,Miami Heat @ Boston Celtics,Boston Celtics,Miami Heat,1798227000000,Game Lines,Miami Heat,2.5,,2026-10-12
+121942,bovada,29472363,basketball,Miami Heat @ Boston Celtics,Boston Celtics,Miami Heat,1798227000000,Game Lines,Under,1.909091,,2026-10-12
+121941,bovada,29472363,basketball,Miami Heat @ Boston Celtics,Boston Celtics,Miami Heat,1798227000000,Game Lines,Over,1.909091,,2026-10-12
+121938,bovada,29471765,basketball,San Antonio Spurs @ New York Knicks,New York Knicks,San Antonio Spurs,1798218000000,Game Lines,New York Knicks,2.0,,2026-10-12
+121937,bovada,29471765,basketball,San Antonio Spurs @ New York Knicks,New York Knicks,San Antonio Spurs,1798218000000,Game Lines,San Antonio Spurs,1.833333,,2026-10-12
+121936,bovada,29471765,basketball,San Antonio Spurs @ New York Knicks,New York Knicks,San Antonio Spurs,1798218000000,Game Lines,Under,1.909091,,2026-10-12
+121935,bovada,29471765,basketball,San Antonio Spurs @ New York Knicks,New York Knicks,San Antonio Spurs,1798218000000,Game Lines,Over,1.909091,,2026-10-12
+121932,bovada,29847191,basketball,Phoenix Suns @ Portland Trail Blazers,Portland Trail Blazers,Phoenix Suns,1792634400000,Final Score Range,Trail Blazers 122 or more and Suns 122 or more,4.4,,2026-10-12
+121931,bovada,29847191,basketball,Phoenix Suns @ Portland Trail Blazers,Portland Trail Blazers,Phoenix Suns,1792634400000,Final Score Range,Trail Blazers between 115 and 121 and Suns 122 or more,10.0,,2026-10-12
+121930,bovada,29847191,basketball,Phoenix Suns @ Portland Trail Blazers,Portland Trail Blazers,Phoenix Suns,1792634400000,Final Score Range,Trail Blazers 114 or less and Suns 122 or more,10.5,,2026-10-12
+121929,bovada,29847191,basketball,Phoenix Suns @ Portland Trail Blazers,Portland Trail Blazers,Phoenix Suns,1792634400000,Final Score Range,Trail Blazers 122 or more and Suns between 115 and 121,7.25,,2026-10-12
+121928,bovada,29847191,basketball,Phoenix Suns @ Portland Trail Blazers,Portland Trail Blazers,Phoenix Suns,1792634400000,Final Score Range,Trail Blazers between 115 and 121 and Suns between 115 and 121,15.0,,2026-10-12
+121927,bovada,29847191,basketball,Phoenix Suns @ Portland Trail Blazers,Portland Trail Blazers,Phoenix Suns,1792634400000,Final Score Range,Trail Blazers 114 or less and Suns between 115 and 121,10.5,,2026-10-12
+121926,bovada,29847191,basketball,Phoenix Suns @ Portland Trail Blazers,Portland Trail Blazers,Phoenix Suns,1792634400000,Final Score Range,Trail Blazers 122 or more and Suns 114 or less,5.75,,2026-10-12
+121925,bovada,29847191,basketball,Phoenix Suns @ Portland Trail Blazers,Portland Trail Blazers,Phoenix Suns,1792634400000,Final Score Range,Trail Blazers between 115 and 121 and Suns 114 or less,7.25,,2026-10-12
+121924,bovada,29847191,basketball,Phoenix Suns @ Portland Trail Blazers,Portland Trail Blazers,Phoenix Suns,1792634400000,Final Score Range,Trail Blazers 114 or less and Suns 114 or less,4.7,,2026-10-12
+121923,bovada,29847191,basketball,Phoenix Suns @ Portland Trail Blazers,Portland Trail Blazers,Phoenix Suns,1792634400000,Score Props,Phoenix Suns,10.0,,2026-10-12
+121922,bovada,29847191,basketball,Phoenix Suns @ Portland Trail Blazers,Portland Trail Blazers,Phoenix Suns,1792634400000,Score Props,Portland Trail Blazers,7.75,,2026-10-12
+121913,bovada,29847191,basketball,Phoenix Suns @ Portland Trail Blazers,Portland Trail Blazers,Phoenix Suns,1792634400000,Score Props,No,1.16,,2026-10-12
+121912,bovada,29847191,basketball,Phoenix Suns @ Portland Trail Blazers,Portland Trail Blazers,Phoenix Suns,1792634400000,Score Props,Yes,4.85,,2026-10-12
+121899,bovada,29847191,basketball,Phoenix Suns @ Portland Trail Blazers,Portland Trail Blazers,Phoenix Suns,1792634400000,Score Props,Under,1.416667,,2026-10-12
+121898,bovada,29847191,basketball,Phoenix Suns @ Portland Trail Blazers,Portland Trail Blazers,Phoenix Suns,1792634400000,Score Props,Over,2.75,,2026-10-12
+121851,bovada,29847191,basketball,Phoenix Suns @ Portland Trail Blazers,Portland Trail Blazers,Phoenix Suns,1792634400000,Game Props,No - REG,1.015151,,2026-10-12
+121850,bovada,29847191,basketball,Phoenix Suns @ Portland Trail Blazers,Portland Trail Blazers,Phoenix Suns,1792634400000,Game Props,Yes - REG,13.0,,2026-10-12
+121849,bovada,29847191,basketball,Phoenix Suns @ Portland Trail Blazers,Portland Trail Blazers,Phoenix Suns,1792634400000,Game Props,Odd,1.87,,2026-10-12
+121848,bovada,29847191,basketball,Phoenix Suns @ Portland Trail Blazers,Portland Trail Blazers,Phoenix Suns,1792634400000,Game Props,Even,1.952381,,2026-10-12
+121847,bovada,29847191,basketball,Phoenix Suns @ Portland Trail Blazers,Portland Trail Blazers,Phoenix Suns,1792634400000,Game Props,Phoenix Suns,4.7,,2026-10-12
+121846,bovada,29847191,basketball,Phoenix Suns @ Portland Trail Blazers,Portland Trail Blazers,Phoenix Suns,1792634400000,Game Props,Portland Trail Blazers,2.85,,2026-10-12
+121833,bovada,29847191,basketball,Phoenix Suns @ Portland Trail Blazers,Portland Trail Blazers,Phoenix Suns,1792634400000,Game Props,24 and Over,3.6,,2026-10-12
+121832,bovada,29847191,basketball,Phoenix Suns @ Portland Trail Blazers,Portland Trail Blazers,Phoenix Suns,1792634400000,Game Props,Between 19 and 23,4.1,,2026-10-12
+121831,bovada,29847191,basketball,Phoenix Suns @ Portland Trail Blazers,Portland Trail Blazers,Phoenix Suns,1792634400000,Game Props,Between 14 and 18,2.95,,2026-10-12
+121830,bovada,29847191,basketball,Phoenix Suns @ Portland Trail Blazers,Portland Trail Blazers,Phoenix Suns,1792634400000,Game Props,13 and Under,3.4,,2026-10-12
+121829,bovada,29847191,basketball,Phoenix Suns @ Portland Trail Blazers,Portland Trail Blazers,Phoenix Suns,1792634400000,Game Props,18 and Over,1.78125,,2026-10-12
+121828,bovada,29847191,basketball,Phoenix Suns @ Portland Trail Blazers,Portland Trail Blazers,Phoenix Suns,1792634400000,Game Props,Exactly 17,14.0,,2026-10-12
+121827,bovada,29847191,basketball,Phoenix Suns @ Portland Trail Blazers,Portland Trail Blazers,Phoenix Suns,1792634400000,Game Props,16 and Under,2.03,,2026-10-12
+121826,bovada,29847191,basketball,Phoenix Suns @ Portland Trail Blazers,Portland Trail Blazers,Phoenix Suns,1792634400000,Game Props,254 or more,5.5,,2026-10-12
+121825,bovada,29847191,basketball,Phoenix Suns @ Portland Trail Blazers,Portland Trail Blazers,Phoenix Suns,1792634400000,Game Props,Between 245 and 253,6.25,,2026-10-12
+121824,bovada,29847191,basketball,Phoenix Suns @ Portland Trail Blazers,Portland Trail Blazers,Phoenix Suns,1792634400000,Game Props,Between 238 and 244,6.25,,2026-10-12
+121823,bovada,29847191,basketball,Phoenix Suns @ Portland Trail Blazers,Portland Trail Blazers,Phoenix Suns,1792634400000,Game Props,Between 231 and 237,5.75,,2026-10-12
+121822,bovada,29847191,basketball,Phoenix Suns @ Portland Trail Blazers,Portland Trail Blazers,Phoenix Suns,1792634400000,Game Props,Between 224 and 230,6.25,,2026-10-12
+121821,bovada,29847191,basketball,Phoenix Suns @ Portland Trail Blazers,Portland Trail Blazers,Phoenix Suns,1792634400000,Game Props,Between 215 and 223,6.25,,2026-10-12
+121820,bovada,29847191,basketball,Phoenix Suns @ Portland Trail Blazers,Portland Trail Blazers,Phoenix Suns,1792634400000,Game Props,214 or less,6.25,,2026-10-12
+121819,bovada,29847191,basketball,Phoenix Suns @ Portland Trail Blazers,Portland Trail Blazers,Phoenix Suns,1792634400000,Game Props,Suns win all 4 Quarters - REG,41.0,,2026-10-12
+121818,bovada,29847191,basketball,Phoenix Suns @ Portland Trail Blazers,Portland Trail Blazers,Phoenix Suns,1792634400000,Game Props,Trail Blazers win all 4 Quarters - REG,20.0,,2026-10-12
+121817,bovada,29847191,basketball,Phoenix Suns @ Portland Trail Blazers,Portland Trail Blazers,Phoenix Suns,1792634400000,Game Props,Suns by 3 Quarters - REG,67.0,,2026-10-12
+121816,bovada,29847191,basketball,Phoenix Suns @ Portland Trail Blazers,Portland Trail Blazers,Phoenix Suns,1792634400000,Game Props,Trail Blazers by 3 Quarters - REG,36.0,,2026-10-12
+121815,bovada,29847191,basketball,Phoenix Suns @ Portland Trail Blazers,Portland Trail Blazers,Phoenix Suns,1792634400000,Game Props,Suns by 2 Quarters - REG,5.6,,2026-10-12
+121814,bovada,29847191,basketball,Phoenix Suns @ Portland Trail Blazers,Portland Trail Blazers,Phoenix Suns,1792634400000,Game Props,Trail Blazers by 2 Quarters - REG,3.6,,2026-10-12
+121813,bovada,29847191,basketball,Phoenix Suns @ Portland Trail Blazers,Portland Trail Blazers,Phoenix Suns,1792634400000,Game Props,Suns by 1 Quarter - REG,13.0,,2026-10-12
+121812,bovada,29847191,basketball,Phoenix Suns @ Portland Trail Blazers,Portland Trail Blazers,Phoenix Suns,1792634400000,Game Props,Trail Blazers by 1 Quarter - REG,10.0,,2026-10-12
+121811,bovada,29847191,basketball,Phoenix Suns @ Portland Trail Blazers,Portland Trail Blazers,Phoenix Suns,1792634400000,Game Props,Tie - REG,2.43,,2026-10-12
+121810,bovada,29847191,basketball,Phoenix Suns @ Portland Trail Blazers,Portland Trail Blazers,Phoenix Suns,1792634400000,Game Props,Suns win both Halves - REG,6.75,,2026-10-12
+121809,bovada,29847191,basketball,Phoenix Suns @ Portland Trail Blazers,Portland Trail Blazers,Phoenix Suns,1792634400000,Game Props,Trail Blazers win both Halves - REG,3.6,,2026-10-12
+121808,bovada,29847191,basketball,Phoenix Suns @ Portland Trail Blazers,Portland Trail Blazers,Phoenix Suns,1792634400000,Game Props,Suns by 1 Half - REG,26.0,,2026-10-12
+121807,bovada,29847191,basketball,Phoenix Suns @ Portland Trail Blazers,Portland Trail Blazers,Phoenix Suns,1792634400000,Game Props,Trail Blazers by 1 Half - REG,19.0,,2026-10-12
+121805,bovada,29847191,basketball,Phoenix Suns @ Portland Trail Blazers,Portland Trail Blazers,Phoenix Suns,1792634400000,Game Props,Suns by 21 or more points,15.0,,2026-10-12
+121804,bovada,29847191,basketball,Phoenix Suns @ Portland Trail Blazers,Portland Trail Blazers,Phoenix Suns,1792634400000,Game Props,Trail Blazers by 21 or more points,7.25,,2026-10-12
+121803,bovada,29847191,basketball,Phoenix Suns @ Portland Trail Blazers,Portland Trail Blazers,Phoenix Suns,1792634400000,Game Props,Suns by 17-20 points,22.0,,2026-10-12
+121802,bovada,29847191,basketball,Phoenix Suns @ Portland Trail Blazers,Portland Trail Blazers,Phoenix Suns,1792634400000,Game Props,Trail Blazers by 17-20 points,12.0,,2026-10-12
+121801,bovada,29847191,basketball,Phoenix Suns @ Portland Trail Blazers,Portland Trail Blazers,Phoenix Suns,1792634400000,Game Props,Suns by 14-16 points,19.0,,2026-10-12
+121800,bovada,29847191,basketball,Phoenix Suns @ Portland Trail Blazers,Portland Trail Blazers,Phoenix Suns,1792634400000,Game Props,Trail Blazers by 14-16 points,12.0,,2026-10-12
+121799,bovada,29847191,basketball,Phoenix Suns @ Portland Trail Blazers,Portland Trail Blazers,Phoenix Suns,1792634400000,Game Props,Suns by 10-13 points,11.0,,2026-10-12
+121798,bovada,29847191,basketball,Phoenix Suns @ Portland Trail Blazers,Portland Trail Blazers,Phoenix Suns,1792634400000,Game Props,Trail Blazers by 10-13 points,7.75,,2026-10-12
+121797,bovada,29847191,basketball,Phoenix Suns @ Portland Trail Blazers,Portland Trail Blazers,Phoenix Suns,1792634400000,Game Props,Suns by 7-9 points,11.0,,2026-10-12
+121796,bovada,29847191,basketball,Phoenix Suns @ Portland Trail Blazers,Portland Trail Blazers,Phoenix Suns,1792634400000,Game Props,Trail Blazers by 7-9 points,8.5,,2026-10-12
+121795,bovada,29847191,basketball,Phoenix Suns @ Portland Trail Blazers,Portland Trail Blazers,Phoenix Suns,1792634400000,Game Props,Suns by 3-6 points,6.75,,2026-10-12
+121794,bovada,29847191,basketball,Phoenix Suns @ Portland Trail Blazers,Portland Trail Blazers,Phoenix Suns,1792634400000,Game Props,Trail Blazers by 3-6 points,5.6,,2026-10-12
+121793,bovada,29847191,basketball,Phoenix Suns @ Portland Trail Blazers,Portland Trail Blazers,Phoenix Suns,1792634400000,Game Props,Suns by 1-2 points,15.0,,2026-10-12
+121792,bovada,29847191,basketball,Phoenix Suns @ Portland Trail Blazers,Portland Trail Blazers,Phoenix Suns,1792634400000,Game Props,Trail Blazers by 1-2 points,15.0,,2026-10-12
+121791,bovada,29847191,basketball,Phoenix Suns @ Portland Trail Blazers,Portland Trail Blazers,Phoenix Suns,1792634400000,Alternate Lines,Suns and Under 250.5,2.73,,2026-10-12
+121790,bovada,29847191,basketball,Phoenix Suns @ Portland Trail Blazers,Portland Trail Blazers,Phoenix Suns,1792634400000,Alternate Lines,Trail Blazers and Under 250.5,1.877193,,2026-10-12
+121789,bovada,29847191,basketball,Phoenix Suns @ Portland Trail Blazers,Portland Trail Blazers,Phoenix Suns,1792634400000,Alternate Lines,Suns and Over 250.5,10.0,,2026-10-12
+121788,bovada,29847191,basketball,Phoenix Suns @ Portland Trail Blazers,Portland Trail Blazers,Phoenix Suns,1792634400000,Alternate Lines,Trail Blazers and Over 250.5,7.25,,2026-10-12
+121787,bovada,29847191,basketball,Phoenix Suns @ Portland Trail Blazers,Portland Trail Blazers,Phoenix Suns,1792634400000,Alternate Lines,Suns and Under 242.5,3.25,,2026-10-12
+121786,bovada,29847191,basketball,Phoenix Suns @ Portland Trail Blazers,Portland Trail Blazers,Phoenix Suns,1792634400000,Alternate Lines,Trail Blazers and Under 242.5,2.26,,2026-10-12
+121785,bovada,29847191,basketball,Phoenix Suns @ Portland Trail Blazers,Portland Trail Blazers,Phoenix Suns,1792634400000,Alternate Lines,Suns and Over 242.5,6.25,,2026-10-12
+121784,bovada,29847191,basketball,Phoenix Suns @ Portland Trail Blazers,Portland Trail Blazers,Phoenix Suns,1792634400000,Alternate Lines,Trail Blazers and Over 242.5,4.45,,2026-10-12
+121783,bovada,29847191,basketball,Phoenix Suns @ Portland Trail Blazers,Portland Trail Blazers,Phoenix Suns,1792634400000,Alternate Lines,Suns and Under 234.5,4.35,,2026-10-12
+121782,bovada,29847191,basketball,Phoenix Suns @ Portland Trail Blazers,Portland Trail Blazers,Phoenix Suns,1792634400000,Alternate Lines,Trail Blazers and Under 234.5,3.0,,2026-10-12
+121781,bovada,29847191,basketball,Phoenix Suns @ Portland Trail Blazers,Portland Trail Blazers,Phoenix Suns,1792634400000,Alternate Lines,Suns and Over 234.5,4.35,,2026-10-12
+121780,bovada,29847191,basketball,Phoenix Suns @ Portland Trail Blazers,Portland Trail Blazers,Phoenix Suns,1792634400000,Alternate Lines,Trail Blazers and Over 234.5,2.95,,2026-10-12
+121779,bovada,29847191,basketball,Phoenix Suns @ Portland Trail Blazers,Portland Trail Blazers,Phoenix Suns,1792634400000,Alternate Lines,Suns and Under 226.5,6.25,,2026-10-12
+121778,bovada,29847191,basketball,Phoenix Suns @ Portland Trail Blazers,Portland Trail Blazers,Phoenix Suns,1792634400000,Alternate Lines,Trail Blazers and Under 226.5,4.45,,2026-10-12
+121777,bovada,29847191,basketball,Phoenix Suns @ Portland Trail Blazers,Portland Trail Blazers,Phoenix Suns,1792634400000,Alternate Lines,Suns and Over 226.5,3.25,,2026-10-12
+121776,bovada,29847191,basketball,Phoenix Suns @ Portland Trail Blazers,Portland Trail Blazers,Phoenix Suns,1792634400000,Alternate Lines,Trail Blazers and Over 226.5,2.25,,2026-10-12
+121775,bovada,29847191,basketball,Phoenix Suns @ Portland Trail Blazers,Portland Trail Blazers,Phoenix Suns,1792634400000,Alternate Lines,Suns and Under 218.5,10.5,,2026-10-12
+121774,bovada,29847191,basketball,Phoenix Suns @ Portland Trail Blazers,Portland Trail Blazers,Phoenix Suns,1792634400000,Alternate Lines,Trail Blazers and Under 218.5,7.5,,2026-10-12

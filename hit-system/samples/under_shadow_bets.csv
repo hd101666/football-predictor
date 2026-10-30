@@ -1,0 +1,101 @@
+﻿id,unified_id,sport_code,league_name,home_team,away_team,kickoff_utc,market,handicap,best_odds,model_prob,kelly_fraction,hit_score,status,profit_loss,fetch_date,created_at
+13490,82fd798661b5,football,France - Ligue 2,克莱蒙,甘冈,2026-10-23T18:00:00Z,total,2.5,1.885,0.6235,0.0495,0.739,pending,,2026-10-23,2026-10-23T07:01:50
+13489,5578e155903e,football,Denmark - Superliga,兰纳斯,布隆德比,2026-10-23T17:00:00Z,total,3.0,1.8772,0.6006,0.0363,0.7483,pending,,2026-10-23,2026-10-23T07:01:50
+13488,94f35e69180e,football,France - Ligue 2,波城,格勒诺布尔,2026-10-23T18:00:00Z,total,2.25,1.9804,0.5056,0.0003,0.7491,pending,,2026-10-23,2026-10-23T07:01:50
+13487,517f0d758c35,football,Poland - Ekstraklasa,莫托路宾,卢宾盆地,2026-10-23T16:00:00Z,total,2.5,1.9901,0.5117,0.0046,0.7516,pending,,2026-10-23,2026-10-23T07:01:50
+13486,5fc067169ab1,football,Sweden - Allsvenskan,韦斯特罗斯,哈尔姆斯塔德,2026-10-23T17:00:00Z,total,2.75,1.9615,0.5136,0.0019,0.7524,pending,,2026-10-23,2026-10-23T07:01:50
+13485,94f35e69180e,football,France - Ligue 2,波城,格勒诺布尔,2026-10-23T18:00:00Z,team_total_home,1.5,1.7634,0.5748,0.0045,0.7583,pending,,2026-10-23,2026-10-23T07:01:50
+13484,5578e155903e,football,Denmark - Superliga,兰纳斯,布隆德比,2026-10-23T17:00:00Z,team_total_away,1.5,2.1,0.5687,0.0442,0.7606,pending,,2026-10-23,2026-10-23T07:01:50
+13483,aa7ba2a55fde,football,Italy - Serie A,佛罗伦萨,那不勒斯,2026-09-20T10:30:00Z,total,2.5,2.0411,0.5629,0.0358,0.8145,win,1.0411,2026-09-20,2026-09-20T07:30:29
+13482,cdd8610ff6c0,football,Norway - Eliteserien,桑讷菲尤尔,斯达,2026-09-20T15:00:00Z,total,3.0,1.8473,0.6103,0.0376,0.817,void,,2026-09-20,2026-09-20T07:30:29
+13481,87c648cba514,football,Portugal - Primeira Liga,吉马良斯,莫雷拉人,2026-09-20T14:30:00Z,total,2.5,1.94,0.5918,0.0385,0.8258,void,,2026-09-20,2026-09-20T07:30:29
+13480,ea90ef3774dd,football,Poland - Ekstraklasa,卢宾盆地,普沃茨克维斯瓦,2026-09-20T12:45:00Z,total,2.5,1.9342,0.5193,0.0012,0.832,void,,2026-09-20,2026-09-20T07:30:29
+13479,2ebb46b22129,football,Brazil - Serie B,庞特普雷塔SP,巴西雷加塔斯AL,2026-09-20T14:00:00Z,total,3.0,1.9434,0.572,0.0249,0.8349,void,,2026-09-20,2026-09-20T07:30:29
+13478,873ce6ddba29,football,Netherlands - Eredivisie,奈梅亨,前进之鹰,2026-09-20T14:45:00Z,total,3.5,2.0,0.5378,0.017,0.8396,void,,2026-09-20,2026-09-20T07:30:29
+13477,45b1ed94b04c,football,Korea Republic - K League 1,仁川联,大田市民,2026-09-20T10:00:00Z,total,2.5,1.8738,0.5432,0.0051,0.8418,void,,2026-09-20,2026-09-20T07:30:29
+13476,e2aa0a136efd,football,Belgium - Challenger Pro League,亨克(青年),塞莱恩,2026-09-19T14:00:00Z,total,3.0,2.01,0.5211,0.0104,0.8327,void,,2026-09-19,2026-09-19T07:36:47
+13475,83a22233c566,football,Italy - Serie B,凯勒雷斯,贝内文托,2026-09-19T13:00:00Z,total,2.5,1.9419,0.5352,0.0104,0.8385,void,,2026-09-19,2026-09-19T07:36:47
+13474,f3e5b82c36cd,football,Belgium - Pro League,奥哈瓦里,拉路维尔,2026-09-19T14:00:00Z,total,2.5,1.9108,0.5367,0.007,0.8391,void,,2026-09-19,2026-09-19T07:36:47
+13473,04d1c85762e6,football,Turkey - Super League,伊斯坦布尔BFK U19,根塞尔伯里吉U19,2026-09-19T17:00:00Z,total,3.0,1.8486,0.5425,0.0008,0.8415,void,,2026-09-19,2026-09-19T07:36:47
+13472,f9805c5c7b5b,football,Japan - J League,冈山绿雉,京都不死鸟,2026-09-19T10:00:00Z,total,2.5,1.9286,0.5547,0.0188,0.8426,lose,-1.0,2026-09-19,2026-09-19T07:36:47
+13471,c4691526859d,football,England - Championship,米尔沃尔,西汉姆联,2026-09-19T11:30:00Z,total,3.0,1.8784,0.5454,0.007,0.8427,lose,-1.0,2026-09-19,2026-09-19T07:36:47
+13470,e23f10d329f2,football,Scotland - Premiership,圣米伦,邓迪联,2026-09-19T14:00:00Z,total,3.0,1.8318,0.548,0.0012,0.8438,void,,2026-09-19,2026-09-19T07:36:47
+13469,230d2a2c1d1b,football,France - Ligue 2,格勒诺布尔,克莱蒙,2026-09-18T18:00:00Z,total,2.0,2.09,0.5478,0.0332,0.7664,push,0.0,2026-09-18,2026-09-18T13:52:25
+13468,72150983abc2,basketball,WNBA,Toronto Tempo,Indiana Fever,2026-09-18T23:30:00Z,total,187.5,1.91,0.5972,0.035,0.7993,lose,-1.0,2026-09-18,2026-09-18T13:52:25
+13467,495c600fed8f,football,Italy - Serie B,Juve Stabia,Cesena,2026-09-18T18:30:00Z,total,2.5,1.8423,0.636,0.051,0.8043,win,0.8423,2026-09-18,2026-09-18T13:52:25
+13466,23b800386766,football,Spain - La Liga,西班牙人,埃尔切,2026-09-18T19:00:00Z,total,2.5,2.06,0.5262,0.0123,0.8105,lose,-1.0,2026-09-18,2026-09-18T13:52:25
+13465,756b24e47da5,basketball,WNBA,Minnesota Lynx,New York Liberty,2026-09-18T23:30:00Z,total,176.5,1.9346,0.5321,0.0076,0.8128,win,0.9346,2026-09-18,2026-09-18T13:52:25
+13464,07f961e61649,football,France - Ligue 2,Annecy,Dijon,2026-09-18T18:00:00Z,total,2.5,1.8063,0.5895,0.0201,0.8269,lose,-1.0,2026-09-18,2026-09-18T13:52:25
+13463,56300ebab109,football,Belgium - Pro League,根特,标准列日,2026-09-18T18:45:00Z,total,2.5,1.9052,0.5507,0.0136,0.8443,lose,-1.0,2026-09-18,2026-09-18T13:52:25
+13455,681047daa9dd,basketball,Mexico - Liga Nacional de Baloncesto Profesional,Panteras de Aguascalientes,Astros de Jalisco,2026-09-18T02:30:00Z,total,174.0,1.8,0.5739,0.0103,0.6832,lose,-1.0,2026-09-17,2026-09-17T17:44:24
+13454,31340701800b,football,Ecuador - Serie B,Deportivo Santo Domingo,El Nacional,2026-09-18T00:00:00Z,total,2.25,1.7812,0.5625,0.0006,0.6866,lose,-1.0,2026-09-17,2026-09-17T17:44:24
+13453,0068b2f7a147,football,Spain - La Liga,马拉加,比利亚雷亚尔,2026-09-17T19:30:00Z,team_total_away,1.5,2.1,0.6807,0.0976,0.6931,lose,-1.0,2026-09-17,2026-09-17T17:44:24
+13452,0068b2f7a147,football,Spain - La Liga,马拉加,比利亚雷亚尔,2026-09-17T19:30:00Z,total,3.0,1.8772,0.6736,0.0754,0.6962,lose,-1.0,2026-09-17,2026-09-17T17:44:24
+13451,d5be810c4b44,football,England - EFL Cup,Manchester City,Norwich City,2026-09-17T18:30:00Z,total,3.5,1.95,0.5499,0.0163,0.7216,lose,-1.0,2026-09-17,2026-09-17T17:44:24
+13450,5fa98cd9016d,football,UEFA - Europa League,凯尔特人,费伦茨瓦罗斯,2026-09-17T19:00:00Z,total,3.0,2.04,0.5493,0.029,0.7447,lose,-1.0,2026-09-17,2026-09-17T17:44:24
+13449,40ca4362cb35,football,UEFA - Europa League,尤文图斯,奈梅亨,2026-09-17T19:00:00Z,total,3.5,1.8403,0.559,0.0078,0.8162,lose,-1.0,2026-09-17,2026-09-17T17:44:24
+13448,0d5ada8335e4,football,Brazil - Serie A,Botafogo FR RJ,Gremio,2026-09-16T22:30:00Z,total,2.75,1.8403,0.5813,0.0208,0.681,lose,-1.0,2026-09-16,2026-09-16T05:03:47
+13447,5a67fbf443d1,football,Sweden - Allsvenskan,AIK,Mjallby,2026-09-16T17:00:00Z,team_total_home,1.5,1.813,0.5745,0.0128,0.683,win,0.813,2026-09-16,2026-09-16T05:03:47
+13446,fa672b70ef94,basketball,Mexico - Liga Nacional de Baloncesto Profesional,Panteras de Aguascalientes,Astros de Jalisco,2026-09-17T02:30:00Z,total,172.0,1.8621,0.548,0.0059,0.6893,lose,-1.0,2026-09-16,2026-09-16T05:03:47
+13445,c9594dfb5804,football,UEFA - Europa League,Sunderland,AZ Alkmaar,2026-09-16T19:00:00Z,team_total_home,1.5,2.35,0.6777,0.1097,0.6944,win,1.35,2026-09-16,2026-09-16T05:03:47
+13444,c9594dfb5804,football,UEFA - Europa League,Sunderland,AZ Alkmaar,2026-09-16T19:00:00Z,total,2.75,2.25,0.5469,0.0201,0.7438,win,1.25,2026-09-16,2026-09-16T05:03:47
+13443,e2a0b891a2ec,football,Switzerland - Super League,Thun,Servette,2026-09-16T17:00:00Z,team_total_home,1.5,1.7692,0.6055,0.0232,0.7464,lose,-1.0,2026-09-16,2026-09-16T05:03:47
+13442,7993878799b1,football,Switzerland - Super League,FC Lugano,St. Gallen,2026-09-16T17:00:00Z,total,3.25,1.9901,0.5281,0.0129,0.7583,lose,-1.0,2026-09-16,2026-09-16T05:03:47
+13441,4e0acd22f88b,football,Spain - La Liga,埃尔切,皇家马德里,2026-09-15T19:30:00Z,team_total_away,2.5,2.25,0.5554,0.0499,0.7431,lose,-1.0,2026-09-15,2026-09-15T09:26:32
+13440,e97a5282aa5d,football,England - Championship,米德尔斯堡,米尔沃尔,2026-09-15T18:45:00Z,total,3.0,2.28,0.5823,0.0255,0.7554,lose,-1.0,2026-09-15,2026-09-15T09:26:32
+13439,9ea050be5999,football,Brazil - Serie B,巴西雷加塔斯AL,累西腓体育PE,2026-09-16T00:00:00Z,total,2.5,2.04,0.526,0.0176,0.7575,lose,-1.0,2026-09-15,2026-09-15T09:26:32
+13438,9ea050be5999,football,Brazil - Serie B,巴西雷加塔斯AL,累西腓体育PE,2026-09-16T00:00:00Z,team_total_home,1.5,1.9524,0.5309,0.0096,0.7595,lose,-1.0,2026-09-15,2026-09-15T09:26:32
+13437,1a6c644770ff,football,Netherlands - Eredivisie,Ajax,Willem II,2026-09-15T18:00:00Z,total,4.0,1.9615,0.5316,0.0111,0.7598,lose,-1.0,2026-09-15,2026-09-15T09:26:32
+13436,3f4b19903730,football,Northern Ireland - Premiership,波达丹,林菲尔德,2026-09-15T18:45:00Z,total,2.75,1.9259,0.5475,0.0147,0.7663,win,0.9259,2026-09-15,2026-09-15T09:26:32
+13435,61c0e1402d69,football,England - Championship,Bristol City,Lincoln City,2026-09-15T18:45:00Z,total,2.5,1.8801,0.5456,0.0073,0.8428,win,0.8801,2026-09-15,2026-09-15T09:26:32
+13434,1a03ad3a9c03,football,Portugal - Primeira Liga,里奥阿维,阿马多拉,2026-09-14T17:45:00Z,total,2.25,2.03,0.5231,0.015,0.7563,lose,-1.0,2026-09-14,2026-09-14T15:04:11
+13433,ac390541548b,football,Sweden - Allsvenskan,天狼星,代格福什,2026-09-14T17:00:00Z,total,3.0,1.9174,0.5254,0.002,0.7572,win,0.9174,2026-09-14,2026-09-14T15:04:11
+13432,efdf4387c0bc,football,Ireland - Premier,斯莱戈流浪者,戈尔韦联,2026-09-14T18:45:00Z,team_total_away,1.5,1.7692,0.5703,0.0029,0.76,lose,-1.0,2026-09-14,2026-09-14T15:04:11
+13431,c41fdd0cc155,football,Ireland - Premier,沃特福德FC,德里城,2026-09-14T18:45:00Z,total,2.75,1.9174,0.5346,0.0068,0.761,lose,-1.0,2026-09-14,2026-09-14T15:04:11
+13430,7b9e15ffed53,football,Norway - Eliteserien,博多格林特,桑讷菲尤尔,2026-09-14T17:00:00Z,team_total_away,0.5,2.12,0.5382,0.0315,0.7625,void,,2026-09-14,2026-09-14T15:04:11
+13429,c559dda8a744,football,Spain - Segunda Division,塞尔塔B队,埃瓦尔,2026-09-14T18:30:00Z,total,2.25,1.9709,0.542,0.0176,0.7641,lose,-1.0,2026-09-14,2026-09-14T15:04:11
+13428,7b9e15ffed53,football,Norway - Eliteserien,博多格林特,桑讷菲尤尔,2026-09-14T17:00:00Z,total,3.75,2.02,0.5481,0.0263,0.7666,void,,2026-09-14,2026-09-14T15:04:11
+13420,c2b941957cb3,football,Brazil - Serie B,尤文图德RS,竞技俱乐部MG,2026-09-13T21:00:00Z,team_total_away,0.5,1.9524,0.5837,0.0366,0.7549,lose,-1.0,2026-09-13,2026-09-13T17:25:18
+13419,c2b941957cb3,football,Brazil - Serie B,尤文图德RS,竞技俱乐部MG,2026-09-13T21:00:00Z,total,2.0,2.06,0.5795,0.0457,0.7565,push,0.0,2026-09-13,2026-09-13T17:25:18
+13418,c2b941957cb3,football,Brazil - Serie B,尤文图德RS,竞技俱乐部MG,2026-09-13T21:00:00Z,team_total_home,1.5,1.7692,0.5761,0.0063,0.7578,win,0.7692,2026-09-13,2026-09-13T17:25:18
+13417,89837fb22346,football,Brazil - Serie A,迈拉索尔SP,维多利亚BA,2026-09-13T19:00:00Z,total,2.5,2.0,0.5278,0.0139,0.7582,lose,-1.0,2026-09-13,2026-09-13T17:25:18
+13416,235209b60f51,football,Ecuador - Serie A,瓜亚基尔巴塞罗那,迪尔芬,2026-09-13T23:00:00Z,total,2.5,1.8,0.5628,0.0041,0.7627,win,0.8,2026-09-13,2026-09-13T17:25:18
+13415,f29c1d865ccc,football,USA - Major League Soccer,芝加哥火焰,新英格兰革命,2026-09-13T21:30:00Z,team_total_home,1.5,2.24,0.5407,0.0426,0.7635,win,1.24,2026-09-13,2026-09-13T17:25:18
+13414,235209b60f51,football,Ecuador - Serie A,瓜亚基尔巴塞罗那,迪尔芬,2026-09-13T23:00:00Z,team_total_away,0.5,2.09,0.5416,0.0303,0.7639,lose,-1.0,2026-09-13,2026-09-13T17:25:18
+13406,2bc7c1224a1f,football,Germany - Bundesliga,多特蒙德,帕德博恩,2026-09-12T13:30:00Z,total,3.5,1.9434,0.6002,0.0441,0.7267,void,,2026-09-12,2026-09-11T19:18:00
+13405,d23009ddfa12,football,Italy - Serie A,亚特兰大,卡利亚里,2026-09-12T18:45:00Z,total,2.5,1.9524,0.579,0.0342,0.7347,lose,-1.0,2026-09-12,2026-09-11T19:18:00
+13404,d23009ddfa12,football,Italy - Serie A,亚特兰大,卡利亚里,2026-09-12T18:45:00Z,team_total_home,1.5,2.1,0.5743,0.0468,0.7364,win,1.1,2026-09-12,2026-09-11T19:18:00
+13403,0eb461cf3a97,football,England - Premier League,伯恩茅斯,布伦特,2026-09-12T14:00:00Z,team_total_home,1.5,1.8,0.5693,0.0077,0.7382,lose,-1.0,2026-09-12,2026-09-11T19:18:00
+13402,4118d45c37c8,football,England - Premier League,利物浦,富勒姆,2026-09-12T14:00:00Z,total,3.25,1.9259,0.5677,0.0252,0.7388,win,0.9259,2026-09-12,2026-09-11T19:18:00
+13401,79869b231208,football,Spain - La Liga,毕尔巴鄂,埃尔切,2026-09-12T16:30:00Z,total,2.75,1.9709,0.5605,0.027,0.7413,win,0.9709,2026-09-12,2026-09-11T19:18:00
+13400,4118d45c37c8,football,England - Premier League,利物浦,富勒姆,2026-09-12T14:00:00Z,team_total_away,0.5,2.7,0.5556,0.0735,0.7431,win,1.7,2026-09-12,2026-09-11T19:18:00
+13399,f12d7c459d81,basketball,Mexico - Liga Nacional de Baloncesto Profesional,Correcaminos UAT Victoria,Dorados de Chihuahua,2026-09-12T01:15:00Z,total,177.5,1.8065,0.6105,0.0319,0.6718,win,0.8065,2026-09-11,2026-09-11T15:10:04
+13398,1edb451d827a,basketball,Mexico - Liga Nacional de Baloncesto Profesional,El Calor de Cancun,Panteras de Aguascalientes,2026-09-12T01:15:00Z,total,173.0,1.8197,0.5629,0.0074,0.6864,lose,-1.0,2026-09-11,2026-09-11T15:10:04
+13397,6a715fa690bd,basketball,Mexico - Liga Nacional de Baloncesto Profesional,Santos del Potosi,Fuerza Regia de Monterrey,2026-09-12T02:00:00Z,total,174.0,1.8929,0.5627,0.0182,0.6865,lose,-1.0,2026-09-11,2026-09-11T15:10:04
+13385,d06731848bd2,football,Korea Republic - K League 1,Daejeon Citizen,Anyang,2026-09-09T10:30:00Z,total,2.75,1.885,0.5394,0.0047,0.6857,lose,-1.0,2026-09-09,2026-09-09T02:54:06
+13384,9814507c6f65,football,USA - Major League Soccer,CF Montreal,Charlotte FC,2026-09-09T23:30:00Z,total,3.0,1.9434,0.5421,0.0142,0.6868,push,0.0,2026-09-09,2026-09-09T02:54:06
+13383,dc9a886a5424,football,Portugal - Primeira Liga,Moreirense,Benfica,2026-09-09T19:45:00Z,total,3.25,1.8197,0.5616,0.0067,0.6868,lose,-1.0,2026-09-09,2026-09-09T02:54:06
+13382,5c6078104f58,football,Netherlands - Eredivisie,FC Twente,Telstar,2026-09-09T16:45:00Z,team_total_home,2.5,2.12,0.5615,0.0425,0.6868,win,1.12,2026-09-09,2026-09-09T02:54:06
+13381,dc9a886a5424,football,Portugal - Primeira Liga,Moreirense,Benfica,2026-09-09T19:45:00Z,team_total_away,2.5,1.9259,0.5568,0.0195,0.6882,lose,-1.0,2026-09-09,2026-09-09T02:54:06
+13380,6bae980d3ccc,football,USA - Major League Soccer,Vancouver Whitecaps,Los Angeles Galaxy,2026-09-10T02:30:00Z,total,3.5,1.9174,0.5558,0.0179,0.6885,win,0.9174,2026-09-09,2026-09-09T02:54:06
+13379,d8e7db5359f9,football,USA - Major League Soccer,Minnesota United,FC Dallas,2026-09-10T00:30:00Z,team_total_home,1.5,2.1,0.5478,0.0342,0.6892,win,1.1,2026-09-09,2026-09-09T02:54:06
+13378,d2eb932e9b40,football,UEFA - Champions League,Lille,Real Betis,2026-09-08T19:00:00Z,total,3.75,1.9434,0.5499,0.0182,0.67,lose,-1.0,2026-09-08,2026-09-08T14:59:11
+13377,710634ee321f,football,England - Championship,Cardiff City,Stoke City,2026-09-08T18:45:00Z,total,3.0,1.8547,0.5888,0.0269,0.6787,win,0.8547,2026-09-08,2026-09-08T14:59:11
+13376,fc2d19ef7f5f,football,Brazil - Serie B,Criciuma,Juventude,2026-09-09T00:00:00Z,team_total_away,0.5,2.22,0.5837,0.0606,0.6803,lose,-1.0,2026-09-08,2026-09-08T14:59:11
+13375,d2023a63426a,football,Uruguay - Primera Division Amateur,Salus,Durazno,2026-09-08T23:00:00Z,total,2.5,1.9615,0.5303,0.0104,0.682,lose,-1.0,2026-09-08,2026-09-08T14:59:11
+13374,5b736a44697e,football,England - Championship,Southampton,Swansea City,2026-09-08T18:45:00Z,team_total_home,1.5,2.06,0.5326,0.0229,0.6829,lose,-1.0,2026-09-08,2026-09-08T14:59:11
+13373,afda1d623c2a,football,England - Championship,Blackburn Rovers,Sheffield United,2026-09-08T18:45:00Z,total,2.5,2.01,0.5657,0.0339,0.6856,lose,-1.0,2026-09-08,2026-09-08T14:59:11
+13372,38ea3ace2b0f,football,Saudi Arabia - Pro League,Al-Qadisiyah,Al-Ahli,2026-09-08T18:00:00Z,total,2.75,2.04,0.5455,0.0271,0.6882,lose,-1.0,2026-09-08,2026-09-08T14:59:11
+13371,73c02c991c58,football,Italy - Serie B,Palermo,Sampdoria,2026-09-07T18:30:00Z,team_total_away,0.5,2.42,0.577,0.0698,0.6823,lose,-1.0,2026-09-07,2026-09-07T15:20:02
+13370,dd8a94782513,football,Portugal - Primeira Liga,Estoril,Arouca,2026-09-07T19:15:00Z,total,2.5,1.9709,0.534,0.0135,0.6835,win,0.9709,2026-09-07,2026-09-07T15:20:02
+13369,e067df122b1f,football,Saudi Arabia - Pro League,Al-Hilal,Neom,2026-09-07T18:00:00Z,total,3.5,1.8696,0.5656,0.0165,0.6857,win,0.8696,2026-09-07,2026-09-07T15:20:02
+13368,7fc57aa2461a,football,Uruguay - Segunda Division,Plaza Colonia,Uruguay Montevideo,2026-09-07T22:00:00Z,team_total_away,0.5,2.14,0.5642,0.0455,0.6861,win,1.14,2026-09-07,2026-09-07T15:20:02
+13367,0206c0d11044,football,Brazil - Serie A,Vitoria,Gremio,2026-09-07T23:00:00Z,team_total_away,0.5,2.74,0.5416,0.0695,0.6866,win,1.74,2026-09-07,2026-09-07T15:20:02
+13366,73c02c991c58,football,Italy - Serie B,Palermo,Sampdoria,2026-09-07T18:30:00Z,team_total_home,1.5,1.9009,0.5414,0.0081,0.6866,lose,-1.0,2026-09-07,2026-09-07T15:20:02
+13365,19883dedc1e3,football,Poland - Ekstraklasa,Wieczysta Krakow,Zaglebie Lubin,2026-09-07T16:00:00Z,total,2.75,1.9434,0.5604,0.0236,0.6872,win,0.9434,2026-09-07,2026-09-07T15:20:02
+13357,74f67130d86f,football,Argentina - Liga Pro,Racing Club,Atletico Tucuman,2026-09-07T00:30:00Z,total,2.0,2.03,0.5002,0.0037,0.5721,lose,-1.0,2026-09-06,2026-09-06T23:38:12
+13356,495841e3b8aa,football,Colombia - Primera B,Patriotas,Tigres,2026-09-07T01:15:00Z,total,2.25,1.9901,0.5318,0.0147,0.5832,lose,-1.0,2026-09-06,2026-09-06T23:38:12
+13355,af33b87d9072,football,Ecuador - Serie A,Aucas,Barcelona SC,2026-09-07T00:00:00Z,total,2.25,1.885,0.5762,0.0243,0.6825,win,0.885,2026-09-06,2026-09-06T23:38:12
+13340,b0b1e96d4580,football,Chile - Segunda Division,Santiago City,Concon National,2026-09-05T19:00:00Z,total,2.5,1.9346,0.5442,0.0141,0.6877,lose,-1.0,2026-09-05,2026-09-05T13:26:14
+13339,4badfe2d8cf1,football,Scotland - League One,Queen of the South,Airdrieonians,2026-09-05T14:00:00Z,total,2.75,1.8929,0.5444,0.0085,0.6878,void,,2026-09-05,2026-09-05T13:26:14
+13338,349f73cf0133,football,Scotland - Premiership,St Mirren,Celtic,2026-09-05T19:00:00Z,total,3.25,1.8547,0.5455,0.0034,0.6882,win,0.8547,2026-09-05,2026-09-05T13:26:14

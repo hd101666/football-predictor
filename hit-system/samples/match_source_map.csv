@@ -1,0 +1,92 @@
+﻿id,match_id_internal,source_name,source_match_id,source_league_name,source_home_name,source_away_name,kickoff_time_source,match_confidence_score,is_manual_locked,created_at
+91,91,fixtures_upcoming,basketball|sporttery_美职女篮|2026-06-08|多伦多节奏|芝加哥天空,sporttery_美职女篮,多伦多节奏,芝加哥天空,2026-06-08 03:00:00,1.0,0,2026-06-07 10:40:46
+90,90,fixtures_upcoming,basketball|sporttery_西篮联|2026-06-08|巴斯克尼亚|约文图特,sporttery_西篮联,巴斯克尼亚,约文图特,2026-06-08 01:00:00,1.0,0,2026-06-07 10:40:46
+89,89,fixtures_upcoming,football|sporttery_premier_league|2026-06-08|希腊|意大利,sporttery_premier_league,希腊,意大利,2026-06-08 03:00:00,1.0,0,2026-06-07 10:40:46
+88,88,fixtures_upcoming,football|sporttery_premier_league|2026-06-08|摩洛哥|挪威,sporttery_premier_league,摩洛哥,挪威,2026-06-08 03:00:00,1.0,0,2026-06-07 10:40:46
+87,87,fixtures_upcoming,football|sporttery_premier_league|2026-06-08|克罗地亚|斯洛文尼亚,sporttery_premier_league,克罗地亚,斯洛文尼亚,2026-06-08 02:45:00,1.0,0,2026-06-07 10:40:46
+86,86,fixtures_upcoming,basketball|sporttery_美职女篮|2026-06-07|拉斯维加斯王牌|金州女武神,sporttery_美职女篮,拉斯维加斯王牌,金州女武神,2026-06-07 03:00:00,1.0,0,2026-06-06 06:00:42
+85,85,fixtures_upcoming,basketball|sporttery_西篮联|2026-06-07|穆尔西亚天主大学|巴塞罗那,sporttery_西篮联,穆尔西亚天主大学,巴塞罗那,2026-06-07 03:00:00,1.0,0,2026-06-06 06:00:42
+84,84,fixtures_upcoming,basketball|sporttery_美职女篮|2026-06-07|明尼苏达天猫|西雅图风暴,sporttery_美职女篮,明尼苏达天猫,西雅图风暴,2026-06-07 01:00:00,1.0,0,2026-06-06 06:00:42
+83,83,fixtures_upcoming,basketball|sporttery_德篮联|2026-06-07|班堡|柏林阿尔巴,sporttery_德篮联,班堡,柏林阿尔巴,2026-06-07 00:30:00,1.0,0,2026-06-06 06:00:42
+82,82,fixtures_upcoming,basketball|sporttery_西篮联|2026-06-07|皇家马德里|特内里费,sporttery_西篮联,皇家马德里,特内里费,2026-06-07 00:00:00,1.0,0,2026-06-06 06:00:42
+81,81,fixtures_upcoming,football|sporttery_premier_league|2026-06-07|玻利维亚|苏格兰,sporttery_premier_league,玻利维亚,苏格兰,2026-06-07 04:00:00,1.0,0,2026-06-06 06:00:42
+80,80,fixtures_upcoming,football|sporttery_premier_league|2026-06-07|英格兰|新西兰,sporttery_premier_league,英格兰,新西兰,2026-06-07 04:00:00,1.0,0,2026-06-06 06:00:42
+79,79,fixtures_upcoming,football|sporttery_premier_league|2026-06-07|巴拿马|波黑,sporttery_premier_league,巴拿马,波黑,2026-06-07 03:00:00,1.0,0,2026-06-06 06:00:42
+78,78,fixtures_upcoming,football|sporttery_premier_league|2026-06-07|澳大利亚|瑞士,sporttery_premier_league,澳大利亚,瑞士,2026-06-07 03:00:00,1.0,0,2026-06-06 06:00:42
+77,77,fixtures_upcoming,football|sporttery_premier_league|2026-06-07|美国|德国,sporttery_premier_league,美国,德国,2026-06-07 02:30:00,1.0,0,2026-06-06 06:00:42
+76,76,fixtures_upcoming,football|sporttery_premier_league|2026-06-07|罗马尼亚|威尔士,sporttery_premier_league,罗马尼亚,威尔士,2026-06-07 01:45:00,1.0,0,2026-06-06 06:00:42
+75,75,fixtures_upcoming,football|sporttery_premier_league|2026-06-07|葡萄牙|智利,sporttery_premier_league,葡萄牙,智利,2026-06-07 01:45:00,1.0,0,2026-06-06 06:00:42
+74,74,fixtures_upcoming,basketball|sporttery_西篮联|2026-06-06|约文图特|巴斯克尼亚,sporttery_西篮联,约文图特,巴斯克尼亚,2026-06-06 03:00:00,1.0,0,2026-06-05 09:00:48
+73,73,fixtures_upcoming,basketball|sporttery_西篮联|2026-06-06|毕尔巴鄂|巴伦西亚,sporttery_西篮联,毕尔巴鄂,巴伦西亚,2026-06-06 01:00:00,1.0,0,2026-06-05 09:00:48
+72,72,fixtures_upcoming,football|sporttery_premier_league|2026-06-06|匈牙利|芬兰,sporttery_premier_league,匈牙利,芬兰,2026-06-06 01:45:00,1.0,0,2026-06-05 09:00:47
+71,71,fixtures_upcoming,football|sporttery_premier_league|2026-06-06|斯洛伐克|黑山,sporttery_premier_league,斯洛伐克,黑山,2026-06-06 00:30:00,1.0,0,2026-06-05 09:00:47
+70,70,fixtures_upcoming,basketball|sporttery_西篮联|2026-06-05|特内里费|皇家马德里,sporttery_西篮联,特内里费,皇家马德里,2026-06-05 03:00:00,1.0,0,2026-06-04 06:06:11
+69,69,fixtures_upcoming,basketball|sporttery_德篮联|2026-06-05|班堡|柏林阿尔巴,sporttery_德篮联,班堡,柏林阿尔巴,2026-06-05 02:30:00,1.0,0,2026-06-04 06:06:11
+68,68,fixtures_upcoming,basketball|sporttery_西篮联|2026-06-05|巴塞罗那|穆尔西亚天主大学,sporttery_西篮联,巴塞罗那,穆尔西亚天主大学,2026-06-05 01:00:00,1.0,0,2026-06-04 06:06:11
+67,67,fixtures_upcoming,basketball|sporttery_德篮联|2026-06-05|波恩|拜仁慕尼黑,sporttery_德篮联,波恩,拜仁慕尼黑,2026-06-05 00:30:00,1.0,0,2026-06-04 06:06:11
+66,66,fixtures_upcoming,football|sporttery_premier_league|2026-06-05|法国|科特迪瓦,sporttery_premier_league,法国,科特迪瓦,2026-06-05 03:10:00,1.0,0,2026-06-04 06:06:11
+65,65,fixtures_upcoming,football|sporttery_premier_league|2026-06-05|西班牙|伊拉克,sporttery_premier_league,西班牙,伊拉克,2026-06-05 03:00:00,1.0,0,2026-06-04 06:06:11
+64,64,fixtures_upcoming,football|sporttery_premier_league|2026-06-05|瑞典|希腊,sporttery_premier_league,瑞典,希腊,2026-06-05 01:00:00,1.0,0,2026-06-04 06:06:11
+63,63,fixtures_upcoming,football|sporttery_premier_league|2026-06-05|斯洛文尼亚|塞浦路斯,sporttery_premier_league,斯洛文尼亚,塞浦路斯,2026-06-05 00:00:00,1.0,0,2026-06-04 06:06:11
+62,62,fixtures_upcoming,basketball|sporttery_西篮联|2026-06-04|巴斯克尼亚|约文图特,sporttery_西篮联,巴斯克尼亚,约文图特,2026-06-04 03:00:00,1.0,0,2026-06-03 03:30:28
+61,61,fixtures_upcoming,basketball|sporttery_西篮联|2026-06-04|巴伦西亚|毕尔巴鄂,sporttery_西篮联,巴伦西亚,毕尔巴鄂,2026-06-04 01:00:00,1.0,0,2026-06-03 03:30:28
+60,60,fixtures_upcoming,football|sporttery_premier_league|2026-06-04|卢森堡|意大利,sporttery_premier_league,卢森堡,意大利,2026-06-04 02:45:00,1.0,0,2026-06-03 03:30:28
+59,59,fixtures_upcoming,football|sporttery_premier_league|2026-06-04|波兰|尼日利亚,sporttery_premier_league,波兰,尼日利亚,2026-06-04 02:45:00,1.0,0,2026-06-03 03:30:28
+58,58,fixtures_upcoming,football|sporttery_premier_league|2026-06-04|荷兰|阿尔及利亚,sporttery_premier_league,荷兰,阿尔及利亚,2026-06-04 02:45:00,1.0,0,2026-06-03 03:30:28
+57,57,fixtures_upcoming,football|sporttery_premier_league|2026-06-04|丹麦|刚果(金),sporttery_premier_league,丹麦,刚果(金),2026-06-04 02:00:00,1.0,0,2026-06-03 03:30:28
+56,56,fixtures_upcoming,basketball|sporttery_西篮联|2026-06-03|皇家马德里|特内里费,sporttery_西篮联,皇家马德里,特内里费,2026-06-03 03:00:00,1.0,0,2026-06-02 13:30:29
+55,55,fixtures_upcoming,basketball|sporttery_西篮联|2026-06-03|穆尔西亚天主大学|巴塞罗那,sporttery_西篮联,穆尔西亚天主大学,巴塞罗那,2026-06-03 01:00:00,1.0,0,2026-06-02 13:30:29
+54,54,fixtures_upcoming,football|sporttery_premier_league|2026-06-03|威尔士|加纳,sporttery_premier_league,威尔士,加纳,2026-06-03 02:45:00,1.0,0,2026-06-02 13:30:29
+53,53,fixtures_upcoming,football|sporttery_premier_league|2026-06-03|格鲁吉亚|罗马尼亚,sporttery_premier_league,格鲁吉亚,罗马尼亚,2026-06-03 01:00:00,1.0,0,2026-06-02 13:30:29
+52,52,fixtures_upcoming,football|sporttery_premier_league|2026-06-03|克罗地亚|比利时,sporttery_premier_league,克罗地亚,比利时,2026-06-03 00:00:00,1.0,0,2026-06-02 13:30:29
+51,51,fixtures_upcoming,basketball|wnba|2026-06-03|Los Angeles Sparks|Las Vegas Aces,wnba,Los Angeles Sparks,Las Vegas Aces,2026-06-03 02:10:00,1.0,0,2026-06-01 16:01:11
+50,50,fixtures_upcoming,basketball|wnba|2026-06-03|Golden State Valkyries|Portland Fire,wnba,Golden State Valkyries,Portland Fire,2026-06-03 02:10:00,1.0,0,2026-06-01 16:01:11
+49,49,fixtures_upcoming,basketball|sporttery_德篮联|2026-06-02|拜仁慕尼黑|波恩,sporttery_德篮联,拜仁慕尼黑,波恩,2026-06-02 02:30:00,1.0,0,2026-06-01 08:53:16
+48,48,fixtures_upcoming,basketball|sporttery_德篮联|2026-06-02|柏林阿尔巴|班堡,sporttery_德篮联,柏林阿尔巴,班堡,2026-06-02 00:30:00,1.0,0,2026-06-01 08:53:16
+47,47,fixtures_upcoming,football|sporttery_premier_league|2026-06-02|奥地利|突尼斯,sporttery_premier_league,奥地利,突尼斯,2026-06-02 02:45:00,1.0,0,2026-06-01 08:53:16
+46,46,fixtures_upcoming,football|sporttery_premier_league|2026-06-02|土耳其|北马其顿,sporttery_premier_league,土耳其,北马其顿,2026-06-02 01:30:00,1.0,0,2026-06-01 08:53:16
+45,45,fixtures_upcoming,football|sporttery_premier_league|2026-06-02|挪威|瑞典,sporttery_premier_league,挪威,瑞典,2026-06-02 01:00:00,1.0,0,2026-06-01 08:53:16
+44,44,fixtures_upcoming,football|sporttery_premier_league|2026-06-02|保加利亚|黑山,sporttery_premier_league,保加利亚,黑山,2026-06-02 00:00:00,1.0,0,2026-06-01 08:53:16
+43,43,fixtures_upcoming,basketball|wnba|2026-06-02|Phoenix Mercury|Minnesota Lynx,wnba,Phoenix Mercury,Minnesota Lynx,2026-06-02 02:00:00,1.0,0,2026-05-31 16:01:34
+42,42,fixtures_upcoming,basketball|wnba|2026-06-02|Dallas Wings|Seattle Storm,wnba,Dallas Wings,Seattle Storm,2026-06-02 00:00:00,1.0,0,2026-05-31 16:01:34
+41,41,fixtures_upcoming,basketball|sporttery_美职女篮|2026-06-01|金州女武神|拉斯维加斯王牌,sporttery_美职女篮,金州女武神,拉斯维加斯王牌,2026-06-01 03:30:00,1.0,0,2026-05-31 03:00:38
+40,40,fixtures_upcoming,basketball|sporttery_西篮联|2026-06-01|巴塞罗那|巴伦西亚,sporttery_西篮联,巴塞罗那,巴伦西亚,2026-06-01 01:00:00,1.0,0,2026-05-31 03:00:38
+39,39,fixtures_upcoming,football|sporttery_premier_league|2026-06-01|美国|塞内加尔,sporttery_premier_league,美国,塞内加尔,2026-06-01 03:30:00,1.0,0,2026-05-31 03:00:38
+38,38,fixtures_upcoming,football|sporttery_premier_league|2026-06-01|德国|芬兰,sporttery_premier_league,德国,芬兰,2026-06-01 02:45:00,1.0,0,2026-05-31 03:00:38
+37,37,fixtures_upcoming,basketball|wnba|2026-05-31|Portland Fire|Indiana Fever,wnba,Portland Fire,Indiana Fever,2026-05-31 00:05:00,1.0,0,2026-05-31 00:01:10
+36,36,fixtures_upcoming,basketball|nba|2026-05-31|Oklahoma City Thunder|San Antonio Spurs,nba,Oklahoma City Thunder,San Antonio Spurs,2026-05-31 00:10:00,1.0,0,2026-05-31 00:01:10
+35,35,fixtures_upcoming,basketball|sporttery_美职女篮|2026-05-31|多伦多节奏|西雅图风暴,sporttery_美职女篮,多伦多节奏,西雅图风暴,2026-05-31 01:00:00,1.0,0,2026-05-30 03:30:39
+34,34,fixtures_upcoming,basketball|wnba|2026-05-30|Portland Fire|Atlanta Dream,wnba,Portland Fire,Atlanta Dream,2026-05-30 02:06:00,1.0,0,2026-05-30 02:30:34
+33,33,fixtures_upcoming,basketball|sporttery_西篮联|2026-05-30|特内里费|毕尔巴鄂,sporttery_西篮联,特内里费,毕尔巴鄂,2026-05-30 02:30:00,1.0,0,2026-05-29 16:00:28
+32,32,fixtures_upcoming,basketball|sporttery_西篮联|2026-05-30|赫罗纳|约文图特,sporttery_西篮联,赫罗纳,约文图特,2026-05-30 02:30:00,1.0,0,2026-05-29 16:00:28
+31,31,fixtures_upcoming,basketball|sporttery_西篮联|2026-05-30|穆尔西亚天主大学|列伊达,sporttery_西篮联,穆尔西亚天主大学,列伊达,2026-05-30 02:30:00,1.0,0,2026-05-29 16:00:28
+30,30,fixtures_upcoming,basketball|sporttery_西篮联|2026-05-30|安道尔BC|巴塞罗那,sporttery_西篮联,安道尔BC,巴塞罗那,2026-05-30 02:30:00,1.0,0,2026-05-29 16:00:28
+29,29,fixtures_upcoming,basketball|sporttery_西篮联|2026-05-30|巴斯克尼亚|马拉加,sporttery_西篮联,巴斯克尼亚,马拉加,2026-05-30 02:30:00,1.0,0,2026-05-29 16:00:28
+28,28,fixtures_upcoming,basketball|sporttery_西篮联|2026-05-30|卢戈|萨拉戈萨,sporttery_西篮联,卢戈,萨拉戈萨,2026-05-30 02:30:00,1.0,0,2026-05-29 16:00:28
+27,27,fixtures_upcoming,basketball|sporttery_西篮联|2026-05-30|巴伦西亚|大加那利,sporttery_西篮联,巴伦西亚,大加那利,2026-05-30 02:30:00,1.0,0,2026-05-29 16:00:28
+26,26,fixtures_upcoming,football|sporttery_欧冠|2026-05-31|巴黎圣日尔曼|阿森纳,sporttery_欧冠,巴黎圣日尔曼,阿森纳,2026-05-31 00:00:00,1.0,0,2026-05-29 16:00:28
+25,25,fixtures_upcoming,football|sporttery_法甲|2026-05-30|尼斯|圣埃蒂安,sporttery_法甲,尼斯,圣埃蒂安,2026-05-30 02:45:00,1.0,0,2026-05-29 16:00:28
+24,24,fixtures_upcoming,football|sporttery_premier_league|2026-05-30|波黑|北马其顿,sporttery_premier_league,波黑,北马其顿,2026-05-30 02:30:00,1.0,0,2026-05-29 16:00:28
+23,23,fixtures_upcoming,football|sporttery_eliteserien|2026-05-30|布兰|萨尔普斯堡,sporttery_eliteserien,布兰,萨尔普斯堡,2026-05-30 01:00:00,1.0,0,2026-05-29 16:00:28
+22,22,fixtures_upcoming,football|sporttery_eliteserien|2026-05-30|罗森博格|博德闪耀,sporttery_eliteserien,罗森博格,博德闪耀,2026-05-30 01:00:00,1.0,0,2026-05-29 16:00:28
+21,21,fixtures_upcoming,football|sporttery_eliteserien|2026-05-30|瓦勒伦加|克里斯蒂安松,sporttery_eliteserien,瓦勒伦加,克里斯蒂安松,2026-05-30 01:00:00,1.0,0,2026-05-29 16:00:28
+20,20,fixtures_upcoming,football|sporttery_eliteserien|2026-05-30|奥勒松|汉坎,sporttery_eliteserien,奥勒松,汉坎,2026-05-30 01:00:00,1.0,0,2026-05-29 16:00:28
+19,19,fixtures_upcoming,football|sporttery_eliteserien|2026-05-30|腓特烈斯塔|斯达,sporttery_eliteserien,腓特烈斯塔,斯达,2026-05-30 01:00:00,1.0,0,2026-05-29 16:00:28
+18,18,fixtures_upcoming,football|sporttery_eliteserien|2026-05-30|奥斯陆KFUM|特罗姆瑟,sporttery_eliteserien,奥斯陆KFUM,特罗姆瑟,2026-05-30 01:00:00,1.0,0,2026-05-29 16:00:28
+17,17,fixtures_upcoming,football|sporttery_allsvenskan|2026-05-30|厄尔格里特|埃尔夫斯堡,sporttery_allsvenskan,厄尔格里特,埃尔夫斯堡,2026-05-30 01:00:00,1.0,0,2026-05-29 16:00:28
+16,16,fixtures_upcoming,football|sporttery_premier_league|2026-05-29|爱尔兰|卡塔尔,sporttery_premier_league,爱尔兰,卡塔尔,2026-05-29 02:45:00,1.0,0,2026-05-28 04:31:13
+15,15,fixtures_upcoming,football|sporttery_葡超|2026-05-29|卡萨皮亚|托林斯,sporttery_葡超,卡萨皮亚,托林斯,2026-05-29 03:00:00,1.0,0,2026-05-27 16:00:58
+14,14,fixtures_upcoming,basketball|sporttery_西篮联|2026-05-28|皇家马德里|巴斯克尼亚,sporttery_西篮联,皇家马德里,巴斯克尼亚,2026-05-28 03:00:00,1.0,0,2026-05-27 06:31:54
+13,13,fixtures_upcoming,basketball|sporttery_德篮联|2026-05-28|波恩|维尔茨堡,sporttery_德篮联,波恩,维尔茨堡,2026-05-28 02:30:00,1.0,0,2026-05-27 06:31:54
+12,12,fixtures_upcoming,basketball|sporttery_德篮联|2026-05-28|柏林阿尔巴|费希塔,sporttery_德篮联,柏林阿尔巴,费希塔,2026-05-28 00:30:00,1.0,0,2026-05-27 06:31:54
+11,11,fixtures_upcoming,football|sporttery_欧协联|2026-05-28|水晶宫|巴列卡诺,sporttery_欧协联,水晶宫,巴列卡诺,2026-05-28 03:00:00,1.0,0,2026-05-27 06:31:54
+10,10,fixtures_upcoming,football|sporttery_bundesliga|2026-05-26|帕德博恩|沃尔夫斯堡,sporttery_bundesliga,帕德博恩,沃尔夫斯堡,2026-05-26 02:30:00,1.0,0,2026-05-25 13:01:15
+9,9,fixtures_upcoming,football|sporttery_eliteserien|2026-05-26|桑纳菲尤尔|腓特烈斯塔,sporttery_eliteserien,桑纳菲尤尔,腓特烈斯塔,2026-05-26 01:15:00,1.0,0,2026-05-25 13:01:15
+8,8,fixtures_upcoming,football|sporttery_allsvenskan|2026-05-26|埃尔夫斯堡|赫根,sporttery_allsvenskan,埃尔夫斯堡,赫根,2026-05-26 01:00:00,1.0,0,2026-05-25 13:01:15
+7,7,fixtures_upcoming,football|sporttery_allsvenskan|2026-05-26|IFK哥德堡|米亚尔比,sporttery_allsvenskan,IFK哥德堡,米亚尔比,2026-05-26 01:00:00,1.0,0,2026-05-25 13:01:15
+6,6,fixtures_upcoming,basketball|wnba|2026-05-26|Golden State Valkyries|Connecticut Sun,wnba,Golden State Valkyries,Connecticut Sun,2026-05-26 02:10:00,1.0,0,2026-05-25 12:00:15
+5,5,fixtures_upcoming,basketball|wnba|2026-05-26|New York Liberty|Portland Fire,wnba,New York Liberty,Portland Fire,2026-05-26 00:10:00,1.0,0,2026-05-25 12:00:15
+4,4,fixtures_upcoming,basketball|wnba|2026-05-26|Golden State Valkyries W|Connecticut Sun W,wnba,Golden State Valkyries W,Connecticut Sun W,2026-05-26 02:00:00,1.0,0,2026-05-25 00:30:41
+3,3,fixtures_upcoming,basketball|nba|2026-05-26|Cleveland Cavaliers|New York Knicks,nba,Cleveland Cavaliers,New York Knicks,2026-05-26 00:00:00,1.0,0,2026-05-25 00:30:41
+2,2,fixtures_upcoming,basketball|wnba|2026-05-26|New York Liberty W|Portland Fire W,wnba,New York Liberty W,Portland Fire W,2026-05-26 00:00:00,1.0,0,2026-05-25 00:30:41
+1,1,fixtures_upcoming,football|mls|2026-05-25|Los Angeles FC|Seattle Sounders,mls,Los Angeles FC,Seattle Sounders,2026-05-25 01:15:00,1.0,0,2026-05-24 17:03:59

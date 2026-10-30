@@ -1,0 +1,101 @@
+﻿id,league,league_id,season,match_date,home_team,away_team,home_score,away_score,status,create_time
+56568,eurocup,,U2024,2025-01-15,Aris Midea Thessaloniki,Cosea JL Bourg-en-Bresse,51.0,92.0,Game Finished,2026-07-29 07:55:28
+56567,eurocup,,U2024,2025-01-15,Umana Reyer Venice,U-BT Cluj-Napoca,77.0,88.0,Game Finished,2026-07-29 07:55:28
+56566,eurocup,,U2024,2025-01-15,Dreamland Gran Canaria,Joventut Badalona,77.0,83.0,Game Finished,2026-07-29 07:55:28
+56565,eurocup,,U2024,2025-01-16,7Bet-Lietkabelis Panevezys,Cedevita Olimpija Ljubljana,78.0,88.0,Game Finished,2026-07-29 07:55:28
+56564,eurocup,,U2024,2025-01-21,U-BT Cluj-Napoca,Turk Telekom Ankara,94.0,81.0,Game Finished,2026-07-29 07:55:28
+56563,eurocup,,U2024,2025-01-21,Veolia Towers Hamburg,7Bet-Lietkabelis Panevezys,84.0,77.0,Game Finished,2026-07-29 07:55:28
+56562,eurocup,,U2024,2025-01-21,Joventut Badalona,Dolomiti Energia Trento,86.0,100.0,Game Finished,2026-07-29 07:55:28
+56561,eurocup,,U2024,2025-01-22,Wolves Twinsbet Vilnius,Dreamland Gran Canaria,88.0,76.0,Game Finished,2026-07-29 07:55:28
+56560,eurocup,,U2024,2025-01-22,Hapoel Shlomo Tel Aviv,Bahcesehir College Istanbul,84.0,77.0,Game Finished,2026-07-29 07:55:28
+56559,eurocup,,U2024,2025-01-22,Besiktas Fibabanka Istanbul,Trefl Sopot,87.0,72.0,Game Finished,2026-07-29 07:55:28
+56558,eurocup,,U2024,2025-01-22,ratiopharm Ulm,Buducnost VOLI Podgorica,82.0,85.0,Game Finished,2026-07-29 07:55:28
+56557,eurocup,,U2024,2025-01-22,Cosea JL Bourg-en-Bresse,Cedevita Olimpija Ljubljana,87.0,82.0,Game Finished,2026-07-29 07:55:28
+56556,eurocup,,U2024,2025-01-22,Valencia Basket,Aris Midea Thessaloniki,106.0,65.0,Game Finished,2026-07-29 07:55:28
+56555,eurocup,,U2024,2025-01-22,Umana Reyer Venice,Hapoel Bank Yahav Jerusalem,76.0,75.0,Game Finished,2026-07-29 07:55:28
+56554,eurocup,,U2024,2025-01-28,Bahcesehir College Istanbul,ratiopharm Ulm,85.0,81.0,Game Finished,2026-07-29 07:55:28
+56553,eurocup,,U2024,2025-01-28,Cedevita Olimpija Ljubljana,Valencia Basket,66.0,72.0,Game Finished,2026-07-29 07:55:28
+56552,eurocup,,U2024,2025-01-28,Dolomiti Energia Trento,Wolves Twinsbet Vilnius,70.0,96.0,Game Finished,2026-07-29 07:55:28
+56551,eurocup,,U2024,2025-01-29,Turk Telekom Ankara,Umana Reyer Venice,84.0,81.0,Game Finished,2026-07-29 07:55:28
+56550,eurocup,,U2024,2025-01-29,Hapoel Shlomo Tel Aviv,Trefl Sopot,91.0,72.0,Game Finished,2026-07-29 07:55:28
+56549,eurocup,,U2024,2025-01-29,7Bet-Lietkabelis Panevezys,U-BT Cluj-Napoca,92.0,91.0,Game Finished,2026-07-29 07:55:28
+56548,eurocup,,U2024,2025-01-29,Buducnost VOLI Podgorica,Joventut Badalona,107.0,75.0,Game Finished,2026-07-29 07:55:28
+56547,eurocup,,U2024,2025-01-29,Aris Midea Thessaloniki,Veolia Towers Hamburg,88.0,90.0,Game Finished,2026-07-29 07:55:28
+56546,eurocup,,U2024,2025-01-29,Cosea JL Bourg-en-Bresse,Hapoel Bank Yahav Jerusalem,67.0,94.0,Game Finished,2026-07-29 07:55:28
+56545,eurocup,,U2024,2025-01-29,Dreamland Gran Canaria,Besiktas Fibabanka Istanbul,90.0,81.0,Game Finished,2026-07-29 07:55:28
+56544,eurocup,,U2024,2025-02-04,Trefl Sopot,Dreamland Gran Canaria,73.0,76.0,Game Finished,2026-07-29 07:55:28
+56543,eurocup,,U2024,2025-02-04,Umana Reyer Venice,7Bet-Lietkabelis Panevezys,91.0,77.0,Game Finished,2026-07-29 07:55:28
+56542,eurocup,,U2024,2025-02-05,Wolves Twinsbet Vilnius,Buducnost VOLI Podgorica,91.0,82.0,Game Finished,2026-07-29 07:55:28
+56541,eurocup,,U2024,2025-02-05,Besiktas Fibabanka Istanbul,Dolomiti Energia Trento,79.0,75.0,Game Finished,2026-07-29 07:55:28
+56540,eurocup,,U2024,2025-02-05,Aris Midea Thessaloniki,U-BT Cluj-Napoca,74.0,89.0,Game Finished,2026-07-29 07:55:28
+56539,eurocup,,U2024,2025-02-05,ratiopharm Ulm,Hapoel Shlomo Tel Aviv,90.0,97.0,Game Finished,2026-07-29 07:55:28
+56538,eurocup,,U2024,2025-02-05,Hapoel Bank Yahav Jerusalem,Turk Telekom Ankara,76.0,66.0,Game Finished,2026-07-29 07:55:28
+56537,eurocup,,U2024,2025-02-05,Veolia Towers Hamburg,Cedevita Olimpija Ljubljana,80.0,62.0,Game Finished,2026-07-29 07:55:28
+56536,eurocup,,U2024,2025-02-05,Joventut Badalona,Bahcesehir College Istanbul,69.0,56.0,Game Finished,2026-07-29 07:55:28
+56535,eurocup,,U2024,2025-02-05,Valencia Basket,Cosea JL Bourg-en-Bresse,100.0,98.0,Game Finished,2026-07-29 07:55:28
+56534,eurocup,,U2024,2025-03-04,Wolves Twinsbet Vilnius,U-BT Cluj-Napoca,99.0,100.0,Game Finished,2026-07-29 07:55:28
+56533,eurocup,,U2024,2025-03-05,Turk Telekom Ankara,Buducnost VOLI Podgorica,93.0,73.0,Game Finished,2026-07-29 07:55:28
+56532,eurocup,,U2024,2025-03-05,Cedevita Olimpija Ljubljana,Besiktas Fibabanka Istanbul,96.0,86.0,Game Finished,2026-07-29 07:55:28
+56531,eurocup,,U2024,2025-03-05,Dreamland Gran Canaria,Umana Reyer Venice,84.0,80.0,Game Finished,2026-07-29 07:55:28
+56530,eurocup,,U2024,2025-03-11,Bahcesehir College Istanbul,Cedevita Olimpija Ljubljana,85.0,81.0,Game Finished,2026-07-29 07:55:28
+56529,eurocup,,U2024,2025-03-11,Hapoel Bank Yahav Jerusalem,Dreamland Gran Canaria,89.0,92.0,Game Finished,2026-07-29 07:55:28
+56528,eurocup,,U2024,2025-03-12,Hapoel Shlomo Tel Aviv,Turk Telekom Ankara,67.0,61.0,Game Finished,2026-07-29 07:55:28
+56527,eurocup,,U2024,2025-03-12,Valencia Basket,U-BT Cluj-Napoca,98.0,74.0,Game Finished,2026-07-29 07:55:28
+56526,eurocup,,U2024,2025-03-25,Bahcesehir College Istanbul,Dreamland Gran Canaria,74.0,66.0,Game Finished,2026-07-29 07:55:28
+56525,eurocup,,U2024,2025-03-25,Valencia Basket,Hapoel Shlomo Tel Aviv,91.0,82.0,Game Finished,2026-07-29 07:55:28
+56524,eurocup,,U2024,2025-03-28,Hapoel Shlomo Tel Aviv,Valencia Basket,96.0,91.0,Game Finished,2026-07-29 07:55:28
+56523,eurocup,,U2024,2025-03-28,Dreamland Gran Canaria,Bahcesehir College Istanbul,69.0,68.0,Game Finished,2026-07-29 07:55:28
+56522,eurocup,,U2024,2025-04-02,Bahcesehir College Istanbul,Dreamland Gran Canaria,72.0,76.0,Game Finished,2026-07-29 07:55:28
+56521,eurocup,,U2024,2025-04-02,Valencia Basket,Hapoel Shlomo Tel Aviv,92.0,94.0,Game Finished,2026-07-29 07:55:28
+56520,eurocup,,U2024,2025-04-08,Hapoel Shlomo Tel Aviv,Dreamland Gran Canaria,74.0,65.0,Game Finished,2026-07-29 07:55:28
+56519,eurocup,,U2024,2025-04-11,Dreamland Gran Canaria,Hapoel Shlomo Tel Aviv,94.0,103.0,Game Finished,2026-07-29 07:55:28
+56518,euroleague,,E2024,2025-03-27,Olympiacos Piraeus,AS Monaco,77.0,80.0,Game Finished,2026-07-29 07:55:28
+56517,euroleague,,E2024,2025-03-27,EA7 Emporio Armani Milan,FC Barcelona,88.0,98.0,Game Finished,2026-07-29 07:55:28
+56516,euroleague,,E2024,2025-03-27,FC Bayern Munich,Partizan Mozzart Bet Belgrade,89.0,74.0,Game Finished,2026-07-29 07:55:28
+56515,euroleague,,E2024,2025-03-28,Anadolu Efes Istanbul,Maccabi Playtika Tel Aviv,90.0,88.0,Game Finished,2026-07-29 07:55:28
+56514,euroleague,,E2024,2025-03-28,Fenerbahce Beko Istanbul,Baskonia Vitoria-Gasteiz,82.0,77.0,Game Finished,2026-07-29 07:55:28
+56513,euroleague,,E2024,2025-03-28,ALBA Berlin,Virtus Segafredo Bologna,64.0,108.0,Game Finished,2026-07-29 07:55:28
+56512,euroleague,,E2024,2025-03-28,Crvena Zvezda Meridianbet Belgrade,Real Madrid,72.0,78.0,Game Finished,2026-07-29 07:55:28
+56511,euroleague,,E2024,2025-03-28,Panathinaikos AKTOR Athens,Paris Basketball,98.0,101.0,Game Finished,2026-07-29 07:55:28
+56510,euroleague,,E2024,2025-04-02,Fenerbahce Beko Istanbul,FC Barcelona,75.0,83.0,Game Finished,2026-07-29 07:55:28
+56509,euroleague,,E2024,2025-04-03,AS Monaco,Panathinaikos AKTOR Athens,76.0,88.0,Game Finished,2026-07-29 07:55:28
+56508,euroleague,,E2024,2025-04-03,Zalgiris Kaunas,Partizan Mozzart Bet Belgrade,70.0,66.0,Game Finished,2026-07-29 07:55:28
+56507,euroleague,,E2024,2025-04-03,Maccabi Playtika Tel Aviv,FC Bayern Munich,93.0,90.0,Game Finished,2026-07-29 07:55:28
+56506,euroleague,,E2024,2025-04-03,Real Madrid,Paris Basketball,105.0,104.0,Game Finished,2026-07-29 07:55:28
+56505,euroleague,,E2024,2025-04-04,ALBA Berlin,Olympiacos Piraeus,92.0,100.0,Game Finished,2026-07-29 07:55:28
+56504,euroleague,,E2024,2025-04-04,Crvena Zvezda Meridianbet Belgrade,Anadolu Efes Istanbul,96.0,97.0,Game Finished,2026-07-29 07:55:28
+56503,euroleague,,E2024,2025-04-04,Baskonia Vitoria-Gasteiz,LDLC ASVEL Villeurbanne,111.0,75.0,Game Finished,2026-07-29 07:55:28
+56502,euroleague,,E2024,2025-04-04,Virtus Segafredo Bologna,EA7 Emporio Armani Milan,90.0,70.0,Game Finished,2026-07-29 07:55:28
+56501,euroleague,,E2024,2025-04-10,LDLC ASVEL Villeurbanne,AS Monaco,78.0,83.0,Game Finished,2026-07-29 07:55:28
+56500,euroleague,,E2024,2025-04-10,FC Bayern Munich,Fenerbahce Beko Istanbul,77.0,89.0,Game Finished,2026-07-29 07:55:28
+56499,euroleague,,E2024,2025-04-10,Olympiacos Piraeus,Maccabi Playtika Tel Aviv,99.0,93.0,Game Finished,2026-07-29 07:55:28
+56498,euroleague,,E2024,2025-04-10,EA7 Emporio Armani Milan,Baskonia Vitoria-Gasteiz,111.0,89.0,Game Finished,2026-07-29 07:55:28
+56497,euroleague,,E2024,2025-04-10,Partizan Mozzart Bet Belgrade,Real Madrid,89.0,91.0,Game Finished,2026-07-29 07:55:28
+56496,euroleague,,E2024,2025-04-10,Paris Basketball,ALBA Berlin,72.0,63.0,Game Finished,2026-07-29 07:55:28
+56495,euroleague,,E2024,2025-04-11,Anadolu Efes Istanbul,Zalgiris Kaunas,87.0,77.0,Game Finished,2026-07-29 07:55:28
+56494,euroleague,,E2024,2025-04-11,Panathinaikos AKTOR Athens,Crvena Zvezda Meridianbet Belgrade,111.0,104.0,Game Finished,2026-07-29 07:55:28
+56493,euroleague,,E2024,2025-04-11,FC Barcelona,Virtus Segafredo Bologna,91.0,87.0,Game Finished,2026-07-29 07:55:28
+56492,euroleague,,E2024,2025-04-15,FC Bayern Munich,Crvena Zvezda Meridianbet Belgrade,97.0,93.0,Game Finished,2026-07-29 07:55:28
+56491,euroleague,,E2024,2025-04-15,Real Madrid,Paris Basketball,73.0,81.0,Game Finished,2026-07-29 07:55:28
+56490,euroleague,,E2024,2025-04-18,Real Madrid,FC Bayern Munich,93.0,71.0,Game Finished,2026-07-29 07:55:28
+56489,euroleague,,E2024,2025-04-22,Fenerbahce Beko Istanbul,Paris Basketball,83.0,78.0,Game Finished,2026-07-29 07:55:28
+56488,euroleague,,E2024,2025-04-22,Panathinaikos AKTOR Athens,Anadolu Efes Istanbul,87.0,83.0,Game Finished,2026-07-29 07:55:28
+56487,euroleague,,E2024,2025-04-23,AS Monaco,FC Barcelona,97.0,80.0,Game Finished,2026-07-29 07:55:28
+56486,euroleague,,E2024,2025-04-23,Olympiacos Piraeus,Real Madrid,84.0,72.0,Game Finished,2026-07-29 07:55:28
+56485,euroleague,,E2024,2025-04-24,Fenerbahce Beko Istanbul,Paris Basketball,89.0,72.0,Game Finished,2026-07-29 07:55:28
+56484,euroleague,,E2024,2025-04-24,Panathinaikos AKTOR Athens,Anadolu Efes Istanbul,76.0,79.0,Game Finished,2026-07-29 07:55:28
+56483,euroleague,,E2024,2025-04-25,AS Monaco,FC Barcelona,92.0,79.0,Game Finished,2026-07-29 07:55:28
+56482,euroleague,,E2024,2025-04-25,Olympiacos Piraeus,Real Madrid,77.0,71.0,Game Finished,2026-07-29 07:55:28
+56481,euroleague,,E2024,2025-04-29,Paris Basketball,Fenerbahce Beko Istanbul,88.0,98.0,Game Finished,2026-07-29 07:55:28
+56480,euroleague,,E2024,2025-04-29,Real Madrid,Olympiacos Piraeus,80.0,72.0,Game Finished,2026-07-29 07:55:28
+56479,euroleague,,E2024,2025-04-30,FC Barcelona,AS Monaco,100.0,89.0,Game Finished,2026-07-29 07:55:28
+56478,euroleague,,E2024,2025-04-30,Anadolu Efes Istanbul,Panathinaikos AKTOR Athens,77.0,81.0,Game Finished,2026-07-29 07:55:28
+56477,euroleague,,E2024,2025-05-01,Real Madrid,Olympiacos Piraeus,84.0,86.0,Game Finished,2026-07-29 07:55:28
+56476,euroleague,,E2024,2025-05-02,Anadolu Efes Istanbul,Panathinaikos AKTOR Athens,85.0,82.0,Game Finished,2026-07-29 07:55:28
+56475,euroleague,,E2024,2025-05-02,FC Barcelona,AS Monaco,79.0,72.0,Game Finished,2026-07-29 07:55:28
+56474,euroleague,,E2024,2025-05-06,AS Monaco,FC Barcelona,85.0,84.0,Game Finished,2026-07-29 07:55:28
+56473,euroleague,,E2024,2025-05-06,Panathinaikos AKTOR Athens,Anadolu Efes Istanbul,75.0,67.0,Game Finished,2026-07-29 07:55:28
+56472,euroleague,,E2024,2025-05-23,Fenerbahce Beko Istanbul,Panathinaikos AKTOR Athens,82.0,76.0,Game Finished,2026-07-29 07:55:28
+56471,euroleague,,E2024,2025-05-23,Olympiacos Piraeus,AS Monaco,68.0,78.0,Game Finished,2026-07-29 07:55:28
+56470,euroleague,,E2024,2025-05-25,Olympiacos Piraeus,Panathinaikos AKTOR Athens,97.0,93.0,Game Finished,2026-07-29 07:55:28
+56469,euroleague,,E2024,2025-05-25,AS Monaco,Fenerbahce Beko Istanbul,70.0,81.0,Game Finished,2026-07-29 07:55:28

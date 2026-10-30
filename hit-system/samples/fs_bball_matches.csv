@@ -1,0 +1,101 @@
+﻿id,flash_id,league_code,league_path,home_team,away_team,kickoff_utc,status,home_score,away_score,home_score_ht,away_score_ht,home_score_q1,home_score_q2,home_score_q3,home_score_q4,away_score_q1,away_score_q2,away_score_q3,away_score_q4,fetch_date
+87884,GQEjF8fJ,africa_bal,/basketball/africa/bal/,Maktown Flyers (Nga),Ville de Dakar (Sen),2026-05-03T14:00:00,FT,62,79,,,15,12,23,12,18,23,19,19,2026-10-12
+87883,rX6xwCnQ,africa_bal,/basketball/africa/bal/,FUS Rabat (Mar),Al Ahly (Egy),2026-05-03T17:00:00,FT,71,77,,,10,14,14,19,10,14,22,11,2026-10-12
+87882,x07NGFcM,africa_bal,/basketball/africa/bal/,Ville de Dakar,Al Ahly,2026-05-22T14:00:00,FT,93,90,,,25,22,22,24,29,16,22,23,2026-10-12
+87881,8rbgBgLq,africa_bal,/basketball/africa/bal/,FUS Rabat,RSSB Tigers,2026-05-22T17:00:00,FT,72,95,,,13,23,23,13,24,21,26,24,2026-10-12
+87880,pQjYNW4k,africa_bal,/basketball/africa/bal/,Club Africain,Al Ahly,2026-05-23T13:00:00,FT,87,88,,,15,31,19,22,28,21,20,19,2026-10-12
+87879,tU1fVECF,africa_bal,/basketball/africa/bal/,Dar City,Petro Atletico,2026-05-23T16:00:00,FT,88,82,,,22,20,16,30,26,20,22,14,2026-10-12
+87878,Y3bnXzr3,africa_bal,/basketball/africa/bal/,Al Ahly,Ville de Dakar,2026-05-24T13:00:00,FT,87,76,,,15,13,32,27,18,16,25,17,2026-10-12
+87877,tdd19Xkd,africa_bal,/basketball/africa/bal/,RSSB Tigers,FUS Rabat,2026-05-24T16:00:00,FT,98,99,,,14,30,26,28,32,19,20,28,2026-10-12
+87876,jNgtMAZ1,africa_bal,/basketball/africa/bal/,Al Ahly,Club Africain,2026-05-25T14:00:00,FT,98,80,,,30,20,23,25,20,24,13,23,2026-10-12
+87875,Es02ThsS,africa_bal,/basketball/africa/bal/,Petro Atletico,Dar City,2026-05-25T17:00:00,FT,83,69,,,26,20,22,15,16,19,17,17,2026-10-12
+87874,Q9keNkuH,africa_bal,/basketball/africa/bal/,Al Ahly,RSSB Tigers,2026-05-27T17:00:00,FT,97,106,,,24,26,26,21,24,26,30,26,2026-10-12
+87873,vgimPBA4,africa_bal,/basketball/africa/bal/,Petro Atletico,Al Ahly,2026-05-28T17:00:00,FT,94,88,,,23,20,22,29,24,24,22,18,2026-10-12
+87872,vsiWtKSh,africa_bal,/basketball/africa/bal/,Al Ahly,Al Ahly,2026-05-31T13:00:00,FT,106,98,,,25,27,25,29,23,15,35,25,2026-10-12
+87871,Cfkvubc5,africa_bal,/basketball/africa/bal/,Petro Atletico,RSSB Tigers,2026-05-31T16:00:00,FT,88,90,,,27,10,22,29,16,26,19,29,2026-10-12
+87856,pYbZlc6s,lebanon_d1,/basketball/lebanon/division-1/,Antonine,Al-Riyadi,2026-07-12T18:30:00,FT,57,74,,,13,14,15,15,17,18,21,18,2026-10-12
+87855,CSbcqgzJ,lebanon_d1,/basketball/lebanon/division-1/,Al Markazia,Sagesse Beirut,2026-07-13T18:30:00,FT,93,100,,,26,34,12,21,26,21,27,26,2026-10-12
+87854,Wlcsmyyf,lebanon_d1,/basketball/lebanon/division-1/,Al-Riyadi,Antonine,2026-07-14T17:30:00,FT,113,81,,,30,26,29,28,19,15,21,26,2026-10-12
+87853,vZjq7dSP,lebanon_d1,/basketball/lebanon/division-1/,Sagesse Beirut,Al Markazia,2026-07-15T17:30:00,FT,74,75,,,23,11,22,18,14,22,16,23,2026-10-12
+87852,IavhLuRO,lebanon_d1,/basketball/lebanon/division-1/,Antonine,Al-Riyadi,2026-07-17T18:30:00,FT,65,90,,,9,19,20,17,21,20,25,24,2026-10-12
+87851,bqi2O24U,lebanon_d1,/basketball/lebanon/division-1/,Al Markazia,Sagesse Beirut,2026-07-18T18:30:00,FT,83,95,,,20,27,14,22,26,23,22,24,2026-10-12
+87850,YFEikeoC,lebanon_d1,/basketball/lebanon/division-1/,Al-Riyadi,Sagesse Beirut,2026-07-22T18:30:00,FT,92,89,,,33,24,19,16,22,23,17,27,2026-10-12
+87849,vDHamZFO,lebanon_d1,/basketball/lebanon/division-1/,Sagesse Beirut,Al-Riyadi,2026-07-24T18:30:00,FT,101,96,,,24,23,26,28,18,21,31,26,2026-10-12
+87848,fPi97x1t,lebanon_d1,/basketball/lebanon/division-1/,Al-Riyadi,Sagesse Beirut,2026-07-26T18:40:00,FT,87,85,,,20,26,19,22,24,14,24,23,2026-10-12
+87847,2keH5GVh,lebanon_d1,/basketball/lebanon/division-1/,Sagesse Beirut,Al-Riyadi,2026-07-28T18:30:00,FT,90,78,,,27,16,19,28,18,18,24,18,2026-10-12
+87846,IeWykGQO,lebanon_d1,/basketball/lebanon/division-1/,Al-Riyadi,Sagesse Beirut,2026-07-30T18:30:00,FT,99,86,,,29,34,16,20,16,31,20,19,2026-10-12
+87845,jsKpW3Il,lebanon_d1,/basketball/lebanon/division-1/,Sagesse Beirut,Al-Riyadi,2026-08-01T18:30:00,FT,96,65,,,26,23,21,26,15,15,15,20,2026-10-12
+87844,hlFZMPbm,lebanon_d1,/basketball/lebanon/division-1/,Al-Riyadi,Sagesse Beirut,2026-08-03T18:30:00,FT,100,79,,,23,32,25,20,24,15,24,16,2026-10-12
+87830,00TdfgwR,argentina_la,/basketball/argentina/liga-a/,Gimnasia,La Union,2026-10-04T23:30:00,FT,92,86,,,21,30,17,24,16,19,28,23,2026-10-12
+87829,WrKSlX0l,argentina_la,/basketball/argentina/liga-a/,Quimsa,Atenas,2026-10-06T01:05:00,FT,83,77,,,16,27,23,17,21,23,13,20,2026-10-12
+87828,CMLrok0D,argentina_la,/basketball/argentina/liga-a/,Platense,La Union,2026-10-06T23:30:00,FT,86,90,,,19,19,22,26,28,29,20,13,2026-10-12
+87827,KtEa3WFs,argentina_la,/basketball/argentina/liga-a/,Boca Juniors,Obera TC,2026-10-08T00:05:00,FT,96,73,,,26,30,21,19,21,11,21,20,2026-10-12
+87826,OAST8hhK,argentina_la,/basketball/argentina/liga-a/,Olimpico,Atenas,2026-10-08T01:00:00,FT,87,91,,,17,24,25,21,21,17,29,24,2026-10-12
+87825,zXKFalF6,argentina_la,/basketball/argentina/liga-a/,Racing de Chivilcoy,San Martin,2026-10-09T00:00:00,FT,126,123,,,30,16,19,25,18,23,23,26,2026-10-12
+87824,8pJNcSqJ,argentina_la,/basketball/argentina/liga-a/,Independiente de Oliva,Ferro,2026-10-09T00:30:00,FT,92,97,,,28,23,23,18,33,14,27,23,2026-10-12
+87823,CGUY4qin,argentina_la,/basketball/argentina/liga-a/,San Lorenzo,Gimnasia,2026-10-09T01:05:00,FT,89,73,,,20,18,29,22,22,18,14,19,2026-10-12
+87822,KtYt3NLb,argentina_la,/basketball/argentina/liga-a/,Lanus,Obera TC,2026-10-09T23:30:00,FT,67,58,,,12,25,12,18,14,15,14,15,2026-10-12
+87821,0KZdauLN,argentina_la,/basketball/argentina/liga-a/,Instituto de Cordoba,Ferro,2026-10-10T14:30:00,FT,97,94,,,12,20,22,19,17,22,12,22,2026-10-12
+87820,hfWl11jB,argentina_la,/basketball/argentina/liga-a/,Argentino,San Martin,2026-10-11T00:00:00,FT,82,79,,,28,17,15,22,24,16,16,23,2026-10-12
+87819,4vHTAp4S,argentina_la,/basketball/argentina/liga-a/,Quimsa,Boca Juniors,2026-10-11T00:05:00,FT,105,96,,,23,26,31,25,33,21,21,21,2026-10-12
+87818,UZPSgJro,argentina_la,/basketball/argentina/liga-a/,Racing de Chivilcoy,Gimnasia,2026-10-11T00:30:00,FT,72,78,,,18,19,16,19,20,17,16,25,2026-10-12
+87804,tzPySQpI,brazil_nbb,/basketball/brazil/nbb/,Brasilia,Corinthians Paulista,2026-10-22T23:15:00,1H,,,,,,,,,,,,,2026-10-12
+87803,2PNLV8og,brazil_nbb,/basketball/brazil/nbb/,Uniao Corinthians,Minas,2026-10-22T22:30:00,1H,,,,,,,,,,,,,2026-10-12
+87802,8MQTTnG5,brazil_nbb,/basketball/brazil/nbb/,Cearense,Pinheiros,2026-10-22T22:30:00,1H,,,,,,,,,,,,,2026-10-12
+87801,faKDXUGt,brazil_nbb,/basketball/brazil/nbb/,Pato,Paulistano,2026-10-21T22:30:00,1H,,,,,,,,,,,,,2026-10-12
+87800,vmp4DRVO,brazil_nbb,/basketball/brazil/nbb/,Franca,Mogi,2026-10-21T22:30:00,1H,,,,,,,,,,,,,2026-10-12
+87799,WMtdFm1C,brazil_nbb,/basketball/brazil/nbb/,Bauru,Sao Jose,2026-10-21T22:30:00,1H,,,,,,,,,,,,,2026-10-12
+87798,beTlH9Wa,brazil_nbb,/basketball/brazil/nbb/,Flamengo,Botafogo,2026-10-20T23:00:00,1H,,,,,,,,,,,,,2026-10-12
+87797,QsVtJV1m,brazil_nbb,/basketball/brazil/nbb/,Cearense,Osasco,2026-10-20T22:30:00,1H,,,,,,,,,,,,,2026-10-12
+87796,Kr39yvIE,brazil_nbb,/basketball/brazil/nbb/,Caxias do Sul,Minas,2026-10-20T22:30:00,1H,,,,,,,,,,,,,2026-10-12
+87795,hxBNDzQ7,brazil_nbb,/basketball/brazil/nbb/,Unifacisa,Pinheiros,2026-10-19T22:30:00,1H,,,,,,,,,,,,,2026-10-12
+87794,KOCFFdee,brazil_nbb,/basketball/brazil/nbb/,Uniao Corinthians,Cruzeiro,2026-10-19T22:30:00,1H,,,,,,,,,,,,,2026-10-12
+87793,ER97HIQr,brazil_nbb,/basketball/brazil/nbb/,Franca,Sao Jose,2026-10-19T22:30:00,1H,,,,,,,,,,,,,2026-10-12
+87792,rqJyNv3L,brazil_nbb,/basketball/brazil/nbb/,Flamengo,Bauru,2026-10-18T14:00:00,1H,,,,,,,,,,,,,2026-10-12
+87791,AVKTO0Y8,brazil_nbb,/basketball/brazil/nbb/,Unifacisa,Osasco,2026-10-17T21:30:00,1H,,,,,,,,,,,,,2026-10-12
+87790,rPSs1ct2,brazil_nbb,/basketball/brazil/nbb/,Caxias do Sul,Cruzeiro,2026-10-17T21:00:00,1H,,,,,,,,,,,,,2026-10-12
+87789,d8UZ2JBk,brazil_nbb,/basketball/brazil/nbb/,Mogi,Corinthians Paulista,2026-10-17T19:00:00,1H,,,,,,,,,,,,,2026-10-12
+87772,xjnoLove,taiwan_tpbl,/basketball/taiwan/tpbl/,New Taipei CTBC DEA,Kaohsiung Aquas,2026-11-14T09:00:00,1H,,,,,,,,,,,,,2026-10-12
+87771,WhqwN79r,taiwan_tpbl,/basketball/taiwan/tpbl/,Taiwan Beer Leopards,Hsinchu Jko Lioneers,2026-11-14T06:30:00,1H,,,,,,,,,,,,,2026-10-12
+87770,0Ah7SToL,taiwan_tpbl,/basketball/taiwan/tpbl/,Taipei Taishin Mars,Taiwan Beer Leopards,2026-11-08T06:30:00,1H,,,,,,,,,,,,,2026-10-12
+87769,SdfaUkH8,taiwan_tpbl,/basketball/taiwan/tpbl/,Taipei Taishin Mars,Formosa Dreamers,2026-11-07T06:30:00,1H,,,,,,,,,,,,,2026-10-12
+87768,bNFFMwb2,taiwan_tpbl,/basketball/taiwan/tpbl/,Kaohsiung Aquas,New Taipei CTBC DEA,2026-11-01T09:00:00,1H,,,,,,,,,,,,,2026-10-12
+87767,Qe28OaTk,taiwan_tpbl,/basketball/taiwan/tpbl/,New Taipei Kings,Hsinchu Jko Lioneers,2026-11-01T06:30:00,1H,,,,,,,,,,,,,2026-10-12
+87766,UPGxUL5S,taiwan_tpbl,/basketball/taiwan/tpbl/,Kaohsiung Aquas,Taipei Taishin Mars,2026-10-31T09:00:00,1H,,,,,,,,,,,,,2026-10-12
+87765,MaDUVsyG,taiwan_tpbl,/basketball/taiwan/tpbl/,New Taipei Kings,Taiwan Beer Leopards,2026-10-31T06:30:00,1H,,,,,,,,,,,,,2026-10-12
+87764,EZ9MX363,taiwan_tpbl,/basketball/taiwan/tpbl/,New Taipei CTBC DEA,New Taipei Kings,2026-10-25T09:00:00,1H,,,,,,,,,,,,,2026-10-12
+87763,MuNzA0Ed,taiwan_tpbl,/basketball/taiwan/tpbl/,Hsinchu Jko Lioneers,Kaohsiung Aquas,2026-10-25T06:30:00,1H,,,,,,,,,,,,,2026-10-12
+87762,GrKSBMqp,taiwan_tpbl,/basketball/taiwan/tpbl/,New Taipei CTBC DEA,Taipei Taishin Mars,2026-10-24T09:00:00,1H,,,,,,,,,,,,,2026-10-12
+87761,p0TdHrMM,taiwan_tpbl,/basketball/taiwan/tpbl/,Hsinchu Jko Lioneers,Formosa Dreamers,2026-10-24T06:30:00,1H,,,,,,,,,,,,,2026-10-12
+87760,CnVlJ4iA,taiwan_tpbl,/basketball/taiwan/tpbl/,Formosa Dreamers,Kaohsiung Aquas,2026-10-18T09:00:00,1H,,,,,,,,,,,,,2026-10-12
+87759,4MRtLQMc,taiwan_tpbl,/basketball/taiwan/tpbl/,Formosa Dreamers,New Taipei Kings,2026-10-17T09:00:00,1H,,,,,,,,,,,,,2026-10-12
+87744,j5cHQZA6,nz_nbl,/basketball/new-zealand/nbl/,Canterbury Rams,Auckland Tuatara,2026-07-19T03:00:00,FT,91,80,,,17,25,25,24,9,21,20,30,2026-10-12
+87743,OIePODuJ,nz_nbl,/basketball/new-zealand/nbl/,Franklin Bulls,Taranaki Airs,2026-07-19T06:00:00,FT,84,81,,,15,17,34,18,22,27,18,14,2026-10-12
+87742,x02yWUnn,nz_nbl,/basketball/new-zealand/nbl/,Tauranga Whai,Otago Nuggets,2026-07-22T07:00:00,FT,107,66,,,35,21,28,23,19,16,18,13,2026-10-12
+87741,pQ5qU8Hb,nz_nbl,/basketball/new-zealand/nbl/,Bay Hawks,Wellington Saints,2026-07-23T07:00:00,FT,82,107,,,20,23,12,27,42,16,25,24,2026-10-12
+87740,6ufhSnnB,nz_nbl,/basketball/new-zealand/nbl/,Manawatu Jets,Franklin Bulls,2026-07-24T07:30:00,FT,122,76,,,28,36,30,28,12,23,24,17,2026-10-12
+87739,hdh0QQGN,nz_nbl,/basketball/new-zealand/nbl/,Wellington Saints,Southland Sharks,2026-07-25T04:00:00,FT,119,94,,,23,32,40,24,23,26,23,22,2026-10-12
+87738,CtZWK4vo,nz_nbl,/basketball/new-zealand/nbl/,Nelson Giants,Tauranga Whai,2026-07-25T07:30:00,FT,78,91,,,23,10,25,20,22,25,29,15,2026-10-12
+87737,4zMIr8Wi,nz_nbl,/basketball/new-zealand/nbl/,Auckland Tuatara,Taranaki Airs,2026-07-26T03:00:00,FT,109,85,,,26,24,28,31,15,26,26,18,2026-10-12
+87736,02FRtn14,nz_nbl,/basketball/new-zealand/nbl/,Canterbury Rams,Franklin Bulls,2026-07-26T06:00:00,FT,89,66,,,27,22,27,13,19,21,14,12,2026-10-12
+87735,YP3daM2L,nz_nbl,/basketball/new-zealand/nbl/,Southland Sharks,Tauranga Whai,2026-07-29T07:00:00,FT,96,81,,,22,20,30,24,29,24,15,13,2026-10-12
+87734,tIok1rY8,nz_nbl,/basketball/new-zealand/nbl/,Wellington Saints,Otago Nuggets,2026-07-30T07:00:00,FT,94,81,,,24,27,24,19,21,26,13,21,2026-10-12
+87733,zqJkvc0s,nz_nbl,/basketball/new-zealand/nbl/,Auckland Tuatara,Wellington Saints,2026-08-01T03:00:00,FT,69,112,,,26,20,7,16,31,29,33,19,2026-10-12
+87732,GMfb548L,nz_nbl,/basketball/new-zealand/nbl/,Canterbury Rams,Southland Sharks,2026-08-02T06:00:00,FT,74,84,,,24,19,20,11,33,15,15,21,2026-10-12
+87731,8p9ngzkC,nz_nbl,/basketball/new-zealand/nbl/,Southland Sharks,Wellington Saints,2026-08-09T03:00:00,FT,104,101,,,21,24,23,23,25,16,31,19,2026-10-12
+87716,MLQ12MFc,australia_nbl,/basketball/australia/nbl/,Illawarra Hawks,Adelaide,2026-10-02T09:30:00,FT,114,92,,,35,30,27,22,21,14,32,25,2026-10-12
+87715,UoU900pA,australia_nbl,/basketball/australia/nbl/,Perth,South East Melbourne,2026-10-02T11:30:00,FT,92,88,,,26,22,22,22,24,22,21,21,2026-10-12
+87714,xCXHbvFM,australia_nbl,/basketball/australia/nbl/,Brisbane Bullets,Tasmania JackJumpers,2026-10-03T07:30:00,FT,99,109,,,23,24,18,26,17,23,34,17,2026-10-12
+87713,YsJmgIxp,australia_nbl,/basketball/australia/nbl/,Melbourne United,Cairns Taipans,2026-10-03T09:30:00,FT,95,107,,,14,32,35,14,18,29,25,35,2026-10-12
+87712,69Wfid7d,australia_nbl,/basketball/australia/nbl/,South East Melbourne,Illawarra Hawks,2026-10-04T04:05:00,FT,113,96,,,23,36,26,28,23,18,32,23,2026-10-12
+87711,0QbrzANp,australia_nbl,/basketball/australia/nbl/,Adelaide,New Zealand Breakers,2026-10-04T06:00:00,FT,72,88,,,19,23,15,15,23,25,12,28,2026-10-12
+87710,YFOtFaa3,australia_nbl,/basketball/australia/nbl/,Adelaide,Melbourne United,2026-10-07T08:30:00,FT,91,96,,,21,17,21,32,31,25,20,20,2026-10-12
+87709,6TMlDwUF,australia_nbl,/basketball/australia/nbl/,Cairns Taipans,Brisbane Bullets,2026-10-08T08:30:00,FT,97,91,,,23,24,27,23,17,33,22,19,2026-10-12
+87708,EgQdBHbS,australia_nbl,/basketball/australia/nbl/,Illawarra Hawks,Tasmania JackJumpers,2026-10-09T08:30:00,FT,112,122,,,22,25,26,39,32,35,24,31,2026-10-12
+87707,r9GS5eMk,australia_nbl,/basketball/australia/nbl/,South East Melbourne,Melbourne United,2026-10-10T08:30:00,FT,99,104,,,30,23,21,25,17,28,29,30,2026-10-12
+87706,CE5TcDFi,australia_nbl,/basketball/australia/nbl/,Perth,New Zealand Breakers,2026-10-10T10:30:00,FT,100,84,,,21,20,29,30,22,16,28,18,2026-10-12
+87705,GMEz4Zj2,australia_nbl,/basketball/australia/nbl/,Sydney,Adelaide,2026-10-11T04:00:00,FT,78,84,,,18,26,12,22,18,23,20,23,2026-10-12
+87704,rT6MRxq9,australia_nbl,/basketball/australia/nbl/,Illawarra Hawks,Cairns Taipans,2026-10-11T06:00:00,FT,100,110,,,27,23,27,23,28,29,29,24,2026-10-12
+87690,0bWgJQeS,cba,/basketball/china/cba/,Xinjiang,Tianjin,2026-10-20T12:00:00,1H,,,,,,,,,,,,,2026-10-12
+87689,hExha54d,cba,/basketball/china/cba/,Ningbo Rockets,Shanxi Zhongyu,2026-10-20T11:35:00,1H,,,,,,,,,,,,,2026-10-12
+87688,f7hDJZkB,cba,/basketball/china/cba/,Nanjing Tongxi,Guangzhou,2026-10-20T11:35:00,1H,,,,,,,,,,,,,2026-10-12

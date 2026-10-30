@@ -1,0 +1,101 @@
+﻿id,matchup_id,sport_code,league_id,league_name,home_team,away_team,kickoff_utc,status,home_score,away_score,fetch_date,created_at
+17724,1638755556,basketball,224222,UAE - Dubai IBC,Al Riyadi,Al Ahli (UAE),2026-10-20 17:30:00,pending,,,2026-10-20,2026-10-20 04:28:56
+17723,1638784507,basketball,224222,UAE - Dubai IBC,Club Antonin Sportif,AL Ahly SC (Egy),2026-10-20 14:30:00,pending,,,2026-10-20,2026-10-20 04:28:56
+17722,1638394698,basketball,374,Europe - VTB United League,Samara,Zenit St Petersburg,2026-10-21 15:00:00,pending,,,2026-10-20,2026-10-20 04:28:50
+17721,1638336906,basketball,415,France - Championnat Pro B,Evreux,Nantes Atlantique,2026-10-20 18:00:00,pending,,,2026-10-20,2026-10-20 04:28:46
+17720,1638336722,basketball,415,France - Championnat Pro B,Antibes,ASC Denain,2026-10-20 18:30:00,pending,,,2026-10-20,2026-10-20 04:28:46
+17719,1638336807,basketball,415,France - Championnat Pro B,Champagne Chalons-Reims,Vichy-Clermont,2026-10-20 18:00:00,pending,,,2026-10-20,2026-10-20 04:28:46
+17718,1638336806,basketball,415,France - Championnat Pro B,Rouen,Stade Rochelais,2026-10-20 18:00:00,pending,,,2026-10-20,2026-10-20 04:28:46
+17717,1638754689,basketball,415,France - Championnat Pro B,Caen Basket Calvados,Quimper,2026-10-20 18:00:00,pending,,,2026-10-20,2026-10-20 04:28:46
+17716,1638336921,basketball,415,France - Championnat Pro B,AS Alsace Gries-Souffel,SCABB,2026-10-20 18:30:00,pending,,,2026-10-20,2026-10-20 04:28:46
+17715,1638336805,basketball,415,France - Championnat Pro B,Orleans Loiret Basket,Blois,2026-10-20 18:00:00,pending,,,2026-10-20,2026-10-20 04:28:46
+17714,1638407369,basketball,439,Greece - Elite League,Psychikou,Ne Megaridas,2026-10-20 14:00:00,pending,,,2026-10-20,2026-10-20 04:28:40
+17713,1638406807,basketball,439,Greece - Elite League,AEPS Machites Peiramatiko,Kronos Agiou Dimitriou,2026-10-20 14:00:00,pending,,,2026-10-20,2026-10-20 04:28:40
+17712,1638621788,basketball,439,Greece - Elite League,AEO Proteas Voulas,GS Lavrio,2026-10-21 14:00:00,pending,,,2026-10-20,2026-10-20 04:28:40
+17711,1638336754,basketball,213144,Iceland - Premier League Women,Valur Reykjavik,Haukar,2026-10-20 19:15:00,pending,,,2026-10-20,2026-10-20 04:28:33
+17710,1638336923,basketball,213144,Iceland - Premier League Women,Stjarnan FC,UMF Tindastoll,2026-10-20 18:30:00,pending,,,2026-10-20,2026-10-20 04:28:33
+17709,1638407372,basketball,213144,Iceland - Premier League Women,UMF Grindavik,Keflavik,2026-10-21 19:15:00,pending,,,2026-10-20,2026-10-20 04:28:33
+17708,1638407371,basketball,213144,Iceland - Premier League Women,KR Reykjavik,Armann,2026-10-21 19:15:00,pending,,,2026-10-20,2026-10-20 04:28:33
+17707,1638336857,basketball,274,Argentina - Liga Nacional,San Martin Corrientes,Ciclista Olimpico de La Banda,2026-10-21 00:00:00,pending,,,2026-10-20,2026-10-20 04:28:28
+17706,1638336973,basketball,274,Argentina - Liga Nacional,Ferro,Platense,2026-10-21 00:30:00,pending,,,2026-10-20,2026-10-20 04:28:28
+17705,1638415367,basketball,274,Argentina - Liga Nacional,Club Atletico Argentino de Junín,Atletico Boca Juniors,2026-10-22 00:00:00,pending,,,2026-10-20,2026-10-20 04:28:28
+17704,1638761180,basketball,277068,Hong Kong Silver Shield Cup - Women,Tsuen Wan,Kwan On,2026-10-20 11:00:00,pending,,,2026-10-20,2026-10-20 04:28:21
+17703,1638323753,basketball,484,Lithuania - Cup,BC Jurbarkas-Karys,Nevezis,2026-10-20 16:00:00,pending,,,2026-10-20,2026-10-20 04:28:15
+17702,1638466590,basketball,217791,Hong Kong BL,Hon Friends,Jinlong WTS,2026-10-20 12:40:00,pending,,,2026-10-20,2026-10-20 04:28:10
+17701,1638761161,basketball,216284,Puerto Rico - Superior Nacional Women,Ganaderas de Hatillo,Explosivas de Moca,2026-10-22 00:00:00,pending,,,2026-10-20,2026-10-20 04:27:55
+17700,1638758805,basketball,216284,Puerto Rico - Superior Nacional Women,Cangrejeras de Santurce,Pollitas de Isabela,2026-10-22 00:00:00,pending,,,2026-10-20,2026-10-20 04:27:55
+17699,1638761159,basketball,216284,Puerto Rico - Superior Nacional Women,Cariduros de Fajardo,Atenienses de Manati,2026-10-22 00:00:00,pending,,,2026-10-20,2026-10-20 04:27:55
+17698,1638761162,basketball,216284,Puerto Rico - Superior Nacional Women,Monarcas Juana Diaz,Gigantes de Carolina,2026-10-22 00:00:00,pending,,,2026-10-20,2026-10-20 04:27:55
+17697,1638761160,basketball,216284,Puerto Rico - Superior Nacional Women,Criollos De Caguas,Leonas De Ponce,2026-10-22 00:00:00,pending,,,2026-10-20,2026-10-20 04:27:55
+17696,1638766951,basketball,486,Mexico - Liga Nacional de Baloncesto Profesional,Soles de Mexicali,Abejas de Leon,2026-10-20 03:00:00,started,,,2026-10-20,2026-10-20 04:27:49
+17695,1638766212,basketball,486,Mexico - Liga Nacional de Baloncesto Profesional,Panteras de Aguascalientes,Lobos Plateados,2026-10-20 02:30:00,started,,,2026-10-20,2026-10-20 04:27:49
+17694,1638765872,basketball,486,Mexico - Liga Nacional de Baloncesto Profesional,Fuerza Regia de Monterrey,Dorados de Chihuahua,2026-10-20 02:15:00,started,,,2026-10-20,2026-10-20 04:27:49
+17693,1638305743,basketball,303,China - CBA,Fujian Sturgeons,Zhejiang Guangsha Lions,2026-10-20 11:35:00,pending,,,2026-10-20,2026-10-20 04:27:42
+17692,1638305835,basketball,303,China - CBA,Ningbo Rockets,Shanxi Loongs,2026-10-20 11:35:00,pending,,,2026-10-20,2026-10-20 04:27:42
+17691,1638305748,basketball,303,China - CBA,Xinjiang Flying Tigers,Tianjin Pioneers,2026-10-20 12:00:00,pending,,,2026-10-20,2026-10-20 04:27:42
+17690,1638293041,basketball,303,China - CBA,Nanjing Monkey Kings,Guangzhou Loong Lions,2026-10-20 11:35:00,pending,,,2026-10-20,2026-10-20 04:27:42
+17689,1638305742,basketball,303,China - CBA,Beijing Ducks,Guangdong Southern Tigers,2026-10-20 11:35:00,pending,,,2026-10-20,2026-10-20 04:27:42
+17688,1638305834,basketball,303,China - CBA,Jilin Northeast Tigers,Sichuan Blue Whales,2026-10-20 11:35:00,pending,,,2026-10-20,2026-10-20 04:27:42
+17687,1638397739,basketball,216542,Sweden - Superettan,Eskilstuna Basket,Fryshuset Basketbollklubb,2026-10-21 17:00:00,pending,,,2026-10-20,2026-10-20 04:27:31
+17686,1638397740,basketball,216542,Sweden - Superettan,Alvik Basket,Djurgarden Basket,2026-10-21 17:00:00,pending,,,2026-10-20,2026-10-20 04:27:31
+17685,1638420779,basketball,5251,Uruguay - Liga,Urunday Universitario,CA Penarol,2026-10-22 00:30:00,pending,,,2026-10-20,2026-10-20 04:27:25
+17684,1638466609,basketball,5251,Uruguay - Liga,Club Nacional,Aguada,2026-10-21 00:30:00,pending,,,2026-10-20,2026-10-20 04:27:25
+17683,1638470482,basketball,207008,Colombia - Baloncesto Profesional Colombiano,Toros del Valle,Caribbean Storm Islands,2026-10-21 01:30:00,pending,,,2026-10-20,2026-10-20 04:27:18
+17682,1638407433,basketball,293,Brazil - Novo Basquete Brasil,Pato Basquete,Paulistano,2026-10-21 22:30:00,pending,,,2026-10-20,2026-10-20 04:27:13
+17681,1638339051,basketball,293,Brazil - Novo Basquete Brasil,Fortaleza Basquete Cearense,Basket Osasco,2026-10-20 22:30:00,pending,,,2026-10-20,2026-10-20 04:27:13
+17680,1638339054,basketball,293,Brazil - Novo Basquete Brasil,Flamengo RJ,Botafogo,2026-10-20 21:00:00,pending,,,2026-10-20,2026-10-20 04:27:13
+17679,1638339163,basketball,293,Brazil - Novo Basquete Brasil,Caxias Do Sul,Minas Tenis Clube MG,2026-10-20 22:30:00,pending,,,2026-10-20,2026-10-20 04:27:13
+17678,1638755493,basketball,228035,Philippines - UAAP,UP Fighting Maroons,UST Growling Tigers,2026-10-21 09:00:00,pending,,,2026-10-20,2026-10-20 04:27:07
+17677,1638754640,basketball,228035,Philippines - UAAP,DLSU Green Archers,UE Red Warriors,2026-10-21 06:30:00,pending,,,2026-10-20,2026-10-20 04:27:07
+17676,1638407363,basketball,548,Slovenia - 1. SKL,KD Ilirija,Tajfun Sentjur,2026-10-21 16:00:00,pending,,,2026-10-20,2026-10-20 04:27:01
+17675,1638449838,basketball,548,Slovenia - 1. SKL,Kk Rogaska,KK Krka Novo Mesto,2026-10-20 15:00:00,pending,,,2026-10-20,2026-10-20 04:27:01
+17674,1638406801,basketball,216738,Switzerland - NLB,Lugano Tigers U23,SAV Vacallo Basket,2026-10-21 18:30:00,pending,,,2026-10-20,2026-10-20 04:26:55
+17673,1638758804,basketball,210245,Slovakia - Extraliga Women,Piestanske Cajky,Young Angels Kosice,2026-10-21 16:00:00,pending,,,2026-10-20,2026-10-20 04:26:51
+17672,1638394741,basketball,210890,ABA - Liga 2,KK Borac Banja Luka,KK Mornar Bar,2026-10-21 16:00:00,pending,,,2026-10-20,2026-10-20 04:26:44
+17671,1638323973,basketball,210890,ABA - Liga 2,KK Sloboda Dita Tuzla,KK TFT Skopje,2026-10-20 16:00:00,pending,,,2026-10-20,2026-10-20 04:26:44
+17670,1638323713,basketball,206484,Bahrain - Premier League,Al Hala,Sitra,2026-10-20 15:00:00,pending,,,2026-10-20,2026-10-20 04:26:38
+17669,1638397749,basketball,206484,Bahrain - Premier League,Al Nweidrat,Al Ittihad Bahrain,2026-10-21 17:00:00,pending,,,2026-10-20,2026-10-20 04:26:38
+17668,1638407366,basketball,242092,Mexico - Liga ABE Women,Anahuac Norte,Universidad Interamericana,2026-10-21 19:00:00,pending,,,2026-10-20,2026-10-20 04:26:33
+17667,1638642475,basketball,217271,Argentina - La Liga Proximo,Club Atletico Argentino de Junin,Atletico Boca Juniors,2026-10-21 20:00:00,pending,,,2026-10-20,2026-10-20 04:26:27
+17666,1638279143,basketball,282,Australia - WNBL,Adelaide Lightning,Townsville Fire,2026-10-20 08:00:00,pending,,,2026-10-20,2026-10-20 04:26:21
+17665,1638415445,basketball,282,Australia - WNBL,Southside Flyers,Tasmania Jewels,2026-10-22 08:00:00,pending,,,2026-10-20,2026-10-20 04:26:21
+17664,1638415378,basketball,203908,Chile - LNB,CD Universidad De Concepcion,CD ABA Ancud,2026-10-22 00:30:00,pending,,,2026-10-20,2026-10-20 04:26:14
+17663,1638339055,basketball,203908,Chile - LNB,CEB Puerto Montt,CD Valdivia,2026-10-20 23:00:00,pending,,,2026-10-20,2026-10-20 04:26:14
+17662,1638292982,basketball,228036,Philippines - NCAA,UPHSD Altas,JRU Bombers,2026-10-20 09:00:00,pending,,,2026-10-20,2026-10-20 04:26:10
+17661,1638713670,basketball,501,Norway - BLNO,Gimle BK,Froya,2026-10-21 17:00:00,pending,,,2026-10-20,2026-10-20 04:26:04
+17660,1638715498,basketball,501,Norway - BLNO,Centrum Tigers Oslo,TNT Towers,2026-10-21 17:00:00,pending,,,2026-10-20,2026-10-20 04:26:04
+17659,1638424114,basketball,212148,Argentina - La Liga,Santa Paula de Galvez,Barrio Parque,2026-10-21 00:30:00,pending,,,2026-10-20,2026-10-20 04:25:58
+17658,1638420818,basketball,212148,Argentina - La Liga,Union de Mar Del Plata,Central Entrerriano,2026-10-21 00:45:00,pending,,,2026-10-20,2026-10-20 04:25:58
+17657,1638388819,basketball,5608,Philippines - PBA Governors Cup,Rain or Shine Elasto Painters,Timplados Hotshots,2026-10-21 11:30:00,pending,,,2026-10-20,2026-10-20 04:25:51
+17656,1638350180,basketball,5608,Philippines - PBA Governors Cup,San Miguel Beermen,NLEX Road Warriors,2026-10-21 09:15:00,pending,,,2026-10-20,2026-10-20 04:25:51
+17655,1637443983,basketball,487,NBA,Memphis Grizzlies,Utah Jazz,2026-10-22 00:00:00,pending,,,2026-10-20,2026-10-20 04:25:43
+17654,1637443874,basketball,487,NBA,Washington Wizards,Milwaukee Bucks,2026-10-21 23:00:00,pending,,,2026-10-20,2026-10-20 04:25:43
+17653,1637443984,basketball,487,NBA,Houston Rockets,Dallas Mavericks,2026-10-22 00:30:00,pending,,,2026-10-20,2026-10-20 04:25:43
+17652,1633801637,basketball,487,NBA,Detroit Pistons,Boston Celtics,2026-10-20 19:00:00,pending,,,2026-10-20,2026-10-20 04:25:43
+17651,1633801639,basketball,487,NBA,New York Knicks,Philadelphia 76ers,2026-10-20 23:00:00,pending,,,2026-10-20,2026-10-20 04:25:43
+17650,1637443876,basketball,487,NBA,Toronto Raptors,Chicago Bulls,2026-10-21 23:30:00,pending,,,2026-10-20,2026-10-20 04:25:43
+17649,1633801640,basketball,487,NBA,San Antonio Spurs,Oklahoma City Thunder,2026-10-21 01:30:00,pending,,,2026-10-20,2026-10-20 04:25:43
+17648,1637443877,basketball,487,NBA,New Orleans Pelicans,Indiana Pacers,2026-10-22 00:00:00,pending,,,2026-10-20,2026-10-20 04:25:43
+17647,1637438612,basketball,487,NBA,Portland Trail Blazers,Phoenix Suns,2026-10-22 02:00:00,pending,,,2026-10-20,2026-10-20 04:25:43
+17646,1637443985,basketball,487,NBA,Los Angeles Lakers,Golden State Warriors,2026-10-22 02:00:00,pending,,,2026-10-20,2026-10-20 04:25:43
+17645,1637443878,basketball,487,NBA,Los Angeles Clippers,Sacramento Kings,2026-10-22 02:30:00,pending,,,2026-10-20,2026-10-20 04:25:43
+17644,1637443873,basketball,487,NBA,Orlando Magic,Atlanta Hawks,2026-10-21 23:00:00,pending,,,2026-10-20,2026-10-20 04:25:43
+17643,1637438611,basketball,487,NBA,Brooklyn Nets,Charlotte Hornets,2026-10-21 23:30:00,pending,,,2026-10-20,2026-10-20 04:25:43
+17642,1637443875,basketball,487,NBA,Miami Heat,Minnesota Timberwolves,2026-10-21 23:30:00,pending,,,2026-10-20,2026-10-20 04:25:43
+17641,1638516669,basketball,212805,Israel - National League,Hapoel Haifa BC,Elitzur Ashkelon,2026-10-20 16:30:00,pending,,,2026-10-20,2026-10-20 04:25:35
+17640,1638667003,basketball,203909,Hungary - Nemzeti Bajnoksag I.A,KTE-Duna Aszfalt,SZTE-Szedeak,2026-10-20 16:00:00,pending,,,2026-10-20,2026-10-20 04:25:28
+17639,1638336924,basketball,377,Europe - Eurocup,Assignia Manresa,BC Roma,2026-10-20 18:30:00,pending,,,2026-10-20,2026-10-20 04:25:22
+17638,1638323752,basketball,377,Europe - Eurocup,Balkan Botevgrad,BC Lietkabelis Panevezys,2026-10-20 16:00:00,pending,,,2026-10-20,2026-10-20 04:25:22
+17637,1638336706,basketball,377,Europe - Eurocup,Rostock Seawolves,Aris Thessaloniki BC,2026-10-20 18:00:00,pending,,,2026-10-20,2026-10-20 04:25:22
+17636,1638324005,basketball,377,Europe - Eurocup,KK Buducnost Voli,BC Neptunas Klaipeda,2026-10-20 17:00:00,pending,,,2026-10-20,2026-10-20 04:25:22
+17635,1638323986,basketball,377,Europe - Eurocup,Turk Telekom,BC Siauliai,2026-10-20 16:30:00,pending,,,2026-10-20,2026-10-20 04:25:22
+17634,1638758827,basketball,202722,Estonian - Latvian Basketball League,Latvijas Universitate,KK Viimsi,2026-10-20 16:00:00,pending,,,2026-10-20,2026-10-20 04:25:16
+17633,1638323987,basketball,202722,Estonian - Latvian Basketball League,Keila Korvpallikool,Keila,2026-10-20 16:30:00,pending,,,2026-10-20,2026-10-20 04:25:16
+17632,1638397686,basketball,202722,Estonian - Latvian Basketball League,Taltech Basketball,BK Ogre,2026-10-21 15:30:00,pending,,,2026-10-20,2026-10-20 04:25:16
+17631,1638323751,basketball,197844,Europe - Champions League,BK Pardubice,Unicaja Malaga,2026-10-20 16:00:00,pending,,,2026-10-20,2026-10-20 04:25:09
+17630,1638336808,basketball,197844,Europe - Champions League,KK Cibona,Legia Warszawa,2026-10-20 18:00:00,pending,,,2026-10-20,2026-10-20 04:25:09
+17629,1638323754,basketball,197844,Europe - Champions League,Falco KC Szombathely,Salon Vilpas Vikings,2026-10-20 16:00:00,pending,,,2026-10-20,2026-10-20 04:25:09
+17628,1638324006,basketball,197844,Europe - Champions League,Galatasaray,SIG Strasbourg,2026-10-20 17:00:00,pending,,,2026-10-20,2026-10-20 04:25:09
+17627,1638336913,basketball,210286,France - Nationale 1,Mulhouse,Besancon,2026-10-20 18:00:00,pending,,,2026-10-20,2026-10-20 04:25:04
+17626,1638336925,basketball,210286,France - Nationale 1,Vitre,Pays de Fougeres,2026-10-20 18:30:00,pending,,,2026-10-20,2026-10-20 04:25:04
+17625,1638336709,basketball,210286,France - Nationale 1,Tours,Chartres,2026-10-20 18:00:00,pending,,,2026-10-20,2026-10-20 04:25:04

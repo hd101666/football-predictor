@@ -1,0 +1,101 @@
+﻿id,sw_match_id,league_code,league_name,season,home_team,away_team,home_team_id,away_team_id,kickoff_utc,status,home_score,away_score,home_score_ht,away_score_ht,venue,referee,fetch_date,created_at
+95345,EycsIRSI,uecl,uecl,current,Lincoln Red Imps (Gib),Larne (Nir),EVPCpHv2,txIb8KW8,2026-08-20T16:00:00,FT,0,2,,,,,2026-10-12,2026-10-12 04:18:40
+95344,trVVl8ct,uecl,uecl,current,Inter Turku (Fin),FC Copenhagen (Den),W2KjFSqg,vTNbD6E5,2026-08-20T16:00:00,FT,0,0,,,,,2026-10-12,2026-10-12 04:18:40
+95343,Y34JzIMO,uecl,uecl,current,Tromso (Nor),Brighton (Eng),juuOIhX1,IoX9tdP8,2026-08-20T17:00:00,FT,0,0,,,,,2026-10-12,2026-10-12 04:18:40
+95342,SCbGah9E,uecl,uecl,current,Nordsjaelland (Den),St. Gallen (Sui),M1QvUi5b,8IOnSVZA,2026-08-20T17:00:00,FT,1,0,,,,,2026-10-12,2026-10-12 04:18:40
+95341,YuS87bin,uecl,uecl,current,Midtjylland (Den),Rijeka (Cro),Auz2m4xg,ddY9or75,2026-08-20T17:00:00,FT,2,0,,,,,2026-10-12,2026-10-12 04:18:40
+95340,0AERUu7j,uecl,uecl,current,Klaksvik (Fai),Riga FC (Lat),GMOIUqw8,rT22xddE,2026-08-20T17:30:00,FT,0,0,,,,,2026-10-12,2026-10-12 04:18:40
+95339,pErnDNT0,uecl,uecl,current,PAOK (Gre),Brann (Nor),v7lQJCjL,AkudEjEr,2026-08-20T17:45:00,FT,1,1,,,,,2026-10-12,2026-10-12 04:18:40
+95338,GOyaueQq,uecl,uecl,current,Vikingur Reykjavik (Ice),Borac Banja Luka (Bih),hzUdZ8hM,MkKSTnGq,2026-08-20T18:00:00,FT,1,3,,,,,2026-10-12,2026-10-12 04:18:40
+95337,rHS1dYro,uecl,uecl,current,Twente (Ned),Qarabag (Aze),WSPSjwqo,OMCEEtyh,2026-08-20T18:00:00,FT,0,1,,,,,2026-10-12,2026-10-12 04:18:40
+95336,IixFWQsC,uecl,uecl,current,Gornik Zabrze (Pol),Monaco (Fra),8lkIDF8l,t2mQBgw1,2026-08-20T18:00:00,FT,2,3,,,,,2026-10-12,2026-10-12 04:18:40
+95335,4z11jlW0,uecl,uecl,current,Drita (Kos),Inter Escaldes (And),4tMRv9JG,C6PZxmlT,2026-08-20T18:00:00,FT,2,2,,,,,2026-10-12,2026-10-12 04:18:40
+95334,EVXIRMrf,uecl,uecl,current,Sion (Sui),Ajax (Ned),0fviNocD,hlRxokkK,2026-08-20T18:15:00,FT,2,4,,,,,2026-10-12,2026-10-12 04:18:40
+95333,xEzaz9rm,uecl,uecl,current,Panathinaikos (Gre),Hradec Kralove (Cze),jV9paGge,beDhcfO7,2026-08-20T18:30:00,FT,2,2,,,,,2026-10-12,2026-10-12 04:18:40
+95332,dYTjg8LU,uecl,uecl,current,Motherwell (Sco),Freiburg (Ger),SSGiA9Xp,fZ8wYCPi,2026-08-20T18:30:00,FT,1,3,,,,,2026-10-12,2026-10-12 04:18:40
+95331,GfSzcjM5,uecl,uecl,current,Lugano (Sui),Maccabi Tel Aviv (Isr),CzcYyMQP,rJm4Walm,2026-08-20T18:30:00,FT,2,1,,,,,2026-10-12,2026-10-12 04:18:40
+95330,vZQfgTxS,uecl,uecl,current,Gent (Bel),Hibernian (Sco),KYmEQG9r,hnnMOfve,2026-08-20T18:30:00,FT,0,0,,,,,2026-10-12,2026-10-12 04:18:40
+95329,dWhGk2kn,uecl,uecl,current,Atalanta (Ita),Hapoel Tel Aviv (Isr),YNKsDgwn,6yJkBX7b,2026-08-20T18:30:00,FT,0,0,,,,,2026-10-12,2026-10-12 04:18:40
+95328,AZruZ4jK,uecl,uecl,current,Rangers (Sco),Jablonec (Cze),dQTcYB5E,4jX5WkzR,2026-08-20T18:45:00,FT,1,0,,,,,2026-10-12,2026-10-12 04:18:40
+95327,ShvZNvrJ,uecl,uecl,current,Hearts (Sco),SK Rapid (Aut),4AJOyoC6,jRHWZOtJ,2026-08-20T18:45:00,FT,2,2,,,,,2026-10-12,2026-10-12 04:18:40
+95326,IwX4ab0f,uecl,uecl,current,Shamrock Rovers (Irl),KuPS (Fin),b9nIeDXr,6ZkQgi2e,2026-08-20T19:00:00,FT,1,1,,,,,2026-10-12,2026-10-12 04:18:40
+95325,vTV4fCIc,uecl,uecl,current,Hajduk Split (Cro),Rakow (Pol),vwmMvcLH,Wp5TxyjU,2026-08-20T19:00:00,FT,2,2,,,,,2026-10-12,2026-10-12 04:18:40
+95324,b1KhSAO6,uecl,uecl,current,Getafe (Esp),Partizan (Srb),GYKLpO0S,nHBiu2Ok,2026-08-20T19:00:00,FT,3,1,,,,,2026-10-12,2026-10-12 04:18:40
+95323,r1veNM9b,uecl,uecl,current,Dinamo City (Alb),Pafos (Cyp),QqvMf4vS,MFPikr2k,2026-08-20T19:00:00,FT,1,1,,,,,2026-10-12,2026-10-12 04:18:40
+95322,8pNzz0g4,uecl,uecl,current,Braga (Por),Austria Vienna (Aut),ELK927fd,6F7eQAn3,2026-08-20T19:00:00,FT,2,0,,,,,2026-10-12,2026-10-12 04:18:40
+95321,ILkpVekn,uecl,uecl,current,SK Rapid (Aut),Hearts (Sco),E3elh6dm,IX9IcSYP,2026-08-26T16:45:00,FT,2,3,,,,,2026-10-12,2026-10-12 04:18:40
+95320,Q3zDcxV6,uecl,uecl,current,KuPS (Fin),Shamrock Rovers (Irl),jyeJFYOE,bs8XiVW7,2026-08-27T15:00:00,FT,1,0,,,,,2026-10-12,2026-10-12 04:18:40
+95319,ANKmKyyh,uecl,uecl,current,Qarabag (Aze),Twente (Ned),I3EUAbzH,AwBMCK54,2026-08-27T16:00:00,FT,1,4,,,,,2026-10-12,2026-10-12 04:18:40
+95318,l8QreUjI,uecl,uecl,current,Maccabi Tel Aviv (Isr),Lugano (Sui),MTlKSHmC,lGjCUwJa,2026-08-27T16:00:00,FT,1,1,,,,,2026-10-12,2026-10-12 04:18:40
+95317,tIZATrEs,uecl,uecl,current,Jablonec (Cze),Rangers (Sco),8nMqP7S0,0MIyRTcl,2026-08-27T16:00:00,FT,2,0,,,,,2026-10-12,2026-10-12 04:18:40
+95316,jJkMU4CO,uecl,uecl,current,Monaco (Fra),Gornik Zabrze (Pol),bkMrHlFt,lSjY9X7D,2026-08-27T16:45:00,FT,4,1,,,,,2026-10-12,2026-10-12 04:18:40
+95315,lQebcKXo,uecl,uecl,current,Freiburg (Ger),Motherwell (Sco),0EKhUUOG,Sn7oWjf4,2026-08-27T16:45:00,FT,4,1,,,,,2026-10-12,2026-10-12 04:18:40
+95314,hIGChqac,uecl,uecl,current,Riga FC (Lat),Klaksvik (Fai),MuTsIRAa,EFPZJmtm,2026-08-27T17:00:00,FT,2,1,,,,,2026-10-12,2026-10-12 04:18:40
+95313,ngZChjmA,uecl,uecl,current,Rakow (Pol),Hajduk Split (Cro),fNroeI5b,ncuwcvyn,2026-08-27T17:00:00,FT,2,3,,,,,2026-10-12,2026-10-12 04:18:40
+95312,jRs3L0vB,uecl,uecl,current,Pafos (Cyp),Dinamo City (Alb),fJKoBPO8,UuTamMW1,2026-08-27T17:00:00,FT,4,2,,,,,2026-10-12,2026-10-12 04:18:40
+95311,xla9lS0D,uecl,uecl,current,Inter Escaldes (And),Drita (Kos),zq3ieU3c,rkG5XQBj,2026-08-27T17:00:00,FT,1,0,,,,,2026-10-12,2026-10-12 04:18:40
+95310,pvv7YnDa,uecl,uecl,current,Hradec Kralove (Cze),Panathinaikos (Gre),x6bnJyoR,jk0vLcGE,2026-08-27T17:00:00,FT,1,2,,,,,2026-10-12,2026-10-12 04:18:40
+95309,EeTwmnSh,uecl,uecl,current,FC Copenhagen (Den),Inter Turku (Fin),K6PE9ODU,ngR6BpqI,2026-08-27T17:00:00,FT,4,1,,,,,2026-10-12,2026-10-12 04:18:40
+95308,IRtfB1bD,uecl,uecl,current,Brann (Nor),PAOK (Gre),jTtCA8D7,IFr4CUre,2026-08-27T17:00:00,FT,3,2,,,,,2026-10-12,2026-10-12 04:18:40
+95307,0QdOcWwR,uecl,uecl,current,St. Gallen (Sui),Nordsjaelland (Den),CEDQKmSp,GrSfQ94N,2026-08-27T18:00:00,FT,2,3,,,,,2026-10-12,2026-10-12 04:18:40
+95306,4ddOmtKb,uecl,uecl,current,Hapoel Tel Aviv (Isr),Atalanta (Ita),MRP57k7N,E1Mc9BxB,2026-08-27T18:00:00,FT,0,1,,,,,2026-10-12,2026-10-12 04:18:40
+95305,MeyRP0D6,uecl,uecl,current,Ajax (Ned),Sion (Sui),WdLGw7sf,OWH8uTCs,2026-08-27T18:00:00,FT,5,3,,,,,2026-10-12,2026-10-12 04:18:40
+95304,lGvTfL7t,uecl,uecl,current,Brighton (Eng),Tromso (Nor),MsMmZDHr,QBzIvzfL,2026-08-27T18:30:00,FT,4,0,,,,,2026-10-12,2026-10-12 04:18:40
+95303,Olu7wZfd,uecl,uecl,current,Borac Banja Luka (Bih),Vikingur Reykjavik (Ice),M9AMkUx3,f3IzSQpd,2026-08-27T18:30:00,FT,3,1,,,,,2026-10-12,2026-10-12 04:18:40
+95302,tbLrYwOG,uecl,uecl,current,Austria Vienna (Aut),Braga (Por),M5EBMSoS,EuB3OlHF,2026-08-27T18:30:00,FT,0,0,,,,,2026-10-12,2026-10-12 04:18:40
+95301,6gQG5xMb,uecl,uecl,current,Rijeka (Cro),Midtjylland (Den),xzzQs06U,4MyIqMyI,2026-08-27T18:45:00,FT,1,4,,,,,2026-10-12,2026-10-12 04:18:40
+95300,WEI0QlgJ,uecl,uecl,current,Partizan (Srb),Getafe (Esp),p81o1qo9,hEEawtg2,2026-08-27T19:00:00,FT,2,1,,,,,2026-10-12,2026-10-12 04:18:40
+95299,6VqTuVKP,uecl,uecl,current,Larne (Nir),Lincoln Red Imps (Gib),r56x1xPr,nZK66b1L,2026-08-27T19:00:00,FT,0,3,,,,,2026-10-12,2026-10-12 04:18:40
+95298,AHHQm70k,uecl,uecl,current,Hibernian (Sco),Gent (Bel),SIsGpx1E,0CkUMY87,2026-08-27T19:00:00,FT,2,3,,,,,2026-10-12,2026-10-12 04:18:40
+95249,EgKoyUGq,uel,uel,current,Iberia 1999 (Geo),Jagiellonia (Pol),nRnj4y6m,tSKIMqME,2026-08-27T16:00:00,FT,1,2,,,,,2026-10-12,2026-10-12 04:18:19
+95248,rHname6U,uel,uel,current,Ararat-Armenia (Arm),Univ. Craiova (Rou),xSyfkQ7t,n3dpVMMO,2026-08-27T16:00:00,FT,1,0,,,,,2026-10-12,2026-10-12 04:18:19
+95247,nosW1fLN,uel,uel,current,Salzburg (Aut),Mjallby (Swe),0pZddaLN,hKVlbLjB,2026-08-27T17:00:00,FT,3,0,,,,,2026-10-12,2026-10-12 04:18:19
+95246,hWwrY5YQ,uel,uel,current,Plzen (Cze),Crvena zvezda (Srb),bkG8jh2k,2JUxdEvS,2026-08-27T17:00:00,FT,5,1,,,,,2026-10-12,2026-10-12 04:18:19
+95245,Kz3TWEKc,uel,uel,current,Omonia (Cyp),St. Truiden (Bel),2XDEJSIl,61SrPleR,2026-08-27T17:00:00,FT,4,2,,,,,2026-10-12,2026-10-12 04:18:19
+95244,d63zb6tm,uel,uel,current,Lillestrom (Nor),Egnatia (Alb),6B9xUq1M,KfBUV5W9,2026-08-27T17:00:00,FT,2,1,,,,,2026-10-12,2026-10-12 04:18:19
+95243,2woqiw75,uel,uel,current,Kauno Zalgiris (Ltu),Besiktas (Tur),0SiMzRhm,fTPlgZ8E,2026-08-27T17:00:00,FT,1,0,,,,,2026-10-12,2026-10-12 04:18:19
+95242,pdNekhWq,uel,uel,current,Thun (Sui),Lech Poznan (Pol),0f4cU2EL,St6kWOq9,2026-08-27T18:00:00,FT,2,2,,,,,2026-10-12,2026-10-12 04:18:19
+95241,2XLK0YMt,uel,uel,current,CSKA Sofia (Bul),OFI Crete (Gre),Qa8WH0Zg,hnAOJM4s,2026-08-27T18:00:00,FT,0,2,,,,,2026-10-12,2026-10-12 04:18:19
+95240,65l8K5yR,uel,uel,current,Aarhus (Den),Benfica (Por),Kb9ICILt,UZT8hFzP,2026-08-27T18:00:00,FT,1,3,,,,,2026-10-12,2026-10-12 04:18:19
+95239,dbPBEX4T,uel,uel,current,Ferencvaros (Hun),Trabzonspor (Tur),YFOs5T3e,QkLZ6kZr,2026-08-27T18:30:00,FT,4,0,,,,,2026-10-12,2026-10-12 04:18:19
+95238,EDAucBw3,uel,uel,current,Anderlecht (Bel),Kairat Almaty (Kaz),lERNIzLt,Y1iEbXZO,2026-08-27T18:30:00,FT,3,0,,,,,2026-10-12,2026-10-12 04:18:19
+95237,bLbqnqDi,uel,uel,current,Omonia,Celta Vigo,Gj0wJsWO,6FumwoHt,2026-09-16T16:45:00,FT,1,0,,,,,2026-10-12,2026-10-12 04:18:19
+95236,IwHgmdDd,uel,uel,current,Ararat-Armenia,Sparta Prague,hdq2Smse,Q9sAQRB7,2026-09-16T16:45:00,FT,1,4,,,,,2026-10-12,2026-10-12 04:18:19
+95235,tS8KzAA7,uel,uel,current,Sunderland,AZ Alkmaar,0dDiaSjR,Wv4Ng6El,2026-09-16T19:00:00,FT,1,0,,,,,2026-10-12,2026-10-12 04:18:19
+95234,hACm9wzG,uel,uel,current,Sturm Graz,Rennes,AJfyU0Ia,IqbqSvmC,2026-09-16T19:00:00,FT,0,0,,,,,2026-10-12,2026-10-12 04:18:19
+95233,OrSdI7gm,uel,uel,current,Olympiacos Piraeus,Jagiellonia,pMK5EYVI,A1yHLkwn,2026-09-16T19:00:00,FT,2,1,,,,,2026-10-12,2026-10-12 04:18:19
+95232,KnBgrAVa,uel,uel,current,H. Beer Sheva,Din. Zagreb,8hXReekJ,0nKDJbsQ,2026-09-16T19:00:00,FT,0,0,,,,,2026-10-12,2026-10-12 04:18:19
+95231,zkKfP6ml,uel,uel,current,Bayer Leverkusen,Celje,lMHj7RKa,dnLb55kC,2026-09-16T19:00:00,FT,2,0,,,,,2026-10-12,2026-10-12 04:18:19
+95230,OlykXFnI,uel,uel,current,Anderlecht,Lyon,GEC2hNLi,OvGAj1j4,2026-09-16T19:00:00,FT,1,2,,,,,2026-10-12,2026-10-12 04:18:19
+95229,Cz7KmSDF,uel,uel,current,AC Milan,Benfica,84grGI97,zBoUwM1E,2026-09-16T19:00:00,FT,0,2,,,,,2026-10-12,2026-10-12 04:18:19
+95228,8YtPbMdc,uel,uel,current,OFI Crete,Hoffenheim,IcRASTFk,jBPIQ7p2,2026-09-17T16:45:00,FT,2,0,,,,,2026-10-12,2026-10-12 04:18:19
+95227,dneRd9pg,uel,uel,current,Levski Sofia,Salzburg,lQsYB7uH,djotAoAT,2026-09-17T16:45:00,FT,0,1,,,,,2026-10-12,2026-10-12 04:18:19
+95226,2DJjqyb3,uel,uel,current,Real Sociedad,Bournemouth,xn61d9TG,Aa49fmbT,2026-09-17T19:00:00,FT,1,2,,,,,2026-10-12,2026-10-12 04:18:19
+95225,2JjXOxx8,uel,uel,current,Plzen,Royale Union SG,88cvDdiL,IsqA7zFr,2026-09-17T19:00:00,FT,0,3,,,,,2026-10-12,2026-10-12 04:18:19
+95224,nqrP38vf,uel,uel,current,Lillestrom,Torreense,b7im0NgB,UgEKsFwp,2026-09-17T19:00:00,FT,1,2,,,,,2026-10-12,2026-10-12 04:18:19
+95223,p0ewz3p9,uel,uel,current,Juventus,Nijmegen,jBLdtbGq,byP4vxod,2026-09-17T19:00:00,FT,5,0,,,,,2026-10-12,2026-10-12 04:18:19
+95222,fDLKM7Sr,uel,uel,current,Crystal Palace,Lech Poznan,Uo2bO8XN,QHmUIneo,2026-09-17T19:00:00,FT,4,0,,,,,2026-10-12,2026-10-12 04:18:19
+95221,dMmPQb7e,uel,uel,current,Celtic,Ferencvaros,8l7piFU1,zeaWEIM8,2026-09-17T19:00:00,FT,1,3,,,,,2026-10-12,2026-10-12 04:18:19
+95220,SGlk19Jl,uel,uel,current,Besiktas,Marseille,AD1HpRne,Iw5Pr5H7,2026-09-17T19:00:00,FT,4,1,,,,,2026-10-12,2026-10-12 04:18:19
+95189,hYMyrzBC,ucl,ucl,current,Club Brugge KV,Aston Villa,I5eDAhum,QVbL8W9a,2026-09-08T16:45:00,FT,2,3,,,,,2026-10-12,2026-10-12 04:18:05
+95188,EgODGq9F,ucl,ucl,current,AEK Athens,LASK,xAzhOULa,pzv0M8jC,2026-09-08T16:45:00,FT,1,0,,,,,2026-10-12,2026-10-12 04:18:05
+95187,foBRjez1,ucl,ucl,current,Real Madrid,Inter,vTNVbCm4,CtMwcjIG,2026-09-08T19:00:00,FT,2,1,,,,,2026-10-12,2026-10-12 04:18:05
+95186,StY6NNoJ,ucl,ucl,current,Lille,Betis,K6sIYYoC,SWpQWCGO,2026-09-08T19:00:00,FT,2,3,,,,,2026-10-12,2026-10-12 04:18:05
+95185,SYL9LRdk,ucl,ucl,current,FC Porto,Manchester City,0hXa1KRh,8Iz8abd5,2026-09-08T19:00:00,FT,0,2,,,,,2026-10-12,2026-10-12 04:18:05
+95184,lGdh9XQ8,ucl,ucl,current,Dortmund,Villarreal,zeXB96en,88VJ7pQb,2026-09-08T19:00:00,FT,3,2,,,,,2026-10-12,2026-10-12 04:18:05
+95183,xUAf7KE4,ucl,ucl,current,Stuttgart,Viking,GGNl6yqH,lULd4FDT,2026-09-09T16:45:00,FT,3,1,,,,,2026-10-12,2026-10-12 04:18:05
+95182,nD1UprQ0,ucl,ucl,current,Barcelona,Feyenoord,d0Asw5pR,6ZeDXr8l,2026-09-09T16:45:00,FT,5,1,,,,,2026-10-12,2026-10-12 04:18:05
+95181,QaIiWiUj,ucl,ucl,current,Sporting CP,Galatasaray,EqDN6Jce,ncBV4cS7,2026-09-09T19:00:00,FT,3,1,,,,,2026-10-12,2026-10-12 04:18:05
+95180,vRfGDXa4,ucl,ucl,current,PSG,Slovan Bratislava,zoOX5FyS,WG930gak,2026-09-09T19:00:00,FT,6,1,,,,,2026-10-12,2026-10-12 04:18:05
+95179,juiAv14K,ucl,ucl,current,Napoli,Arsenal,0SNs7bHc,nqMk5xnA,2026-09-09T19:00:00,FT,0,1,,,,,2026-10-12,2026-10-12 04:18:05
+95178,6aa0PFtQ,ucl,ucl,current,Liverpool,Atl. Madrid,xvKPPuhK,8MAeKJFs,2026-09-09T19:00:00,FT,2,1,,,,,2026-10-12,2026-10-12 04:18:05
+95177,UTCOpiqp,ucl,ucl,current,PSV,Shakhtar Donetsk,K0nSZHRs,SQkzYedf,2026-09-10T16:45:00,FT,1,1,,,,,2026-10-12,2026-10-12 04:18:05
+95176,p4qtPzNN,ucl,ucl,current,Fenerbahce,AS Roma,0zMM1XFb,YmKUaBpB,2026-09-10T16:45:00,FT,1,1,,,,,2026-10-12,2026-10-12 04:18:05
+95175,YepM57w0,ucl,ucl,current,Slavia Prague,Lens,zmqpwwFU,QBOgct0n,2026-09-10T19:00:00,FT,2,3,,,,,2026-10-12,2026-10-12 04:18:05
+95174,EwQ5ud74,ucl,ucl,current,Manchester Utd,Sabah Baku,bX2AClUG,UJPsftEk,2026-09-10T19:00:00,FT,4,0,,,,,2026-10-12,2026-10-12 04:18:05
+95173,WhVkZZ2L,ucl,ucl,current,Como,RB Leipzig,tl02d6Ea,lE3AfpqC,2026-09-10T19:00:00,FT,4,1,,,,,2026-10-12,2026-10-12 04:18:05
+95172,21qdVdR6,ucl,ucl,current,Bayern Munich,Bodo/Glimt,r7JUHFVF,l6o2a7Fl,2026-09-10T19:00:00,FT,5,0,,,,,2026-10-12,2026-10-12 04:18:05
+95153,xAF0aYTI,k_league_1,k_league_1,current,Bucheon FC 1995,Gimcheon Sangmu,bNokWY8U,lnRbjxfn,2026-09-19T07:30:00,FT,0,2,,,,,2026-10-12,2026-10-12 04:17:51
+95152,U32nNyMP,k_league_1,k_league_1,current,Anyang,Ulsan HD,MaP6lGOb,fRxEnfgB,2026-09-19T10:00:00,FT,2,1,,,,,2026-10-12,2026-10-12 04:17:51
+95151,td1QFgEa,k_league_1,k_league_1,current,Jeonbuk,Gwangju FC,QTJw3Fwh,WQMo1g84,2026-09-20T07:30:00,FT,2,2,,,,,2026-10-12,2026-10-12 04:17:51
+95150,llqJHFqm,k_league_1,k_league_1,current,Gangwon,Jeju SK,2itMpYNN,bNRiuCoo,2026-09-20T07:30:00,FT,0,1,,,,,2026-10-12,2026-10-12 04:17:51

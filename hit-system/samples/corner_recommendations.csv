@@ -1,0 +1,101 @@
+﻿id,fetch_date,league_name,home_team,away_team,kickoff_utc,market,direction,line,odds,p_model,p_fusion,edge,kelly,hit_score,mu_predicted,src,status,created_at,profit_loss
+241,2026-09-05,Scotland - Premiership,Dundee United,Falkirk,2026-09-05 14:00:00,corner_total,over,10.0,1.8929,0.6052,0.564,0.103,0.0407,0.818,10.94,team_stats,win,2026-09-05 13:03:09,0.8929
+240,2026-09-05,England - National League,Barrow,Sutton United,2026-09-05 14:00:00,corner_total,over,9.5,1.8696,0.6124,0.569,0.1083,0.0417,0.832,10.52,team_stats,void,2026-09-05 13:03:09,
+239,2026-09-03,Scotland - Premiership,Hibernian,Hearts,2026-09-03 18:45:00,corner_total,over,10.0,1.9009,0.6041,0.562,0.1041,0.0412,0.821,10.93,team_stats,win,2026-09-03 07:31:51,0.9009
+238,2026-09-03,Poland - Ekstraklasa,Lech Poznan,Jagiellonia Bialystok,2026-09-03 18:30:00,corner_total,over,10.5,1.9709,0.6246,0.567,0.1436,0.0595,0.922,11.74,fotmob_team_stats,lose,2026-09-03 07:31:51,-1.0
+235,2026-09-02,Austria - Bundesliga,Salzburg,Rapid Vienna,2026-09-02 18:30:00,corner_total,over,10.0,1.9346,0.6107,0.563,0.1202,0.0485,0.862,11.61,fotmob_team_stats,lose,2026-09-02 09:32:15,-1.0
+234,2026-09-02,South Africa - PSL,Mamelodi Sundowns,Milford,2026-09-02 17:30:00,corner_total,under,8.5,1.7874,0.6579,0.602,0.1393,0.0559,0.914,7.53,fotmob_team_stats,win,2026-09-02 09:32:15,0.7874
+233,2026-09-02,Switzerland - Super League,Thun,Lausanne-Sport,2026-09-02 18:30:00,corner_total,over,9.5,1.9524,0.6261,0.57,0.1409,0.0584,0.915,10.7,fotmob_team_stats,lose,2026-09-02 09:32:15,-1.0
+232,2026-09-02,Denmark - Superliga,AGF,Midtjylland,2026-09-02 18:00:00,corner_total,over,10.0,1.8696,0.6537,0.595,0.1463,0.0639,0.931,12.01,fotmob_team_stats,win,2026-09-02 09:32:15,0.8696
+227,2026-08-31,Brazil - Serie B,Fortaleza,Operario Ferroviario,2026-08-31 22:30:00,corner_total,under,10.5,1.8197,0.6476,0.597,0.1265,0.0544,0.881,9.48,fotmob_team_stats,lose,2026-08-31 15:36:24,-1.0
+226,2026-08-31,Spain - La Liga,Osasuna,Getafe,2026-08-31 17:30:00,corner_total,over,8.5,1.8333,0.6499,0.598,0.1294,0.0574,0.889,9.78,team_stats,lose,2026-08-31 15:36:24,-1.0
+225,2026-08-31,Israel - Premier League,Maccabi Tel Aviv,Maccabi Haifa,2026-08-31 17:30:00,corner_total,over,9.5,1.9346,0.6257,0.57,0.1401,0.0563,0.913,10.6,team_stats,void,2026-08-31 15:36:24,
+224,2026-08-31,England - Premier League,Aston Villa,Arsenal,2026-08-31 19:00:00,corner_total,over,9.5,2.01,0.6257,0.565,0.1514,0.0638,0.941,10.6,team_stats,lose,2026-08-31 15:36:24,-1.0
+223,2026-08-31,Brazil - Serie A,Remo,Coritiba,2026-08-31 23:00:00,corner_total,under,10.0,1.9091,0.8098,0.684,0.315,0.1501,0.999,8.06,fotmob_team_stats,lose,2026-08-31 15:36:24,-1.0
+222,2026-08-31,Colombia - Primera A,Deportivo Pasto,Deportivo Pereira,2026-08-31 23:00:00,corner_total,under,9.0,1.8772,0.7351,0.639,0.241,0.1083,0.999,7.85,fotmob_team_stats,lose,2026-08-31 15:36:24,-1.0
+215,2026-08-31,England - National League South,Weston Super Mare,Chelmsford City,2026-08-31 14:00:00,corner_total,over,9.0,1.9259,0.6648,0.592,0.1826,0.0757,0.999,10.52,team_stats,void,2026-08-31 13:22:22,
+193,2026-08-28,France - Ligue 2,Nancy,Dunkerque,2026-08-28 18:00:00,corner_total,over,9.0,2.0,0.5756,0.535,0.1019,0.0378,0.812,9.63,team_stats,lose,2026-08-28 12:17:39,-1.0
+192,2026-08-28,France - Ligue 2,Montpellier,Boulogne,2026-08-28 18:00:00,corner_total,over,8.5,1.8403,0.6337,0.586,0.119,0.0495,0.861,9.63,team_stats,lose,2026-08-28 12:17:39,-1.0
+191,2026-08-28,France - Ligue 2,Clermont,Sochaux,2026-08-28 18:00:00,corner_total,over,8.5,1.9901,0.6337,0.571,0.157,0.066,0.956,9.63,team_stats,win,2026-08-28 12:17:39,0.9901
+190,2026-08-28,Mexico - Liga MX,Necaxa,Cruz Azul,2026-08-29 01:00:00,corner_total,over,9.5,1.9346,0.7855,0.667,0.295,0.139,0.999,12.33,fotmob_team_stats,win,2026-08-28 12:17:39,0.9346
+189,2026-08-27,UEFA - Conference League Qualifiers,Larne,Lincoln Red Imps,2026-08-27 19:00:00,corner_total,under,9.5,1.8065,0.8978,0.744,0.384,0.1928,0.999,6.25,fotmob_team_stats,lose,2026-08-27 12:34:56,-1.0
+188,2026-08-27,UEFA - Conference League Qualifiers,KuPS,Shamrock Rovers,2026-08-27 15:00:00,corner_total,under,9.5,1.7519,0.9544,0.784,0.4262,0.2234,0.999,5.33,fotmob_team_stats,win,2026-08-27 12:34:56,0.7519
+187,2026-08-26,Colombia - Primera A,Atletico Nacional,Deportivo Cali,2026-08-27 01:30:00,corner_total,under,10.0,1.8333,0.7178,0.633,0.2119,0.0948,0.999,8.9,fotmob_team_stats,win,2026-08-26 11:24:12,0.8333
+186,2026-08-26,Colombia - Primera A,America de Cali,Junior de Barranquilla,2026-08-26 23:20:00,corner_total,under,9.0,1.7576,0.7293,0.648,0.203,0.093,0.999,7.9,fotmob_team_stats,win,2026-08-26 11:24:12,0.7576
+185,2026-08-26,Argentina - Primera B Nacional,Acassuso,San Telmo,2026-08-26 18:00:00,corner_total,under,8.5,1.9804,0.8891,0.723,0.4147,0.194,0.999,5.56,fotmob_team_stats,lose,2026-08-26 11:24:12,-1.0
+184,2026-08-26,South Africa - PSL,Mamelodi Sundowns,AmaZulu,2026-08-26 17:30:00,corner_total,under,9.0,1.9174,0.7546,0.646,0.2704,0.1218,0.999,7.69,fotmob_team_stats,win,2026-08-26 11:24:12,0.9174
+183,2026-08-26,South Africa - PSL,Polokwane City,Milford,2026-08-26 17:30:00,corner_total,under,8.5,1.9524,0.6791,0.598,0.2037,0.0855,0.999,7.38,fotmob_team_stats,win,2026-08-26 11:24:12,0.9524
+182,2026-08-26,South Africa - PSL,Golden Arrows,Stellenbosch,2026-08-26 17:30:00,corner_total,over,8.5,1.8333,0.7567,0.657,0.2497,0.1162,0.999,10.88,fotmob_team_stats,lose,2026-08-26 11:24:12,-1.0
+181,2026-08-26,Saudi Arabia - Pro League,Al-Faisaly,Al-Fateh,2026-08-26 16:00:00,corner_total,under,10.0,1.8,0.9761,0.796,0.4498,0.2366,0.999,5.45,fotmob_team_stats,lose,2026-08-26 11:24:12,-1.0
+173,2026-08-24,Sweden - Allsvenskan,Malmo,Djurgardens,2026-08-24 17:00:00,corner_total,over,10.5,1.9174,0.7749,0.662,0.2822,0.1324,0.999,13.32,fotmob_team_stats,lose,2026-08-24 09:48:22,-1.0
+171,2026-08-23,Brazil - Serie B,Ponte Preta,Avai,2026-08-23 19:00:00,corner_total,under,9.0,1.8547,0.6764,0.611,0.1647,0.0744,0.979,8.32,fotmob_team_stats,lose,2026-08-23 09:03:51,-1.0
+170,2026-08-23,Brazil - Serie B,Criciuma,Fortaleza,2026-08-23 21:30:00,corner_total,over,10.5,1.9091,0.6685,0.6,0.1706,0.076,0.993,12.15,fotmob_team_stats,win,2026-08-23 09:03:51,0.9091
+169,2026-08-23,Sweden - Allsvenskan,Brommapojkarna,Degerfors,2026-08-23 14:30:00,corner_total,under,10.5,1.9091,0.706,0.622,0.2112,0.0957,0.999,9.0,fotmob_team_stats,win,2026-08-23 09:03:51,0.9091
+168,2026-08-23,Korea Republic - K League 1,Gwangju FC,Incheon United,2026-08-23 10:30:00,corner_total,under,8.5,1.9524,0.662,0.592,0.1758,0.0768,0.999,7.5,fotmob_team_stats,win,2026-08-23 09:03:51,0.9524
+167,2026-08-23,Netherlands - Eredivisie,Go Ahead Eagles,ADO Den Haag,2026-08-23 10:15:00,corner_total,over,10.5,1.9091,0.7845,0.67,0.2866,0.1369,0.999,13.44,fotmob_team_stats,lose,2026-08-23 09:03:51,-1.0
+161,2026-08-22,Argentina - Primera B Nacional,San Martin de San Juan,Gimnasia y Tiro,2026-08-22 18:30:00,corner_total,under,8.5,1.9709,0.6141,0.559,0.1376,0.0542,0.905,7.85,fotmob_team_stats,pending,2026-08-22 12:21:15,
+159,2026-08-21,Argentina - Primera B Nacional,Deportivo Madryn,Club Atletico Mitre,2026-08-21 22:00:00,corner_total,under,8.5,1.9346,0.5862,0.546,0.1006,0.0359,0.81,8.05,fotmob_team_stats,pending,2026-08-21 06:34:30,
+158,2026-08-21,Scotland - Championship,Inverness CT,Partick Thistle,2026-08-21 18:30:00,corner_total,over,9.5,1.9524,0.6332,0.572,0.1526,0.062,0.945,10.67,team_stats,void,2026-08-21 06:34:30,
+157,2026-08-21,Poland - Ekstraklasa,Cracovia Krakow,Wieczysta Krakow,2026-08-21 18:30:00,corner_total,under,10.5,1.8,0.8859,0.742,0.3596,0.1858,0.999,7.21,fotmob_team_stats,lose,2026-08-21 06:34:30,-1.0
+156,2026-08-19,Brazil - Serie B,Vila Nova,Ponte Preta,2026-08-19 23:30:00,corner_total,under,10.0,1.9174,0.5983,0.557,0.1036,0.0401,0.819,9.88,fotmob_team_stats,lose,2026-08-19 05:21:24,-1.0
+155,2026-08-19,USA - Major League Soccer,Colorado Rapids,Los Angeles FC,2026-08-20 01:30:00,corner_total,over,10.0,1.8772,0.6291,0.58,0.1227,0.0516,0.87,11.78,fotmob_team_stats,lose,2026-08-19 05:21:24,-1.0
+154,2026-08-19,South Africa - PSL,Mamelodi Sundowns,Marumo Gallants,2026-08-19 17:30:00,corner_total,under,9.0,1.8264,0.6729,0.607,0.164,0.0693,0.977,8.35,fotmob_team_stats,lose,2026-08-19 05:21:24,-1.0
+153,2026-08-19,USA - Major League Soccer,Portland Timbers,San Diego FC,2026-08-20 02:30:00,corner_total,under,10.0,1.9091,0.706,0.623,0.2081,0.0957,0.999,9.0,fotmob_team_stats,win,2026-08-19 05:21:24,0.9091
+152,2026-08-19,USA - Major League Soccer,Real Salt Lake,FC Dallas,2026-08-20 01:30:00,corner_total,under,10.5,1.8,0.6994,0.63,0.1743,0.0809,0.999,9.06,fotmob_team_stats,win,2026-08-19 05:21:24,0.8
+151,2026-08-19,Brazil - Serie B,Botafogo SP,Criciuma,2026-08-20 00:30:00,corner_total,over,10.5,1.8403,0.7537,0.659,0.2378,0.1151,0.999,13.06,fotmob_team_stats,win,2026-08-19 05:21:24,0.8403
+150,2026-08-19,CONMEBOL - Copa Libertadores,Flamengo,Cruzeiro,2026-08-20 00:30:00,corner_total,under,9.0,2.01,0.8912,0.723,0.4196,0.1959,0.999,6.33,fotmob_team_stats,push,2026-08-19 05:21:24,0.0
+149,2026-08-19,Brazil - Serie B,Cuiaba,Operario Ferroviario,2026-08-19 23:30:00,corner_total,under,10.0,1.8333,0.7654,0.666,0.2485,0.121,0.999,8.48,fotmob_team_stats,lose,2026-08-19 05:21:24,-1.0
+148,2026-08-19,USA - Major League Soccer,Columbus Crew,CF Montreal,2026-08-19 23:30:00,corner_total,under,9.5,1.9346,0.6887,0.609,0.1982,0.0889,0.999,8.22,fotmob_team_stats,win,2026-08-19 05:21:24,0.9346
+147,2026-08-19,Brazil - Serie B,Avai,Sport Recife,2026-08-19 22:30:00,corner_total,under,10.0,1.9804,0.6793,0.599,0.2004,0.088,0.999,9.22,fotmob_team_stats,win,2026-08-19 05:21:24,0.9804
+146,2026-08-19,CONMEBOL - Copa Libertadores,Cerro Porteno,Palmeiras,2026-08-19 22:00:00,corner_total,over,9.0,1.9259,0.7855,0.668,0.2929,0.1385,0.999,12.33,fotmob_team_stats,win,2026-08-19 05:21:24,0.9259
+145,2026-08-19,CONMEBOL - Copa Libertadores,Coquimbo Unido,Platense,2026-08-19 22:00:00,corner_total,over,8.5,1.9524,0.6672,0.594,0.182,0.0794,0.999,10.0,fotmob_team_stats,lose,2026-08-19 05:21:24,-1.0
+144,2026-08-18,CONMEBOL - Copa Libertadores,Independiente Rivadavia,Fluminense,2026-08-18 22:00:00,corner_total,over,8.5,1.813,0.6634,0.607,0.1413,0.0623,0.92,9.97,fotmob_team_stats,win,2026-08-18 05:51:08,0.813
+143,2026-08-18,Brazil - Serie B,Goias,Juventude,2026-08-19 00:35:00,corner_total,under,10.0,1.8696,0.7268,0.639,0.2194,0.1032,0.999,8.82,fotmob_team_stats,win,2026-08-18 05:51:08,0.8696
+142,2026-08-18,Brazil - Serie B,Nautico,Ceara,2026-08-19 00:30:00,corner_total,over,10.5,1.9346,0.8138,0.685,0.3223,0.1536,0.999,13.84,fotmob_team_stats,win,2026-08-18 05:51:08,0.9346
+138,2026-08-16,Portugal - Primeira Liga,Braga,Gil Vicente,2026-08-16 19:30:00,corner_total,over,9.0,1.8696,0.6246,0.578,0.1172,0.0482,0.855,10.1,team_stats,void,2026-08-16 10:44:01,
+137,2026-08-16,England - Championship,Burnley,West Ham United,2026-08-16 15:00:00,corner_total,over,9.5,1.9009,0.6332,0.581,0.1311,0.0565,0.891,10.67,team_stats,win,2026-08-16 10:44:01,0.9009
+136,2026-08-16,Portugal - Primeira Liga,Arouca,Moreirense,2026-08-16 17:00:00,corner_total,over,9.0,1.9259,0.6246,0.572,0.132,0.0548,0.892,10.1,team_stats,lose,2026-08-16 10:44:01,-1.0
+135,2026-08-16,Denmark - Superliga,Lyngby,Midtjylland,2026-08-16 14:00:00,corner_total,under,9.5,1.9524,0.6261,0.57,0.1399,0.0584,0.912,8.71,fotmob_team_stats,win,2026-08-16 10:44:01,0.9524
+134,2026-08-16,Argentina - Primera B Nacional,Racing de Cordoba,San Martin de San Juan,2026-08-16 20:00:00,corner_total,under,8.5,1.9804,0.6343,0.57,0.1608,0.0653,0.965,7.7,fotmob_team_stats,pending,2026-08-16 10:44:01,
+133,2026-08-16,Netherlands - Eredivisie,Feyenoord,Go Ahead Eagles,2026-08-16 12:30:00,corner_total,over,11.0,1.9804,1.0,0.792,0.5211,0.25,0.999,10.49,team_stats,win,2026-08-16 10:44:01,0.9804
+132,2026-08-16,Netherlands - Eredivisie,FC Twente,PEC Zwolle,2026-08-16 12:30:00,corner_total,under,10.5,1.9091,0.7267,0.635,0.2299,0.1065,0.999,8.82,fotmob_team_stats,win,2026-08-16 10:44:01,0.9091
+124,2026-08-15,Poland - Ekstraklasa,Widzew Lodz,Korona Kielce,2026-08-15 18:15:00,corner_total,under,9.0,2.0,0.6312,0.568,0.1575,0.0656,0.957,8.67,fotmob_team_stats,lose,2026-08-15 16:23:12,-1.0
+123,2026-08-15,England - Championship,Norwich City,West Bromwich Albion,2026-08-15 14:00:00,corner_total,over,9.5,1.8197,0.6332,0.59,0.1084,0.0464,0.834,10.67,team_stats,win,2026-08-15 13:16:56,0.8197
+122,2026-08-15,England - National League North,Chester,Kings Lynn Town,2026-08-15 14:00:00,corner_total,over,9.5,1.9615,0.6124,0.556,0.1406,0.0523,0.913,10.52,team_stats,pending,2026-08-15 13:16:56,
+120,2026-08-15,Poland - Ekstraklasa,Piast Gliwice,Wieczysta Krakow,2026-08-15 15:30:00,corner_total,under,10.5,1.813,0.7932,0.685,0.2711,0.1347,0.999,8.22,fotmob_team_stats,win,2026-08-15 13:16:56,0.813
+115,2026-08-14,Brazil - Serie B,Ponte Preta,Nautico,2026-08-14 22:30:00,corner_total,under,10.0,1.9901,0.583,0.54,0.1072,0.0405,0.826,10.0,fotmob_team_stats,lose,2026-08-14 06:53:51,-1.0
+114,2026-08-14,France - Ligue 2,Dijon,Pau FC,2026-08-14 18:45:00,corner_total,over,8.5,1.7937,0.6344,0.592,0.106,0.0435,0.828,9.68,team_stats,lose,2026-08-14 06:53:51,-1.0
+113,2026-08-14,England - Championship,Wolverhampton,Blackburn Rovers,2026-08-14 19:00:00,corner_total,over,9.5,1.8197,0.6332,0.59,0.1084,0.0464,0.834,10.67,team_stats,win,2026-08-14 06:53:51,0.8197
+112,2026-08-14,Brazil - Serie B,Sport Recife,Londrina,2026-08-14 23:30:00,corner_total,under,11.0,1.8065,0.6377,0.592,0.1135,0.0471,0.848,10.51,fotmob_team_stats,win,2026-08-14 06:53:51,0.8065
+111,2026-08-14,France - Ligue 2,Saint-Etienne,Clermont,2026-08-14 18:45:00,corner_total,under,9.5,1.9174,0.6415,0.583,0.1458,0.0627,0.929,8.59,fotmob_team_stats,lose,2026-08-14 06:53:51,-1.0
+110,2026-08-12,CONMEBOL - Copa Libertadores,Cruzeiro,Flamengo,2026-08-13 00:30:00,corner_total,over,8.5,1.9091,0.6082,0.564,0.1103,0.0443,0.837,9.5,fotmob_team_stats,lose,2026-08-12 14:28:24,-1.0
+109,2026-08-12,CONMEBOL - Copa Libertadores,Platense,Coquimbo Unido,2026-08-12 22:00:00,corner_total,under,9.0,1.8,0.6745,0.615,0.1482,0.0669,0.938,8.33,fotmob_team_stats,lose,2026-08-12 14:28:24,-1.0
+108,2026-08-12,CONMEBOL - Copa Libertadores,Palmeiras,Cerro Porteno,2026-08-12 22:00:00,corner_total,under,10.0,1.8333,0.942,0.772,0.4251,0.2181,0.999,6.33,fotmob_team_stats,win,2026-08-12 14:28:24,0.8333
+107,2026-08-11,Brazil - Serie B,Avai,CRB,2026-08-11 22:30:00,corner_total,under,9.5,1.9709,0.6472,0.581,0.1662,0.071,0.98,8.54,fotmob_team_stats,lose,2026-08-11 12:39:54,-1.0
+106,2026-08-10,Brazil - Serie B,Goias,Londrina,2026-08-10 22:30:00,corner_total,under,10.5,1.9901,0.6488,0.58,0.173,0.0735,0.997,9.47,fotmob_team_stats,lose,2026-08-10 08:15:21,-1.0
+105,2026-08-10,Sweden - Allsvenskan,Sirius,Brommapojkarna,2026-08-10 17:00:00,corner_total,under,11.0,1.8403,0.7049,0.628,0.1913,0.0884,0.999,9.93,fotmob_team_stats,lose,2026-08-10 08:15:21,-1.0
+104,2026-08-09,Portugal - Primeira Liga,Moreirense,Braga,2026-08-09 19:30:00,corner_total,over,9.0,1.9901,0.6246,0.565,0.1488,0.0614,0.934,10.1,team_stats,lose,2026-08-09 14:06:59,-1.0
+103,2026-08-09,Paraguay - Division Profesional,Nacional Asuncion,Club Guarani,2026-08-09 21:30:00,corner_total,over,8.5,1.9901,0.7463,0.636,0.2757,0.1225,0.999,10.82,team_stats,pending,2026-08-09 14:06:59,
+102,2026-08-09,Paraguay - Division Profesional,Sportivo San Lorenzo,Sportivo Luqueno,2026-08-09 19:00:00,corner_total,over,9.0,1.9524,0.6985,0.611,0.2179,0.0955,0.999,10.82,team_stats,pending,2026-08-09 14:06:59,
+101,2026-08-09,Turkey - 1st League,Bodrumspor,Bursaspor,2026-08-09 18:30:00,corner_total,over,8.5,1.7874,0.7463,0.658,0.2219,0.106,0.999,10.82,team_stats,void,2026-08-09 14:06:59,
+100,2026-08-09,Argentina - Primera B Nacional,Los Andes,Ferro Carril Oeste,2026-08-09 17:30:00,corner_total,over,8.5,1.8403,0.7463,0.652,0.2349,0.1111,0.999,10.82,team_stats,pending,2026-08-09 14:06:59,
+99,2026-08-09,Scotland - Premiership,Motherwell,Falkirk,2026-08-09 14:00:00,corner_total,over,9.5,1.9009,0.6468,0.588,0.1468,0.0637,0.932,10.82,team_stats,lose,2026-08-09 12:12:10,-1.0
+86,2026-08-07,Netherlands - Eredivisie,Cambuur Leeuwaarden,Excelsior Rotterdam,2026-08-07 18:00:00,corner_total,over,9.5,2.01,0.6156,0.558,0.1449,0.0588,0.924,10.49,team_stats,win,2026-08-07 11:26:29,1.01
+85,2026-08-06,UEFA - Europa League Qualifiers,Benfica,Hearts,2026-08-06 19:00:00,corner_total,over,10.0,1.9009,0.5926,0.551,0.1035,0.0351,0.818,10.82,team_stats,pending,2026-08-06 06:35:00,
+84,2026-08-03,Paraguay - Division Profesional,Sportivo Trinidense,Sportivo San Lorenzo,2026-08-03 19:00:00,corner_total,over,9.0,1.8547,0.6985,0.622,0.1912,0.0864,0.999,10.82,team_stats,void,2026-08-03 04:16:02,
+83,2026-08-03,Scotland - Premiership,Celtic,Dundee,2026-08-03 18:30:00,corner_total,over,11.0,1.9346,1.0,0.797,0.5085,0.25,0.999,10.82,team_stats,win,2026-08-03 04:16:02,0.9346
+82,2026-08-02,Argentina - Primera B Nacional,Central Norte Salta,Los Andes,2026-08-02 19:30:00,corner_total,over,9.0,1.9615,0.6985,0.61,0.2199,0.0962,0.999,10.82,team_stats,pending,2026-08-02 15:45:30,
+78,2026-07-31,Uruguay - Primera Division,Montevideo City Torque,Montevideo Wanderers,2026-07-31 22:00:00,corner_total,over,9.5,1.9615,0.647,0.579,0.1693,0.0699,0.988,10.82,team_stats,pending,2026-07-31 15:32:11,
+77,2026-07-31,Wales - Premier League,Barry Town,Cambrian United,2026-07-31 18:45:00,corner_total,over,9.0,1.8333,0.6983,0.622,0.1913,0.084,0.999,10.82,team_stats,void,2026-07-31 15:32:11,
+76,2026-07-29,Colombia - Cup,Internacional de Palmira,Internacional de Bogota,2026-07-29 22:00:00,corner_total,over,9.0,1.7463,0.6985,0.631,0.1683,0.0736,0.99,10.82,team_stats,pending,2026-07-29 11:26:21,
+72,2026-07-24,Chile - Primera Division,Union La Calera,Everton Vina del Mar,2026-07-24 22:00:00,corner_total,over,10.0,2.0,0.5926,0.545,0.1189,0.0463,0.857,10.82,team_stats,void,2026-07-24 16:04:22,
+68,2026-07-19,FIFA - World Cup,Spain,Argentina,2026-07-19 19:00:00,corner_total,over,8.0,1.9009,0.6403,0.584,0.1403,0.0603,0.915,9.15,wc_model,win,2026-07-19 16:01:50,0.9009
+59,2026-07-18,FIFA - World Cup,Spain,Argentina,2026-07-19 19:00:00,corner_total,over,8.0,1.8696,0.6403,0.587,0.1329,0.0567,0.896,9.15,wc_model,win,2026-07-18 15:07:36,0.8696
+56,2026-07-17,China - League One,Dingnan United,Ningbo Professional,2026-07-18 12:00:00,corner_total,over,9.0,1.7576,0.6397,0.595,0.1123,0.041,0.845,10.26,team_stats,lose,2026-07-17 16:16:37,-1.0
+55,2026-07-17,FIFA - World Cup,Spain,Argentina,2026-07-19 19:00:00,corner_total,over,8.0,1.8772,0.6403,0.587,0.1339,0.0576,0.899,9.15,wc_model,pending,2026-07-17 16:16:37,
+54,2026-07-17,Uruguay - Primera Division,Nacional de Football,Montevideo Wanderers,2026-07-17 22:30:00,corner_total,over,9.5,2.0,0.647,0.576,0.1767,0.0735,0.999,10.82,team_stats,pending,2026-07-17 16:16:37,
+50,2026-07-15,FIFA - World Cup,England,Argentina,2026-07-15 19:00:00,corner_total,over,8.5,1.9709,0.5805,0.54,0.1004,0.0371,0.809,9.15,wc_model,lose,2026-07-15 09:30:33,-1.0
+48,2026-07-07,UEFA - Champions League Qualifiers,Lincoln Red Imps,Inter Club d'Escaldes,2026-07-07 16:00:00,corner_total,over,9.0,1.7874,0.6985,0.627,0.1798,0.0789,0.999,10.82,team_stats,pending,2026-07-07 08:11:53,
+46,2026-07-05,FIFA - World Cup,Mexico,England,2026-07-06 00:00:00,corner_total,over,8.0,1.8547,0.6462,0.592,0.1345,0.058,0.901,9.2,wc_model,win,2026-07-05 07:51:13,0.8547
+44,2026-07-02,FIFA - World Cup,Argentina,Cape Verde,2026-07-03 22:00:00,corner_total,under,9.0,1.7752,0.6577,0.608,0.1255,0.054,0.879,7.7,wc_model,win,2026-07-02 05:54:48,0.7752
+43,2026-07-02,FIFA - World Cup,Paraguay,France,2026-07-04 21:00:00,corner_total,under,9.5,1.8621,0.6577,0.598,0.1482,0.0652,0.936,8.2,wc_model,pending,2026-07-02 05:54:48,

@@ -1,0 +1,101 @@
+﻿id,be_match_id,sport_code,league_code,season,home_team,away_team,kickoff_utc,status,home_score,away_score,home_score_ht,away_score_ht,fetch_date,created_at
+21644,x07NGFcM,basketball,africa_bal,current,Ville de Dakar,Al Ahly,2026-05-22,FT,93,90,,,2026-08-12,2026-08-12 02:44:20
+21643,8rbgBgLq,basketball,africa_bal,current,RSSB Tigers,FUS Rabat,2026-05-22,FT,72,95,,,2026-08-12,2026-08-12 02:44:20
+21642,tU1fVECF,basketball,africa_bal,current,Dar City,Petro Atletico,2026-05-23,FT,88,82,,,2026-08-12,2026-08-12 02:44:20
+21641,pQjYNW4k,basketball,africa_bal,current,Al Ahly,Club Africain,2026-05-23,FT,87,88,,,2026-08-12,2026-08-12 02:44:20
+21640,tdd19Xkd,basketball,africa_bal,current,FUS Rabat,RSSB Tigers,2026-05-24,FT,98,99,,,2026-08-12,2026-08-12 02:44:20
+21639,Y3bnXzr3,basketball,africa_bal,current,Al Ahly,Ville de Dakar,2026-05-24,FT,87,76,,,2026-08-12,2026-08-12 02:44:20
+21638,Es02ThsS,basketball,africa_bal,current,Petro Atletico,Dar City,2026-05-25,FT,83,69,,,2026-08-12,2026-08-12 02:44:20
+21637,jNgtMAZ1,basketball,africa_bal,current,Al Ahly,Club Africain,2026-05-25,FT,98,80,,,2026-08-12,2026-08-12 02:44:20
+21636,Q9keNkuH,basketball,africa_bal,current,RSSB Tigers,Al Ahly,2026-05-27,FT,97,106,,,2026-08-12,2026-08-12 02:44:20
+21635,vgimPBA4,basketball,africa_bal,current,Petro Atletico,Al Ahly,2026-05-28,FT,94,88,,,2026-08-12,2026-08-12 02:44:20
+21634,vsiWtKSh,basketball,africa_bal,current,Al Ahly,Al Ahly,2026-05-31,FT,106,98,,,2026-08-12,2026-08-12 02:44:20
+21633,Cfkvubc5,basketball,africa_bal,current,RSSB Tigers,Petro Atletico,2026-05-31,FT,88,90,,,2026-08-12,2026-08-12 02:44:20
+21632,4j7oEUY2,basketball,lebanon_d1,current,Antonine,Antranik Beirut,2026-06-03,FT,70,60,,,2026-08-12,2026-08-12 02:44:20
+21631,Gxmss2no,basketball,lebanon_d1,current,Al-Riyadi,Beirut Club,2026-06-04,FT,98,71,,,2026-08-12,2026-08-12 02:44:20
+21630,GlySDLvK,basketball,lebanon_d1,current,Al Markazia,Hoops,2026-06-05,FT,74,82,,,2026-08-12,2026-08-12 02:44:20
+21629,r3XQg0ml,basketball,lebanon_d1,current,Sagesse Beirut,Homenetmen Beirut,2026-06-06,FT,118,98,,,2026-08-12,2026-08-12 02:44:20
+21628,x45gC83F,basketball,lebanon_d1,current,Antonine,Antranik Beirut,2026-06-07,FT,62,86,,,2026-08-12,2026-08-12 02:44:20
+21627,nXRc8a2s,basketball,lebanon_d1,current,Al Markazia,Hoops,2026-06-08,FT,114,72,,,2026-08-12,2026-08-12 02:44:20
+21626,jTzZivI0,basketball,lebanon_d1,current,Sagesse Beirut,Homenetmen Beirut,2026-06-10,FT,60,106,,,2026-08-12,2026-08-12 02:44:20
+21625,rquT45vh,basketball,lebanon_d1,current,Al-Riyadi,Beirut Club,2026-06-11,FT,83,107,,,2026-08-12,2026-08-12 02:44:20
+21624,0SZd8aVN,basketball,lebanon_d1,current,Al Markazia,Hoops,2026-06-12,FT,62,68,,,2026-08-12,2026-08-12 02:44:20
+21623,KlYtCsWb,basketball,lebanon_d1,current,Sagesse Beirut,Homenetmen Beirut,2026-06-13,FT,99,97,,,2026-08-12,2026-08-12 02:44:20
+21622,h2WlAL0B,basketball,lebanon_d1,current,Antonine,Antranik Beirut,2026-06-13,FT,74,80,,,2026-08-12,2026-08-12 02:44:20
+21621,COUYD31n,basketball,lebanon_d1,current,Al-Riyadi,Beirut Club,2026-06-14,FT,130,89,,,2026-08-12,2026-08-12 02:44:20
+21620,l2D3fJrK,basketball,lebanon_d1,current,Antonine,Al-Riyadi,2026-07-10,FT,72,76,,,2026-08-12,2026-08-12 02:44:20
+21619,vF0koF56,basketball,lebanon_d1,current,Sagesse Beirut,Al Markazia,2026-07-11,FT,88,75,,,2026-08-12,2026-08-12 02:44:20
+21618,pYbZlc6s,basketball,lebanon_d1,current,Al-Riyadi,Antonine,2026-07-12,FT,57,74,,,2026-08-12,2026-08-12 02:44:20
+21617,CSbcqgzJ,basketball,lebanon_d1,current,Sagesse Beirut,Al Markazia,2026-07-13,FT,93,100,,,2026-08-12,2026-08-12 02:44:20
+21616,Wlcsmyyf,basketball,lebanon_d1,current,Al-Riyadi,Antonine,2026-07-14,FT,113,81,,,2026-08-12,2026-08-12 02:44:20
+21615,vZjq7dSP,basketball,lebanon_d1,current,Al Markazia,Sagesse Beirut,2026-07-15,FT,74,75,,,2026-08-12,2026-08-12 02:44:20
+21614,IavhLuRO,basketball,lebanon_d1,current,Al-Riyadi,Antonine,2026-07-17,FT,65,90,,,2026-08-12,2026-08-12 02:44:20
+21613,bqi2O24U,basketball,lebanon_d1,current,Sagesse Beirut,Al Markazia,2026-07-18,FT,83,95,,,2026-08-12,2026-08-12 02:44:20
+21612,YFEikeoC,basketball,lebanon_d1,current,Al-Riyadi,Sagesse Beirut,2026-07-22,FT,92,89,,,2026-08-12,2026-08-12 02:44:20
+21611,vDHamZFO,basketball,lebanon_d1,current,Sagesse Beirut,Al-Riyadi,2026-07-24,FT,101,96,,,2026-08-12,2026-08-12 02:44:20
+21610,fPi97x1t,basketball,lebanon_d1,current,Al-Riyadi,Sagesse Beirut,2026-07-26,FT,87,85,,,2026-08-12,2026-08-12 02:44:20
+21609,2keH5GVh,basketball,lebanon_d1,current,Sagesse Beirut,Al-Riyadi,2026-07-28,FT,90,78,,,2026-08-12,2026-08-12 02:44:20
+21608,IeWykGQO,basketball,lebanon_d1,current,Al-Riyadi,Sagesse Beirut,2026-07-30,FT,99,86,,,2026-08-12,2026-08-12 02:44:20
+21607,jsKpW3Il,basketball,lebanon_d1,current,Sagesse Beirut,Al-Riyadi,2026-08-01,FT,96,65,,,2026-08-12,2026-08-12 02:44:20
+21606,hlFZMPbm,basketball,lebanon_d1,current,Al-Riyadi,Sagesse Beirut,2026-08-03,FT,100,79,,,2026-08-12,2026-08-12 02:44:20
+21605,bcEXOZY2,basketball,argentina_la,current,Independiente de Oliva,La Union,2026-04-25,FT,91,102,,,2026-08-12,2026-08-12 02:44:20
+21604,r7sL2qI0,basketball,argentina_la,current,Ferro,Penarol,2026-04-25,FT,97,91,,,2026-08-12,2026-08-12 02:44:20
+21603,t4O8D0WI,basketball,argentina_la,current,Boca Juniors,San Martin,2026-04-25,FT,98,95,,,2026-08-12,2026-08-12 02:44:20
+21602,E9OpJ42s,basketball,argentina_la,current,Instituto de Cordoba,Obras Sanitarias,2026-04-26,FT,74,78,,,2026-08-12,2026-08-12 02:44:20
+21601,WACuND3F,basketball,argentina_la,current,La Union,Independiente de Oliva,2026-04-27,FT,86,62,,,2026-08-12,2026-08-12 02:44:20
+21600,GKuT0NnD,basketball,argentina_la,current,Ferro,Penarol,2026-04-27,FT,80,78,,,2026-08-12,2026-08-12 02:44:20
+21599,nNMhHrXg,basketball,argentina_la,current,Obras Sanitarias,Instituto de Cordoba,2026-04-28,FT,95,89,,,2026-08-12,2026-08-12 02:44:20
+21598,YcBfy4OP,basketball,argentina_la,current,Boca Juniors,San Martin,2026-04-28,FT,83,81,,,2026-08-12,2026-08-12 02:44:20
+21597,4t2QVsnm,basketball,argentina_la,current,Boca Juniors,San Martin,2026-05-01,FT,97,101,,,2026-08-12,2026-08-12 02:44:20
+21596,rRXEOQvK,basketball,argentina_la,current,Penarol,Ferro,2026-05-01,FT,87,75,,,2026-08-12,2026-08-12 02:44:20
+21595,YwL0FM16,basketball,argentina_la,current,Instituto de Cordoba,Obras Sanitarias,2026-05-01,NS,,,,,2026-08-12,2026-08-12 02:44:20
+21594,xAvD45ml,basketball,argentina_la,current,Independiente de Oliva,La Union,2026-05-01,FT,83,78,,,2026-08-12,2026-08-12 02:44:20
+21593,z9WchGFd,basketball,argentina_la,current,Instituto de Cordoba,Obras Sanitarias,2026-05-02,FT,74,70,,,2026-08-12,2026-08-12 02:44:20
+21592,QVObnUeS,basketball,argentina_la,current,Ferro,Penarol,2026-05-03,FT,68,84,,,2026-08-12,2026-08-12 02:44:20
+21591,8YQDJquQ,basketball,argentina_la,current,Independiente de Oliva,La Union,2026-05-03,FT,97,92,,,2026-08-12,2026-08-12 02:44:20
+21590,82ftvC7F,basketball,argentina_la,current,Instituto de Cordoba,Obras Sanitarias,2026-05-06,FT,73,75,,,2026-08-12,2026-08-12 02:44:20
+21589,fTHsy6Nc,basketball,argentina_la,current,Ferro,Regatas,2026-05-09,FT,89,95,,,2026-08-12,2026-08-12 02:44:20
+21588,t40SVV2F,basketball,argentina_la,current,Quimsa,Instituto de Cordoba,2026-05-09,FT,85,59,,,2026-08-12,2026-08-12 02:44:20
+21587,jw0GXWG5,basketball,argentina_la,current,Boca Juniors,Obera TC,2026-05-09,FT,66,70,,,2026-08-12,2026-08-12 02:44:20
+21586,6kATR1pp,basketball,argentina_la,current,Gimnasia,Independiente de Oliva,2026-05-09,FT,78,66,,,2026-08-12,2026-08-12 02:44:20
+21585,StGkZqhA,basketball,argentina_la,current,Regatas,Ferro,2026-05-11,FT,81,60,,,2026-08-12,2026-08-12 02:44:20
+21584,v38yQuFd,basketball,argentina_la,current,Gimnasia,Independiente de Oliva,2026-05-11,FT,77,72,,,2026-08-12,2026-08-12 02:44:20
+21583,EHbzU9XR,basketball,argentina_la,current,Instituto de Cordoba,Quimsa,2026-05-12,FT,74,80,,,2026-08-12,2026-08-12 02:44:20
+21582,OjbOVAoI,basketball,argentina_la,current,Boca Juniors,Obera TC,2026-05-12,FT,80,102,,,2026-08-12,2026-08-12 02:44:20
+21581,YwcKXiY2,basketball,argentina_la,current,Independiente de Oliva,Gimnasia,2026-05-14,FT,78,76,,,2026-08-12,2026-08-12 02:44:20
+21580,z7JcXNMM,basketball,argentina_la,current,Ferro,Regatas,2026-05-14,FT,90,75,,,2026-08-12,2026-08-12 02:44:20
+21579,p0k6Omek,basketball,argentina_la,current,Quimsa,Instituto de Cordoba,2026-05-15,FT,66,78,,,2026-08-12,2026-08-12 02:44:20
+21578,UkQeD2Vj,basketball,argentina_la,current,Boca Juniors,Obera TC,2026-05-15,FT,86,78,,,2026-08-12,2026-08-12 02:44:20
+21577,roA3gASk,basketball,argentina_la,current,Independiente de Oliva,Gimnasia,2026-05-16,FT,74,66,,,2026-08-12,2026-08-12 02:44:20
+21576,UiLfterp,basketball,argentina_la,current,Regatas,Ferro,2026-05-16,FT,71,79,,,2026-08-12,2026-08-12 02:44:20
+21575,dSEaZ5iS,basketball,argentina_la,current,Instituto de Cordoba,Quimsa,2026-05-17,FT,83,80,,,2026-08-12,2026-08-12 02:44:20
+21574,r90WHR9t,basketball,argentina_la,current,Ferro,Regatas,2026-05-19,FT,85,87,,,2026-08-12,2026-08-12 02:44:20
+21573,GMILFdpA,basketball,argentina_la,current,Gimnasia,Independiente de Oliva,2026-05-19,FT,81,71,,,2026-08-12,2026-08-12 02:44:20
+21572,b9lTWW3t,basketball,argentina_la,current,Quimsa,Instituto de Cordoba,2026-05-20,FT,75,71,,,2026-08-12,2026-08-12 02:44:20
+21571,6VLhySLF,basketball,argentina_la,current,Quimsa,Boca Juniors,2026-05-23,FT,88,76,,,2026-08-12,2026-08-12 02:44:20
+21570,IiEvSNr2,basketball,argentina_la,current,Gimnasia,Ferro,2026-05-24,FT,81,77,,,2026-08-12,2026-08-12 02:44:20
+21569,vqK0Z5jS,basketball,argentina_la,current,Quimsa,Boca Juniors,2026-05-26,FT,91,78,,,2026-08-12,2026-08-12 02:44:20
+21568,Ao1QkRz9,basketball,argentina_la,current,Gimnasia,Ferro,2026-05-26,FT,79,74,,,2026-08-12,2026-08-12 02:44:20
+21567,tnwcXIKs,basketball,argentina_la,current,Ferro,Gimnasia,2026-05-29,FT,74,70,,,2026-08-12,2026-08-12 02:44:20
+21566,ARAWTqEk,basketball,argentina_la,current,Boca Juniors,Quimsa,2026-05-30,FT,99,92,,,2026-08-12,2026-08-12 02:44:20
+21565,Wn4ITbU8,basketball,argentina_la,current,Ferro,Gimnasia,2026-05-30,FT,81,73,,,2026-08-12,2026-08-12 02:44:20
+21564,QyMSBb9a,basketball,argentina_la,current,Quimsa,Boca Juniors,2026-06-01,FT,83,94,,,2026-08-12,2026-08-12 02:44:20
+21563,rN38G84c,basketball,argentina_la,current,Gimnasia,Ferro,2026-06-03,FT,88,54,,,2026-08-12,2026-08-12 02:44:20
+21562,j9QMTf9a,basketball,argentina_la,current,Gimnasia,Quimsa,2026-06-06,FT,73,82,,,2026-08-12,2026-08-12 02:44:20
+21561,OMOURYwC,basketball,argentina_la,current,Gimnasia,Quimsa,2026-06-09,FT,79,80,,,2026-08-12,2026-08-12 02:44:20
+21560,dlxxQC8O,basketball,argentina_la,current,Gimnasia,Quimsa,2026-06-12,FT,76,59,,,2026-08-12,2026-08-12 02:44:20
+21559,nDHopGgt,basketball,argentina_la,current,Gimnasia,Quimsa,2026-06-14,NS,,,,,2026-08-12,2026-08-12 02:44:20
+21558,GEvnhpCM,basketball,argentina_la,current,Quimsa,Gimnasia,2026-06-18,FT,88,60,,,2026-08-12,2026-08-12 02:44:20
+21557,29XIZywq,basketball,argentina_la,current,Gimnasia,Quimsa,2026-06-21,FT,68,56,,,2026-08-12,2026-08-12 02:44:20
+21556,MoASi3f3,basketball,brazil_nbb,current,Pinheiros,Rio Claro,2026-04-21,FT,95,80,,,2026-08-12,2026-08-12 02:44:20
+21555,nkuR9yGl,basketball,brazil_nbb,current,Minas,Cruzeiro,2026-04-21,FT,99,94,,,2026-08-12,2026-08-12 02:44:20
+21554,Ieh1lUmB,basketball,brazil_nbb,current,Corinthians Paulista,Unifacisa,2026-04-21,FT,88,78,,,2026-08-12,2026-08-12 02:44:20
+21553,Y72EraHk,basketball,brazil_nbb,current,Mogi,Sao Jose,2026-04-22,FT,70,75,,,2026-08-12,2026-08-12 02:44:20
+21552,KbBDwDZh,basketball,brazil_nbb,current,Paulistano,Bauru,2026-04-22,FT,80,77,,,2026-08-12,2026-08-12 02:44:20
+21551,6g6F2K8L,basketball,brazil_nbb,current,Franca,Botafogo,2026-04-22,FT,94,68,,,2026-08-12,2026-08-12 02:44:20
+21550,Gnb1gGV7,basketball,brazil_nbb,current,Flamengo,Uniao Corinthians,2026-04-22,FT,102,72,,,2026-08-12,2026-08-12 02:44:20
+21549,82GyY83U,basketball,brazil_nbb,current,Brasilia,Caxias do Sul,2026-04-23,FT,73,64,,,2026-08-12,2026-08-12 02:44:20
+21548,lrFYVLXq,basketball,brazil_nbb,current,Unifacisa,Corinthians Paulista,2026-04-24,FT,79,69,,,2026-08-12,2026-08-12 02:44:20
+21547,hC9Lyi45,basketball,brazil_nbb,current,Paulistano,Bauru,2026-04-24,FT,80,95,,,2026-08-12,2026-08-12 02:44:20
+21546,8tomHJNE,basketball,brazil_nbb,current,Uniao Corinthians,Flamengo,2026-04-25,FT,84,83,,,2026-08-12,2026-08-12 02:44:20
+21545,fa8zjsPF,basketball,brazil_nbb,current,Pinheiros,Rio Claro,2026-04-25,FT,79,88,,,2026-08-12,2026-08-12 02:44:20

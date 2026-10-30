@@ -1,0 +1,101 @@
+﻿id,source,match_url_id,match_date,home_team,away_team,home_score,away_score,home_corners,away_corners,total_corners,home_corners_1h,away_corners_1h,fetched_at,fetch_date,league_slug
+1671,corner-stats.com,648909,2026-10-19,FC Belshina Bobruisk,FK Slavia-Mozyr,2,4,5,2,7,0,2,2026-10-27 22:52:22,2026-10-27,premier-league-belarus
+1670,corner-stats.com,648701,2026-10-19,Termalica Niec.,Puszcza Niepol,2,0,4,5,9,3,4,2026-10-27 22:52:19,2026-10-27,i-liga-poland
+1669,corner-stats.com,648510,2026-10-17,Man City,Ipswich,3,2,2,3,5,1,0,2026-10-27 22:52:17,2026-10-27,premier-league-england
+1668,corner-stats.com,648410,2026-10-19,Univ. Cluj,Municipal Arg.,2,2,7,7,14,4,3,2026-10-27 22:52:13,2026-10-27,liga-i-romania
+1667,corner-stats.com,648350,2026-10-16,Deportivo,Levante,1,1,3,5,8,2,3,2026-10-27 22:52:11,2026-10-27,primera-division-spain
+1666,corner-stats.com,648201,2026-10-15,SC Freiburg,FK Baumit Jablonec,3,2,5,1,6,2,0,2026-10-27 22:52:07,2026-10-27,uefa-europa-conference-league-europe
+1665,corner-stats.com,648172,2026-10-15,Lyon,Crystal Palace,3,2,5,3,8,3,0,2026-10-27 22:52:04,2026-10-27,uefa-cup-europe
+1664,corner-stats.com,648125,2026-10-16,Sydney FC,Western Sydney Wanderers,0,0,2,3,5,0,0,2026-10-27 22:52:02,2026-10-27,a-league-australia
+1663,corner-stats.com,648798,2026-10-18,Chiangrai United FC,Ratchaburi Mitr Phol FC,1,2,7,7,14,3,5,2026-10-27 22:51:58,2026-10-27,thai-premier-league-thailand
+1662,corner-stats.com,648794,2026-10-18,Persib Bandung,Persik Kediri,1,0,3,11,14,0,4,2026-10-27 22:51:54,2026-10-27,super-liga-indonesia
+1661,corner-stats.com,648788,2026-10-18,Churchill Brothers SC,East Bengal,0,4,3,1,4,2,0,2026-10-27 22:51:52,2026-10-27,indian-super-league-india
+1660,corner-stats.com,648756,2026-10-18,FK Novi Pazar,FK IMT Novi Beograd,1,2,4,5,9,2,2,2026-10-27 22:51:49,2026-10-27,super-liga-serbia
+1659,corner-stats.com,648746,2026-10-18,Shanghai Port,Chengdu Qianbao,3,0,5,1,6,3,0,2026-10-27 22:51:47,2026-10-27,csl-china-pr
+1658,corner-stats.com,648688,2026-10-18,Tampines Rovers FC,Young Lions,4,1,11,0,11,5,0,2026-10-27 22:51:41,2026-10-27,sleague-singapore
+1657,corner-stats.com,648687,2026-10-18,Albirex Niigata FC (Singapore),Home United FC,0,2,2,9,11,0,5,2026-10-27 22:51:38,2026-10-27,sleague-singapore
+1656,corner-stats.com,648678,2026-10-18,Agrupación Deportiva Ceuta FC,Real Oviedo CF,1,2,14,2,16,1,1,2026-10-27 22:51:36,2026-10-27,segunda-division-spain
+1655,corner-stats.com,648674,2026-10-18,Osasuna,Racing Santander,2,0,7,4,11,1,3,2026-10-26 22:52:13,2026-10-26,primera-division-spain
+1654,corner-stats.com,648663,2026-10-18,Hoffenheim II,SC Verl 1924,2,1,4,8,12,2,3,2026-10-26 22:52:10,2026-10-26,3-liga-germany
+1653,corner-stats.com,648661,2026-10-18,Dynamo Dresden,1. FC Magdeburg,2,0,3,0,3,1,0,2026-10-26 22:52:06,2026-10-26,2-bundesliga-germany
+1652,corner-stats.com,648660,2026-10-18,Karlsruhe,Darmstadt,4,0,4,4,8,2,2,2026-10-26 22:52:03,2026-10-26,2-bundesliga-germany
+1651,corner-stats.com,648659,2026-10-18,Arminia Bielefeld,VfL Osnabruck,2,1,6,0,6,1,0,2026-10-26 22:52:01,2026-10-26,2-bundesliga-germany
+1650,corner-stats.com,648558,2026-10-18,Västerås SK,Mjällby AIF,1,0,4,5,9,2,2,2026-10-26 22:51:58,2026-10-26,allsvenskan-sweden
+1649,corner-stats.com,648557,2026-10-18,IK Sirius,Elfsborg,2,2,6,8,14,3,4,2026-10-26 22:51:54,2026-10-26,allsvenskan-sweden
+1648,corner-stats.com,648553,2026-10-18,Sonderjyske,Silkeborg IF,4,0,9,1,10,4,0,2026-10-26 22:51:50,2026-10-26,superliga-denmark
+1647,corner-stats.com,648552,2026-10-18,Lyngby Boldklub,FC Nordsjaelland,3,3,1,7,8,0,3,2026-10-26 22:51:47,2026-10-26,superliga-denmark
+1646,corner-stats.com,648357,2026-10-18,KV Mechelen,KAS Eupen,5,1,7,3,10,5,2,2026-10-26 22:51:42,2026-10-26,beker-van-belgie-belgium
+1645,corner-stats.com,648699,2026-10-18,Gornik Zabrze,Piast Gliwice,1,1,10,1,11,8,1,2026-10-26 22:51:39,2026-10-26,ekstraklasa-poland
+1644,corner-stats.com,648690,2026-10-18,Kasimpasa,Samsunspor,4,1,9,6,15,5,2,2026-10-26 22:51:35,2026-10-26,super-lig-turkey
+1643,corner-stats.com,648686,2026-10-18,RKC,FC Volendam,1,1,14,4,18,7,2,2026-10-26 22:51:32,2026-10-26,eerste-divisie-netherlands
+1642,corner-stats.com,648683,2026-10-18,PEC Zwolle,Go Ahead Eagles,4,1,5,6,11,3,1,2026-10-26 22:51:30,2026-10-26,eredivisie-netherlands
+1641,corner-stats.com,648666,2026-10-18,Udinese,Lecce,0,3,1,4,5,0,3,2026-10-26 22:51:27,2026-10-26,serie-a-italy
+1640,corner-stats.com,648793,2026-10-18,Persebaya Sur.,PSS Sleman,2,2,12,3,15,3,3,2026-10-26 22:51:23,2026-10-26,super-liga-indonesia
+1639,corner-stats.com,648744,2026-10-18,Wuhan Three Towns FC,Shanghai Shenhua,1,3,5,3,8,2,1,2026-10-25 22:53:21,2026-10-25,csl-china-pr
+1638,corner-stats.com,648739,2026-10-18,Polissya Zhytomyr,Dynamo K,3,1,7,7,14,4,5,2026-10-25 22:53:17,2026-10-25,premier-league-ukraine
+1637,corner-stats.com,648738,2026-10-18,Kryvbas Kryvyi R,LNZ Cherkasy FC,0,3,3,13,16,1,6,2026-10-25 22:53:14,2026-10-25,premier-league-ukraine
+1636,corner-stats.com,648589,2026-10-18,Sturm Graz II,SV Kapfenberg,0,2,13,5,18,3,5,2026-10-25 22:53:11,2026-10-25,1-liga-austria
+1635,corner-stats.com,648445,2026-10-18,Altay Oskemen,FK Atyrau,1,1,1,2,3,1,0,2026-10-25 22:53:08,2026-10-25,premier-league-kazakhstan
+1634,corner-stats.com,648318,2026-10-18,Ural,FK Olimpiyets Nizhny Novgorod,1,2,8,4,12,3,2,2026-10-25 22:53:01,2026-10-25,1-division-russia
+1633,corner-stats.com,648867,2026-10-18,Real Madrid,Sevilla,4,1,1,2,3,1,1,2026-10-25 22:52:56,2026-10-25,primera-division-spain
+1632,corner-stats.com,648777,2026-10-18,Busan I Park,Jeonnam Dragons,2,1,3,4,7,0,2,2026-10-25 22:52:54,2026-10-25,k-league-korea-republic
+1631,corner-stats.com,648776,2026-10-18,Suwon Bluewings,Hwaseong FC,3,2,2,8,10,1,1,2026-10-25 22:52:50,2026-10-25,k-league-korea-republic
+1630,corner-stats.com,648775,2026-10-18,Seoul E-Land FC,Gimhae City Government FC,6,2,9,7,16,8,0,2026-10-25 22:52:48,2026-10-25,k-league-korea-republic
+1629,corner-stats.com,648774,2026-10-18,Pohang Steelers,FC Anyang,0,0,3,2,5,1,0,2026-10-25 22:52:44,2026-10-25,k-league-classic-korea-republic
+1628,corner-stats.com,648773,2026-10-18,Gangwon FC,Incheon Utd,1,1,7,1,8,3,1,2026-10-25 22:52:41,2026-10-25,k-league-classic-korea-republic
+1627,corner-stats.com,648772,2026-10-18,FC Seoul,Gimcheon Sangmu,2,2,4,6,10,1,4,2026-10-25 22:52:37,2026-10-25,k-league-classic-korea-republic
+1626,corner-stats.com,648771,2026-10-18,Jeonbuk Motors,Jeju United,3,2,2,5,7,1,3,2026-10-25 22:52:33,2026-10-25,k-league-classic-korea-republic
+1625,corner-stats.com,648770,2026-10-18,Daejeon Citizen,Gwangju FC,3,2,9,3,12,4,2,2026-10-25 22:52:30,2026-10-25,k-league-classic-korea-republic
+1624,corner-stats.com,648727,2026-10-18,Iwaki SC,Ventforet Kofu,5,0,8,6,14,5,3,2026-10-25 00:04:49,2026-10-24,j2-league-japan
+1623,corner-stats.com,648726,2026-10-18,Machida Zelvia,Avispa Fukuoka,3,0,1,5,6,1,1,2026-10-25 00:04:45,2026-10-24,j1-league-japan
+1622,corner-stats.com,648725,2026-10-18,Fagiano Okayama,Vissel Kobe,0,3,10,8,18,3,3,2026-10-25 00:04:42,2026-10-24,j1-league-japan
+1621,corner-stats.com,648655,2026-10-18,Las Vegas Lights FC,Lexington SC,3,5,2,9,11,1,5,2026-10-25 00:04:38,2026-10-24,mls-reserve-league-united-states
+1620,corner-stats.com,648644,2026-10-18,Seattle Sounders FC,Montreal Impact,1,1,5,2,7,0,2,2026-10-25 00:04:35,2026-10-24,mls-united-states
+1619,corner-stats.com,648643,2026-10-18,San Jose Earthquakes,Nashville SC (MLS),1,1,4,0,4,2,0,2026-10-25 00:04:31,2026-10-24,mls-united-states
+1618,corner-stats.com,648642,2026-10-18,Portland Timbers,Colorado Rapids,0,0,1,4,5,1,0,2026-10-25 00:04:29,2026-10-24,mls-united-states
+1617,corner-stats.com,648641,2026-10-18,LA Galaxy,San Diego FC,2,2,5,3,8,2,2,2026-10-25 00:04:26,2026-10-24,mls-united-states
+1616,corner-stats.com,648593,2026-10-18,Viktoria Žižkov,FK MAS Táborsko,2,2,5,11,16,3,8,2026-10-23 23:33:55,2026-10-23,2-liga-czech-republic
+1615,corner-stats.com,648574,2026-10-18,Cruz Azul,FC Juárez,5,0,2,8,10,0,4,2026-10-23 23:33:52,2026-10-23,primera-division-mexico
+1614,corner-stats.com,648316,2026-10-18,SKA Energia Khabarovsk,Volga Ulyanovsk,1,2,7,4,11,4,2,2026-10-23 23:33:49,2026-10-23,1-division-russia
+1613,corner-stats.com,648499,2026-10-12,Dukla Praha,FC Baník Ostrava II,3,2,7,8,15,3,5,2026-10-18 16:34:30,2026-10-18,2-liga-czech-republic
+1612,corner-stats.com,648245,2026-10-12,NorthEast Utd,ATK Mohun Bagan FC,1,0,4,8,12,1,6,2026-10-18 16:34:27,2026-10-18,indian-super-league-india
+1611,corner-stats.com,647837,2026-10-12,Future FC,ENPPI Club,3,2,3,9,12,2,5,2026-10-18 16:34:24,2026-10-18,premier-league-egypt
+1610,corner-stats.com,647836,2026-10-12,Al Mokawloon Arab Contractors,FC ZED,1,1,3,7,10,2,3,2026-10-18 16:34:21,2026-10-18,premier-league-egypt
+1609,corner-stats.com,647830,2026-10-12,FK Liepāja,FK Auda Riga,2,3,3,1,4,1,1,2026-10-18 16:34:15,2026-10-18,virsliga-latvia
+1608,corner-stats.com,647817,2026-10-12,Burgos CF,Granada,0,1,4,0,4,1,0,2026-10-18 16:34:12,2026-10-18,segunda-division-spain
+1607,corner-stats.com,647807,2026-10-12,VPS,IF Gnistan,1,0,2,3,5,1,1,2026-10-18 16:34:08,2026-10-18,veikkausliiga-finland
+1606,corner-stats.com,647799,2026-10-12,Malmö FF,Kalmar FF,1,0,6,4,10,3,3,2026-10-18 16:34:05,2026-10-18,allsvenskan-sweden
+1605,corner-stats.com,647782,2026-10-12,Pakhtakor T.,Al Quadisiya Kh,1,1,5,7,12,2,4,2026-10-18 16:34:02,2026-10-18,afc-champions-league-asia
+1604,corner-stats.com,647754,2026-10-12,America de Cali,Independiente Medellin,1,2,2,7,9,0,6,2026-10-18 16:34:00,2026-10-18,primera-a-colombia
+1603,corner-stats.com,647714,2026-10-12,Talleres Cord.,CA Independiente,0,0,3,2,5,1,0,2026-10-18 16:33:56,2026-10-18,primera-division-argentina
+1602,corner-stats.com,647703,2026-10-12,Hougang United FC,Balestier Kh.,1,2,8,4,12,7,0,2026-10-18 16:33:52,2026-10-18,sleague-singapore
+1601,corner-stats.com,647695,2026-10-12,Valladolid,Albacete,5,0,7,5,12,4,3,2026-10-18 16:33:49,2026-10-18,segunda-division-spain
+1600,corner-stats.com,647662,2026-10-12,Unam Pumas,Cruz Azul,3,3,4,6,10,4,3,2026-10-18 16:33:46,2026-10-18,primera-division-mexico
+1599,corner-stats.com,647558,2026-10-12,PAOK Salonika,PS PAE Kalamata,1,3,7,2,9,2,2,2026-10-18 16:33:42,2026-10-18,super-league-greece
+1598,corner-stats.com,647231,2026-10-12,FK Livyi Bereh,Zorya,1,3,5,8,13,1,5,2026-10-18 16:33:38,2026-10-18,premier-league-ukraine
+1597,corner-stats.com,647225,2026-10-12,Municipal Arg.,CFR Cluj,0,1,7,2,9,4,0,2026-10-18 16:33:35,2026-10-18,liga-i-romania
+1596,corner-stats.com,647274,2026-10-08,Al Mokawloon Arab Contractors,El Gounah,2,0,6,0,6,4,0,2026-10-18 16:33:03,2026-10-18,league-cup-egypt
+1595,corner-stats.com,647273,2026-10-08,Future FC,National Bank of Egypt SC,2,0,9,1,10,6,1,2026-10-18 16:33:00,2026-10-18,league-cup-egypt
+1594,corner-stats.com,647272,2026-10-08,Al-Ittihad,Wadi Degla SC,0,1,5,2,7,3,1,2026-10-18 16:32:57,2026-10-18,league-cup-egypt
+1593,corner-stats.com,647046,2026-10-08,Al-Wakrah SC,Al Gharafa,3,2,4,9,13,3,8,2026-10-18 16:32:53,2026-10-18,stars-league-qatar
+1592,corner-stats.com,647045,2026-10-08,Al-Shamal SC,Al Duhail,0,4,6,6,12,4,4,2026-10-18 16:32:50,2026-10-18,stars-league-qatar
+1591,corner-stats.com,647036,2026-10-08,Khorfakkan Club,Al Wasl FC,1,2,1,6,7,0,2,2026-10-18 16:32:46,2026-10-18,emirates-cup-united-arab-emirates
+1590,corner-stats.com,647035,2026-10-08,Al Nasr SC (Dubai),Hatta Club,4,1,7,0,7,5,0,2026-10-18 16:32:43,2026-10-18,emirates-cup-united-arab-emirates
+1589,corner-stats.com,647020,2026-10-09,Zhejiang,Shanghai Port,2,4,5,8,13,1,7,2026-10-18 16:32:41,2026-10-18,csl-china-pr
+1588,corner-stats.com,647007,2026-10-08,KuPS,AC Oulu,0,1,9,3,12,3,2,2026-10-18 16:32:38,2026-10-18,veikkausliiga-finland
+1587,corner-stats.com,647006,2026-10-08,HJK,VPS,6,0,4,6,10,3,4,2026-10-18 16:32:35,2026-10-18,veikkausliiga-finland
+1586,corner-stats.com,647002,2026-10-08,Santos,Flamengo RJ,2,2,5,5,10,3,2,2026-10-18 16:32:32,2026-10-18,serie-a-brazil
+1585,corner-stats.com,646957,2026-10-08,Al Ahli Dubai,United FC,2,1,4,3,7,2,2,2026-10-18 16:32:28,2026-10-18,emirates-cup-united-arab-emirates
+1584,corner-stats.com,646956,2026-10-08,Al Ain SCC,Al Ittihad Kalb,2,2,4,6,10,1,4,2026-10-18 16:32:26,2026-10-18,emirates-cup-united-arab-emirates
+1583,corner-stats.com,646935,2026-10-07,Bragantino,Mirassol Futebol Clube,1,1,11,3,14,5,0,2026-10-18 16:32:24,2026-10-18,serie-a-brazil
+1582,corner-stats.com,647861,2026-10-01,Uzbekistan,Syria,4,1,2,3,5,0,1,2026-10-18 16:32:00,2026-10-18,friendlies-world-national
+1581,corner-stats.com,646569,2026-10-01,United FC,Hatta Club,3,2,4,1,5,3,0,2026-10-18 16:31:33,2026-10-18,emirates-cup-united-arab-emirates
+1580,corner-stats.com,646297,2026-10-01,Al Sharjah SCC,Al Dhafra SCC,2,1,4,5,9,3,3,2026-10-18 16:31:31,2026-10-18,emirates-cup-united-arab-emirates
+1579,corner-stats.com,646202,2026-09-28,Leganes,CD Castellón,0,2,4,2,6,4,0,2026-10-18 16:31:07,2026-10-18,segunda-division-spain
+1578,corner-stats.com,647051,2026-09-27,Seychelles,Sri Lanka,0,3,7,2,9,4,0,2026-10-18 16:30:52,2026-10-18,friendlies-world-national
+1577,corner-stats.com,647050,2026-09-27,China PR,New Zealand,0,3,3,5,8,3,1,2026-10-18 16:30:47,2026-10-18,friendlies-world-national
+1576,corner-stats.com,646885,2026-09-27,Central Español,Liverpool Mont.,1,2,12,4,16,7,2,2026-10-18 16:30:25,2026-10-18,primera-division-uruguay
+1575,corner-stats.com,646173,2026-09-27,Mallorca,Almeria,0,1,6,2,8,2,1,2026-10-18 16:29:52,2026-10-18,segunda-division-spain
+1574,corner-stats.com,646169,2026-09-27,Criciuma,Avai FC,3,0,5,2,7,3,2,2026-10-18 16:29:49,2026-10-18,serie-b-brazil
+1573,corner-stats.com,646122,2026-09-27,De Graafschap,FC Den Bosch,1,0,3,9,12,1,4,2026-10-18 16:29:43,2026-10-18,eerste-divisie-netherlands
+1572,corner-stats.com,646115,2026-09-27,Valladolid,Cordoba,3,1,2,5,7,1,1,2026-10-18 13:38:32,2026-10-18,segunda-division-spain

@@ -1,0 +1,101 @@
+﻿id,match_id,league_id,league_name,season,match_date,home_team,away_team,home_team_id,away_team_id,home_score,away_score,home_xg,away_xg,fetch_date,home_score_ht,away_score_ht
+18093,5107640,67,Sweden - Allsvenskan,2026,"Thu, Oct 29, 2026, 18:00 UTC",Örgryte,Mjällby,10002,8127,1,2,0.73,1.68,2026-10-30,1,1
+18092,5107643,67,Sweden - Allsvenskan,2026,"Thu, Oct 29, 2026, 18:00 UTC",Kalmar FF,GAIS,9892,8297,0,1,0.57,0.54,2026-10-30,0,0
+18091,5107638,67,Sweden - Allsvenskan,2026,"Thu, Oct 29, 2026, 17:45 UTC",Hammarby,Sirius,8248,6694,2,0,1.55,2.09,2026-10-30,1,0
+18090,5107639,67,Sweden - Allsvenskan,2026,"Wed, Oct 28, 2026, 18:00 UTC",IFK Göteborg,Djurgården,9893,9802,1,1,0.69,0.77,2026-10-30,1,0
+18089,5107644,67,Sweden - Allsvenskan,2026,"Wed, Oct 28, 2026, 18:00 UTC",Halmstads BK,Malmö FF,8310,10237,0,3,0.75,1.1,2026-10-30,0,2
+18088,5107642,67,Sweden - Allsvenskan,2026,"Wed, Oct 28, 2026, 18:00 UTC",Degerfors,Västerås SK,6544,6194,0,3,1.46,1.56,2026-10-30,0,1
+18087,5107641,67,Sweden - Allsvenskan,2026,"Wed, Oct 28, 2026, 18:00 UTC",Brommapojkarna,Häcken,8501,8428,0,0,0.87,1.06,2026-10-30,0,0
+18086,5793961,64,Scotland - Premiership,2026/2027,"Wed, Oct 28, 2026, 20:00 UTC",Heart of Midlothian,Rangers,9860,8548,2,2,1.71,2.2,2026-10-30,0,1
+18085,5793963,64,Scotland - Premiership,2026/2027,"Wed, Oct 28, 2026, 19:45 UTC",St. Mirren,Hibernian,9800,10251,1,1,1.76,1.36,2026-10-30,0,0
+18084,5793962,64,Scotland - Premiership,2026/2027,"Wed, Oct 28, 2026, 19:45 UTC",St. Johnstone,Motherwell,8467,9927,2,2,1.44,1.51,2026-10-30,1,1
+18083,5793960,64,Scotland - Premiership,2026/2027,"Wed, Oct 28, 2026, 19:45 UTC",Dundee FC,Kilmarnock,8284,8597,3,1,2.25,2.08,2026-10-30,1,0
+18082,5793959,64,Scotland - Premiership,2026/2027,"Wed, Oct 28, 2026, 19:45 UTC",Celtic,Dundee United,9925,9938,2,2,1.95,0.78,2026-10-30,1,2
+18081,5793958,64,Scotland - Premiership,2026/2027,"Wed, Oct 28, 2026, 19:45 UTC",Aberdeen,Falkirk,8485,8596,0,1,1.67,1.06,2026-10-30,0,0
+18080,5970194,536,Saudi Arabia - Pro League,2026/2027,"Thu, Oct 29, 2026, 18:00 UTC",Al Riyadh,Al Qadsiah,582739,101919,0,6,1.29,5.07,2026-10-30,0,2
+18079,5970193,536,Saudi Arabia - Pro League,2026/2027,"Thu, Oct 29, 2026, 18:00 UTC",Al Nassr FC,Al Kholood,101918,1523706,5,3,3.66,2.05,2026-10-30,2,2
+18078,5970191,536,Saudi Arabia - Pro League,2026/2027,"Thu, Oct 29, 2026, 14:35 UTC",Al Khaleej,Al Hazem,550433,101911,4,2,2.81,0.85,2026-10-30,1,2
+18077,1000014558,230,Mexico - Liga MX,2026/2027 - Apertura,"Thu, Oct 29, 2026, 03:00 UTC",CF América,Tijuana,6576,162418,1,1,1.53,0.4,2026-10-30,1,1
+18076,5967124,86,Italy - Serie B,2026/2027,"Wed, Oct 28, 2026, 19:00 UTC",Juve Stabia,Hellas Verona,6106,9876,0,1,0.69,1.59,2026-10-30,0,0
+18075,5967121,86,Italy - Serie B,2026/2027,"Wed, Oct 28, 2026, 19:00 UTC",Carrarese,Arezzo,6488,9849,2,1,2.63,0.83,2026-10-30,0,0
+18074,5967128,86,Italy - Serie B,2026/2027,"Wed, Oct 28, 2026, 18:00 UTC",Pisa,Palermo,6479,8540,3,3,2.84,1.49,2026-10-30,2,0
+18073,6362007,9478,India - Super League,2026/2027,"Wed, Oct 28, 2026, 14:00 UTC",FC Goa,SC Delhi,578650,1086744,1,1,1.41,0.25,2026-10-30,0,0
+18072,5996755,519,Egypt - Premier League,2026/2027,"Thu, Oct 29, 2026, 17:00 UTC",Pyramids FC,Wadi Degla FC,517894,205190,2,1,1.89,1.3,2026-10-30,1,1
+18071,5996754,519,Egypt - Premier League,2026/2027,"Thu, Oct 29, 2026, 14:00 UTC",Modern Sport FC,Al Ahly SC,797212,101745,0,1,1.34,0.91,2026-10-30,0,1
+18070,5996753,519,Egypt - Premier League,2026/2027,"Wed, Oct 28, 2026, 17:00 UTC",Zamalek SC,Al Mokawloon Al Arab,80591,101757,2,1,1.01,1.95,2026-10-30,0,0
+18069,5996752,519,Egypt - Premier League,2026/2027,"Wed, Oct 28, 2026, 14:00 UTC",National Bank,Al Masry SC,687954,101762,1,1,1.78,1.0,2026-10-30,0,1
+18068,1000022843,9125,Colombia - Primera B,2026,"Thu, Oct 29, 2026, 19:00 UTC",Envigado,Independiente Valle del Cauca,4402,4400,2,0,,,2026-10-30,2,0
+18067,1000022844,9125,Colombia - Primera B,2026,"Thu, Oct 29, 2026, 19:00 UTC",Boca Juniors de Cali,Unión Magdalena,193023,4408,1,1,,,2026-10-30,1,1
+18066,1000022847,9125,Colombia - Primera B,2026,"Thu, Oct 29, 2026, 01:05 UTC",Deportes Quindío,Real Cundinamarca,4407,193026,2,0,,,2026-10-30,0,0
+18065,1000014088,274,Colombia - Primera A,2026 - Clausura,"Thu, Oct 29, 2026, 01:05 UTC",Internacional de Bogotá,Independiente Medellín,47240,2528,3,1,2.3,1.38,2026-10-30,1,0
+18064,1000014093,274,Colombia - Primera A,2026 - Clausura,"Wed, Oct 28, 2026, 23:00 UTC",Once Caldas,Alianza FC,6024,193029,1,0,1.97,0.46,2026-10-30,0,0
+18063,1000014091,274,Colombia - Primera A,2026 - Clausura,"Wed, Oct 28, 2026, 01:05 UTC",Chicó FC,Junior FC,6255,2254,1,1,0.91,0.33,2026-10-30,0,0
+18062,1000014089,274,Colombia - Primera A,2026 - Clausura,"Tue, Oct 27, 2026, 23:00 UTC",Cúcuta,Águilas Doradas,6254,193025,0,2,1.31,1.65,2026-10-30,0,2
+18061,5190783,8814,Brazil - Serie B,2026,"Tue, Oct 27, 2026, 23:00 UTC",Ceará,Goiás,172341,9862,0,2,1.19,1.88,2026-10-30,0,0
+18060,5103693,268,Brazil - Serie A,2026,"Thu, Oct 29, 2026, 00:30 UTC",Remo,Botafogo,1626,8517,2,1,0.64,0.89,2026-10-30,1,0
+18059,5103692,268,Brazil - Serie A,2026,"Thu, Oct 29, 2026, 00:30 UTC",Bahia,São Paulo,7877,10277,3,2,1.13,0.89,2026-10-30,2,2
+18058,5103686,268,Brazil - Serie A,2026,"Wed, Oct 28, 2026, 22:30 UTC",Santos,Palmeiras,8514,10283,0,0,1.81,2.56,2026-10-30,0,0
+18057,5103688,268,Brazil - Serie A,2026,"Wed, Oct 28, 2026, 22:30 UTC",RB Bragantino,Chapecoense,109705,197693,3,0,2.58,0.76,2026-10-30,1,0
+18056,5103684,268,Brazil - Serie A,2026,"Wed, Oct 28, 2026, 22:30 UTC",Fluminense,Internacional,9863,8702,2,1,1.49,1.05,2026-10-30,0,0
+18055,1000019597,112,Argentina - Liga Profesional,2026 - Clausura,"Tue, Oct 27, 2026, 22:00 UTC",Argentinos Juniors,Independiente Rivadavia,10086,161729,1,0,1.28,0.62,2026-10-30,0,0
+18054,5749722,55,Italy - Serie A,2026/2027,"Thu, Oct 29, 2026, 19:45 UTC",Fiorentina,Atalanta,8535,8524,2,2,1.64,1.14,2026-10-30,0,1
+18053,5749723,55,Italy - Serie A,2026/2027,"Thu, Oct 29, 2026, 17:30 UTC",Frosinone,Lecce,9891,9888,5,1,3.08,1.45,2026-10-30,2,0
+18052,5749725,55,Italy - Serie A,2026/2027,"Wed, Oct 28, 2026, 19:45 UTC",Monza,Napoli,6504,9875,1,4,1.14,1.78,2026-10-30,1,1
+18051,5749724,55,Italy - Serie A,2026/2027,"Wed, Oct 28, 2026, 19:45 UTC",Genoa,Juventus,10233,9885,2,0,1.01,1.26,2026-10-30,2,0
+18050,5749729,55,Italy - Serie A,2026/2027,"Wed, Oct 28, 2026, 17:30 UTC",Venezia,Inter,7881,8636,0,2,1.59,2.33,2026-10-30,0,0
+18049,5749726,55,Italy - Serie A,2026/2027,"Wed, Oct 28, 2026, 17:30 UTC",Parma,Udinese,10167,8600,0,0,1.12,1.37,2026-10-30,0,0
+18048,5749720,55,Italy - Serie A,2026/2027,"Wed, Oct 28, 2026, 17:30 UTC",Milan,Bologna,8564,9857,2,4,1.8,2.09,2026-10-30,2,1
+18047,5107637,67,Sweden - Allsvenskan,2026,"Tue, Oct 27, 2026, 18:00 UTC",AIK,Elfsborg,8349,8014,2,2,0.86,1.86,2026-10-28,1,1
+18046,5970144,536,Saudi Arabia - Pro League,2026/2027,"Tue, Oct 27, 2026, 12:40 UTC",Abha,Al-Faisaly,150414,205687,0,1,1.45,0.95,2026-10-28,0,0
+18045,5967123,86,Italy - Serie B,2026/2027,"Tue, Oct 27, 2026, 19:00 UTC",Virtus Entella,Avellino,208932,6722,1,1,0.57,0.87,2026-10-28,1,0
+18044,5967126,86,Italy - Serie B,2026/2027,"Tue, Oct 27, 2026, 19:00 UTC",Mantova,Cremonese,9889,7801,0,2,1.89,1.26,2026-10-28,0,1
+18043,5967125,86,Italy - Serie B,2026/2027,"Tue, Oct 27, 2026, 19:00 UTC",LR Vicenza,Modena,145007,9887,1,2,0.3,1.13,2026-10-28,1,1
+18042,5967122,86,Italy - Serie B,2026/2027,"Tue, Oct 27, 2026, 19:00 UTC",Cesena,Empoli,584022,8534,2,1,1.24,0.56,2026-10-28,1,0
+18041,5967127,86,Italy - Serie B,2026/2027,"Tue, Oct 27, 2026, 19:00 UTC",Padova,Südtirol,583944,189475,2,0,1.43,1.83,2026-10-28,1,0
+18040,5967119,86,Italy - Serie B,2026/2027,"Tue, Oct 27, 2026, 19:00 UTC",Ascoli,Sampdoria,8522,9882,2,0,0.61,0.68,2026-10-28,0,0
+18039,5967120,86,Italy - Serie B,2026/2027,"Tue, Oct 27, 2026, 18:00 UTC",Benevento,Catanzaro,6266,10168,1,1,2.46,0.41,2026-10-28,0,0
+18038,5837956,109,England - League Two,2026/2027,"Tue, Oct 27, 2026, 19:45 UTC",Barnet,York City,8175,9916,3,1,1.49,0.65,2026-10-28,1,1
+18037,5837193,108,England - League One,2026/2027,"Tue, Oct 27, 2026, 19:45 UTC",Sheffield Wednesday,Cambridge United,10163,9834,1,1,1.7,1.71,2026-10-28,0,0
+18036,5837190,108,England - League One,2026/2027,"Tue, Oct 27, 2026, 19:45 UTC",Oxford United,Stockport County,8653,10007,1,0,2.02,2.46,2026-10-28,1,0
+18035,5837176,108,England - League One,2026/2027,"Tue, Oct 27, 2026, 19:45 UTC",Milton Keynes Dons,Bromley,8645,45729,4,1,2.33,0.84,2026-10-28,1,1
+18034,5837189,108,England - League One,2026/2027,"Tue, Oct 27, 2026, 19:45 UTC",Luton Town,Doncaster Rovers,8346,9903,3,1,2.26,1.05,2026-10-28,1,0
+18033,5837175,108,England - League One,2026/2027,"Tue, Oct 27, 2026, 19:45 UTC",Leicester City,Wigan Athletic,8197,8528,3,0,2.87,1.04,2026-10-28,1,0
+18032,1000014180,274,Colombia - Primera A,2026 - Clausura,"Tue, Oct 27, 2026, 01:05 UTC",Santa Fe,Bucaramanga,7818,4401,2,1,1.34,0.7,2026-10-28,1,0
+18031,1000014198,274,Colombia - Primera A,2026 - Clausura,"Mon, Oct 26, 2026, 23:00 UTC",CD Jaguares,Llaneros FC,424270,348397,1,0,1.44,0.84,2026-10-28,0,0
+18030,5190788,8814,Brazil - Serie B,2026,"Mon, Oct 26, 2026, 23:30 UTC",Juventude,Náutico,10274,2369,4,0,3.33,2.46,2026-10-28,2,0
+18029,5190781,8814,Brazil - Serie B,2026,"Mon, Oct 26, 2026, 22:30 UTC",América-MG,Cuiabá,1757,197815,1,0,0.4,1.81,2026-10-28,0,0
+18028,5103674,268,Brazil - Serie A,2026,"Mon, Oct 26, 2026, 23:00 UTC",Flamengo,Atlético-MG,9770,10272,3,2,2.77,1.02,2026-10-28,2,1
+18027,5103681,268,Brazil - Serie A,2026,"Mon, Oct 26, 2026, 22:30 UTC",Coritiba,Grêmio,9767,9769,0,1,1.32,2.06,2026-10-28,0,0
+18026,1000019594,112,Argentina - Liga Profesional,2026 - Clausura,"Tue, Oct 27, 2026, 00:15 UTC",Instituto,Deportivo Riestra,10090,298629,1,0,1.85,0.13,2026-10-28,0,0
+18025,1000019593,112,Argentina - Liga Profesional,2026 - Clausura,"Mon, Oct 26, 2026, 22:00 UTC",Unión,Estudiantes,10096,10094,3,1,1.93,0.49,2026-10-28,0,1
+18024,5749728,55,Italy - Serie A,2026/2027,"Tue, Oct 27, 2026, 19:45 UTC",Torino,Como,9804,10171,1,3,0.95,2.08,2026-10-28,1,0
+18023,5749721,55,Italy - Serie A,2026/2027,"Tue, Oct 27, 2026, 19:45 UTC",Roma,Cagliari,8686,8529,4,2,3.02,2.4,2026-10-28,2,1
+18022,5749727,55,Italy - Serie A,2026/2027,"Tue, Oct 27, 2026, 17:30 UTC",Sassuolo,Lazio,7943,8543,2,6,0.76,3.57,2026-10-28,2,4
+18021,5161682,9134,USA - NWSL,2026,"Sun, Oct 25, 2026, 23:00 UTC",San Diego Wave FC,Boston Legacy FC,1335917,1795723,2,2,1.29,1.54,2026-10-27,0,0
+18020,5161681,9134,USA - NWSL,2026,"Sun, Oct 25, 2026, 21:00 UTC",Kansas City Current,Washington Spirit,1237561,433030,2,1,0.44,1.53,2026-10-27,2,1
+18019,5904782,71,Turkey - Super Lig,2026/2027,"Mon, Oct 26, 2026, 18:30 UTC",Galatasaray,Fenerbahçe,8637,8695,2,1,2.27,0.31,2026-10-27,2,0
+18018,5904779,71,Turkey - Super Lig,2026/2027,"Mon, Oct 26, 2026, 16:00 UTC",Rizespor,Trabzonspor,2166,9752,3,4,1.81,2.63,2026-10-27,2,0
+18017,5904783,71,Turkey - Super Lig,2026/2027,"Mon, Oct 26, 2026, 16:00 UTC",Beşiktaş,Başakşehir,10188,1933,2,0,1.88,0.38,2026-10-27,0,0
+18016,5868505,140,Spain - LaLiga2,2026/2027,"Mon, Oct 26, 2026, 19:30 UTC",FC Andorra,Burgos CF,494050,7876,2,3,1.75,1.54,2026-10-27,2,3
+18015,5887660,61,Portugal - Primeira Liga,2026/2027,"Mon, Oct 26, 2026, 18:45 UTC",Santa Clara,Benfica,1567,9772,1,2,1.56,1.81,2026-10-27,1,0
+18014,1000014624,230,Mexico - Liga MX,2026/2027 - Apertura,"Mon, Oct 26, 2026, 03:10 UTC",Tijuana,Santos Laguna,162418,7857,4,1,3.24,0.51,2026-10-27,2,0
+18013,1000014622,230,Mexico - Liga MX,2026/2027 - Apertura,"Mon, Oct 26, 2026, 01:05 UTC",CF América,Pachuca,6576,7848,1,2,2.74,0.58,2026-10-27,0,1
+18012,1000014623,230,Mexico - Liga MX,2026/2027 - Apertura,"Mon, Oct 26, 2026, 01:00 UTC",Querétaro FC,Cruz Azul,1943,6578,1,3,1.18,1.67,2026-10-27,1,3
+18011,1000014621,230,Mexico - Liga MX,2026/2027 - Apertura,"Sun, Oct 25, 2026, 23:00 UTC",Atlas,Puebla,6577,7847,4,3,1.3,1.05,2026-10-27,1,1
+18010,6362006,9478,India - Super League,2026/2027,"Mon, Oct 26, 2026, 14:00 UTC",Mohun Bagan SG,Chennaiyin FC,578651,578652,1,0,1.37,1.82,2026-10-27,0,0
+18009,5803294,110,France - Ligue 2,2026/2027,"Mon, Oct 26, 2026, 19:45 UTC",Montpellier,Red Star,10249,6390,2,1,0.58,1.07,2026-10-27,0,0
+18008,5803290,110,France - Ligue 2,2026/2027,"Mon, Oct 26, 2026, 19:45 UTC",Boulogne,Reims,4170,9837,1,1,1.1,0.38,2026-10-27,1,0
+18007,5838013,109,England - League Two,2026/2027,"Mon, Oct 26, 2026, 20:00 UTC",Walsall,Salford City,10006,282326,2,4,1.7,2.31,2026-10-27,0,1
+18006,5739530,46,Denmark - Superligaen,2026/2027,"Mon, Oct 26, 2026, 18:00 UTC",FC København,OB,8391,8414,1,1,2.23,0.45,2026-10-27,0,1
+18005,1000014199,274,Colombia - Primera A,2026 - Clausura,"Mon, Oct 26, 2026, 01:15 UTC",Tolima,Deportivo Pasto,1894,4405,0,1,0.93,0.36,2026-10-27,0,1
+18004,1000014197,274,Colombia - Primera A,2026 - Clausura,"Sun, Oct 25, 2026, 23:10 UTC",Atlético Nacional,Independiente Medellín,6368,2528,2,1,1.69,1.58,2026-10-27,0,1
+18003,1000014201,274,Colombia - Primera A,2026 - Clausura,"Sun, Oct 25, 2026, 21:05 UTC",Alianza FC,Internacional de Bogotá,193029,47240,1,0,1.42,0.26,2026-10-27,1,0
+18002,1000019591,112,Argentina - Liga Profesional,2026 - Clausura,"Mon, Oct 26, 2026, 00:30 UTC",Central Córdoba de Santiago,Vélez Sarsfield,213596,10079,0,5,0.57,3.24,2026-10-27,0,2
+18001,1000019601,112,Argentina - Liga Profesional,2026 - Clausura,"Mon, Oct 26, 2026, 00:30 UTC",Barracas Central,Estudiantes de Río Cuarto,213534,213591,2,1,1.26,0.72,2026-10-27,0,1
+18000,1000019603,112,Argentina - Liga Profesional,2026 - Clausura,"Sun, Oct 25, 2026, 22:15 UTC",River Plate,Racing Club,10076,10080,1,0,1.56,0.46,2026-10-27,1,0
+17999,5802972,53,France - Ligue 1,2026/2027,"Mon, Oct 26, 2026, 19:30 UTC",Paris Saint-Germain,Lyon,9847,9748,2,0,0.87,0.62,2026-10-27,0,0
+17998,5868109,87,Spain - LaLiga,2026/2027,"Mon, Oct 26, 2026, 20:00 UTC",Sevilla,Osasuna,8302,8371,2,0,1.14,0.77,2026-10-27,1,0
+17997,5161680,9134,USA - NWSL,2026,"Sun, Oct 25, 2026, 19:00 UTC",Orlando Pride,Gotham FC,728922,189397,1,2,2.96,1.3,2026-10-26,0,1
+17996,5161679,9134,USA - NWSL,2026,"Sun, Oct 25, 2026, 01:45 UTC",Angel City FC,Bay FC,1335914,1607273,2,0,1.68,0.28,2026-10-26,0,0
+17995,5161678,9134,USA - NWSL,2026,"Sat, Oct 24, 2026, 22:30 UTC",Denver Summit FC,Racing Louisville,1795705,1237244,6,1,2.43,0.51,2026-10-26,2,0
+17994,5904780,71,Turkey - Super Lig,2026/2027,"Sun, Oct 25, 2026, 16:00 UTC",Göztepe,Çorum FK,1925,357274,2,0,1.91,0.74,2026-10-26,2,0

@@ -1,0 +1,101 @@
+﻿id,event_id,league_country,league_name,stage_name,home_team,away_team,home_team_id,away_team_id,kickoff_dt,status,home_score,away_score,home_q1,away_q1,home_q2,away_q2,home_q3,away_q3,home_q4,away_q4,fetch_date
+52579,1787711,Mexico,LNBP,lnbp,Astros de Jalisco,Soles de Mexicali,87493,87430,2026-09-13T05:15:00,FT,81,74,21,18,15,25,22,19,23,12,2026-10-12
+52578,1890502,Germany,BBL Cup,bbl-cup,USC Heidelberg,EWE Baskets Oldenburg,183118,2451,2026-09-13T21:00:00,FT,63,82,16,22,19,15,20,23,8,22,2026-10-12
+52577,1890500,Germany,BBL Cup,bbl-cup,Fraport Skyliners,Science City Jena,2650,8651,2026-09-13T19:30:00,FT,94,63,24,20,16,15,33,20,21,8,2026-10-12
+52576,1890498,Germany,BBL Cup,bbl-cup,Kirchheim Knights,Riesen Ludwigsburg,414890,2668,2026-09-13T18:00:00,FT,73,98,16,23,22,22,16,26,19,27,2026-10-12
+52575,1769642,Women's World Cup,Final Stage,final-stage,USA W,France W,138828,8562,2026-09-13T23:00:00,FT,97,79,17,20,26,25,30,12,24,22,2026-10-12
+52574,1769641,Women's World Cup,Final Stage,final-stage,Spain W,Germany W,8561,7069,2026-09-13T19:30:00,FT,81,58,25,15,15,21,21,15,20,7,2026-10-12
+52573,1820576,Champions League,Qualification,qualification,Wuerzburg Baskets,Manchester Basketball,2660,340291,2026-09-14T23:15:00,FT,73,74,19,18,18,24,15,22,21,10,2026-10-12
+52572,1820575,Champions League,Qualification,qualification,CB Breogan Lugo,Rilski Sportist,41,2566,2026-09-14T21:00:00,FT,126,80,25,16,32,22,37,18,32,24,2026-10-12
+52571,1820568,Champions League,Qualification,qualification,BK Opava,Dziki Warsaw,2081,268238,2026-09-14T18:30:00,FT,99,116,24,24,26,26,20,30,29,36,2026-10-12
+52570,1820577,Champions League,Qualification,qualification,VEF Riga,Absheron Lions,2086,380724,2026-09-14T16:15:00,FT,105,88,30,27,19,21,35,23,21,17,2026-10-12
+52569,1787701,Mexico,LNBP,lnbp,Freseros,Soles de Mexicali,259459,87430,2026-09-15T07:00:00,FT,73,85,20,21,25,28,11,18,17,18,2026-10-12
+52568,1820570,Champions League,Qualification,qualification,SC RASTA Vechta,Merkezefendi,2528,190031,2026-09-15T23:00:00,FT,101,98,24,20,19,17,34,28,24,33,2026-10-12
+52567,1820569,Champions League,Qualification,qualification,Benfica,Lions de Geneve,2514,407735,2026-09-15T20:45:00,FT,87,78,25,17,20,21,17,17,25,23,2026-10-12
+52566,1820578,Champions League,Qualification,qualification,Manisa BB,Kolossos Rhodes,235373,1936,2026-09-15T18:30:00,FT,91,79,26,21,17,20,23,29,25,9,2026-10-12
+52565,1820574,Champions League,Qualification,qualification,ASP Promitheas,BC Vienna,2546,2433,2026-09-15T16:15:00,FT,92,82,16,19,28,16,23,30,25,17,2026-10-12
+52564,1891015,Mexico,LNBP,lnbp,Fuerza Regia de Monterrey,Mineros de Zacatecas,87431,87477,2026-09-16T07:15:00,OT,100,101,24,20,21,26,25,22,22,24,2026-10-12
+52563,1787714,Mexico,LNBP,lnbp,Lobos Plateados,Abejas de Leon,327713,87489,2026-09-16T07:00:00,FT,91,87,25,16,29,26,16,27,21,18,2026-10-12
+52562,1787712,Mexico,LNBP,lnbp,Gambusinos,Santos de San Luis,365871,87496,2026-09-16T07:00:00,FT,89,77,23,20,26,22,14,15,26,20,2026-10-12
+52561,1787720,Mexico,LNBP,lnbp,Freseros,Soles de Mexicali,259459,87430,2026-09-16T07:00:00,FT,63,92,17,20,19,27,7,25,20,20,2026-10-12
+52560,1787726,Mexico,LNBP,lnbp,Dorados de Chihuahua,El Calor de Cancun,87488,327714,2026-09-16T07:00:00,FT,91,89,29,17,21,25,21,30,20,17,2026-10-12
+52559,1787715,Mexico,LNBP,lnbp,Diablos Rojos,Correcaminos,327712,87495,2026-09-16T02:15:00,FT,107,79,23,21,34,21,22,14,28,23,2026-10-12
+52558,1820573,Champions League,Qualification,qualification,CSM Oradea,AEK Larnaca,2436,2042,2026-09-16T23:00:00,FT,95,87,31,18,13,19,32,24,19,26,2026-10-12
+52557,1820571,Champions League,Qualification,qualification,Fribourg Olympic,BC Batumi 2010,6578,407736,2026-09-16T20:45:00,FT,85,86,16,22,19,22,23,24,27,18,2026-10-12
+52556,1820572,Champions League,Qualification,qualification,Bakken Bears,Landstede Hammers,104,2438,2026-09-16T18:30:00,FT,89,78,22,33,21,12,22,16,24,17,2026-10-12
+52555,1820579,Champions League,Qualification,qualification,Levicki Patrioti,Salon Vilpas,2120,2570,2026-09-16T16:15:00,FT,87,90,19,30,26,18,23,21,19,21,2026-10-12
+52554,1787737,Mexico,LNBP,lnbp,Panteras de Aguascalientes,Astros de Jalisco,87486,87493,2026-09-17T07:30:00,FT,95,83,25,15,23,25,23,27,24,16,2026-10-12
+52553,1787735,Mexico,LNBP,lnbp,Lobos Plateados,Abejas de Leon,327713,87489,2026-09-17T07:00:00,FT,80,67,13,24,23,12,25,12,19,19,2026-10-12
+52552,1787733,Mexico,LNBP,lnbp,Gambusinos,Santos de San Luis,365871,87496,2026-09-17T07:00:00,FT,78,109,21,32,19,31,24,23,14,23,2026-10-12
+52551,1787734,Mexico,LNBP,lnbp,Dorados de Chihuahua,El Calor de Cancun,87488,327714,2026-09-17T07:00:00,FT,97,86,22,28,29,26,22,19,24,13,2026-10-12
+52550,1787738,Mexico,LNBP,lnbp,Fuerza Regia de Monterrey,Mineros de Zacatecas,87431,87477,2026-09-17T06:15:00,FT,87,84,25,20,18,28,20,16,24,20,2026-10-12
+52549,1787736,Mexico,LNBP,lnbp,Diablos Rojos,Correcaminos,327712,87495,2026-09-17T02:15:00,FT,96,91,20,24,23,21,27,17,26,29,2026-10-12
+52548,1867629,Lithuania,LKL,lkl,Gargzdai,Zalgiris Kaunas,231049,1943,2026-09-17T20:50:00,FT,77,98,18,23,19,21,20,28,20,26,2026-10-12
+52547,1831572,Denmark,Basket Ligaen,basket-ligaen,Svendborg,Horsens IC,2410,2063,2026-09-17T22:00:00,FT,70,92,13,24,25,16,13,23,19,29,2026-10-12
+52546,1831576,Denmark,Basket Ligaen,basket-ligaen,Holbaek-Stenhus,Randers Cimbria,229459,2520,2026-09-17T22:00:00,FT,84,100,22,21,32,33,12,26,18,20,2026-10-12
+52545,1824908,Czech Republic,NBL,nbl,Lokomotive Plzen,Decin,407828,2098,2026-09-17T21:00:00,FT,79,109,13,20,30,28,19,31,17,30,2026-10-12
+52544,1893890,Champions League,Qualification,qualification,Benfica,SC RASTA Vechta,2514,2528,2026-09-17T23:00:00,FT,88,98,21,28,30,21,22,19,15,30,2026-10-12
+52543,1893891,Champions League,Qualification,qualification,ASP Promitheas,Manisa BB,2546,235373,2026-09-17T20:45:00,FT,94,93,21,25,30,21,18,26,25,21,2026-10-12
+52542,1893752,Champions League,Qualification,qualification,Manchester Basketball,CB Breogan Lugo,340291,41,2026-09-17T18:30:00,FT,84,105,14,25,19,29,21,20,30,31,2026-10-12
+52541,1893753,Champions League,Qualification,qualification,VEF Riga,Dziki Warsaw,2086,268238,2026-09-17T16:15:00,FT,95,102,24,25,19,15,26,22,26,40,2026-10-12
+52540,1749634,WNBA,WNBA: Regular season,wnba-regular-season,Seattle Storm,Las Vegas Aces,8414,8390,2026-09-18T07:00:00,FT,77,114,13,25,21,27,29,33,14,29,2026-10-12
+52539,1767341,WNBA,WNBA: Regular season,wnba-regular-season,Portland Fire,Phoenix Mercury,398941,8415,2026-09-18T07:00:00,FT,91,94,26,20,24,23,19,25,22,26,2026-10-12
+52538,1749632,WNBA,WNBA: Regular season,wnba-regular-season,Dallas Wings,Los Angeles Sparks,8419,8403,2026-09-18T05:00:00,FT,97,77,25,25,19,19,25,14,28,19,2026-10-12
+52537,1749636,WNBA,WNBA: Regular season,wnba-regular-season,Chicago Sky,Washington Mystics,8417,8202,2026-09-18T05:00:00,FT,80,110,19,24,22,28,27,32,12,26,2026-10-12
+52536,1749631,WNBA,WNBA: Regular season,wnba-regular-season,Atlanta Dream,Connecticut Sun,8408,8203,2026-09-18T04:30:00,FT,103,59,22,17,23,18,31,11,27,13,2026-10-12
+52535,1848119,Norway,BLNO,blno,Tromsoe Storm,Froeya,2459,2022,2026-09-18T22:30:00,FT,74,100,12,25,20,23,17,30,25,22,2026-10-12
+52534,1848129,Norway,BLNO,blno,Kongsberg Miners,Gimle,1996,2509,2026-09-18T22:00:00,FT,84,90,21,23,20,15,21,19,22,33,2026-10-12
+52533,1787707,Mexico,LNBP,lnbp,Panteras de Aguascalientes,Astros de Jalisco,87486,87493,2026-09-18T07:30:00,FT,83,98,21,26,23,25,17,20,22,27,2026-10-12
+52532,1874580,Great Britain,SLB,slb,Bristol Flyers,London Lions,105,94,2026-09-18T23:30:00,FT,78,80,18,17,20,28,23,18,17,17,2026-10-12
+52531,1853628,Germany,BBL,bbl,Alba Berlin,Niners Chemnitz,1974,101387,2026-09-18T23:00:00,FT,89,82,21,20,20,23,18,19,30,20,2026-10-12
+52530,1894633,Champions League,Qualification,qualification,BC Batumi 2010,CSM Oradea,407736,2436,2026-09-18T22:30:00,FT,77,93,21,25,16,30,21,15,19,23,2026-10-12
+52529,1894635,Champions League,Qualification,qualification,Salon Vilpas,Bakken Bears,2570,104,2026-09-18T20:00:00,FT,90,72,23,19,26,21,26,21,15,11,2026-10-12
+52528,1749643,WNBA,WNBA: Regular season,wnba-regular-season,Dallas Wings,Phoenix Mercury,8419,8415,2026-09-19T22:00:00,FT,87,82,19,24,37,25,12,15,19,18,2026-10-12
+52527,1767344,WNBA,WNBA: Regular season,wnba-regular-season,Golden State Valkyries,Portland Fire,353680,398941,2026-09-19T07:00:00,FT,82,66,19,20,21,10,27,19,15,17,2026-10-12
+52526,1767346,WNBA,WNBA: Regular season,wnba-regular-season,Toronto Tempo,Indiana Fever,398940,8448,2026-09-19T04:30:00,FT,85,103,19,25,31,28,23,26,12,24,2026-10-12
+52525,1749638,WNBA,WNBA: Regular season,wnba-regular-season,Minnesota Lynx,New York Liberty,8420,8409,2026-09-19T04:30:00,FT,81,93,20,19,17,22,25,24,19,28,2026-10-12
+52524,1844353,Spain,Super Cup,super-cup,Joventut,Saski Baskonia,2478,1970,2026-09-19T21:00:00,FT,96,84,20,23,18,18,30,16,28,27,2026-10-12
+52523,1848120,Norway,BLNO,blno,TNT Towers,Nidaros Jets,356982,2023,2026-09-19T21:00:00,FT,73,78,22,17,15,22,18,16,18,23,2026-10-12
+52522,1867625,Lithuania,LKL,lkl,Taurage,BC Jonava,411915,185929,2026-09-19T21:10:00,OT,95,90,16,18,25,20,26,11,14,32,2026-10-12
+52521,1867633,Lithuania,LKL,lkl,Lietkabelis,Juventus,2096,2067,2026-09-19T18:50:00,FT,84,82,13,26,14,20,32,21,25,15,2026-10-12
+52520,1850095,Italy,Super Cup: Play-off,super-cup-play-off,Olimpia Milano,Virtus Bologna,1952,2495,2026-09-19T22:45:00,FT,80,71,17,14,23,9,23,25,17,23,2026-10-12
+52519,1850094,Italy,Super Cup: Play-off,super-cup-play-off,Derthona Basket,UR Venezia,2480,2452,2026-09-19T20:00:00,FT,90,98,27,25,29,22,15,21,19,30,2026-10-12
+52518,1853625,Germany,BBL,bbl,Telekom Baskets Bonn,Hamburg Towers,79,2638,2026-09-19T23:00:00,FT,96,72,25,15,20,19,29,20,22,18,2026-10-12
+52517,1853617,Germany,BBL,bbl,Rostock Seawolves,Phoenix Hagen,229833,339349,2026-09-19T21:30:00,FT,102,92,39,11,22,22,17,26,24,33,2026-10-12
+52516,1853621,Germany,BBL,bbl,Basketball Loewen Braunschweig,Gladiators Trier,80,339348,2026-09-19T21:30:00,FT,116,107,38,34,28,27,32,26,18,20,2026-10-12
+52515,1831585,Denmark,Basket Ligaen,basket-ligaen,Gladsaxe,Vaerloese BBK,408230,103,2026-09-19T21:00:00,FT,78,88,23,24,11,18,28,17,16,29,2026-10-12
+52514,1824920,Czech Republic,NBL,nbl,USK Prague,Nymburk,2053,1978,2026-09-19T23:00:00,FT,80,88,18,27,25,16,18,23,19,22,2026-10-12
+52513,1824919,Czech Republic,NBL,nbl,BK Opava,Ostrava,2081,2082,2026-09-19T21:00:00,FT,77,89,21,23,17,29,24,16,15,21,2026-10-12
+52512,1824901,Czech Republic,NBL,nbl,Pardubice,MMCITE Brno,2052,1979,2026-09-19T19:00:00,FT,85,79,17,14,20,18,16,24,32,23,2026-10-12
+52511,1787744,Australia,NBL,nbl,Perth Wildcats,South East Melbourne Phoenix,87343,87441,2026-09-19T16:30:00,FT,79,100,24,19,13,30,25,16,17,35,2026-10-12
+52510,1787742,Australia,NBL,nbl,Melbourne United,Adelaide 36ers,8130,8324,2026-09-19T14:30:00,FT,95,97,23,25,25,24,22,26,25,22,2026-10-12
+52509,1894739,Champions League,Qualification,qualification,ASP Promitheas,SC RASTA Vechta,2546,2528,2026-09-19T22:30:00,FT,73,103,20,26,19,27,13,24,21,26,2026-10-12
+52508,1894634,Champions League,Qualification,qualification,Dziki Warsaw,CB Breogan Lugo,268238,41,2026-09-19T20:00:00,FT,113,110,26,25,32,21,37,29,18,35,2026-10-12
+52507,1749639,WNBA,WNBA: Regular season,wnba-regular-season,Connecticut Sun,Minnesota Lynx,8203,8420,2026-09-20T22:00:00,FT,89,101,12,27,31,28,24,21,22,25,2026-10-12
+52506,1749640,WNBA,WNBA: Regular season,wnba-regular-season,Golden State Valkyries,Seattle Storm,353680,8414,2026-09-20T06:00:00,FT,70,57,21,19,28,6,15,21,6,11,2026-10-12
+52505,1749630,WNBA,WNBA: Regular season,wnba-regular-season,Atlanta Dream,Chicago Sky,8408,8417,2026-09-20T04:00:00,FT,106,81,26,25,25,22,32,19,23,15,2026-10-12
+52504,1896434,Spain,Super Cup,super-cup,Joventut,Barcelona,2478,71,2026-09-20T22:00:00,FT,101,87,32,23,20,23,19,22,30,19,2026-10-12
+52503,1844352,Spain,Super Cup,super-cup,Valencia,Barcelona,55,71,2026-09-20T00:00:00,FT,86,87,19,24,21,19,21,23,25,21,2026-10-12
+52502,1848122,Norway,BLNO,blno,Fyllingen,Gimle,1932,2509,2026-09-20T21:00:00,FT,68,80,21,25,20,21,18,16,9,18,2026-10-12
+52501,1848118,Norway,BLNO,blno,Baerum Basket,Ammerud,1997,2500,2026-09-20T21:00:00,FT,93,103,27,17,16,32,26,31,24,23,2026-10-12
+52500,1848121,Norway,BLNO,blno,Kongsberg Miners,Nidaros Jets,1996,2023,2026-09-20T20:00:00,FT,113,70,27,9,26,25,34,18,26,18,2026-10-12
+52499,1848117,Norway,BLNO,blno,Centrum Tigers,Froeya,1933,2022,2026-09-20T19:00:00,FT,47,83,16,22,12,25,4,20,15,16,2026-10-12
+52498,1787716,Mexico,LNBP,lnbp,Astros de Jalisco,Dorados de Chihuahua,87493,87488,2026-09-20T05:15:00,OT,87,80,23,3,22,20,14,19,10,27,2026-10-12
+52497,1867634,Lithuania,LKL,lkl,Gargzdai,Siauliai,231049,63,2026-09-20T21:10:00,FT,90,79,15,25,19,23,27,18,29,13,2026-10-12
+52496,1867626,Lithuania,LKL,lkl,BC Neptunas,Zalgiris Kaunas,2097,1943,2026-09-20T18:50:00,FT,69,93,18,20,16,20,17,21,18,32,2026-10-12
+52495,1896433,Italy,Super Cup: Play-off,super-cup-play-off,UR Venezia,Olimpia Milano,2452,1952,2026-09-20T20:00:00,OT,87,94,8,22,24,20,22,14,25,23,2026-10-12
+52494,1874583,Great Britain,SLB,slb,Cheshire Phoenix,Bristol Flyers,74,105,2026-09-20T21:30:00,FT,92,101,29,33,23,21,22,26,18,21,2026-10-12
+52493,1874582,Great Britain,SLB,slb,London Lions,Newcastle Eagles,94,2245,2026-09-20T20:00:00,FT,84,76,16,24,21,16,22,16,25,20,2026-10-12
+52492,1874588,Great Britain,SLB,slb,Caledonia Gladiators,Liverpool,97,412605,2026-09-20T20:00:00,FT,78,73,18,22,18,19,18,15,24,17,2026-10-12
+52491,1853632,Germany,BBL,bbl,FC Bayern Munchen,Bamberg Baskets,91,2477,2026-09-20T21:00:00,FT,108,72,30,13,25,15,28,22,25,22,2026-10-12
+52490,1853627,Germany,BBL,bbl,Ratiopharm Ulm,Riesen Ludwigsburg,2481,2668,2026-09-20T19:30:00,FT,86,77,18,15,17,12,23,30,28,20,2026-10-12
+52489,1853618,Germany,BBL,bbl,EWE Baskets Oldenburg,Mitteldeutscher BC,2451,2644,2026-09-20T18:00:00,FT,96,81,27,25,27,16,14,22,28,18,2026-10-12
+52488,1831510,Denmark,Kvindebasketligaen,kvindebasketligaen,Sisu W,BK Amager W,2414,1957,2026-09-20T21:00:00,FT,42,78,6,22,14,18,11,20,11,18,2026-10-12
+52487,1831508,Denmark,Kvindebasketligaen,kvindebasketligaen,Hoersholm W,Aabyhoej W,2532,2415,2026-09-20T18:30:00,FT,55,74,17,23,10,18,20,20,8,13,2026-10-12
+52486,1831506,Denmark,Kvindebasketligaen,kvindebasketligaen,Falcon W,Skovbakken Sirens,184223,408229,2026-09-20T16:00:00,FT,63,53,15,15,10,14,24,9,14,15,2026-10-12
+52485,1831584,Denmark,Basket Ligaen,basket-ligaen,EBAA,BMS Herlev Wolfpack,2460,2064,2026-09-20T19:00:00,FT,75,82,14,26,24,25,18,19,19,12,2026-10-12
+52484,1824915,Czech Republic,NBL,nbl,Usti nad Labem,Srsni Pisek,2557,254981,2026-09-20T21:00:00,FT,78,80,13,8,19,18,26,22,20,32,2026-10-12
+52483,1824899,Czech Republic,NBL,nbl,BK Olomoucko,Kralovsti Sokoli,2099,2041,2026-09-20T20:00:00,FT,81,93,17,34,17,18,25,24,22,17,2026-10-12
+52482,1787740,Australia,NBL,nbl,Sydney Kings,Cairns Taipans,87344,87396,2026-09-20T12:00:00,FT,111,90,32,26,27,27,31,20,21,17,2026-10-12
+52481,1787741,Australia,NBL,nbl,New Zealand Breakers,Illawarra Hawks,8204,87443,2026-09-20T10:00:00,FT,95,81,28,24,26,23,22,14,19,20,2026-10-12
+52480,1896432,Champions League,Qualification,qualification,Dziki Warsaw,SC RASTA Vechta,268238,2528,2026-09-20T22:30:00,FT,82,93,19,16,24,24,17,27,22,26,2026-10-12

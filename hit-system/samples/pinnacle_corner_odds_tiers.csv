@@ -1,0 +1,101 @@
+﻿id,corner_matchup_id,parent_matchup_id,league_name,home_team,away_team,kickoff_utc,market_type,period,side,team_side,line,price_amer,price_dec,is_alternate,max_bet,status,fetch_date,recorded_at,snapshot_tier
+250090,1637699331,1637699331,UEFA - U21 Euro Championship Qualifiers,Sweden (Corners),North Macedonia (Corners),2026-10-05 16:30:00,total,0,under,,10.5,-169.0,1.5917,1,100.0,open,2026-10-05,2026-10-05T21:59:19,m24h
+250089,1637699331,1637699331,UEFA - U21 Euro Championship Qualifiers,Sweden (Corners),North Macedonia (Corners),2026-10-05 16:30:00,total,0,over,,10.5,126.0,2.26,1,100.0,open,2026-10-05,2026-10-05T21:59:19,m24h
+250088,1637699331,1637699331,UEFA - U21 Euro Championship Qualifiers,Sweden (Corners),North Macedonia (Corners),2026-10-05 16:30:00,total,0,under,,10.0,-132.0,1.7576,1,100.0,open,2026-10-05,2026-10-05T21:59:19,m24h
+250087,1637699331,1637699331,UEFA - U21 Euro Championship Qualifiers,Sweden (Corners),North Macedonia (Corners),2026-10-05 16:30:00,total,0,over,,10.0,100.0,2.0,1,100.0,open,2026-10-05,2026-10-05T21:59:19,m24h
+250086,1637699331,1637699331,UEFA - U21 Euro Championship Qualifiers,Sweden (Corners),North Macedonia (Corners),2026-10-05 16:30:00,total,0,under,,9.0,132.0,2.32,1,100.0,open,2026-10-05,2026-10-05T21:59:19,m24h
+250085,1637699331,1637699331,UEFA - U21 Euro Championship Qualifiers,Sweden (Corners),North Macedonia (Corners),2026-10-05 16:30:00,total,0,over,,9.0,-179.0,1.5587,1,100.0,open,2026-10-05,2026-10-05T21:59:19,m24h
+250084,1637699331,1637699331,UEFA - U21 Euro Championship Qualifiers,Sweden (Corners),North Macedonia (Corners),2026-10-05 16:30:00,total,0,under,,8.5,160.0,2.6,1,100.0,open,2026-10-05,2026-10-05T21:59:19,m24h
+250083,1637699331,1637699331,UEFA - U21 Euro Championship Qualifiers,Sweden (Corners),North Macedonia (Corners),2026-10-05 16:30:00,total,0,over,,8.5,-224.0,1.4464,1,100.0,open,2026-10-05,2026-10-05T21:59:19,m24h
+250082,1637699331,1637699331,UEFA - U21 Euro Championship Qualifiers,Sweden (Corners),North Macedonia (Corners),2026-10-05 16:30:00,total,0,under,,9.5,-101.0,1.9901,0,100.0,open,2026-10-05,2026-10-05T21:59:19,m24h
+250081,1637699331,1637699331,UEFA - U21 Euro Championship Qualifiers,Sweden (Corners),North Macedonia (Corners),2026-10-05 16:30:00,total,0,over,,9.5,-130.0,1.7692,0,100.0,open,2026-10-05,2026-10-05T21:59:19,m24h
+250080,1637699331,1637699331,UEFA - U21 Euro Championship Qualifiers,Sweden (Corners),North Macedonia (Corners),2026-10-05 16:30:00,spread,0,away,,3.0,126.0,2.26,1,100.0,open,2026-10-05,2026-10-05T21:59:19,m24h
+250079,1637699331,1637699331,UEFA - U21 Euro Championship Qualifiers,Sweden (Corners),North Macedonia (Corners),2026-10-05 16:30:00,spread,0,home,,-3.0,-181.0,1.5525,1,100.0,open,2026-10-05,2026-10-05T21:59:19,m24h
+250078,1637699331,1637699331,UEFA - U21 Euro Championship Qualifiers,Sweden (Corners),North Macedonia (Corners),2026-10-05 16:30:00,spread,0,away,,3.5,102.0,2.02,1,100.0,open,2026-10-05,2026-10-05T21:59:19,m24h
+250077,1637699331,1637699331,UEFA - U21 Euro Championship Qualifiers,Sweden (Corners),North Macedonia (Corners),2026-10-05 16:30:00,spread,0,home,,-3.5,-143.0,1.6993,1,100.0,open,2026-10-05,2026-10-05T21:59:19,m24h
+250076,1637699331,1637699331,UEFA - U21 Euro Championship Qualifiers,Sweden (Corners),North Macedonia (Corners),2026-10-05 16:30:00,spread,0,away,,4.5,-166.0,1.6024,1,100.0,open,2026-10-05,2026-10-05T21:59:19,m24h
+250075,1637699331,1637699331,UEFA - U21 Euro Championship Qualifiers,Sweden (Corners),North Macedonia (Corners),2026-10-05 16:30:00,spread,0,home,,-4.5,117.0,2.17,1,100.0,open,2026-10-05,2026-10-05T21:59:19,m24h
+250074,1637699331,1637699331,UEFA - U21 Euro Championship Qualifiers,Sweden (Corners),North Macedonia (Corners),2026-10-05 16:30:00,spread,0,away,,5.0,-237.0,1.4219,1,100.0,open,2026-10-05,2026-10-05T21:59:19,m24h
+250073,1637699331,1637699331,UEFA - U21 Euro Championship Qualifiers,Sweden (Corners),North Macedonia (Corners),2026-10-05 16:30:00,spread,0,home,,-5.0,158.0,2.58,1,100.0,open,2026-10-05,2026-10-05T21:59:19,m24h
+250072,1637699331,1637699331,UEFA - U21 Euro Championship Qualifiers,Sweden (Corners),North Macedonia (Corners),2026-10-05 16:30:00,spread,0,away,,4.0,-127.0,1.7874,0,100.0,open,2026-10-05,2026-10-05T21:59:19,m24h
+250071,1637699331,1637699331,UEFA - U21 Euro Championship Qualifiers,Sweden (Corners),North Macedonia (Corners),2026-10-05 16:30:00,spread,0,home,,-4.0,-108.0,1.9259,0,100.0,open,2026-10-05,2026-10-05T21:59:19,m24h
+250070,1637699331,1637699331,UEFA - U21 Euro Championship Qualifiers,Sweden (Corners),North Macedonia (Corners),2026-10-05 16:30:00,team_total,0,under,away,2.5,-103.0,1.9709,0,100.0,open,2026-10-05,2026-10-05T21:59:19,m24h
+250069,1637699331,1637699331,UEFA - U21 Euro Championship Qualifiers,Sweden (Corners),North Macedonia (Corners),2026-10-05 16:30:00,team_total,0,over,away,2.5,-135.0,1.7407,0,100.0,open,2026-10-05,2026-10-05T21:59:19,m24h
+250068,1637699331,1637699331,UEFA - U21 Euro Championship Qualifiers,Sweden (Corners),North Macedonia (Corners),2026-10-05 16:30:00,team_total,0,under,home,6.5,-109.0,1.9174,0,100.0,open,2026-10-05,2026-10-05T21:59:19,m24h
+250067,1637699331,1637699331,UEFA - U21 Euro Championship Qualifiers,Sweden (Corners),North Macedonia (Corners),2026-10-05 16:30:00,team_total,0,over,home,6.5,-125.0,1.8,0,100.0,open,2026-10-05,2026-10-05T21:59:19,m24h
+250066,1637699331,1637699331,UEFA - U21 Euro Championship Qualifiers,Sweden (Corners),North Macedonia (Corners),2026-10-05 16:30:00,total,1,under,,5.0,-162.0,1.6173,1,100.0,open,2026-10-05,2026-10-05T21:59:19,m24h
+250065,1637699331,1637699331,UEFA - U21 Euro Championship Qualifiers,Sweden (Corners),North Macedonia (Corners),2026-10-05 16:30:00,total,1,over,,5.0,115.0,2.15,1,100.0,open,2026-10-05,2026-10-05T21:59:19,m24h
+250064,1637699331,1637699331,UEFA - U21 Euro Championship Qualifiers,Sweden (Corners),North Macedonia (Corners),2026-10-05 16:30:00,total,1,under,,4.0,125.0,2.25,1,100.0,open,2026-10-05,2026-10-05T21:59:19,m24h
+250063,1637699331,1637699331,UEFA - U21 Euro Championship Qualifiers,Sweden (Corners),North Macedonia (Corners),2026-10-05 16:30:00,total,1,over,,4.0,-180.0,1.5556,1,100.0,open,2026-10-05,2026-10-05T21:59:19,m24h
+250062,1637699331,1637699331,UEFA - U21 Euro Championship Qualifiers,Sweden (Corners),North Macedonia (Corners),2026-10-05 16:30:00,total,1,under,,4.5,-113.0,1.885,0,100.0,open,2026-10-05,2026-10-05T21:59:19,m24h
+250061,1637699331,1637699331,UEFA - U21 Euro Championship Qualifiers,Sweden (Corners),North Macedonia (Corners),2026-10-05 16:30:00,total,1,over,,4.5,-119.0,1.8403,0,100.0,open,2026-10-05,2026-10-05T21:59:19,m24h
+250060,1637699331,1637699331,UEFA - U21 Euro Championship Qualifiers,Sweden (Corners),North Macedonia (Corners),2026-10-05 16:30:00,spread,1,away,,1.5,107.0,2.07,1,100.0,open,2026-10-05,2026-10-05T21:59:19,m24h
+250059,1637699331,1637699331,UEFA - U21 Euro Championship Qualifiers,Sweden (Corners),North Macedonia (Corners),2026-10-05 16:30:00,spread,1,home,,-1.5,-151.0,1.6623,1,100.0,open,2026-10-05,2026-10-05T21:59:19,m24h
+250058,1637699331,1637699331,UEFA - U21 Euro Championship Qualifiers,Sweden (Corners),North Macedonia (Corners),2026-10-05 16:30:00,spread,1,away,,2.5,-180.0,1.5556,1,100.0,open,2026-10-05,2026-10-05T21:59:19,m24h
+250057,1637699331,1637699331,UEFA - U21 Euro Championship Qualifiers,Sweden (Corners),North Macedonia (Corners),2026-10-05 16:30:00,spread,1,home,,-2.5,125.0,2.25,1,100.0,open,2026-10-05,2026-10-05T21:59:19,m24h
+250056,1637699331,1637699331,UEFA - U21 Euro Championship Qualifiers,Sweden (Corners),North Macedonia (Corners),2026-10-05 16:30:00,spread,1,away,,2.0,-129.0,1.7752,0,100.0,open,2026-10-05,2026-10-05T21:59:19,m24h
+250055,1637699331,1637699331,UEFA - U21 Euro Championship Qualifiers,Sweden (Corners),North Macedonia (Corners),2026-10-05 16:30:00,spread,1,home,,-2.0,-107.0,1.9346,0,100.0,open,2026-10-05,2026-10-05T21:59:19,m24h
+250054,1637570973,1637570973,Spain - Segunda Division,Cordoba (Corners),Tenerife (Corners),2026-10-05 18:30:00,total,0,under,,10.0,-176.0,1.5682,1,200.0,open,2026-10-05,2026-10-05T21:59:16,m24h
+250053,1637570973,1637570973,Spain - Segunda Division,Cordoba (Corners),Tenerife (Corners),2026-10-05 18:30:00,total,0,over,,10.0,130.0,2.3,1,200.0,open,2026-10-05,2026-10-05T21:59:16,m24h
+250052,1637570973,1637570973,Spain - Segunda Division,Cordoba (Corners),Tenerife (Corners),2026-10-05 18:30:00,total,0,under,,9.5,-132.0,1.7576,1,200.0,open,2026-10-05,2026-10-05T21:59:16,m24h
+250051,1637570973,1637570973,Spain - Segunda Division,Cordoba (Corners),Tenerife (Corners),2026-10-05 18:30:00,total,0,over,,9.5,103.0,2.03,1,200.0,open,2026-10-05,2026-10-05T21:59:16,m24h
+250050,1637570973,1637570973,Spain - Segunda Division,Cordoba (Corners),Tenerife (Corners),2026-10-05 18:30:00,total,0,under,,8.5,127.0,2.27,1,200.0,open,2026-10-05,2026-10-05T21:59:16,m24h
+250049,1637570973,1637570973,Spain - Segunda Division,Cordoba (Corners),Tenerife (Corners),2026-10-05 18:30:00,total,0,over,,8.5,-168.0,1.5952,1,200.0,open,2026-10-05,2026-10-05T21:59:16,m24h
+250048,1637570973,1637570973,Spain - Segunda Division,Cordoba (Corners),Tenerife (Corners),2026-10-05 18:30:00,total,0,under,,8.0,178.0,2.78,1,200.0,open,2026-10-05,2026-10-05T21:59:16,m24h
+250047,1637570973,1637570973,Spain - Segunda Division,Cordoba (Corners),Tenerife (Corners),2026-10-05 18:30:00,total,0,over,,8.0,-254.0,1.3937,1,200.0,open,2026-10-05,2026-10-05T21:59:16,m24h
+250046,1637570973,1637570973,Spain - Segunda Division,Cordoba (Corners),Tenerife (Corners),2026-10-05 18:30:00,total,0,under,,9.0,101.0,2.01,0,200.0,open,2026-10-05,2026-10-05T21:59:16,m24h
+250045,1637570973,1637570973,Spain - Segunda Division,Cordoba (Corners),Tenerife (Corners),2026-10-05 18:30:00,total,0,over,,9.0,-127.0,1.7874,0,200.0,open,2026-10-05,2026-10-05T21:59:16,m24h
+250044,1637570973,1637570973,Spain - Segunda Division,Cordoba (Corners),Tenerife (Corners),2026-10-05 18:30:00,spread,0,away,,0.5,131.0,2.31,1,100.0,open,2026-10-05,2026-10-05T21:59:16,m24h
+250043,1637570973,1637570973,Spain - Segunda Division,Cordoba (Corners),Tenerife (Corners),2026-10-05 18:30:00,spread,0,home,,-0.5,-186.0,1.5376,1,100.0,open,2026-10-05,2026-10-05T21:59:16,m24h
+250042,1637570973,1637570973,Spain - Segunda Division,Cordoba (Corners),Tenerife (Corners),2026-10-05 18:30:00,spread,0,away,,1.0,110.0,2.1,1,100.0,open,2026-10-05,2026-10-05T21:59:16,m24h
+250041,1637570973,1637570973,Spain - Segunda Division,Cordoba (Corners),Tenerife (Corners),2026-10-05 18:30:00,spread,0,home,,-1.0,-149.0,1.6711,1,100.0,open,2026-10-05,2026-10-05T21:59:16,m24h
+250040,1637570973,1637570973,Spain - Segunda Division,Cordoba (Corners),Tenerife (Corners),2026-10-05 18:30:00,spread,0,away,,2.0,-147.0,1.6803,1,100.0,open,2026-10-05,2026-10-05T21:59:16,m24h
+250039,1637570973,1637570973,Spain - Segunda Division,Cordoba (Corners),Tenerife (Corners),2026-10-05 18:30:00,spread,0,home,,-2.0,109.0,2.09,1,100.0,open,2026-10-05,2026-10-05T21:59:16,m24h
+250038,1637570973,1637570973,Spain - Segunda Division,Cordoba (Corners),Tenerife (Corners),2026-10-05 18:30:00,spread,0,away,,2.5,-184.0,1.5435,1,100.0,open,2026-10-05,2026-10-05T21:59:16,m24h
+250037,1637570973,1637570973,Spain - Segunda Division,Cordoba (Corners),Tenerife (Corners),2026-10-05 18:30:00,spread,0,home,,-2.5,130.0,2.3,1,100.0,open,2026-10-05,2026-10-05T21:59:16,m24h
+250036,1637570973,1637570973,Spain - Segunda Division,Cordoba (Corners),Tenerife (Corners),2026-10-05 18:30:00,spread,0,away,,1.5,-112.0,1.8929,0,100.0,open,2026-10-05,2026-10-05T21:59:16,m24h
+250035,1637570973,1637570973,Spain - Segunda Division,Cordoba (Corners),Tenerife (Corners),2026-10-05 18:30:00,spread,0,home,,-1.5,-114.0,1.8772,0,100.0,open,2026-10-05,2026-10-05T21:59:16,m24h
+250034,1637570973,1637570973,Spain - Segunda Division,Cordoba (Corners),Tenerife (Corners),2026-10-05 18:30:00,team_total,0,under,away,3.5,-117.0,1.8547,0,100.0,open,2026-10-05,2026-10-05T21:59:16,m24h
+250033,1637570973,1637570973,Spain - Segunda Division,Cordoba (Corners),Tenerife (Corners),2026-10-05 18:30:00,team_total,0,over,away,3.5,-110.0,1.9091,0,100.0,open,2026-10-05,2026-10-05T21:59:16,m24h
+250032,1637570973,1637570973,Spain - Segunda Division,Cordoba (Corners),Tenerife (Corners),2026-10-05 18:30:00,team_total,0,under,home,5.5,-134.0,1.7463,0,100.0,open,2026-10-05,2026-10-05T21:59:16,m24h
+250031,1637570973,1637570973,Spain - Segunda Division,Cordoba (Corners),Tenerife (Corners),2026-10-05 18:30:00,team_total,0,over,home,5.5,102.0,2.02,0,100.0,open,2026-10-05,2026-10-05T21:59:16,m24h
+250030,1637570973,1637570973,Spain - Segunda Division,Cordoba (Corners),Tenerife (Corners),2026-10-05 18:30:00,total,1,under,,5.0,-194.0,1.5155,1,100.0,open,2026-10-05,2026-10-05T21:59:16,m24h
+250029,1637570973,1637570973,Spain - Segunda Division,Cordoba (Corners),Tenerife (Corners),2026-10-05 18:30:00,total,1,over,,5.0,139.0,2.39,1,100.0,open,2026-10-05,2026-10-05T21:59:16,m24h
+250028,1637570973,1637570973,Spain - Segunda Division,Cordoba (Corners),Tenerife (Corners),2026-10-05 18:30:00,total,1,under,,4.0,106.0,2.06,1,100.0,open,2026-10-05,2026-10-05T21:59:16,m24h
+250027,1637570973,1637570973,Spain - Segunda Division,Cordoba (Corners),Tenerife (Corners),2026-10-05 18:30:00,total,1,over,,4.0,-143.0,1.6993,1,100.0,open,2026-10-05,2026-10-05T21:59:16,m24h
+250026,1637570973,1637570973,Spain - Segunda Division,Cordoba (Corners),Tenerife (Corners),2026-10-05 18:30:00,total,1,under,,4.5,-131.0,1.7634,0,100.0,open,2026-10-05,2026-10-05T21:59:16,m24h
+250025,1637570973,1637570973,Spain - Segunda Division,Cordoba (Corners),Tenerife (Corners),2026-10-05 18:30:00,total,1,over,,4.5,100.0,2.0,0,100.0,open,2026-10-05,2026-10-05T21:59:16,m24h
+250024,1637570973,1637570973,Spain - Segunda Division,Cordoba (Corners),Tenerife (Corners),2026-10-05 18:30:00,spread,1,away,,0.0,147.0,2.47,1,100.0,open,2026-10-05,2026-10-05T21:59:16,m24h
+250023,1637570973,1637570973,Spain - Segunda Division,Cordoba (Corners),Tenerife (Corners),2026-10-05 18:30:00,spread,1,home,,0.0,-207.0,1.4831,1,100.0,open,2026-10-05,2026-10-05T21:59:16,m24h
+250022,1637570973,1637570973,Spain - Segunda Division,Cordoba (Corners),Tenerife (Corners),2026-10-05 18:30:00,spread,1,away,,1.0,-150.0,1.6667,1,100.0,open,2026-10-05,2026-10-05T21:59:16,m24h
+250021,1637570973,1637570973,Spain - Segunda Division,Cordoba (Corners),Tenerife (Corners),2026-10-05 18:30:00,spread,1,home,,-1.0,111.0,2.11,1,100.0,open,2026-10-05,2026-10-05T21:59:16,m24h
+250020,1637570973,1637570973,Spain - Segunda Division,Cordoba (Corners),Tenerife (Corners),2026-10-05 18:30:00,spread,1,away,,0.5,-102.0,1.9804,0,100.0,open,2026-10-05,2026-10-05T21:59:16,m24h
+250019,1637570973,1637570973,Spain - Segunda Division,Cordoba (Corners),Tenerife (Corners),2026-10-05 18:30:00,spread,1,home,,-0.5,-128.0,1.7812,0,100.0,open,2026-10-05,2026-10-05T21:59:16,m24h
+250018,1637725073,1637725073,International - Friendlies,Japan (Corners),New Zealand (Corners),2026-10-05 10:30:00,total,1,under,,4.5,-160.0,1.625,1,100.0,open,2026-10-05,2026-10-05T16:19:15,m6h
+250017,1637725073,1637725073,International - Friendlies,Japan (Corners),New Zealand (Corners),2026-10-05 10:30:00,total,1,over,,4.5,113.0,2.13,1,100.0,open,2026-10-05,2026-10-05T16:19:15,m6h
+250016,1637725073,1637725073,International - Friendlies,Japan (Corners),New Zealand (Corners),2026-10-05 10:30:00,total,1,under,,3.5,119.0,2.19,1,100.0,open,2026-10-05,2026-10-05T16:19:15,m6h
+250015,1637725073,1637725073,International - Friendlies,Japan (Corners),New Zealand (Corners),2026-10-05 10:30:00,total,1,over,,3.5,-169.0,1.5917,1,100.0,open,2026-10-05,2026-10-05T16:19:15,m6h
+250014,1637725073,1637725073,International - Friendlies,Japan (Corners),New Zealand (Corners),2026-10-05 10:30:00,total,1,under,,4.0,-113.0,1.885,0,100.0,open,2026-10-05,2026-10-05T16:19:15,m6h
+250013,1637725073,1637725073,International - Friendlies,Japan (Corners),New Zealand (Corners),2026-10-05 10:30:00,total,1,over,,4.0,-120.0,1.8333,0,100.0,open,2026-10-05,2026-10-05T16:19:15,m6h
+250012,1637725073,1637725073,International - Friendlies,Japan (Corners),New Zealand (Corners),2026-10-05 10:30:00,spread,1,away,,1.0,130.0,2.3,1,100.0,open,2026-10-05,2026-10-05T16:19:15,m6h
+250011,1637725073,1637725073,International - Friendlies,Japan (Corners),New Zealand (Corners),2026-10-05 10:30:00,spread,1,home,,-1.0,-187.0,1.5348,1,100.0,open,2026-10-05,2026-10-05T16:19:15,m6h
+250010,1637725073,1637725073,International - Friendlies,Japan (Corners),New Zealand (Corners),2026-10-05 10:30:00,spread,1,away,,2.0,-175.0,1.5714,1,100.0,open,2026-10-05,2026-10-05T16:19:15,m6h
+250009,1637725073,1637725073,International - Friendlies,Japan (Corners),New Zealand (Corners),2026-10-05 10:30:00,spread,1,home,,-2.0,123.0,2.23,1,100.0,open,2026-10-05,2026-10-05T16:19:15,m6h
+250008,1637725073,1637725073,International - Friendlies,Japan (Corners),New Zealand (Corners),2026-10-05 10:30:00,spread,1,away,,1.5,-115.0,1.8696,0,100.0,open,2026-10-05,2026-10-05T16:19:15,m6h
+250007,1637725073,1637725073,International - Friendlies,Japan (Corners),New Zealand (Corners),2026-10-05 10:30:00,spread,1,home,,-1.5,-117.0,1.8547,0,100.0,open,2026-10-05,2026-10-05T16:19:15,m6h
+250006,1637725073,1637725073,International - Friendlies,Japan (Corners),New Zealand (Corners),2026-10-05 10:30:00,total,0,under,,9.5,-174.0,1.5747,1,100.0,open,2026-10-05,2026-10-05T16:19:15,m6h
+250005,1637725073,1637725073,International - Friendlies,Japan (Corners),New Zealand (Corners),2026-10-05 10:30:00,total,0,over,,9.5,129.0,2.29,1,100.0,open,2026-10-05,2026-10-05T16:19:15,m6h
+250004,1637725073,1637725073,International - Friendlies,Japan (Corners),New Zealand (Corners),2026-10-05 10:30:00,total,0,under,,9.0,-134.0,1.7463,1,100.0,open,2026-10-05,2026-10-05T16:19:15,m6h
+250003,1637725073,1637725073,International - Friendlies,Japan (Corners),New Zealand (Corners),2026-10-05 10:30:00,total,0,over,,9.0,102.0,2.02,1,100.0,open,2026-10-05,2026-10-05T16:19:15,m6h
+250002,1637725073,1637725073,International - Friendlies,Japan (Corners),New Zealand (Corners),2026-10-05 10:30:00,total,0,under,,8.0,134.0,2.34,1,100.0,open,2026-10-05,2026-10-05T16:19:15,m6h
+250001,1637725073,1637725073,International - Friendlies,Japan (Corners),New Zealand (Corners),2026-10-05 10:30:00,total,0,over,,8.0,-182.0,1.5495,1,100.0,open,2026-10-05,2026-10-05T16:19:15,m6h
+250000,1637725073,1637725073,International - Friendlies,Japan (Corners),New Zealand (Corners),2026-10-05 10:30:00,total,0,under,,7.5,166.0,2.66,1,100.0,open,2026-10-05,2026-10-05T16:19:15,m6h
+249999,1637725073,1637725073,International - Friendlies,Japan (Corners),New Zealand (Corners),2026-10-05 10:30:00,total,0,over,,7.5,-233.0,1.4292,1,100.0,open,2026-10-05,2026-10-05T16:19:15,m6h
+249998,1637725073,1637725073,International - Friendlies,Japan (Corners),New Zealand (Corners),2026-10-05 10:30:00,total,0,under,,8.5,-101.0,1.9901,0,100.0,open,2026-10-05,2026-10-05T16:19:15,m6h
+249997,1637725073,1637725073,International - Friendlies,Japan (Corners),New Zealand (Corners),2026-10-05 10:30:00,total,0,over,,8.5,-129.0,1.7752,0,100.0,open,2026-10-05,2026-10-05T16:19:15,m6h
+249996,1637725073,1637725073,International - Friendlies,Japan (Corners),New Zealand (Corners),2026-10-05 10:30:00,spread,0,away,,2.0,145.0,2.45,1,100.0,open,2026-10-05,2026-10-05T16:19:15,m6h
+249995,1637725073,1637725073,International - Friendlies,Japan (Corners),New Zealand (Corners),2026-10-05 10:30:00,spread,0,home,,-2.0,-214.0,1.4673,1,100.0,open,2026-10-05,2026-10-05T16:19:15,m6h
+249994,1637725073,1637725073,International - Friendlies,Japan (Corners),New Zealand (Corners),2026-10-05 10:30:00,spread,0,away,,2.5,112.0,2.12,1,100.0,open,2026-10-05,2026-10-05T16:19:15,m6h
+249993,1637725073,1637725073,International - Friendlies,Japan (Corners),New Zealand (Corners),2026-10-05 10:30:00,spread,0,home,,-2.5,-157.0,1.6369,1,100.0,open,2026-10-05,2026-10-05T16:19:15,m6h
+249992,1637725073,1637725073,International - Friendlies,Japan (Corners),New Zealand (Corners),2026-10-05 10:30:00,spread,0,away,,3.5,-139.0,1.7194,1,100.0,open,2026-10-05,2026-10-05T16:19:15,m6h
+249991,1637725073,1637725073,International - Friendlies,Japan (Corners),New Zealand (Corners),2026-10-05 10:30:00,spread,0,home,,-3.5,-100.0,2.0,1,100.0,open,2026-10-05,2026-10-05T16:19:15,m6h

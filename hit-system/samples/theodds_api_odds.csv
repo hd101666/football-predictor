@@ -1,0 +1,101 @@
+﻿id,event_id,sport,sport_key,league_name,home_team,away_team,commence_time,bookmaker,market,outcome,odds,point,fetch_date
+345784,c053847753ea72ff5c917f7ae0ec5b64,football,soccer_usa_mls,MLS,Vancouver Whitecaps FC,San Diego FC,2026-10-29T02:30:00Z,unibet,total,under,2.02,3.5,2026-10-24
+345783,c053847753ea72ff5c917f7ae0ec5b64,football,soccer_usa_mls,MLS,Vancouver Whitecaps FC,San Diego FC,2026-10-29T02:30:00Z,unibet,total,over,1.76,3.5,2026-10-24
+345782,c053847753ea72ff5c917f7ae0ec5b64,football,soccer_usa_mls,MLS,Vancouver Whitecaps FC,San Diego FC,2026-10-29T02:30:00Z,unibet,moneyline,draw,4.9,,2026-10-24
+345781,c053847753ea72ff5c917f7ae0ec5b64,football,soccer_usa_mls,MLS,Vancouver Whitecaps FC,San Diego FC,2026-10-29T02:30:00Z,unibet,moneyline,home,1.43,,2026-10-24
+345780,c053847753ea72ff5c917f7ae0ec5b64,football,soccer_usa_mls,MLS,Vancouver Whitecaps FC,San Diego FC,2026-10-29T02:30:00Z,unibet,moneyline,away,6.0,,2026-10-24
+345779,372bffc1619cc28902ab4f209af093c2,football,soccer_usa_mls,MLS,Seattle Sounders FC,Houston Dynamo,2026-10-29T02:30:00Z,unibet,total,under,2.15,2.5,2026-10-24
+345778,372bffc1619cc28902ab4f209af093c2,football,soccer_usa_mls,MLS,Seattle Sounders FC,Houston Dynamo,2026-10-29T02:30:00Z,unibet,total,over,1.67,2.5,2026-10-24
+345777,372bffc1619cc28902ab4f209af093c2,football,soccer_usa_mls,MLS,Seattle Sounders FC,Houston Dynamo,2026-10-29T02:30:00Z,unibet,moneyline,draw,3.6,,2026-10-24
+345776,372bffc1619cc28902ab4f209af093c2,football,soccer_usa_mls,MLS,Seattle Sounders FC,Houston Dynamo,2026-10-29T02:30:00Z,unibet,moneyline,home,2.04,,2026-10-24
+345775,372bffc1619cc28902ab4f209af093c2,football,soccer_usa_mls,MLS,Seattle Sounders FC,Houston Dynamo,2026-10-29T02:30:00Z,unibet,moneyline,away,3.35,,2026-10-24
+345774,00dd37a07b7e4fab35b56736d980675a,football,soccer_usa_mls,MLS,San Jose Earthquakes,Colorado Rapids,2026-10-29T02:30:00Z,unibet,total,under,1.57,3.5,2026-10-24
+345773,00dd37a07b7e4fab35b56736d980675a,football,soccer_usa_mls,MLS,San Jose Earthquakes,Colorado Rapids,2026-10-29T02:30:00Z,unibet,total,over,2.3,3.5,2026-10-24
+345772,00dd37a07b7e4fab35b56736d980675a,football,soccer_usa_mls,MLS,San Jose Earthquakes,Colorado Rapids,2026-10-29T02:30:00Z,unibet,moneyline,draw,3.65,,2026-10-24
+345771,00dd37a07b7e4fab35b56736d980675a,football,soccer_usa_mls,MLS,San Jose Earthquakes,Colorado Rapids,2026-10-29T02:30:00Z,unibet,moneyline,home,2.25,,2026-10-24
+345770,00dd37a07b7e4fab35b56736d980675a,football,soccer_usa_mls,MLS,San Jose Earthquakes,Colorado Rapids,2026-10-29T02:30:00Z,unibet,moneyline,away,2.85,,2026-10-24
+345769,47c2514142ff3a1962e588c98d655c5f,football,soccer_usa_mls,MLS,St. Louis City SC,Portland Timbers,2026-10-29T00:30:00Z,unibet,total,under,1.88,3.5,2026-10-24
+345768,47c2514142ff3a1962e588c98d655c5f,football,soccer_usa_mls,MLS,St. Louis City SC,Portland Timbers,2026-10-29T00:30:00Z,unibet,total,over,1.88,3.5,2026-10-24
+345767,47c2514142ff3a1962e588c98d655c5f,football,soccer_usa_mls,MLS,St. Louis City SC,Portland Timbers,2026-10-29T00:30:00Z,unibet,moneyline,draw,4.4,,2026-10-24
+345766,47c2514142ff3a1962e588c98d655c5f,football,soccer_usa_mls,MLS,St. Louis City SC,Portland Timbers,2026-10-29T00:30:00Z,unibet,moneyline,home,1.56,,2026-10-24
+345765,47c2514142ff3a1962e588c98d655c5f,football,soccer_usa_mls,MLS,St. Louis City SC,Portland Timbers,2026-10-29T00:30:00Z,unibet,moneyline,away,4.75,,2026-10-24
+345764,88e2736c1e17fafa10888dfcf932f44d,football,soccer_usa_mls,MLS,Nashville SC,Philadelphia Union,2026-10-29T00:30:00Z,unibet,total,under,1.65,3.5,2026-10-24
+345763,88e2736c1e17fafa10888dfcf932f44d,football,soccer_usa_mls,MLS,Nashville SC,Philadelphia Union,2026-10-29T00:30:00Z,unibet,total,over,2.2,3.5,2026-10-24
+345762,88e2736c1e17fafa10888dfcf932f44d,football,soccer_usa_mls,MLS,Nashville SC,Philadelphia Union,2026-10-29T00:30:00Z,unibet,moneyline,draw,3.85,,2026-10-24
+345761,88e2736c1e17fafa10888dfcf932f44d,football,soccer_usa_mls,MLS,Nashville SC,Philadelphia Union,2026-10-29T00:30:00Z,unibet,moneyline,away,3.3,,2026-10-24
+345760,88e2736c1e17fafa10888dfcf932f44d,football,soccer_usa_mls,MLS,Nashville SC,Philadelphia Union,2026-10-29T00:30:00Z,unibet,moneyline,home,1.95,,2026-10-24
+345759,22fbabab5da12c7e78a8aa08ac6387ec,football,soccer_usa_mls,MLS,Minnesota United FC,Sporting Kansas City,2026-10-29T00:30:00Z,unibet,total,under,2.07,3.5,2026-10-24
+345758,22fbabab5da12c7e78a8aa08ac6387ec,football,soccer_usa_mls,MLS,Minnesota United FC,Sporting Kansas City,2026-10-29T00:30:00Z,unibet,total,over,1.73,3.5,2026-10-24
+345757,22fbabab5da12c7e78a8aa08ac6387ec,football,soccer_usa_mls,MLS,Minnesota United FC,Sporting Kansas City,2026-10-29T00:30:00Z,unibet,moneyline,draw,5.1,,2026-10-24
+345756,22fbabab5da12c7e78a8aa08ac6387ec,football,soccer_usa_mls,MLS,Minnesota United FC,Sporting Kansas City,2026-10-29T00:30:00Z,unibet,moneyline,away,6.1,,2026-10-24
+345755,22fbabab5da12c7e78a8aa08ac6387ec,football,soccer_usa_mls,MLS,Minnesota United FC,Sporting Kansas City,2026-10-29T00:30:00Z,unibet,moneyline,home,1.41,,2026-10-24
+345754,b7c3d4a130a023950652a1b4af4d9a19,football,soccer_usa_mls,MLS,FC Dallas,Columbus Crew SC,2026-10-29T00:30:00Z,unibet,total,under,1.73,3.5,2026-10-24
+345753,b7c3d4a130a023950652a1b4af4d9a19,football,soccer_usa_mls,MLS,FC Dallas,Columbus Crew SC,2026-10-29T00:30:00Z,unibet,total,over,2.07,3.5,2026-10-24
+345752,b7c3d4a130a023950652a1b4af4d9a19,football,soccer_usa_mls,MLS,FC Dallas,Columbus Crew SC,2026-10-29T00:30:00Z,unibet,moneyline,draw,3.9,,2026-10-24
+345751,b7c3d4a130a023950652a1b4af4d9a19,football,soccer_usa_mls,MLS,FC Dallas,Columbus Crew SC,2026-10-29T00:30:00Z,unibet,moneyline,home,1.89,,2026-10-24
+345750,b7c3d4a130a023950652a1b4af4d9a19,football,soccer_usa_mls,MLS,FC Dallas,Columbus Crew SC,2026-10-29T00:30:00Z,unibet,moneyline,away,3.45,,2026-10-24
+345749,ab6757d920885818de2ea52539580308,football,soccer_usa_mls,MLS,Chicago Fire,Orlando City SC,2026-10-29T00:30:00Z,unibet,total,under,2.1,3.5,2026-10-24
+345748,ab6757d920885818de2ea52539580308,football,soccer_usa_mls,MLS,Chicago Fire,Orlando City SC,2026-10-29T00:30:00Z,unibet,total,over,1.7,3.5,2026-10-24
+345747,ab6757d920885818de2ea52539580308,football,soccer_usa_mls,MLS,Chicago Fire,Orlando City SC,2026-10-29T00:30:00Z,unibet,moneyline,draw,4.35,,2026-10-24
+345746,ab6757d920885818de2ea52539580308,football,soccer_usa_mls,MLS,Chicago Fire,Orlando City SC,2026-10-29T00:30:00Z,unibet,moneyline,away,4.2,,2026-10-24
+345745,ab6757d920885818de2ea52539580308,football,soccer_usa_mls,MLS,Chicago Fire,Orlando City SC,2026-10-29T00:30:00Z,unibet,moneyline,home,1.66,,2026-10-24
+345744,d10543f6fe18777d7a312edfdb0a7e45,football,soccer_usa_mls,MLS,Austin FC,Real Salt Lake,2026-10-29T00:30:00Z,unibet,total,under,1.56,3.5,2026-10-24
+345743,d10543f6fe18777d7a312edfdb0a7e45,football,soccer_usa_mls,MLS,Austin FC,Real Salt Lake,2026-10-29T00:30:00Z,unibet,total,over,2.35,3.5,2026-10-24
+345742,d10543f6fe18777d7a312edfdb0a7e45,football,soccer_usa_mls,MLS,Austin FC,Real Salt Lake,2026-10-29T00:30:00Z,unibet,moneyline,draw,3.6,,2026-10-24
+345741,d10543f6fe18777d7a312edfdb0a7e45,football,soccer_usa_mls,MLS,Austin FC,Real Salt Lake,2026-10-29T00:30:00Z,unibet,moneyline,away,2.55,,2026-10-24
+345740,d10543f6fe18777d7a312edfdb0a7e45,football,soccer_usa_mls,MLS,Austin FC,Real Salt Lake,2026-10-29T00:30:00Z,unibet,moneyline,home,2.5,,2026-10-24
+345739,2b0bc4a27e4c8ba094bb47544dcf8471,football,soccer_usa_mls,MLS,New England Revolution,New York Red Bulls,2026-10-28T23:30:00Z,unibet,total,under,1.91,3.5,2026-10-24
+345738,2b0bc4a27e4c8ba094bb47544dcf8471,football,soccer_usa_mls,MLS,New England Revolution,New York Red Bulls,2026-10-28T23:30:00Z,unibet,total,over,1.85,3.5,2026-10-24
+345737,2b0bc4a27e4c8ba094bb47544dcf8471,football,soccer_usa_mls,MLS,New England Revolution,New York Red Bulls,2026-10-28T23:30:00Z,unibet,moneyline,draw,4.1,,2026-10-24
+345736,2b0bc4a27e4c8ba094bb47544dcf8471,football,soccer_usa_mls,MLS,New England Revolution,New York Red Bulls,2026-10-28T23:30:00Z,unibet,moneyline,away,3.7,,2026-10-24
+345735,2b0bc4a27e4c8ba094bb47544dcf8471,football,soccer_usa_mls,MLS,New England Revolution,New York Red Bulls,2026-10-28T23:30:00Z,unibet,moneyline,home,1.8,,2026-10-24
+345734,995383601ec82bc39259205612a1f007,football,soccer_usa_mls,MLS,Inter Miami CF,FC Cincinnati,2026-10-28T23:30:00Z,unibet,total,under,1.81,4.5,2026-10-24
+345733,995383601ec82bc39259205612a1f007,football,soccer_usa_mls,MLS,Inter Miami CF,FC Cincinnati,2026-10-28T23:30:00Z,unibet,total,over,1.95,4.5,2026-10-24
+345732,995383601ec82bc39259205612a1f007,football,soccer_usa_mls,MLS,Inter Miami CF,FC Cincinnati,2026-10-28T23:30:00Z,unibet,moneyline,draw,5.6,,2026-10-24
+345731,995383601ec82bc39259205612a1f007,football,soccer_usa_mls,MLS,Inter Miami CF,FC Cincinnati,2026-10-28T23:30:00Z,unibet,moneyline,home,1.38,,2026-10-24
+345730,995383601ec82bc39259205612a1f007,football,soccer_usa_mls,MLS,Inter Miami CF,FC Cincinnati,2026-10-28T23:30:00Z,unibet,moneyline,away,5.8,,2026-10-24
+345729,16b7995b18b6f97f2699d033074c64bb,football,soccer_usa_mls,MLS,Toronto FC,D.C. United,2026-10-28T23:30:00Z,unibet,total,under,1.71,3.5,2026-10-24
+345728,16b7995b18b6f97f2699d033074c64bb,football,soccer_usa_mls,MLS,Toronto FC,D.C. United,2026-10-28T23:30:00Z,unibet,total,over,2.1,3.5,2026-10-24
+345727,16b7995b18b6f97f2699d033074c64bb,football,soccer_usa_mls,MLS,Toronto FC,D.C. United,2026-10-28T23:30:00Z,unibet,moneyline,draw,3.9,,2026-10-24
+345726,16b7995b18b6f97f2699d033074c64bb,football,soccer_usa_mls,MLS,Toronto FC,D.C. United,2026-10-28T23:30:00Z,unibet,moneyline,home,1.93,,2026-10-24
+345725,16b7995b18b6f97f2699d033074c64bb,football,soccer_usa_mls,MLS,Toronto FC,D.C. United,2026-10-28T23:30:00Z,unibet,moneyline,away,3.35,,2026-10-24
+345724,6579762c374e7bc06dacf0b2c8ef8b42,football,soccer_usa_mls,MLS,Charlotte FC,CF Montreal,2026-10-28T23:30:00Z,unibet,total,under,1.87,3.5,2026-10-24
+345723,6579762c374e7bc06dacf0b2c8ef8b42,football,soccer_usa_mls,MLS,Charlotte FC,CF Montreal,2026-10-28T23:30:00Z,unibet,total,over,1.88,3.5,2026-10-24
+345722,6579762c374e7bc06dacf0b2c8ef8b42,football,soccer_usa_mls,MLS,Charlotte FC,CF Montreal,2026-10-28T23:30:00Z,unibet,moneyline,draw,4.7,,2026-10-24
+345721,6579762c374e7bc06dacf0b2c8ef8b42,football,soccer_usa_mls,MLS,Charlotte FC,CF Montreal,2026-10-28T23:30:00Z,unibet,moneyline,home,1.49,,2026-10-24
+345720,6579762c374e7bc06dacf0b2c8ef8b42,football,soccer_usa_mls,MLS,Charlotte FC,CF Montreal,2026-10-28T23:30:00Z,unibet,moneyline,away,5.4,,2026-10-24
+345719,cd715f0ae437d4348d5b603fe260d8d2,football,soccer_usa_mls,MLS,New York City FC,Atlanta United FC,2026-10-28T23:30:00Z,unibet,total,under,1.57,3.5,2026-10-24
+345718,cd715f0ae437d4348d5b603fe260d8d2,football,soccer_usa_mls,MLS,New York City FC,Atlanta United FC,2026-10-28T23:30:00Z,unibet,total,over,2.3,3.5,2026-10-24
+345717,cd715f0ae437d4348d5b603fe260d8d2,football,soccer_usa_mls,MLS,New York City FC,Atlanta United FC,2026-10-28T23:30:00Z,unibet,moneyline,draw,3.9,,2026-10-24
+345716,cd715f0ae437d4348d5b603fe260d8d2,football,soccer_usa_mls,MLS,New York City FC,Atlanta United FC,2026-10-28T23:30:00Z,unibet,moneyline,home,1.74,,2026-10-24
+345715,cd715f0ae437d4348d5b603fe260d8d2,football,soccer_usa_mls,MLS,New York City FC,Atlanta United FC,2026-10-28T23:30:00Z,unibet,moneyline,away,4.1,,2026-10-24
+345714,f635049de97c44eff491a027de0e4863,football,soccer_usa_mls,MLS,Los Angeles FC,LA Galaxy,2026-10-26T01:00:00Z,betfair_ex_eu,moneyline,draw,4.8,,2026-10-24
+345713,f635049de97c44eff491a027de0e4863,football,soccer_usa_mls,MLS,Los Angeles FC,LA Galaxy,2026-10-26T01:00:00Z,betfair_ex_eu,moneyline,home,1.59,,2026-10-24
+345712,f635049de97c44eff491a027de0e4863,football,soccer_usa_mls,MLS,Los Angeles FC,LA Galaxy,2026-10-26T01:00:00Z,betfair_ex_eu,moneyline,away,5.5,,2026-10-24
+345711,f635049de97c44eff491a027de0e4863,football,soccer_usa_mls,MLS,Los Angeles FC,LA Galaxy,2026-10-26T01:00:00Z,betfair_ex_uk,moneyline,draw,4.8,,2026-10-24
+345710,f635049de97c44eff491a027de0e4863,football,soccer_usa_mls,MLS,Los Angeles FC,LA Galaxy,2026-10-26T01:00:00Z,betfair_ex_uk,moneyline,home,1.59,,2026-10-24
+345709,f635049de97c44eff491a027de0e4863,football,soccer_usa_mls,MLS,Los Angeles FC,LA Galaxy,2026-10-26T01:00:00Z,betfair_ex_uk,moneyline,away,5.5,,2026-10-24
+345708,f635049de97c44eff491a027de0e4863,football,soccer_usa_mls,MLS,Los Angeles FC,LA Galaxy,2026-10-26T01:00:00Z,unibet,total,under,1.8,3.5,2026-10-24
+345707,f635049de97c44eff491a027de0e4863,football,soccer_usa_mls,MLS,Los Angeles FC,LA Galaxy,2026-10-26T01:00:00Z,unibet,total,over,1.96,3.5,2026-10-24
+345706,f635049de97c44eff491a027de0e4863,football,soccer_usa_mls,MLS,Los Angeles FC,LA Galaxy,2026-10-26T01:00:00Z,unibet,moneyline,draw,4.4,,2026-10-24
+345705,f635049de97c44eff491a027de0e4863,football,soccer_usa_mls,MLS,Los Angeles FC,LA Galaxy,2026-10-26T01:00:00Z,unibet,moneyline,home,1.56,,2026-10-24
+345704,f635049de97c44eff491a027de0e4863,football,soccer_usa_mls,MLS,Los Angeles FC,LA Galaxy,2026-10-26T01:00:00Z,unibet,moneyline,away,5.0,,2026-10-24
+345703,838268124a23a1f338204e37b2f6c4e5,football,soccer_usa_mls,MLS,San Diego FC,Seattle Sounders FC,2026-10-25T02:30:00Z,betfair_ex_eu,moneyline,draw,4.1,,2026-10-24
+345702,838268124a23a1f338204e37b2f6c4e5,football,soccer_usa_mls,MLS,San Diego FC,Seattle Sounders FC,2026-10-25T02:30:00Z,betfair_ex_eu,moneyline,away,2.92,,2026-10-24
+345701,838268124a23a1f338204e37b2f6c4e5,football,soccer_usa_mls,MLS,San Diego FC,Seattle Sounders FC,2026-10-25T02:30:00Z,betfair_ex_eu,moneyline,home,2.32,,2026-10-24
+345700,838268124a23a1f338204e37b2f6c4e5,football,soccer_usa_mls,MLS,San Diego FC,Seattle Sounders FC,2026-10-25T02:30:00Z,betfair_ex_uk,moneyline,draw,4.1,,2026-10-24
+345699,838268124a23a1f338204e37b2f6c4e5,football,soccer_usa_mls,MLS,San Diego FC,Seattle Sounders FC,2026-10-25T02:30:00Z,betfair_ex_uk,moneyline,away,2.92,,2026-10-24
+345698,838268124a23a1f338204e37b2f6c4e5,football,soccer_usa_mls,MLS,San Diego FC,Seattle Sounders FC,2026-10-25T02:30:00Z,betfair_ex_uk,moneyline,home,2.32,,2026-10-24
+345697,838268124a23a1f338204e37b2f6c4e5,football,soccer_usa_mls,MLS,San Diego FC,Seattle Sounders FC,2026-10-25T02:30:00Z,unibet,total,under,1.75,3.5,2026-10-24
+345696,838268124a23a1f338204e37b2f6c4e5,football,soccer_usa_mls,MLS,San Diego FC,Seattle Sounders FC,2026-10-25T02:30:00Z,unibet,total,over,2.04,3.5,2026-10-24
+345695,838268124a23a1f338204e37b2f6c4e5,football,soccer_usa_mls,MLS,San Diego FC,Seattle Sounders FC,2026-10-25T02:30:00Z,unibet,moneyline,draw,3.85,,2026-10-24
+345694,838268124a23a1f338204e37b2f6c4e5,football,soccer_usa_mls,MLS,San Diego FC,Seattle Sounders FC,2026-10-25T02:30:00Z,unibet,moneyline,away,2.85,,2026-10-24
+345693,838268124a23a1f338204e37b2f6c4e5,football,soccer_usa_mls,MLS,San Diego FC,Seattle Sounders FC,2026-10-25T02:30:00Z,unibet,moneyline,home,2.16,,2026-10-24
+345692,1acbabd3fd01b5ec9a9bdc1b8cca438a,football,soccer_usa_mls,MLS,Portland Timbers,Charlotte FC,2026-10-25T02:30:00Z,betfair_ex_eu,moneyline,draw,4.3,,2026-10-24
+345691,1acbabd3fd01b5ec9a9bdc1b8cca438a,football,soccer_usa_mls,MLS,Portland Timbers,Charlotte FC,2026-10-25T02:30:00Z,betfair_ex_eu,moneyline,home,2.06,,2026-10-24
+345690,1acbabd3fd01b5ec9a9bdc1b8cca438a,football,soccer_usa_mls,MLS,Portland Timbers,Charlotte FC,2026-10-25T02:30:00Z,betfair_ex_eu,moneyline,away,3.35,,2026-10-24
+345689,1acbabd3fd01b5ec9a9bdc1b8cca438a,football,soccer_usa_mls,MLS,Portland Timbers,Charlotte FC,2026-10-25T02:30:00Z,betfair_ex_uk,moneyline,draw,4.3,,2026-10-24
+345688,1acbabd3fd01b5ec9a9bdc1b8cca438a,football,soccer_usa_mls,MLS,Portland Timbers,Charlotte FC,2026-10-25T02:30:00Z,betfair_ex_uk,moneyline,home,2.06,,2026-10-24
+345687,1acbabd3fd01b5ec9a9bdc1b8cca438a,football,soccer_usa_mls,MLS,Portland Timbers,Charlotte FC,2026-10-25T02:30:00Z,betfair_ex_uk,moneyline,away,3.35,,2026-10-24
+345686,1acbabd3fd01b5ec9a9bdc1b8cca438a,football,soccer_usa_mls,MLS,Portland Timbers,Charlotte FC,2026-10-25T02:30:00Z,unibet,total,under,1.97,3.5,2026-10-24
+345685,1acbabd3fd01b5ec9a9bdc1b8cca438a,football,soccer_usa_mls,MLS,Portland Timbers,Charlotte FC,2026-10-25T02:30:00Z,unibet,total,over,1.79,3.5,2026-10-24
