@@ -1,0 +1,101 @@
+﻿id,season,league_name,match_date,home_team,away_team,home_score,away_score,home_xg,away_xg,fetch_date
+182296,2026-27,Belgium - Pro League,2026-08-09,Jagiellonia,Widzew Łódź,0,2,,,2026-08-12
+182295,2026-27,Belgium - Pro League,2026-08-09,Lech Poznań,Piast Gliwice,3,0,,,2026-08-12
+182294,2026-27,Belgium - Pro League,2026-08-09,Śląsk Wrocław,Cracovia,0,0,,,2026-08-12
+182293,2026-27,Belgium - Pro League,2026-08-08,Korona Kielce,Legia Warsaw,1,1,,,2026-08-12
+182292,2026-27,Belgium - Pro League,2026-08-08,Pogoń Szczecin,Motor Lublin,3,1,,,2026-08-12
+182291,2026-27,Belgium - Pro League,2026-08-08,Radomiak,Górnik Zabrze,1,3,,,2026-08-12
+182290,2026-27,Belgium - Pro League,2026-08-07,Wisła Kraków,Wisła Płock,2,1,,,2026-08-12
+182289,2026-27,Belgium - Pro League,2026-08-03,Cracovia,Pogoń Szczecin,0,2,,,2026-08-12
+182288,2026-27,Belgium - Pro League,2026-08-02,Katowice,Radomiak,3,1,,,2026-08-12
+182287,2026-27,Belgium - Pro League,2026-08-02,Śląsk Wrocław,Raków,2,1,,,2026-08-12
+182286,2026-27,Belgium - Pro League,2026-08-02,Legia Warsaw,Zagłębie Lubin,3,1,,,2026-08-12
+182285,2026-27,Belgium - Pro League,2026-08-01,Wieczysta,Lech Poznań,1,2,,,2026-08-12
+182284,2026-27,Belgium - Pro League,2026-08-01,Piast Gliwice,Wisła Kraków,4,3,,,2026-08-12
+182283,2026-27,Belgium - Pro League,2026-07-31,Motor Lublin,Jagiellonia,1,2,,,2026-08-12
+182282,2026-27,Belgium - Pro League,2026-07-31,Wisła Płock,Widzew Łódź,0,0,,,2026-08-12
+182281,2026-27,Belgium - Pro League,2026-07-27,Zagłębie Lubin,Piast Gliwice,2,0,,,2026-08-12
+182280,2026-27,Belgium - Pro League,2026-07-26,Wisła Kraków,Katowice,2,1,,,2026-08-12
+182279,2026-27,Belgium - Pro League,2026-07-26,Widzew Łódź,Motor Lublin,2,2,,,2026-08-12
+182278,2026-27,Belgium - Pro League,2026-07-26,Raków,Wisła Płock,1,2,,,2026-08-12
+182277,2026-27,Belgium - Pro League,2026-07-25,Lech Poznań,Cracovia,0,0,,,2026-08-12
+182276,2026-27,Belgium - Pro League,2026-07-25,Górnik Zabrze,Śląsk Wrocław,2,1,,,2026-08-12
+182275,2026-27,Belgium - Pro League,2026-07-25,Jagiellonia,Korona Kielce,1,0,,,2026-08-12
+182274,2026-27,Belgium - Pro League,2026-07-24,Pogoń Szczecin,Legia Warsaw,0,1,,,2026-08-12
+182273,2026-27,Belgium - Pro League,2026-07-24,Radomiak,Wieczysta,2,1,,,2026-08-12
+182272,2026-27,Portugal - Primeira Liga,2026-08-10,Santa Clara,Nacional,2,2,,,2026-08-12
+182271,2026-27,Portugal - Primeira Liga,2026-08-09,Benfica,Acad. Viseu,2,2,,,2026-08-12
+182270,2026-27,Portugal - Primeira Liga,2026-08-09,Gil Vicente FC,Rio Ave,1,0,,,2026-08-12
+182269,2026-27,Portugal - Primeira Liga,2026-08-09,Moreirense,Braga,2,2,,,2026-08-12
+182268,2026-27,Portugal - Primeira Liga,2026-08-09,Porto,Alverca,2,0,,,2026-08-12
+182267,2026-27,Portugal - Primeira Liga,2026-08-08,Estrela,Sporting CP,2,2,,,2026-08-12
+182266,2026-27,Portugal - Primeira Liga,2026-08-08,Vit. Guimarães,Arouca,0,1,,,2026-08-12
+182265,2026-27,Portugal - Primeira Liga,2026-08-08,Marítimo,Casa Pia,1,0,,,2026-08-12
+182264,2026-27,Portugal - Primeira Liga,2026-08-07,Estoril,Famalicão,1,1,,,2026-08-12
+182263,2026-27,Netherlands - Eredivisie,2026-08-09,Heerenveen,Twente,1,0,,,2026-08-12
+182262,2026-27,Netherlands - Eredivisie,2026-08-09,Zwolle,Ajax,0,2,,,2026-08-12
+182261,2026-27,Netherlands - Eredivisie,2026-08-09,Groningen,Utrecht,2,1,,,2026-08-12
+182260,2026-27,Netherlands - Eredivisie,2026-08-09,Sparta R.,Feyenoord,0,1,,,2026-08-12
+182259,2026-27,Netherlands - Eredivisie,2026-08-08,AZ Alkmaar,ADO Den Haag,2,0,,,2026-08-12
+182258,2026-27,Netherlands - Eredivisie,2026-08-08,PSV,Fortuna Sittard,2,2,,,2026-08-12
+182257,2026-27,Netherlands - Eredivisie,2026-08-08,Go Ahead Eagles,Willem II,4,1,,,2026-08-12
+182256,2026-27,Netherlands - Eredivisie,2026-08-08,NEC Nijmegen,Telstar,1,2,,,2026-08-12
+182255,2026-27,Netherlands - Eredivisie,2026-08-07,Cambuur,Excelsior,0,4,,,2026-08-12
+182254,2026-27,India - Super League,2026-05-21,Jamshedpur,Odisha,0,0,,,2026-08-12
+182253,2026-27,India - Super League,2026-05-21,Punjab,Mumbai City,0,2,,,2026-08-12
+182252,2026-27,India - Super League,2026-05-21,Inter Kashi,East Bengal,1,2,,,2026-08-12
+182251,2026-27,India - Super League,2026-05-21,Mohun Bagan,Hyderabad FC,2,1,,,2026-08-12
+182250,2026-27,India - Super League,2026-05-19,NorthEast United,Mohammedan,2,0,,,2026-08-12
+182249,2026-27,India - Super League,2026-05-18,Kerala Blasters,Goa,2,1,,,2026-08-12
+182248,2026-27,India - Super League,2026-05-17,Mohun Bagan,East Bengal,1,1,,,2026-08-12
+182247,2026-27,India - Super League,2026-05-17,Hyderabad FC,Inter Kashi,0,0,,,2026-08-12
+182246,2026-27,India - Super League,2026-05-16,Odisha,Punjab,2,3,,,2026-08-12
+182245,2026-27,India - Super League,2026-05-16,Chennaiyin,Bengaluru,1,2,,,2026-08-12
+182244,2026-27,India - Super League,2026-05-15,Mohammedan,Mumbai City,0,4,,,2026-08-12
+182243,2026-27,India - Super League,2026-05-12,Mohun Bagan,Inter Kashi,0,0,,,2026-08-12
+182242,2026-27,India - Super League,2026-05-11,East Bengal,Punjab,0,0,,,2026-08-12
+182241,2026-27,India - Super League,2026-05-10,NorthEast United,Chennaiyin,4,1,,,2026-08-12
+182240,2026-27,India - Super League,2026-05-10,Kerala Blasters,Mohammedan,3,1,,,2026-08-12
+182239,2026-27,India - Super League,2026-05-09,Jamshedpur,Bengaluru,0,1,,,2026-08-12
+182238,2026-27,India - Super League,2026-05-09,Goa,Mohun Bagan,1,1,,,2026-08-12
+182237,2026-27,India - Super League,2026-05-08,Hyderabad FC,Odisha,1,2,,,2026-08-12
+182236,2026-27,India - Super League,2026-05-06,Punjab,Chennaiyin,1,0,,,2026-08-12
+182235,2026-27,India - Super League,2026-05-05,Mumbai City,East Bengal,1,2,,,2026-08-12
+182234,2026-27,India - Super League,2026-05-04,Odisha,Bengaluru,1,1,,,2026-08-12
+182233,2026-27,India - Super League,2026-05-02,Hyderabad FC,Punjab,0,0,,,2026-08-12
+182232,2026-27,India - Super League,2026-05-02,NorthEast United,Inter Kashi,3,2,,,2026-08-12
+182231,2026-27,India - Super League,2026-05-01,Jamshedpur,Goa,2,0,,,2026-08-12
+182230,2026-27,India - Super League,2026-04-28,East Bengal,Odisha,3,0,,,2026-08-12
+182229,2026-27,India - Super League,2026-04-26,Hyderabad FC,Mohammedan,2,2,,,2026-08-12
+182228,2026-27,India - Super League,2026-04-25,Jamshedpur,Chennaiyin,4,1,,,2026-08-12
+182227,2026-27,India - Super League,2026-04-25,Bengaluru,Mumbai City,0,0,,,2026-08-12
+182226,2026-27,India - Super League,2026-04-24,NorthEast United,Goa,0,2,,,2026-08-12
+182225,2026-27,India - Super League,2026-04-23,Kerala Blasters,Odisha,2,1,,,2026-08-12
+182224,2026-27,India - Super League,2026-04-21,Chennaiyin,Mohammedan,0,0,,,2026-08-12
+182223,2026-27,India - Super League,2026-04-20,Punjab,Inter Kashi,3,0,,,2026-08-12
+182222,2026-27,India - Super League,2026-04-19,NorthEast United,Mohun Bagan,0,1,,,2026-08-12
+182221,2026-27,India - Super League,2026-04-18,Goa,Mumbai City,2,0,,,2026-08-12
+182220,2026-27,India - Super League,2026-04-18,Kerala Blasters,Jamshedpur,2,0,,,2026-08-12
+182219,2026-27,India - Super League,2026-04-17,Odisha,Mohammedan,1,1,,,2026-08-12
+182218,2026-27,India - Super League,2026-04-17,Chennaiyin,Hyderabad FC,1,0,,,2026-08-12
+182217,2026-27,India - Super League,2026-04-16,East Bengal,Bengaluru,3,3,,,2026-08-12
+182216,2026-27,India - Super League,2026-04-15,Kerala Blasters,NorthEast United,1,1,,,2026-08-12
+182215,2026-27,India - Super League,2026-04-12,Mohun Bagan,Punjab,3,2,,,2026-08-12
+182214,2026-27,India - Super League,2026-04-12,Inter Kashi,Mohammedan,1,0,,,2026-08-12
+182213,2026-27,India - Super League,2026-04-11,Bengaluru,Kerala Blasters,1,2,,,2026-08-12
+182212,2026-27,India - Super League,2026-04-11,Chennaiyin,East Bengal,1,3,,,2026-08-12
+182211,2026-27,India - Super League,2026-04-10,Goa,Odisha,3,1,,,2026-08-12
+182210,2026-27,India - Super League,2026-04-10,NorthEast United,Hyderabad FC,0,3,,,2026-08-12
+182209,2026-27,India - Super League,2026-04-09,Jamshedpur,Mumbai City,1,1,,,2026-08-12
+182208,2026-27,India - Super League,2026-04-07,Chennaiyin,Inter Kashi,1,2,,,2026-08-12
+182207,2026-27,India - Super League,2026-04-05,Mumbai City,Odisha,1,0,,,2026-08-12
+182206,2026-27,India - Super League,2026-04-05,Hyderabad FC,Kerala Blasters,2,0,,,2026-08-12
+182205,2026-27,India - Super League,2026-04-04,Goa,Bengaluru,0,2,,,2026-08-12
+182204,2026-27,India - Super League,2026-04-04,Jamshedpur,Mohun Bagan,1,1,,,2026-08-12
+182203,2026-27,India - Super League,2026-04-03,Punjab,Mohammedan,2,1,,,2026-08-12
+182202,2026-27,India - Super League,2026-03-23,East Bengal,Mohammedan,7,0,,,2026-08-12
+182201,2026-27,India - Super League,2026-03-22,Inter Kashi,Bengaluru,1,3,,,2026-08-12
+182200,2026-27,India - Super League,2026-03-22,Chennaiyin,Goa,1,1,,,2026-08-12
+182199,2026-27,India - Super League,2026-03-21,Kerala Blasters,Punjab,1,3,,,2026-08-12
+182198,2026-27,India - Super League,2026-03-20,Mohun Bagan,Mumbai City,0,1,,,2026-08-12
+182197,2026-27,India - Super League,2026-03-20,NorthEast United,Odisha,1,4,,,2026-08-12

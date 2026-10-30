@@ -1,0 +1,101 @@
+﻿league,league_id,season,match_date,home_team,away_team,home_score,away_score,status
+premier_league,39,2024,2024-08-16,Manchester United,Fulham,1.0,0.0,Match Finished
+premier_league,39,2024,2024-08-17,Ipswich,Liverpool,0.0,2.0,Match Finished
+premier_league,39,2024,2024-08-17,Newcastle,Southampton,1.0,0.0,Match Finished
+premier_league,39,2024,2024-08-17,Arsenal,Wolves,2.0,0.0,Match Finished
+premier_league,39,2024,2024-08-17,Everton,Brighton,0.0,3.0,Match Finished
+premier_league,39,2024,2024-08-17,Nottingham Forest,Bournemouth,1.0,1.0,Match Finished
+premier_league,39,2024,2024-08-17,West Ham,Aston Villa,1.0,2.0,Match Finished
+premier_league,39,2024,2024-08-18,Brentford,Crystal Palace,2.0,1.0,Match Finished
+premier_league,39,2024,2024-08-18,Chelsea,Manchester City,0.0,2.0,Match Finished
+premier_league,39,2024,2024-08-19,Leicester,Tottenham,1.0,1.0,Match Finished
+premier_league,39,2024,2024-08-24,Brighton,Manchester United,2.0,1.0,Match Finished
+premier_league,39,2024,2024-08-24,Fulham,Leicester,2.0,1.0,Match Finished
+premier_league,39,2024,2024-08-24,Southampton,Nottingham Forest,0.0,1.0,Match Finished
+premier_league,39,2024,2024-08-24,Tottenham,Everton,4.0,0.0,Match Finished
+premier_league,39,2024,2024-08-24,Manchester City,Ipswich,4.0,1.0,Match Finished
+premier_league,39,2024,2024-08-24,Crystal Palace,West Ham,0.0,2.0,Match Finished
+premier_league,39,2024,2024-08-24,Aston Villa,Arsenal,0.0,2.0,Match Finished
+premier_league,39,2024,2024-08-25,Bournemouth,Newcastle,1.0,1.0,Match Finished
+premier_league,39,2024,2024-08-25,Wolves,Chelsea,2.0,6.0,Match Finished
+premier_league,39,2024,2024-08-25,Liverpool,Brentford,2.0,0.0,Match Finished
+premier_league,39,2024,2024-08-31,Arsenal,Brighton,1.0,1.0,Match Finished
+premier_league,39,2024,2024-08-31,Everton,Bournemouth,2.0,3.0,Match Finished
+premier_league,39,2024,2024-08-31,Leicester,Aston Villa,1.0,2.0,Match Finished
+premier_league,39,2024,2024-08-31,Brentford,Southampton,3.0,1.0,Match Finished
+premier_league,39,2024,2024-08-31,Ipswich,Fulham,1.0,1.0,Match Finished
+premier_league,39,2024,2024-08-31,Nottingham Forest,Wolves,1.0,1.0,Match Finished
+premier_league,39,2024,2024-08-31,West Ham,Manchester City,1.0,3.0,Match Finished
+premier_league,39,2024,2024-09-01,Newcastle,Tottenham,2.0,1.0,Match Finished
+premier_league,39,2024,2024-09-01,Chelsea,Crystal Palace,1.0,1.0,Match Finished
+premier_league,39,2024,2024-09-01,Manchester United,Liverpool,0.0,3.0,Match Finished
+premier_league,39,2024,2024-09-14,Southampton,Manchester United,0.0,3.0,Match Finished
+premier_league,39,2024,2024-09-14,Fulham,West Ham,1.0,1.0,Match Finished
+premier_league,39,2024,2024-09-14,Liverpool,Nottingham Forest,0.0,1.0,Match Finished
+premier_league,39,2024,2024-09-14,Manchester City,Brentford,2.0,1.0,Match Finished
+premier_league,39,2024,2024-09-14,Brighton,Ipswich,0.0,0.0,Match Finished
+premier_league,39,2024,2024-09-14,Crystal Palace,Leicester,2.0,2.0,Match Finished
+premier_league,39,2024,2024-09-14,Aston Villa,Everton,3.0,2.0,Match Finished
+premier_league,39,2024,2024-09-14,Bournemouth,Chelsea,0.0,1.0,Match Finished
+premier_league,39,2024,2024-09-15,Tottenham,Arsenal,0.0,1.0,Match Finished
+premier_league,39,2024,2024-09-15,Wolves,Newcastle,1.0,2.0,Match Finished
+premier_league,39,2024,2024-09-21,West Ham,Chelsea,0.0,3.0,Match Finished
+premier_league,39,2024,2024-09-21,Fulham,Newcastle,3.0,1.0,Match Finished
+premier_league,39,2024,2024-09-21,Liverpool,Bournemouth,3.0,0.0,Match Finished
+premier_league,39,2024,2024-09-21,Southampton,Ipswich,1.0,1.0,Match Finished
+premier_league,39,2024,2024-09-21,Leicester,Everton,1.0,1.0,Match Finished
+premier_league,39,2024,2024-09-21,Tottenham,Brentford,3.0,1.0,Match Finished
+premier_league,39,2024,2024-09-21,Aston Villa,Wolves,3.0,1.0,Match Finished
+premier_league,39,2024,2024-09-21,Crystal Palace,Manchester United,0.0,0.0,Match Finished
+premier_league,39,2024,2024-09-22,Brighton,Nottingham Forest,2.0,2.0,Match Finished
+premier_league,39,2024,2024-09-22,Manchester City,Arsenal,2.0,2.0,Match Finished
+premier_league,39,2024,2024-09-28,Newcastle,Manchester City,1.0,1.0,Match Finished
+premier_league,39,2024,2024-09-28,Arsenal,Leicester,4.0,2.0,Match Finished
+premier_league,39,2024,2024-09-28,Everton,Crystal Palace,2.0,1.0,Match Finished
+premier_league,39,2024,2024-09-28,Chelsea,Brighton,4.0,2.0,Match Finished
+premier_league,39,2024,2024-09-28,Brentford,West Ham,1.0,1.0,Match Finished
+premier_league,39,2024,2024-09-28,Nottingham Forest,Fulham,0.0,1.0,Match Finished
+premier_league,39,2024,2024-09-28,Wolves,Liverpool,1.0,2.0,Match Finished
+premier_league,39,2024,2024-09-29,Ipswich,Aston Villa,2.0,2.0,Match Finished
+premier_league,39,2024,2024-09-29,Manchester United,Tottenham,0.0,3.0,Match Finished
+premier_league,39,2024,2024-09-30,Bournemouth,Southampton,3.0,1.0,Match Finished
+premier_league,39,2024,2024-10-05,Crystal Palace,Liverpool,0.0,1.0,Match Finished
+premier_league,39,2024,2024-10-05,Arsenal,Southampton,3.0,1.0,Match Finished
+premier_league,39,2024,2024-10-05,Leicester,Bournemouth,1.0,0.0,Match Finished
+premier_league,39,2024,2024-10-05,West Ham,Ipswich,4.0,1.0,Match Finished
+premier_league,39,2024,2024-10-05,Manchester City,Fulham,3.0,2.0,Match Finished
+premier_league,39,2024,2024-10-05,Brentford,Wolves,5.0,3.0,Match Finished
+premier_league,39,2024,2024-10-05,Everton,Newcastle,0.0,0.0,Match Finished
+premier_league,39,2024,2024-10-06,Chelsea,Nottingham Forest,1.0,1.0,Match Finished
+premier_league,39,2024,2024-10-06,Aston Villa,Manchester United,0.0,0.0,Match Finished
+premier_league,39,2024,2024-10-06,Brighton,Tottenham,3.0,2.0,Match Finished
+premier_league,39,2024,2024-10-19,Tottenham,West Ham,4.0,1.0,Match Finished
+premier_league,39,2024,2024-10-19,Manchester United,Brentford,2.0,1.0,Match Finished
+premier_league,39,2024,2024-10-19,Newcastle,Brighton,0.0,1.0,Match Finished
+premier_league,39,2024,2024-10-19,Fulham,Aston Villa,1.0,3.0,Match Finished
+premier_league,39,2024,2024-10-19,Southampton,Leicester,2.0,3.0,Match Finished
+premier_league,39,2024,2024-10-19,Ipswich,Everton,0.0,2.0,Match Finished
+premier_league,39,2024,2024-10-19,Bournemouth,Arsenal,2.0,0.0,Match Finished
+premier_league,39,2024,2024-10-20,Wolves,Manchester City,1.0,2.0,Match Finished
+premier_league,39,2024,2024-10-20,Liverpool,Chelsea,2.0,1.0,Match Finished
+premier_league,39,2024,2024-10-21,Nottingham Forest,Crystal Palace,1.0,0.0,Match Finished
+premier_league,39,2024,2024-10-25,Leicester,Nottingham Forest,1.0,3.0,Match Finished
+premier_league,39,2024,2024-10-26,Manchester City,Southampton,1.0,0.0,Match Finished
+premier_league,39,2024,2024-10-26,Brighton,Wolves,2.0,2.0,Match Finished
+premier_league,39,2024,2024-10-26,Brentford,Ipswich,4.0,3.0,Match Finished
+premier_league,39,2024,2024-10-26,Aston Villa,Bournemouth,1.0,1.0,Match Finished
+premier_league,39,2024,2024-10-26,Everton,Fulham,1.0,1.0,Match Finished
+premier_league,39,2024,2024-10-27,West Ham,Manchester United,2.0,1.0,Match Finished
+premier_league,39,2024,2024-10-27,Chelsea,Newcastle,2.0,1.0,Match Finished
+premier_league,39,2024,2024-10-27,Crystal Palace,Tottenham,1.0,0.0,Match Finished
+premier_league,39,2024,2024-10-27,Arsenal,Liverpool,2.0,2.0,Match Finished
+premier_league,39,2024,2024-11-02,Newcastle,Arsenal,1.0,0.0,Match Finished
+premier_league,39,2024,2024-11-02,Bournemouth,Manchester City,2.0,1.0,Match Finished
+premier_league,39,2024,2024-11-02,Liverpool,Brighton,2.0,1.0,Match Finished
+premier_league,39,2024,2024-11-02,Southampton,Everton,1.0,0.0,Match Finished
+premier_league,39,2024,2024-11-02,Ipswich,Leicester,1.0,1.0,Match Finished
+premier_league,39,2024,2024-11-02,Nottingham Forest,West Ham,3.0,0.0,Match Finished
+premier_league,39,2024,2024-11-02,Wolves,Crystal Palace,2.0,2.0,Match Finished
+premier_league,39,2024,2024-11-03,Tottenham,Aston Villa,4.0,1.0,Match Finished
+premier_league,39,2024,2024-11-03,Manchester United,Chelsea,1.0,1.0,Match Finished
+premier_league,39,2024,2024-11-04,Fulham,Brentford,2.0,1.0,Match Finished

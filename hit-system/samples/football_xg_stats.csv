@@ -1,0 +1,101 @@
+﻿league,team,xg_off,xg_def,source
+Premier League,Aston Villa,1.138,2.0229,understat
+Premier League,Everton,1.8583,1.4554,understat
+Premier League,Bournemouth,1.629,1.3947,understat
+Premier League,Sunderland,1.8236,1.7489,understat
+Premier League,Crystal Palace,1.6387,2.2973,understat
+Premier League,Chelsea,1.7192,1.9954,understat
+Premier League,Tottenham,1.309,1.6767,understat
+Premier League,Arsenal,1.9556,1.1087,understat
+Premier League,Newcastle United,1.1088,1.8679,understat
+Premier League,Liverpool,1.5006,1.421,understat
+Premier League,Manchester City,2.1046,1.3227,understat
+Premier League,Manchester United,1.9088,1.5417,understat
+Premier League,Hull,1.2106,1.6635,understat
+Premier League,Brighton,2.4225,1.5827,understat
+Premier League,Fulham,1.6237,1.948,understat
+Premier League,Brentford,1.9659,1.5557,understat
+Premier League,Leeds,1.404,1.4555,understat
+Premier League,Nottingham Forest,2.0408,1.2099,understat
+Premier League,Ipswich,1.3972,2.0145,understat
+Premier League,Coventry,0.9951,1.7176,understat
+La Liga,Malaga,0.791,1.9212,understat
+La Liga,Sevilla,1.0579,1.5009,understat
+La Liga,Deportivo La Coruna,1.3415,1.4728,understat
+La Liga,Real Sociedad,1.3359,1.8917,understat
+La Liga,Espanyol,1.35,1.3649,understat
+La Liga,Getafe,0.8052,1.7135,understat
+La Liga,Atletico Madrid,1.9622,1.1846,understat
+La Liga,Rayo Vallecano,1.3023,1.8621,understat
+La Liga,Valencia,0.9304,1.7594,understat
+La Liga,Athletic Club,1.8807,1.2831,understat
+La Liga,Barcelona,4.0394,0.9926,understat
+La Liga,Real Madrid,2.6358,1.0381,understat
+La Liga,Levante,1.552,2.2177,understat
+La Liga,Celta Vigo,1.0044,1.2404,understat
+La Liga,Real Betis,1.9761,1.7418,understat
+La Liga,Villarreal,2.5171,1.608,understat
+La Liga,Osasuna,1.254,1.8292,understat
+La Liga,Alaves,1.4572,1.2011,understat
+La Liga,Elche,1.3194,2.0155,understat
+La Liga,Racing Santander,1.4017,2.2179,understat
+Bundesliga,Bayern Munich,3.5808,0.9918,understat
+Bundesliga,Hamburger SV,1.0921,2.0301,understat
+Bundesliga,Bayer Leverkusen,2.5465,1.1194,understat
+Bundesliga,Hoffenheim,1.9299,1.9723,understat
+Bundesliga,Augsburg,2.1049,2.623,understat
+Bundesliga,Werder Bremen,1.227,1.7879,understat
+Bundesliga,Schalke 04,1.3903,2.3847,understat
+Bundesliga,Mainz 05,2.5431,1.6984,understat
+Bundesliga,Borussia Dortmund,2.2425,1.0198,understat
+Bundesliga,Borussia M.Gladbach,1.7033,2.7913,understat
+Bundesliga,Eintracht Frankfurt,2.1666,2.7276,understat
+Bundesliga,VfB Stuttgart,2.1391,2.8203,understat
+Bundesliga,FC Cologne,2.0973,1.9481,understat
+Bundesliga,Freiburg,2.0515,0.8819,understat
+Bundesliga,RasenBallsport Leipzig,2.6961,1.4206,understat
+Bundesliga,Paderborn,1.0341,2.0253,understat
+Bundesliga,Union Berlin,1.2319,2.628,understat
+Bundesliga,Elversberg,1.3075,2.214,understat
+Serie A,Roma,2.8729,1.2345,understat
+Serie A,Lazio,1.8758,1.486,understat
+Serie A,Bologna,1.5284,1.2071,understat
+Serie A,Juventus,1.9352,0.4861,understat
+Serie A,Udinese,1.4168,2.117,understat
+Serie A,Genoa,1.032,1.445,understat
+Serie A,Sassuolo,1.7753,1.6827,understat
+Serie A,Napoli,2.0698,1.2328,understat
+Serie A,Inter,3.078,1.3126,understat
+Serie A,Atalanta,0.7671,2.1405,understat
+Serie A,Fiorentina,1.4067,1.8304,understat
+Serie A,AC Milan,1.926,1.2103,understat
+Serie A,Frosinone,1.4833,2.4214,understat
+Serie A,Torino,1.0138,1.5356,understat
+Serie A,Cagliari,1.0429,1.8584,understat
+Serie A,Parma Calcio 1913,0.7783,2.1199,understat
+Serie A,Lecce,1.2463,2.8019,understat
+Serie A,Venezia,1.8068,2.4723,understat
+Serie A,Monza,1.8697,1.6038,understat
+Serie A,Como,2.2334,1.5039,understat
+Ligue 1,Lille,1.4545,1.6232,understat
+Ligue 1,Paris Saint Germain,2.528,1.3351,understat
+Ligue 1,Rennes,2.0661,1.8899,understat
+Ligue 1,Marseille,1.6286,2.2373,understat
+Ligue 1,Angers,1.5929,1.931,understat
+Ligue 1,Nice,1.1676,1.7078,understat
+Ligue 1,Monaco,1.2338,1.3304,understat
+Ligue 1,Troyes,1.2394,1.9658,understat
+Ligue 1,Toulouse,2.0014,1.5881,understat
+Ligue 1,Lyon,1.8313,1.2181,understat
+Ligue 1,Lorient,1.0474,1.1779,understat
+Ligue 1,Lens,2.3186,1.5536,understat
+Ligue 1,Strasbourg,1.152,1.8616,understat
+Ligue 1,Brest,2.4796,1.1628,understat
+Ligue 1,Auxerre,1.3421,2.1133,understat
+Ligue 1,Le Havre,1.2339,1.9347,understat
+Ligue 1,Paris FC,1.7215,0.6287,understat
+Ligue 1,Le Mans,1.6689,2.4483,understat
+Russian Premier League,Spartak Moscow,1.5953,0.8537,understat
+Russian Premier League,CSKA Moscow,1.7206,1.1374,understat
+Russian Premier League,Rubin Kazan,0.9492,1.2325,understat
+Russian Premier League,FC Rostov,0.8192,1.2193,understat

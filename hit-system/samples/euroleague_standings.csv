@@ -1,0 +1,39 @@
+﻿id,comp,season,phase,group_name,club_code,club_name,position,games_played,wins,losses,points_scored,points_against,fetch_date
+4502,U,U2024,RS,,ARI,Aris Midea Thessaloniki,20,4,0,4,278,377,2026-10-12
+4501,U,U2024,RS,,TSO,Trefl Sopot,19,4,0,4,293,335,2026-10-12
+4500,U,U2024,RS,,ULM,ratiopharm Ulm,18,3,0,3,253,267,2026-10-12
+4499,U,U2024,RS,,LKB,7Bet-Lietkabelis Panevezys,17,4,1,3,324,354,2026-10-12
+4498,U,U2024,RS,,TRN,Dolomiti Energia Trento,16,3,1,2,245,261,2026-10-12
+4497,U,U2024,RS,,JOV,Joventut Badalona,15,4,2,2,313,340,2026-10-12
+4496,U,U2024,RS,,LJU,Cedevita Olimpija Ljubljana,14,6,2,4,475,488,2026-10-12
+4495,U,U2024,RS,,TTK,Turk Telekom Ankara,13,5,2,3,385,391,2026-10-12
+4494,U,U2024,RS,,VNC,Umana Reyer Venice,12,5,2,3,405,408,2026-10-12
+4493,U,U2024,RS,,BES,Besiktas Fibabanka Istanbul,11,4,2,2,333,333,2026-10-12
+4492,U,U2024,RS,,BUD,Buducnost VOLI Podgorica,10,4,2,2,347,341,2026-10-12
+4491,U,U2024,RS,,BOU,Cosea JL Bourg-en-Bresse,9,4,2,2,344,327,2026-10-12
+4490,U,U2024,RS,,JER,Hapoel Bank Yahav Jerusalem,8,4,2,2,334,301,2026-10-12
+4489,U,U2024,RS,,HAM,Veolia Towers Hamburg,7,3,3,0,254,227,2026-10-12
+4488,U,U2024,RS,,WOL,Wolves Twinsbet Vilnius,6,4,3,1,374,328,2026-10-12
+4487,U,U2024,RS,,BAH,Bahcesehir College Istanbul,5,8,4,4,598,602,2026-10-12
+4486,U,U2024,RS,,CLU,U-BT Cluj-Napoca,4,6,4,2,536,521,2026-10-12
+4485,U,U2024,RS,,PAM,Valencia Basket,3,7,5,2,650,575,2026-10-12
+4484,U,U2024,RS,,CAN,Dreamland Gran Canaria,2,11,6,5,865,885,2026-10-12
+4483,U,U2024,RS,,HTA,Hapoel Shlomo Tel Aviv,1,9,8,1,788,733,2026-10-12
+4482,E,E2024,RS,,BER,ALBA Berlin,18,3,0,3,219,280,2026-10-12
+4481,E,E2024,RS,,ASV,LDLC ASVEL Villeurbanne,17,2,0,2,153,194,2026-10-12
+4480,E,E2024,RS,,PAR,Partizan Mozzart Bet Belgrade,16,3,0,3,229,250,2026-10-12
+4479,E,E2024,RS,,RED,Crvena Zvezda Meridianbet Belgrade,15,4,0,4,365,383,2026-10-12
+4478,E,E2024,RS,,MIL,EA7 Emporio Armani Milan,14,3,1,2,269,277,2026-10-12
+4477,E,E2024,RS,,ZAL,Zalgiris Kaunas,13,2,1,1,147,153,2026-10-12
+4476,E,E2024,RS,,TEL,Maccabi Playtika Tel Aviv,12,3,1,2,274,279,2026-10-12
+4475,E,E2024,RS,,BAS,Baskonia Vitoria-Gasteiz,11,3,1,2,277,268,2026-10-12
+4474,E,E2024,RS,,MUN,FC Bayern Munich,10,5,2,3,424,442,2026-10-12
+4473,E,E2024,RS,,VIR,Virtus Segafredo Bologna,9,3,2,1,285,225,2026-10-12
+4472,E,E2024,RS,,PRS,Paris Basketball,8,7,3,4,596,609,2026-10-12
+4471,E,E2024,RS,,IST,Anadolu Efes Istanbul,7,8,5,3,665,662,2026-10-12
+4470,E,E2024,RS,,BAR,FC Barcelona,6,8,5,3,694,685,2026-10-12
+4469,E,E2024,RS,,MAD,Real Madrid,5,9,5,4,747,736,2026-10-12
+4468,E,E2024,RS,,PAN,Panathinaikos AKTOR Athens,4,10,5,5,867,851,2026-10-12
+4467,E,E2024,RS,,MCO,AS Monaco,3,10,6,4,822,814,2026-10-12
+4466,E,E2024,RS,,OLY,Olympiacos Piraeus,2,9,6,3,760,743,2026-10-12
+4465,E,E2024,RS,,ULK,Fenerbahce Beko Istanbul,1,8,7,1,679,621,2026-10-12
