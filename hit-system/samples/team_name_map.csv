@@ -1,0 +1,101 @@
+﻿id,en_name,zh_name,sport,confidence,source,created_at
+2781,Vila Nova,Vila Nova FC,football,0.75,substr_norm,2026-06-19 13:50:31
+2774,Tunisia,Tunisia (Bookings),football,0.75,substr_norm,2026-06-19 13:50:31
+2773,Tottenham Hotspur,Tottenham,football,0.75,substr_norm,2026-06-19 13:50:31
+2769,Sweden,Sweden U23 W,football,0.75,substr_norm,2026-06-19 13:50:31
+2762,Shamrock Rovers,Shamrock Rovers (Corners),football,0.75,substr_norm,2026-06-19 13:50:31
+2759,Scotland,Scotland (Corners),football,0.75,substr_norm,2026-06-19 13:50:31
+2758,Saudi Arabia,Saudi Arabia (Bookings),football,0.75,substr_norm,2026-06-19 13:50:31
+2746,Nottingham Forest,Nottingham,football,0.75,substr_norm,2026-06-19 13:50:31
+2742,Newcastle United,Newcastle,football,0.75,substr_norm,2026-06-19 13:50:31
+2732,Mexico,Angeles CD Mexico,football,0.75,substr_norm,2026-06-19 13:50:31
+2728,Liverpool,Liverpool Montevideo,football,0.75,substr_norm,2026-06-19 13:50:31
+2719,Ipswich Town,Ipswich,football,0.75,substr_norm,2026-06-19 13:50:31
+2716,Independiente Santa Fe,Santa Fe,football,0.75,substr_norm,2026-06-19 13:50:31
+2710,IFK Mariehamn,IFK Mariehamn II,football,0.75,substr_norm,2026-06-19 13:50:31
+2699,Germany,Germany 3x3,football,0.75,substr_norm,2026-06-19 13:50:31
+2696,Fulham,Fulham United,football,0.75,substr_norm,2026-06-19 13:50:31
+2694,Fortaleza,Fortaleza (Corners),football,0.75,substr_norm,2026-06-19 13:50:31
+2687,Everton,Everton La Plata,football,0.75,substr_norm,2026-06-19 13:50:31
+2685,England,New England Revolution,football,0.75,substr_norm,2026-06-19 13:50:31
+2680,Derry City,Derry City (Corners),football,0.75,substr_norm,2026-06-19 13:50:31
+2673,Croatia,Croatia Zmijavci,football,0.75,substr_norm,2026-06-19 13:50:31
+2671,Coventry City,Coventry,football,0.75,substr_norm,2026-06-19 13:50:31
+2661,Canada,Canada (Bookings),football,0.75,substr_norm,2026-06-19 13:50:31
+2658,Brighton and Hove Albion,Brighton,football,0.75,substr_norm,2026-06-19 13:50:31
+2653,Botafogo,Botafogo FR RJ (Bookings),football,0.75,substr_norm,2026-06-19 13:50:31
+2641,Arsenal,Arsenal (Bookings),football,0.75,substr_norm,2026-06-19 13:50:31
+2640,Argentina,Argentina (Bookings),football,0.75,substr_norm,2026-06-19 13:50:31
+2130,Sunderland,Sunderland,football,1.0,exact,2026-06-19 13:50:31
+2097,Manchester City,Manchester City,football,1.0,exact,2026-06-19 13:50:31
+2095,Liverpool,Liverpool,football,1.0,exact,2026-06-19 13:50:31
+2069,Fulham,Fulham,football,1.0,exact,2026-06-19 13:50:31
+2064,Everton,Everton,football,1.0,exact,2026-06-19 13:50:31
+2054,Crystal Palace,Crystal Palace,football,1.0,exact,2026-06-19 13:50:31
+2046,Chelsea,Chelsea,football,1.0,exact,2026-06-19 13:50:31
+2042,Brentford,Brentford,football,1.0,exact,2026-06-19 13:50:31
+2040,Bournemouth,Bournemouth,football,1.0,exact,2026-06-19 13:50:31
+2029,Aston Villa,Aston Villa,football,1.0,exact,2026-06-19 13:50:31
+2028,Arsenal,Arsenal,football,1.0,exact,2026-06-19 13:50:31
+2016,Varbergs BoIS,Varbergs BoIS (Corners),football,0.75,substr_norm,2026-06-19 10:13:33
+2014,Uruguay,Uruguay Montevideo,football,0.75,substr_norm,2026-06-19 10:13:33
+2012,Tunisia,Tunisia U20,football,0.75,substr_norm,2026-06-19 10:13:33
+2009,Switzerland,Switzerland (Bookings),football,0.75,substr_norm,2026-06-19 10:13:33
+2004,Sligo Rovers,Sligo Rovers (Corners),football,0.75,substr_norm,2026-06-19 10:13:33
+1999,Scotland,Scotland (Bookings),football,0.75,substr_norm,2026-06-19 10:13:33
+1997,Santos,Santos U20,football,0.75,substr_norm,2026-06-19 10:13:33
+1996,Sandvikens IF,Sandvikens IF (Corners),football,0.75,substr_norm,2026-06-19 10:13:33
+1994,Portugal,Portugal U19,football,0.75,substr_norm,2026-06-19 10:13:33
+1986,Norway,Norway (Bookings),football,0.75,substr_norm,2026-06-19 10:13:33
+1983,New Zealand,New Zealand (Bookings),football,0.75,substr_norm,2026-06-19 10:13:33
+1977,Morocco,Morocco (Bookings),football,0.75,substr_norm,2026-06-19 10:13:33
+1974,Mexico,New Mexico United (Corners),football,0.75,substr_norm,2026-06-19 10:13:33
+1966,Juventude,Juventud,football,0.75,substr_norm,2026-06-19 10:13:33
+1955,IFK Mariehamn,IFK Mariehamn (Corners),football,0.75,substr_norm,2026-06-19 10:13:33
+1947,HJK Helsinki,HJK Helsinki (Corners),football,0.75,substr_norm,2026-06-19 10:13:33
+1944,Germany,Germany U23 W,football,0.75,substr_norm,2026-06-19 10:13:33
+1940,Fortaleza,Fortaleza CEIF,football,0.75,substr_norm,2026-06-19 10:13:33
+1936,Falkenbergs FF,Falkenberg,football,0.75,substr_norm,2026-06-19 10:13:33
+1932,England,New England Revolution II,football,0.75,substr_norm,2026-06-19 10:13:33
+1930,Dundalk,Dundalk (Corners),football,0.75,substr_norm,2026-06-19 10:13:33
+1922,Cruzeiro,Cruzeiro (Bookings),football,0.75,substr_norm,2026-06-19 10:13:33
+1921,Croatia,Gwelup Croatia,football,0.75,substr_norm,2026-06-19 10:13:33
+1912,Cape Verde,Cape Verde (Bookings),football,0.75,substr_norm,2026-06-19 10:13:33
+1906,Botafogo,Botafogo FR RJ,football,0.75,substr_norm,2026-06-19 10:13:33
+1901,Belgium,Belgium (Bookings),football,0.75,substr_norm,2026-06-19 10:13:33
+1899,Austria,Austria Wien,football,0.75,substr_norm,2026-06-19 10:13:33
+1898,Australia,Australia 3x3 W,football,0.75,substr_norm,2026-06-19 10:13:33
+1846,Curaçao,Curacao,football,1.0,static,2026-06-19 10:13:33
+1845,St Patricks Athletic,St Patrick's Athletic,football,1.0,static,2026-06-19 10:13:33
+1844,IFK Värnamo,IFK Varnamo,football,1.0,static,2026-06-19 10:13:33
+1843,Mjällby AIF,Mjallby,football,1.0,static,2026-06-19 10:13:33
+1842,Västerås SK,Vasteras,football,1.0,static,2026-06-19 10:13:33
+1841,Östersunds FK,Ostersund,football,1.0,static,2026-06-19 10:13:33
+1840,Östers IF,Osters,football,1.0,static,2026-06-19 10:13:33
+1839,Örgryte IS,Orgryte,football,1.0,static,2026-06-19 10:13:33
+1838,Örebro SK,Orebro,football,1.0,static,2026-06-19 10:13:33
+1837,Alcorcón,Alcorcon,football,1.0,static,2026-06-19 10:13:33
+1836,Leganés,Leganes,football,1.0,static,2026-06-19 10:13:33
+1835,Cádiz,Cadiz,football,1.0,static,2026-06-19 10:13:33
+1834,Málaga,Malaga,football,1.0,static,2026-06-19 10:13:33
+1833,Almería,Almeria,football,1.0,static,2026-06-19 10:13:33
+1832,Sport Club do Recife,Sport Recife,football,1.0,static,2026-06-19 10:13:33
+1831,Botafogo de Futebol e Regatas,Botafogo,football,1.0,static,2026-06-19 10:13:33
+1830,Vasco da Gama,Vasco,football,1.0,static,2026-06-19 10:13:33
+1829,Sao Paulo,Sao Paulo,football,1.0,static,2026-06-19 10:13:33
+1828,São Paulo,Sao Paulo,football,1.0,static,2026-06-19 10:13:33
+1827,America Mineiro,América Mineiro,football,1.0,static,2026-06-19 10:13:33
+1826,Grêmio Novorizontino,Gremio Novorizontino,football,1.0,static,2026-06-19 10:13:33
+1825,Grêmio,Gremio,football,1.0,static,2026-06-19 10:13:33
+1824,Gremio,Gremio,football,1.0,static,2026-06-19 10:13:33
+1823,Malmö FF,Malmo,football,1.0,static,2026-06-19 10:13:33
+1822,Malmo FF,Malmo,football,1.0,static,2026-06-19 10:13:33
+1821,Atletico-MG,Atlético Mineiro,football,1.0,static,2026-06-19 10:13:33
+1820,Atletico-GO,Atlético Goianiense,football,1.0,static,2026-06-19 10:13:33
+1819,Atletico Goianiense,Atlético Goianiense,football,1.0,static,2026-06-19 10:13:33
+1818,Atletico Nacional,Atlético Nacional,football,1.0,static,2026-06-19 10:13:33
+1817,Atletico Mineiro,Atlético Mineiro,football,1.0,static,2026-06-19 10:13:33
+1816,Atletico Madrid,Atlético Madrid,football,1.0,static,2026-06-19 10:13:33
+1815,FC Internazionale,Inter,football,1.0,static,2026-06-19 10:13:33
+1814,Internazionale,Inter,football,1.0,static,2026-06-19 10:13:33
+1813,Inter Milan,Inter,football,1.0,static,2026-06-19 10:13:33

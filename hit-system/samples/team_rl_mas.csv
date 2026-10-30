@@ -1,0 +1,49 @@
+﻿league,team,rl_home_bonus,rl_away_bonus
+nba,Atlanta Hawks,1.1264,1.1344
+nba,Boston Celtics,1.1235,1.0776
+nba,Brooklyn Nets,1.0771,1.1071
+nba,Candace’s Rising Stars,1.0576,1.0418
+nba,Charlotte Hornets,1.0769,1.1147
+nba,Chicago Bulls,1.1274,1.1348
+nba,Chuck’s Global Stars,1.0766,1.0766
+nba,Cleveland Cavaliers,1.1487,1.1047
+nba,Dallas Mavericks,1.1121,1.1162
+nba,Denver Nuggets,1.1355,1.1256
+nba,Detroit Pistons,1.116,1.1064
+nba,Golden State Warriors,1.1106,1.0927
+nba,Houston Rockets,1.1158,1.0939
+nba,Indiana Pacers,1.1321,1.1192
+nba,Kenny’s Young Stars,1.0576,1.0418
+nba,Los Angeles Clippers,1.1072,1.0859
+nba,Los Angeles Lakers,1.1059,1.1067
+nba,Memphis Grizzlies,1.1414,1.1252
+nba,Miami Heat,1.0976,1.0993
+nba,Milwaukee Bucks,1.1153,1.1102
+nba,Minnesota Timberwolves,1.1164,1.0922
+nba,New Orleans Pelicans,1.0927,1.1335
+nba,New York Knicks,1.1208,1.1011
+nba,Oklahoma City Thunder,1.1446,1.0807
+nba,Orlando Magic,1.0759,1.078
+nba,Philadelphia 76ers,1.0924,1.1208
+nba,Phoenix Suns,1.1099,1.1228
+nba,Portland Trail Blazers,1.0997,1.1093
+nba,Sacramento Kings,1.116,1.1179
+nba,San Antonio Spurs,1.1113,1.1239
+nba,Shaq’s OGs,1.0768,1.0763
+nba,Toronto Raptors,1.0999,1.1175
+nba,Utah Jazz,1.1015,1.1426
+nba,Washington Wizards,1.0847,1.1408
+wnba,Atlanta Dream W,1.0659,1.0396
+wnba,Chicago Sky W,1.0645,1.04
+wnba,Connecticut Sun W,1.0696,1.0344
+wnba,Dallas Wings W,1.0644,1.0414
+wnba,Indiana Fever W,1.066,1.0378
+wnba,Las Vegas Aces W,1.0689,1.0349
+wnba,Los Angeles Sparks W,1.0644,1.0418
+wnba,Minnesota Lynx W,1.0737,1.0333
+wnba,New York Liberty W,1.0731,1.0324
+wnba,Phoenix Mercury W,1.066,1.0382
+wnba,Seattle Storm W,1.0661,1.036
+wnba,Team USA W,1.0576,1.0418
+wnba,Team WNBA W,1.0768,1.0763
+wnba,Washington Mystics W,1.0645,1.0396

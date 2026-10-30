@@ -1,0 +1,57 @@
+﻿market_key,description,category,period_scope,source,verified,notes,first_seen_utc,last_seen_utc
+spreads,,spreads,full,official_docs,0,documented in The Odds API v4 soccer market list; availability per event/bookmaker unverified,2026-10-24T10:30:29Z,2026-10-24T10:30:29Z
+btts,,btts,full,official_docs,0,documented in The Odds API v4 soccer market list; availability per event/bookmaker unverified,2026-10-24T10:30:29Z,2026-10-24T10:30:29Z
+draw_no_bet,,draw_no_bet,full,official_docs,0,documented in The Odds API v4 soccer market list; availability per event/bookmaker unverified,2026-10-24T10:30:29Z,2026-10-24T10:30:29Z
+h2h_h1,,h2h,first_half,official_docs,0,documented in The Odds API v4 soccer market list; availability per event/bookmaker unverified,2026-10-24T10:30:29Z,2026-10-24T10:30:29Z
+h2h_h2,,h2h,second_half,official_docs,0,documented in The Odds API v4 soccer market list; availability per event/bookmaker unverified,2026-10-24T10:30:29Z,2026-10-24T10:30:29Z
+spreads_h1,,spreads,first_half,official_docs,0,documented in The Odds API v4 soccer market list; availability per event/bookmaker unverified,2026-10-24T10:30:29Z,2026-10-24T10:30:29Z
+spreads_h2,,spreads,second_half,official_docs,0,documented in The Odds API v4 soccer market list; availability per event/bookmaker unverified,2026-10-24T10:30:29Z,2026-10-24T10:30:29Z
+totals_h1,,totals,first_half,official_docs,0,documented in The Odds API v4 soccer market list; availability per event/bookmaker unverified,2026-10-24T10:30:29Z,2026-10-24T10:30:29Z
+totals_h2,,totals,second_half,official_docs,0,documented in The Odds API v4 soccer market list; availability per event/bookmaker unverified,2026-10-24T10:30:29Z,2026-10-24T10:30:29Z
+btts_h1,,btts,first_half,official_docs,0,documented in The Odds API v4 soccer market list; availability per event/bookmaker unverified,2026-10-24T10:30:29Z,2026-10-24T10:30:29Z
+btts_h2,,btts,second_half,official_docs,0,documented in The Odds API v4 soccer market list; availability per event/bookmaker unverified,2026-10-24T10:30:29Z,2026-10-24T10:30:29Z
+alternate_spreads,,spreads,full,official_docs,0,documented in The Odds API v4 soccer market list; availability per event/bookmaker unverified,2026-10-24T10:30:29Z,2026-10-24T10:30:29Z
+alternate_totals,,totals,full,official_docs,0,documented in The Odds API v4 soccer market list; availability per event/bookmaker unverified,2026-10-24T10:30:29Z,2026-10-24T10:30:29Z
+alternate_team_totals,,totals,full,official_docs,0,documented in The Odds API v4 soccer market list; availability per event/bookmaker unverified,2026-10-24T10:30:29Z,2026-10-24T10:30:29Z
+team_totals,,totals,full,official_docs,0,documented in The Odds API v4 soccer market list; availability per event/bookmaker unverified,2026-10-24T10:30:29Z,2026-10-24T10:30:29Z
+team_totals_h1,,totals,first_half,official_docs,0,documented in The Odds API v4 soccer market list; availability per event/bookmaker unverified,2026-10-24T10:30:29Z,2026-10-24T10:30:29Z
+team_totals_h2,,totals,second_half,official_docs,0,documented in The Odds API v4 soccer market list; availability per event/bookmaker unverified,2026-10-24T10:30:29Z,2026-10-24T10:30:29Z
+team_totals_over,,totals,full,official_docs,0,documented in The Odds API v4 soccer market list; availability per event/bookmaker unverified,2026-10-24T10:30:29Z,2026-10-24T10:30:29Z
+team_totals_under,,totals,full,official_docs,0,documented in The Odds API v4 soccer market list; availability per event/bookmaker unverified,2026-10-24T10:30:29Z,2026-10-24T10:30:29Z
+totals_corners,,totals,full,official_docs,0,documented in The Odds API v4 soccer market list; availability per event/bookmaker unverified,2026-10-24T10:30:29Z,2026-10-24T10:30:29Z
+alternate_totals_corners,,totals,full,official_docs,0,documented in The Odds API v4 soccer market list; availability per event/bookmaker unverified,2026-10-24T10:30:29Z,2026-10-24T10:30:29Z
+team_totals_corners,,totals,full,official_docs,0,documented in The Odds API v4 soccer market list; availability per event/bookmaker unverified,2026-10-24T10:30:29Z,2026-10-24T10:30:29Z
+totals_cards,,totals,full,official_docs,0,documented in The Odds API v4 soccer market list; availability per event/bookmaker unverified,2026-10-24T10:30:29Z,2026-10-24T10:30:29Z
+alternate_totals_cards,,totals,full,official_docs,0,documented in The Odds API v4 soccer market list; availability per event/bookmaker unverified,2026-10-24T10:30:29Z,2026-10-24T10:30:29Z
+team_totals_cards,,totals,full,official_docs,0,documented in The Odds API v4 soccer market list; availability per event/bookmaker unverified,2026-10-24T10:30:29Z,2026-10-24T10:30:29Z
+double_chance,,double_chance,full,official_docs,0,documented in The Odds API v4 soccer market list; availability per event/bookmaker unverified,2026-10-24T10:30:29Z,2026-10-24T10:30:29Z
+correct_score,,correct_score,full,official_docs,0,documented in The Odds API v4 soccer market list; availability per event/bookmaker unverified,2026-10-24T10:30:29Z,2026-10-24T10:30:29Z
+correct_score_h1,,correct_score,first_half,official_docs,0,documented in The Odds API v4 soccer market list; availability per event/bookmaker unverified,2026-10-24T10:30:29Z,2026-10-24T10:30:29Z
+half_time_full_time,,half_time_full_time,full,official_docs,0,documented in The Odds API v4 soccer market list; availability per event/bookmaker unverified,2026-10-24T10:30:29Z,2026-10-24T10:30:29Z
+htft_double,,half_time_full_time,full,official_docs,0,documented in The Odds API v4 soccer market list; availability per event/bookmaker unverified,2026-10-24T10:30:29Z,2026-10-24T10:30:29Z
+odd_even,,odd_even,full,official_docs,0,documented in The Odds API v4 soccer market list; availability per event/bookmaker unverified,2026-10-24T10:30:29Z,2026-10-24T10:30:29Z
+odd_even_h1,,odd_even,first_half,official_docs,0,documented in The Odds API v4 soccer market list; availability per event/bookmaker unverified,2026-10-24T10:30:29Z,2026-10-24T10:30:29Z
+odd_even_h2,,odd_even,second_half,official_docs,0,documented in The Odds API v4 soccer market list; availability per event/bookmaker unverified,2026-10-24T10:30:29Z,2026-10-24T10:30:29Z
+draw_no_bet_h1,,draw_no_bet,first_half,official_docs,0,documented in The Odds API v4 soccer market list; availability per event/bookmaker unverified,2026-10-24T10:30:29Z,2026-10-24T10:30:29Z
+draw_no_bet_h2,,draw_no_bet,second_half,official_docs,0,documented in The Odds API v4 soccer market list; availability per event/bookmaker unverified,2026-10-24T10:30:29Z,2026-10-24T10:30:29Z
+first_half_winner,,other,first_half,official_docs,0,documented in The Odds API v4 soccer market list; availability per event/bookmaker unverified,2026-10-24T10:30:29Z,2026-10-24T10:30:29Z
+second_half_winner,,other,second_half,official_docs,0,documented in The Odds API v4 soccer market list; availability per event/bookmaker unverified,2026-10-24T10:30:29Z,2026-10-24T10:30:29Z
+alternate_h2h_h1,,other,first_half,official_docs,0,documented in The Odds API v4 soccer market list; availability per event/bookmaker unverified,2026-10-24T10:30:29Z,2026-10-24T10:30:29Z
+alternate_h2h_h2,,other,second_half,official_docs,0,documented in The Odds API v4 soccer market list; availability per event/bookmaker unverified,2026-10-24T10:30:29Z,2026-10-24T10:30:29Z
+spreads_corners,,spreads,full,official_docs,0,documented in The Odds API v4 soccer market list; availability per event/bookmaker unverified,2026-10-24T10:30:29Z,2026-10-24T10:30:29Z
+spreads_cards,,spreads,full,official_docs,0,documented in The Odds API v4 soccer market list; availability per event/bookmaker unverified,2026-10-24T10:30:29Z,2026-10-24T10:30:29Z
+player_goal_scorer_anytime,,player_props,full,official_docs,0,documented in The Odds API v4 soccer market list; availability per event/bookmaker unverified,2026-10-24T10:30:29Z,2026-10-24T10:30:29Z
+player_goal_scorer_first,,player_props,full,official_docs,0,documented in The Odds API v4 soccer market list; availability per event/bookmaker unverified,2026-10-24T10:30:29Z,2026-10-24T10:30:29Z
+player_goal_scorer_last,,player_props,full,official_docs,0,documented in The Odds API v4 soccer market list; availability per event/bookmaker unverified,2026-10-24T10:30:29Z,2026-10-24T10:30:29Z
+player_shots,,player_props,full,official_docs,0,documented in The Odds API v4 soccer market list; availability per event/bookmaker unverified,2026-10-24T10:30:29Z,2026-10-24T10:30:29Z
+player_shots_on_target,,player_props,full,official_docs,0,documented in The Odds API v4 soccer market list; availability per event/bookmaker unverified,2026-10-24T10:30:29Z,2026-10-24T10:30:29Z
+player_assists,,player_props,full,official_docs,0,documented in The Odds API v4 soccer market list; availability per event/bookmaker unverified,2026-10-24T10:30:29Z,2026-10-24T10:30:29Z
+player_cards,,cards,full,official_docs,0,documented in The Odds API v4 soccer market list; availability per event/bookmaker unverified,2026-10-24T10:30:29Z,2026-10-24T10:30:29Z
+player_to_score_or_assist,,player_props,full,official_docs,0,documented in The Odds API v4 soccer market list; availability per event/bookmaker unverified,2026-10-24T10:30:29Z,2026-10-24T10:30:29Z
+player_goalkeeper_saves,,player_props,full,official_docs,0,documented in The Odds API v4 soccer market list; availability per event/bookmaker unverified,2026-10-24T10:30:29Z,2026-10-24T10:30:29Z
+player_anytime_assist,,player_props,full,official_docs,0,documented in The Odds API v4 soccer market list; availability per event/bookmaker unverified,2026-10-24T10:30:29Z,2026-10-24T10:30:29Z
+player_to_receive_card,,cards,full,official_docs,0,documented in The Odds API v4 soccer market list; availability per event/bookmaker unverified,2026-10-24T10:30:29Z,2026-10-24T10:30:29Z
+player_passes,,player_props,full,official_docs,0,documented in The Odds API v4 soccer market list; availability per event/bookmaker unverified,2026-10-24T10:30:29Z,2026-10-24T10:30:29Z
+h2h,,h2h,full,observed_response,1,,2026-10-24T10:30:29Z,2026-10-24T10:30:29Z
+totals,,totals,full,observed_response,1,,2026-10-24T10:30:29Z,2026-10-24T10:30:29Z
+h2h_lay,,h2h,full,observed_response,1,,2026-10-24T10:30:29Z,2026-10-24T10:30:29Z
