@@ -1,0 +1,101 @@
+﻿id,match_id,sport_code,team_side,formation,role,position_name,position_en_name,shirt_number,player_name,player_name_en,player_source_id,fetch_date
+87268,5740738,basketball,away,0-0-0,substitute,前锋,Forward,55,谷口大地,Daichi Taniguchi,936289,2026-10-12
+87267,5740738,basketball,away,0-0-0,substitute,后卫,Guard,29,细川一辉,Kazuki Hosokawa,929963,2026-10-12
+87266,5740738,basketball,away,0-0-0,substitute,前锋,Forward,28,鹤卷启太,Keita Tsurumaki,938882,2026-10-12
+87265,5740738,basketball,away,0-0-0,substitute,,,16,肯尼·浅野,Kenny Asano,1169461,2026-10-12
+87264,5740738,basketball,away,0-0-0,substitute,前锋,Forward,9,津ji直人,Naoto Tsuji,707404,2026-10-12
+87263,5740738,basketball,away,0-0-0,substitute,后卫,Guard,1,科赫-弗里平,Koh Flippin,707472,2026-10-12
+87262,5740738,basketball,away,0-0-0,substitute,后卫,Guard,0,藤井悠美,Yuumi Fujii,911322,2026-10-12
+87261,5740738,basketball,away,0-0-0,starting,前锋,Forward,15,AJ·埃杜,AJ Edu,932430,2026-10-12
+87260,5740738,basketball,away,0-0-0,starting,前锋,Forward,8,小克里-布莱克希尔,Kerry Blackshear Jr.,881813,2026-10-12
+87259,5740738,basketball,away,0-0-0,starting,后卫,Guard,4,特雷-麦克基尼琼斯,"McKinney-Jones, Trey",419531,2026-10-12
+87258,5740738,basketball,away,0-0-0,starting,锋卫摇摆人,Forward Guard Swingman,14,斯坦利-约翰逊,Stanley Johnson,180725,2026-10-12
+87257,5740738,basketball,away,0-0-0,starting,后卫,Guard,6,中村拓人,Takuto Nakamura,1055510,2026-10-12
+87256,5740738,basketball,home,0-0-0,substitute,,,21,富山俊树,Toshiki Tomiyama,1306432,2026-10-12
+87255,5740738,basketball,home,0-0-0,substitute,后卫,Guard,20,岸田敦希,Atsuki Kishida,1127175,2026-10-12
+87254,5740738,basketball,home,0-0-0,substitute,后卫,Guard,18,内尾宗理,Sori Uchio,1169399,2026-10-12
+87253,5740738,basketball,home,0-0-0,substitute,后卫,Guard,13,阿部谅,Ryo Abe,707438,2026-10-12
+87252,5740738,basketball,home,0-0-0,substitute,后卫,Guard,11,武田福太,Futa Takedomi,1479694,2026-10-12
+87251,5740738,basketball,home,0-0-0,substitute,,,8,德里克-西耶罗,Derrick Xzavierro,968378,2026-10-12
+87250,5740738,basketball,home,0-0-0,substitute,前锋,Forward,7,桥本晃佑,Kosuke Hashimoto,707755,2026-10-12
+87249,5740738,basketball,home,0-0-0,starting,锋卫摇摆人,Forward Guard Swingman,9,纳西尔-利特尔,Nassir Little,587273,2026-10-12
+87248,5740738,basketball,home,0-0-0,starting,后卫,Guard,1,丹伊恩-多特森,Damyean Dotson,221725,2026-10-12
+87247,5740738,basketball,home,0-0-0,starting,前锋,Forward,34,井上良太,Ryota Inoue,1127176,2026-10-12
+87246,5740738,basketball,home,0-0-0,starting,后卫,Guard,25,墨田大树,Taiki Sumida,1127173,2026-10-12
+87245,5740738,basketball,home,0-0-0,starting,中锋,Center Striker,23,戴夫杜津斯基,"Dudzinski, Dave",192845,2026-10-12
+87244,5746949,football,away,4-2-3-1,starting,主教练,Head Coach,,佩德罗贡卡维斯,Pedro Goncalves,788480,2026-10-12
+87243,5746949,football,away,4-2-3-1,starting,前锋,Forward,7,优素福阿法利,Youssef Alfahli,618654,2026-10-12
+87242,5746949,football,away,4-2-3-1,starting,中场,Midfielder,11,艾哈迈德哈穆丹,Ahmed Hammoudan,236526,2026-10-12
+87241,5746949,football,away,4-2-3-1,starting,前锋,Forward,9,穆赫辛-布里加,Mouhcine Bouriga,1044157,2026-10-12
+87240,5746949,football,away,4-2-3-1,starting,中场,Midfielder,20,梅维埃恩多基特,Merveil Ndockyt,615410,2026-10-12
+87239,5746949,football,away,4-2-3-1,starting,后卫,Guard,3,阿纳斯巴赫,Anas Bach,662030,2026-10-12
+87238,5746949,football,away,4-2-3-1,starting,中场,Midfielder,6,齐内丁-德拉格,Zinedine Derrag,661237,2026-10-12
+87237,5746949,football,away,4-2-3-1,starting,后卫,Guard,2,卡内罗,To Carneiro,236976,2026-10-12
+87236,5746949,football,away,4-2-3-1,starting,后卫,Guard,4,法卢门迪,Fallou Mendy,1036504,2026-10-12
+87235,5746949,football,away,4-2-3-1,starting,后卫,Guard,15,马尔万·卢阿尼,Marwan Louadni,1096491,2026-10-12
+87234,5746949,football,away,4-2-3-1,starting,中场,Midfielder,8,哈立德乌尔坎,Khalid Ourkane,816059,2026-10-12
+87233,5746949,football,away,4-2-3-1,starting,门将,Goalkeeper,16,艾哈迈德-塔纳乌蒂,Ahmed Reda Tagnaouti,139005,2026-10-12
+87232,5746949,football,home,4-2-1-3,starting,主教练,Head Coach,,希拉尔·泰尔,Hilal Et-Tair,1181647,2026-10-12
+87231,5746949,football,home,4-2-1-3,starting,中场,Midfielder,21,胺阿兹里,Amine Azri,996260,2026-10-12
+87230,5746949,football,home,4-2-1-3,starting,中场,Midfielder,13,哈姆扎·穆马迪,Hamza Moumadi,1263004,2026-10-12
+87229,5746949,football,home,4-2-1-3,starting,中场,Midfielder,11,伊马德里亚希,Imad Riahi,817724,2026-10-12
+87228,5746949,football,home,4-2-1-3,starting,前锋,Forward,2,阿尤布·贝纳迪,Ayoub Benaadi ,1355762,2026-10-12
+87227,5746949,football,home,4-2-1-3,starting,中场,Midfielder,5,贾拉塔赫,Jalal Tachtach,667177,2026-10-12
+87226,5746949,football,home,4-2-1-3,starting,中场,Midfielder,42,穆罕默德-敦比亚,Mohamed Doumbia,220205,2026-10-12
+87225,5746949,football,home,4-2-1-3,starting,后卫,Guard,24,阿尤布布切塔,Ayoub Boucheta,815984,2026-10-12
+87224,5746949,football,home,4-2-1-3,starting,后卫,Guard,6,穆阿德-巴赛因,Mouad Bahsain,889398,2026-10-12
+87223,5746949,football,home,4-2-1-3,starting,后卫,Guard,45,阿尤布·萨努内,Ayoub Sahnoune,1465263,2026-10-12
+87222,5746949,football,home,4-2-1-3,starting,后卫,Guard,30,苏莱曼阿姆拉尼,Soulaiman El Amrani,660094,2026-10-12
+87221,5746949,football,home,4-2-1-3,starting,门将,Goalkeeper,1,加亚默巴,Gaya Merbah,521694,2026-10-12
+87196,5740737,football,away,4-2-3-1,injured,门将,,40,,,,2026-10-12
+87195,5740737,football,away,4-2-3-1,injured,后卫,,66,,,,2026-10-12
+87194,5740737,football,away,4-2-3-1,injured,前锋,,,,,,2026-10-12
+87193,5740737,football,away,4-2-3-1,injured,后卫,,27,,,,2026-10-12
+87192,5740737,football,away,4-2-3-1,injured,中场,,,,,,2026-10-12
+87191,5740737,football,away,4-2-3-1,injured,后卫,,29,,,,2026-10-12
+87190,5740737,football,away,4-2-3-1,injured,后卫,,37,,,,2026-10-12
+87189,5740737,football,away,4-2-3-1,injured,中场,,31,,,,2026-10-12
+87188,5740737,football,away,4-2-3-1,starting,主教练,Head Coach,,B.巴卡尔,Barak Bakhar,351064,2026-10-12
+87187,5740737,football,away,4-2-3-1,starting,前锋,Forward,9,安得利亚诺瓦科维奇,Andrija Novakovich,176221,2026-10-12
+87186,5740737,football,away,4-2-3-1,starting,中场,Midfielder,11,肯吉-戈雷,Kenji Joel Gorre,179671,2026-10-12
+87185,5740737,football,away,4-2-3-1,starting,中场,Midfielder,19,阿祖莱,Eitan Azoulay,720609,2026-10-12
+87184,5740737,football,away,4-2-3-1,starting,中场,Midfielder,30,布拉藏,Pedro Brazao,776666,2026-10-12
+87183,5740737,football,away,4-2-3-1,starting,中场,Midfielder,10,布鲁诺-罗伯托,Bruno Roberto Pereira da Silva,240694,2026-10-12
+87182,5740737,football,away,4-2-3-1,starting,中场,Midfielder,8,亚林-列维,Yarin Levi,893288,2026-10-12
+87181,5740737,football,away,4-2-3-1,starting,后卫,Guard,16,肯尼-塞伊夫,Kenneth Hasan Saief,74599,2026-10-12
+87180,5740737,football,away,4-2-3-1,starting,后卫,Guard,35,诺姆·斯特伊夫曼,Noam Sztejfman,1410927,2026-10-12
+87179,5740737,football,away,4-2-3-1,starting,后卫,Guard,21,奈杰尔隆韦克,Nigel Lonwijk,569308,2026-10-12
+87178,5740737,football,away,4-2-3-1,starting,后卫,Guard,25,巴塔耶,Jelle Bataille,223420,2026-10-12
+87177,5740737,football,away,4-2-3-1,starting,门将,Goalkeeper,55,欧姆里格雷泽,Omri Glazer,157415,2026-10-12
+87176,5740737,football,home,4-3-3,injured,中场,,5,,,,2026-10-12
+87175,5740737,football,home,4-3-3,starting,主教练,Head Coach,,利奥尔扎达,Lior Zada,791707,2026-10-12
+87174,5740737,football,home,4-3-3,starting,前锋,Forward,9,爱德华-奇卢菲亚,Edward Chilufya,220568,2026-10-12
+87173,5740737,football,home,4-3-3,starting,中场,Midfielder,25,伊多科,Andrew Idoko,826166,2026-10-12
+87172,5740737,football,home,4-3-3,starting,前锋,Forward,19,纳迪姆·弗拉萨纳,Nadim Vrasana,1208218,2026-10-12
+87171,5740737,football,home,4-3-3,starting,中场,Midfielder,14,奥马尔·阿布哈夫,Omer Abuhav,1230679,2026-10-12
+87170,5740737,football,home,4-3-3,starting,后卫,Guard,70,祖贝鲁沙拉尼,Zuberu Sharani,557422,2026-10-12
+87169,5740737,football,home,4-3-3,starting,中场,Midfielder,91,C.特伊,Christ Tiehi,368392,2026-10-12
+87168,5740737,football,home,4-3-3,starting,后卫,Guard,18,丽安米兹拉希,Li On Mizrahi,707162,2026-10-12
+87167,5740737,football,home,4-3-3,starting,后卫,Guard,21,希莱·沙拉比·梅尔曼,Hilay Sharabi Melman,1516143,2026-10-12
+87166,5740737,football,home,4-3-3,starting,后卫,Guard,3,诺姆-吉尔-马尔默,Noam Malmud,878637,2026-10-12
+87165,5740737,football,home,4-3-3,starting,后卫,Guard,22,塔米尔·海莫维奇,Tamir Haimovich,1365223,2026-10-12
+87164,5740737,football,home,4-3-3,starting,门将,Goalkeeper,55,纳达夫扎米尔,Nadav Zamir,753096,2026-10-12
+87130,5713662,football,away,,injured,中场,,20,,,,2026-10-12
+87129,5710899,football,away,5-4-1,injured,后卫,,4,,,,2026-10-12
+87128,5710899,football,away,5-4-1,injured,前锋,,,,,,2026-10-12
+87127,5710899,football,away,5-4-1,starting,主教练,Head Coach,,胡安何塞-里贝拉,Juan Jose Ribera,24353,2026-10-12
+87126,5710899,football,away,5-4-1,starting,前锋,Forward,20,伊格纳西奥-杰拉尔迪诺,Alejandro Ignacio Jeraldino Jil,168790,2026-10-12
+87125,5710899,football,away,5-4-1,starting,中场,Midfielder,28,曼纽尔里维拉, Manuel Rivera,249348,2026-10-12
+87124,5710899,football,away,5-4-1,starting,中场,Midfielder,21,洛伦佐-雷耶斯,Lolo Reyes,124266,2026-10-12
+87123,5710899,football,away,5-4-1,starting,中场,Midfielder,19,伊格纳西奥塔皮亚,Ignacio Tapia,857988,2026-10-12
+87122,5710899,football,away,5-4-1,starting,前锋,Forward,7,费尔南多-奥弗拉尔,Fernando Ovelar,252857,2026-10-12
+87121,5710899,football,away,5-4-1,starting,后卫,Guard,27,文森特·古兹曼,Vicente Guzman,1315513,2026-10-12
+87120,5710899,football,away,5-4-1,starting,后卫,Guard,14,坎普萨诺,Giovanni Campusano,275812,2026-10-12
+87119,5710899,football,away,5-4-1,starting,后卫,Guard,6,巴勃罗·卡尔德隆,Pablo Calderón,704035,2026-10-12
+87118,5710899,football,away,5-4-1,starting,后卫,Guard,15,巴伦西亚,Sebastian Valencia,231641,2026-10-12
+87117,5710899,football,away,5-4-1,starting,后卫,Guard,5,坎波斯-费利佩,Felipe Manuel Campos Mosqueira,130725,2026-10-12
+87116,5710899,football,away,5-4-1,starting,门将,Goalkeeper,1,尼古拉佩雷斯,Nicola Perez,27324,2026-10-12
+87115,5710899,football,home,3-5-2,injured,中场,,,,,,2026-10-12
+87114,5710899,football,home,3-5-2,starting,主教练,Head Coach,,费尔南多-加戈,Fernando Ruben Gago,12474,2026-10-12
+87113,5710899,football,home,3-5-2,starting,前锋,Forward,11,爱德华多-巴尔加斯,Eduardo Jesus Vargas Rojas,21217,2026-10-12
+87112,5710899,football,home,3-5-2,starting,中场,Midfielder,7,马克西米利亚诺-格雷罗,Maximiliano Guerrero,231635,2026-10-12

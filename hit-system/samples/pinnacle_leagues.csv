@@ -1,0 +1,101 @@
+﻿id,league_id,sport_code,league_name,is_featured,match_count,fetch_date
+1883,224222,basketball,UAE - Dubai IBC,0,2,2026-10-20
+1882,374,basketball,Europe - VTB United League,0,1,2026-10-20
+1881,415,basketball,France - Championnat Pro B,0,7,2026-10-20
+1880,439,basketball,Greece - Elite League,0,3,2026-10-20
+1879,213144,basketball,Iceland - Premier League Women,0,4,2026-10-20
+1878,274,basketball,Argentina - Liga Nacional,0,3,2026-10-20
+1877,277068,basketball,Hong Kong Silver Shield Cup - Women,0,1,2026-10-20
+1876,484,basketball,Lithuania - Cup,0,1,2026-10-20
+1875,217791,basketball,Hong Kong BL,0,1,2026-10-20
+1874,493,basketball,NCAA,1,1,2026-10-20
+1873,216284,basketball,Puerto Rico - Superior Nacional Women,0,5,2026-10-20
+1872,486,basketball,Mexico - Liga Nacional de Baloncesto Profesional,1,3,2026-10-20
+1871,303,basketball,China - CBA,0,6,2026-10-20
+1870,578,basketball,WNBA,1,1,2026-10-20
+1869,216542,basketball,Sweden - Superettan,0,2,2026-10-20
+1868,5251,basketball,Uruguay - Liga,0,2,2026-10-20
+1867,207008,basketball,Colombia - Baloncesto Profesional Colombiano,0,1,2026-10-20
+1866,293,basketball,Brazil - Novo Basquete Brasil,0,4,2026-10-20
+1865,228035,basketball,Philippines - UAAP,0,2,2026-10-20
+1864,548,basketball,Slovenia - 1. SKL,0,2,2026-10-20
+1863,216738,basketball,Switzerland - NLB,0,1,2026-10-20
+1862,210245,basketball,Slovakia - Extraliga Women,0,1,2026-10-20
+1861,210890,basketball,ABA - Liga 2,0,2,2026-10-20
+1860,206484,basketball,Bahrain - Premier League,0,2,2026-10-20
+1859,242092,basketball,Mexico - Liga ABE Women,0,1,2026-10-20
+1858,217271,basketball,Argentina - La Liga Proximo,0,1,2026-10-20
+1857,282,basketball,Australia - WNBL,0,2,2026-10-20
+1856,203908,basketball,Chile - LNB,0,2,2026-10-20
+1855,228036,basketball,Philippines - NCAA,0,1,2026-10-20
+1854,501,basketball,Norway - BLNO,0,2,2026-10-20
+1853,212148,basketball,Argentina - La Liga,0,2,2026-10-20
+1852,5608,basketball,Philippines - PBA Governors Cup,0,2,2026-10-20
+1851,487,basketball,NBA,1,78,2026-10-20
+1850,212805,basketball,Israel - National League,0,1,2026-10-20
+1849,203909,basketball,Hungary - Nemzeti Bajnoksag I.A,0,1,2026-10-20
+1848,377,basketball,Europe - Eurocup,1,5,2026-10-20
+1847,202722,basketball,Estonian - Latvian Basketball League,0,3,2026-10-20
+1846,197844,basketball,Europe - Champions League,1,4,2026-10-20
+1845,210286,basketball,France - Nationale 1,0,8,2026-10-20
+1844,208618,basketball,Lithuania - National Basketball League,0,6,2026-10-20
+1843,482,basketball,Korean - KBL,1,1,2026-10-20
+1842,238265,basketball,Mexico - Liga ABE,0,1,2026-10-20
+1841,408,basketball,Finland - Korisliiga,0,4,2026-10-20
+1840,1891,football,Czech Republic - First Liga,0,8,2026-10-20
+1839,283341,football,England - Southern Premier League Central,0,9,2026-10-20
+1838,1980,football,England - Premier League,1,21,2026-10-20
+1837,6420,football,Thailand - FA Cup,0,4,2026-10-20
+1836,211166,football,Uganda - Premier League,0,1,2026-10-20
+1835,214101,football,UEFA - Conference League,1,19,2026-10-20
+1834,214745,football,England - FA Cup Qualification,0,11,2026-10-20
+1833,2374,football,Poland - Ekstraklasa,0,9,2026-10-20
+1832,10921,football,Colombia - Primera B,0,3,2026-10-20
+1831,2417,football,Scotland - Championship,0,4,2026-10-20
+1830,209758,football,Mexico - Liga de Expansión MX,0,8,2026-10-20
+1829,2578,football,Turkey - 1st League,0,10,2026-10-20
+1828,238234,football,England - National League Cup,0,2,2026-10-20
+1827,1978,football,England - National League,0,12,2026-10-20
+1826,1843,football,Germany - Bundesliga 2,0,9,2026-10-20
+1825,1844,football,Germany - 3. Liga,0,10,2026-10-20
+1824,201290,football,USA - National Womens Soccer League,0,8,2026-10-20
+1823,11697,football,England - Isthmian Premier League,0,8,2026-10-20
+1822,2259,football,Northern Ireland - Premiership,0,5,2026-10-20
+1821,2157,football,Japan - J League,1,10,2026-10-20
+1820,8128,football,Qatar - Stars League,0,4,2026-10-20
+1819,1842,football,Germany - Bundesliga,1,19,2026-10-20
+1818,10030,football,Australia - A League Women,0,5,2026-10-20
+1817,226450,football,Argentina - Liga Pro Reserves,0,6,2026-10-20
+1816,2136,football,Israel - Premier League,0,7,2026-10-20
+1815,10419,football,Saudi Arabia - Pro League,0,7,2026-10-20
+1814,1882,football,Croatia - Cup,0,1,2026-10-20
+1813,2081,football,Greece - Super League,0,7,2026-10-20
+1812,2242,football,Mexico - Liga MX,1,9,2026-10-20
+1811,2331,football,Norway - 1st Division,0,7,2026-10-20
+1810,2196,football,Spain - La Liga,1,21,2026-10-20
+1809,8713,football,England - Women Super League,0,7,2026-10-20
+1808,5593,football,Uruguay - Primera Division,0,9,2026-10-20
+1807,214839,football,Uruguay - Reserve League,0,1,2026-10-20
+1806,1835,football,Brazil - Serie B,0,8,2026-10-20
+1805,5264,football,UEFA - EURO,1,1,2026-10-20
+1804,199710,football,Romania - Liga 2,0,1,2026-10-20
+1803,1958,football,England - League 2,0,12,2026-10-20
+1802,211244,football,Ethiopia - Premier League,0,2,2026-10-20
+1801,2395,football,Romania - Liga 1,0,8,2026-10-20
+1800,2472,football,CONMEBOL - Copa Sudamericana,1,2,2026-10-20
+1799,201165,football,Mexico - Liga MX Women,0,1,2026-10-20
+1798,198316,football,England - Professional Development League U21,0,3,2026-10-20
+1797,202447,football,Belgium - First Amateur Division,0,2,2026-10-20
+1796,2333,football,Norway - Eliteserien,0,8,2026-10-20
+1795,238432,football,AFC - Challenge League,0,5,2026-10-20
+1794,2592,football,Turkey - Super League,0,9,2026-10-20
+1793,9531,football,Costa Rica - Primera Division,0,5,2026-10-20
+1792,1856,football,Chile - Cup,0,1,2026-10-20
+1791,2095,football,Hungary - NB 1,0,5,2026-10-20
+1790,9320,football,Bulgaria - First League,0,7,2026-10-20
+1789,283292,football,England - Southern Premier League South,0,8,2026-10-20
+1788,2102,football,Iceland - Premier League,0,6,2026-10-20
+1787,201377,football,Denmark - Womens Cup,0,1,2026-10-20
+1786,1834,football,Brazil - Serie A,1,10,2026-10-20
+1785,1766,football,Australia - A League,0,6,2026-10-20
+1784,207552,football,Korea Republic - K League 2,0,8,2026-10-20
