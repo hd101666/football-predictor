@@ -1,0 +1,101 @@
+﻿id,season,league_name,team,squad_size,avg_age,total_value,total_value_eur,fetch_date
+9048,2025,Portugal - Primeira Liga,CS Marítimo,30,25.2,€559k,559000.0,2026-09-19
+9047,2025,Portugal - Primeira Liga,Académico Viseu FC,29,26.9,€666k,666000.0,2026-09-19
+9046,2025,Portugal - Primeira Liga,CD Santa Clara,25,24.6,€844k,844000.0,2026-09-19
+9045,2025,Portugal - Primeira Liga,CD Nacional,33,24.2,€650k,650000.0,2026-09-19
+9044,2025,Portugal - Primeira Liga,Moreirense FC,27,23.2,€920k,920000.0,2026-09-19
+9043,2025,Portugal - Primeira Liga,Gil Vicente FC,29,24.6,€891k,891000.0,2026-09-19
+9042,2025,Portugal - Primeira Liga,FC Arouca,27,24.7,€995k,995000.0,2026-09-19
+9041,2025,Portugal - Primeira Liga,CF Estrela Amadora,30,23.6,€899k,899000.0,2026-09-19
+9040,2025,Portugal - Primeira Liga,Casa Pia AC,29,25.8,€984k,984000.0,2026-09-19
+9039,2025,Portugal - Primeira Liga,Rio Ave FC,34,24.5,€1.24m,1240000.0,2026-09-19
+9038,2025,Portugal - Primeira Liga,GD Estoril Praia,29,25.1,€1.54m,1540000.0,2026-09-19
+9037,2025,Portugal - Primeira Liga,FC Alverca,34,23.8,€1.32m,1320000.0,2026-09-19
+9036,2025,Portugal - Primeira Liga,Vitória Guimarães SC,30,23.9,€1.74m,1740000.0,2026-09-19
+9035,2025,Portugal - Primeira Liga,FC Famalicão,26,23.7,€2.37m,2370000.0,2026-09-19
+9034,2025,Portugal - Primeira Liga,SC Braga,27,25.4,€5.57m,5570000.0,2026-09-19
+9033,2025,Portugal - Primeira Liga,SL Benfica,26,24.8,€14.39m,14390000.0,2026-09-19
+9032,2025,Portugal - Primeira Liga,Sporting CP,29,23.6,€13.06m,13060000.0,2026-09-19
+9031,2025,Portugal - Primeira Liga,FC Porto,28,25.5,€16.60m,16600000.000000002,2026-09-19
+9030,2025,Netherlands - Eredivisie,SC Telstar,27,24.0,€322k,322000.0,2026-09-19
+9029,2025,Netherlands - Eredivisie,SC Cambuur Leeuwarden,28,22.7,€493k,493000.0,2026-09-19
+9028,2025,Netherlands - Eredivisie,Fortuna Sittard,23,25.4,€735k,735000.0,2026-09-19
+9027,2025,Netherlands - Eredivisie,Excelsior Rotterdam,25,23.1,€685k,685000.0,2026-09-19
+9026,2025,Netherlands - Eredivisie,ADO Den Haag,29,24.0,€630k,630000.0,2026-09-19
+9025,2025,Netherlands - Eredivisie,Willem II Tilburg,29,24.9,€747k,747000.0,2026-09-19
+9024,2025,Netherlands - Eredivisie,Go Ahead Eagles,29,24.7,€766k,766000.0,2026-09-19
+9023,2025,Netherlands - Eredivisie,PEC Zwolle,26,24.9,€972k,972000.0,2026-09-19
+9022,2025,Netherlands - Eredivisie,Sparta Rotterdam,25,24.9,€1.17m,1170000.0,2026-09-19
+9021,2025,Netherlands - Eredivisie,FC Groningen,29,23.5,€1.19m,1190000.0,2026-09-19
+9020,2025,Netherlands - Eredivisie,NEC Nijmegen,30,25.6,€1.50m,1500000.0,2026-09-19
+9019,2025,Netherlands - Eredivisie,SC Heerenveen,25,23.7,€2.11m,2110000.0,2026-09-19
+9018,2025,Netherlands - Eredivisie,FC Utrecht,31,25.2,€2.05m,2049999.9999999998,2026-09-19
+9017,2025,Netherlands - Eredivisie,FC Twente Enschede,27,25.3,€2.86m,2860000.0,2026-09-19
+9016,2025,Netherlands - Eredivisie,AZ Alkmaar,29,24.6,€4.46m,4460000.0,2026-09-19
+9015,2025,Netherlands - Eredivisie,Feyenoord Rotterdam,31,24.5,€6.80m,6800000.0,2026-09-19
+9014,2025,Netherlands - Eredivisie,Ajax Amsterdam,28,26.3,€8.17m,8170000.0,2026-09-19
+9013,2025,Netherlands - Eredivisie,PSV Eindhoven,31,25.0,€9.18m,9180000.0,2026-09-19
+9012,2025,Turkey - Super Lig,Eyüpspor,28,24.7,€411k,411000.0,2026-09-19
+9011,2025,Turkey - Super Lig,Kocaelispor,29,25.9,€893k,893000.0,2026-09-19
+9010,2025,Turkey - Super Lig,Erzurumspor FK,28,27.2,€960k,960000.0,2026-09-19
+9009,2025,Turkey - Super Lig,Amed SK,28,26.7,€987k,987000.0,2026-09-19
+9008,2025,Turkey - Super Lig,Genclerbirligi Ankara,30,25.3,€962k,962000.0,2026-09-19
+9007,2025,Turkey - Super Lig,Gaziantep FK,33,25.4,€903k,903000.0,2026-09-19
+9006,2025,Turkey - Super Lig,Alanyaspor,27,25.4,€1.18m,1180000.0,2026-09-19
+9005,2025,Turkey - Super Lig,Kasimpasa,32,25.5,€1.13m,1130000.0,2026-09-19
+9004,2025,Turkey - Super Lig,Konyaspor,28,26.3,€1.37m,1370000.0,2026-09-19
+9003,2025,Turkey - Super Lig,Samsunspor,28,24.4,€1.69m,1690000.0,2026-09-19
+9002,2025,Turkey - Super Lig,Caykur Rizespor,29,24.8,€1.66m,1660000.0,2026-09-19
+9001,2025,Turkey - Super Lig,Göztepe,26,25.2,€2.31m,2310000.0,2026-09-19
+9000,2025,Turkey - Super Lig,Corum FK,29,26.6,€2.32m,2320000.0,2026-09-19
+8999,2025,Turkey - Super Lig,Basaksehir FK,31,26.9,€2.44m,2440000.0,2026-09-19
+8998,2025,Turkey - Super Lig,Trabzonspor,30,27.4,€6.19m,6190000.0,2026-09-19
+8997,2025,Turkey - Super Lig,Beşiktaş JK,31,24.7,€8.60m,8600000.0,2026-09-19
+8996,2025,Turkey - Super Lig,Fenerbahce,28,27.9,€10.03m,10030000.0,2026-09-19
+8995,2025,Turkey - Super Lig,Galatasaray,32,25.7,€12.86m,12860000.0,2026-09-19
+8994,2025,England - Championship,Lincoln City,28,26.0,€761k,761000.0,2026-09-19
+8993,2025,England - Championship,Cardiff City,24,25.1,€1.22m,1220000.0,2026-09-19
+8992,2025,England - Championship,Portsmouth FC,34,25.2,€1.01m,1010000.0,2026-09-19
+8991,2025,England - Championship,Blackburn Rovers,25,27.1,€1.38m,1380000.0,2026-09-19
+8990,2025,England - Championship,Bolton Wanderers,26,26.4,€1.46m,1460000.0,2026-09-19
+8989,2025,England - Championship,Charlton Athletic,30,25.9,€1.38m,1380000.0,2026-09-19
+8988,2025,England - Championship,West Bromwich Albion,22,25.5,€2.63m,2630000.0,2026-09-19
+8987,2025,England - Championship,Preston North End,25,26.6,€2.36m,2360000.0,2026-09-19
+8986,2025,England - Championship,Bristol City,27,25.9,€2.29m,2290000.0,2026-09-19
+8985,2025,England - Championship,Queens Park Rangers,27,25.0,€2.55m,2550000.0,2026-09-19
+8984,2025,England - Championship,Derby County,29,28.1,€2.45m,2450000.0,2026-09-19
+8983,2025,England - Championship,Millwall FC,32,25.7,€2.58m,2580000.0,2026-09-19
+8982,2025,England - Championship,Watford FC,29,25.1,€2.86m,2860000.0,2026-09-19
+8981,2025,England - Championship,Wrexham AFC,28,27.7,€3.38m,3380000.0,2026-09-19
+8980,2025,England - Championship,Stoke City,27,26.5,€3.60m,3600000.0,2026-09-19
+8979,2025,England - Championship,Birmingham City,26,26.8,€3.78m,3780000.0,2026-09-19
+8978,2025,England - Championship,Norwich City,31,24.3,€3.33m,3330000.0,2026-09-19
+8977,2025,England - Championship,Swansea City,27,25.9,€4.00m,4000000.0,2026-09-19
+8976,2025,England - Championship,Sheffield United,26,27.2,€4.32m,4320000.0,2026-09-19
+8975,2025,England - Championship,Middlesbrough FC,28,25.9,€4.73m,4730000.0,2026-09-19
+8974,2025,England - Championship,Burnley FC,33,27.1,€4.48m,4480000.0,2026-09-19
+8973,2025,England - Championship,Southampton FC,26,26.5,€5.70m,5700000.0,2026-09-19
+8972,2025,England - Championship,Wolverhampton Wanderers,28,26.8,€8.66m,8660000.0,2026-09-19
+8971,2025,England - Championship,West Ham United,28,25.3,€9.55m,9550000.0,2026-09-19
+8970,2025,France - Ligue 1,Le Mans FC,29,26.7,€950k,950000.0,2026-09-19
+8969,2025,France - Ligue 1,ESTAC Troyes,28,25.1,€1.44m,1440000.0,2026-09-19
+8968,2025,France - Ligue 1,Le Havre AC,27,24.6,€2.29m,2290000.0,2026-09-19
+8967,2025,France - Ligue 1,Angers SCO,22,25.3,€2.91m,2910000.0,2026-09-19
+8966,2025,France - Ligue 1,Stade Brestois 29,23,25.4,€3.03m,3030000.0,2026-09-19
+8965,2025,France - Ligue 1,FC Lorient,25,25.6,€3.60m,3600000.0,2026-09-19
+8964,2025,France - Ligue 1,AJ Auxerre,31,23.3,€2.94m,2940000.0,2026-09-19
+8963,2025,France - Ligue 1,FC Toulouse,24,22.6,€4.62m,4620000.0,2026-09-19
+8962,2025,France - Ligue 1,OGC Nice,29,25.6,€5.02m,5020000.0,2026-09-19
+8961,2025,France - Ligue 1,Paris FC,25,26.2,€6.93m,6930000.0,2026-09-19
+8960,2025,France - Ligue 1,Olympique Marseille,22,27.2,€8.27m,8270000.0,2026-09-19
+8959,2025,France - Ligue 1,RC Lens,29,26.5,€7.01m,7010000.0,2026-09-19
+8958,2025,France - Ligue 1,Stade Rennais FC,25,25.9,€9.09m,9090000.0,2026-09-19
+8957,2025,France - Ligue 1,LOSC Lille,26,25.4,€9.23m,9230000.0,2026-09-19
+8956,2025,France - Ligue 1,Olympique Lyon,29,24.9,€8.92m,8920000.0,2026-09-19
+8955,2025,France - Ligue 1,RC Strasbourg Alsace,29,21.6,€9.91m,9910000.0,2026-09-19
+8954,2025,France - Ligue 1,AS Monaco,26,24.6,€12.10m,12100000.0,2026-09-19
+8953,2025,France - Ligue 1,Paris Saint-Germain,24,24.9,€56.55m,56550000.0,2026-09-19
+8952,2025,Germany - Bundesliga,SC Paderborn 07,32,24.7,€1.51m,1510000.0,2026-09-19
+8951,2025,Germany - Bundesliga,SV 07 Elversberg,27,26.1,€2.15m,2150000.0,2026-09-19
+8950,2025,Germany - Bundesliga,FC Schalke 04,27,27.6,€2.63m,2630000.0,2026-09-19
+8949,2025,Germany - Bundesliga,1.FC Union Berlin,30,27.1,€3.86m,3860000.0,2026-09-19
