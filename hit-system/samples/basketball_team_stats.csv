@@ -1,0 +1,101 @@
+﻿league,team,total_games,total_win,win_rate,offense_eff,defense_eff
+nba,Miami Heat,167.0,79.0,0.4731,115.2335,114.6647
+nba,Washington Wizards,163.0,35.0,0.2147,110.5276,122.6871
+nba,San Antonio Spurs,183.0,107.0,0.5847,116.4699,112.9836
+nba,Toronto Raptors,171.0,79.0,0.462,112.6433,113.4152
+nba,Philadelphia 76ers,175.0,73.0,0.4171,112.1371,115.7657
+nba,Chicago Bulls,164.0,70.0,0.4268,117.0549,120.439
+nba,Golden State Warriors,176.0,90.0,0.5114,113.4432,112.3693
+nba,LA Clippers,171.0,95.0,0.5556,113.117,110.3158
+nba,Sacramento Kings,164.0,62.0,0.378,113.3659,118.128
+nba,Phoenix Suns,168.0,81.0,0.4821,112.9226,114.0833
+nba,Houston Rockets,176.0,109.0,0.6193,113.892,109.358
+nba,Denver Nuggets,184.0,113.0,0.6141,119.8641,116.3533
+nba,Minnesota Timberwolves,191.0,113.0,0.5916,115.0942,111.6649
+nba,Utah Jazz,164.0,39.0,0.2378,114.7378,123.622
+nba,Portland Trail Blazers,169.0,79.0,0.4675,112.7929,114.7456
+nba,Los Angeles Lakers,179.0,108.0,0.6034,113.7542,112.8603
+nba,New Orleans Pelicans,164.0,47.0,0.2866,112.6768,119.6402
+nba,Oklahoma City Thunder,200.0,158.0,0.79,118.96,107.685
+nba,Milwaukee Bucks,168.0,80.0,0.4762,113.006,115.1012
+nba,Detroit Pistons,183.0,112.0,0.612,115.3825,110.8579
+nba,Memphis Grizzlies,166.0,72.0,0.4337,117.759,118.8614
+nba,Dallas Mavericks,163.0,65.0,0.3988,114.184,117.4847
+nba,Boston Celtics,182.0,126.0,0.6923,114.6209,106.6044
+nba,Charlotte Hornets,164.0,63.0,0.3841,110.5549,112.6951
+nba,Brooklyn Nets,164.0,46.0,0.2805,105.5183,114.0671
+nba,New York Knicks,199.0,128.0,0.6432,115.5276,109.8894
+nba,Atlanta Hawks,169.0,88.0,0.5207,117.7811,117.7337
+nba,Orlando Magic,173.0,89.0,0.5145,109.4855,109.6763
+nba,Cleveland Cavaliers,191.0,129.0,0.6754,119.466,113.3455
+nba,Indiana Pacers,185.0,83.0,0.4486,114.7081,117.0486
+cba-china,Zhejiang Lions,38.0,29.0,0.7632,90.4474,81.0
+cba-china,Shanxi Loongs,76.0,49.0,0.6447,103.4737,99.3289
+cba-china,Beijing Royal Fighters,76.0,39.0,0.5132,97.9868,98.1711
+cba-china,Shandong Hi-Speed Kirin,76.0,46.0,0.6053,98.2763,94.6447
+cba-china,Jiangsu Dragons,76.0,17.0,0.2237,87.3816,96.9474
+cba-china,Beijing Ducks,76.0,52.0,0.6842,96.2632,89.1711
+cba-china,Shenzhen New Century Liebao Club,38.0,28.0,0.7368,99.0263,93.3947
+cba-china,Qingdao Eagles,76.0,48.0,0.6316,96.9474,92.5263
+cba-china,Sichuan Blue Whales,76.0,9.0,0.1184,86.5263,104.8289
+cba-china,Guangzhou Loong Lions,76.0,26.0,0.3421,91.8158,97.3684
+cba-china,Tianjin Gold Lions,38.0,12.0,0.3158,92.6579,96.3684
+cba-china,Liaoning Flying Leopards,76.0,44.0,0.5789,95.1184,92.2368
+cba-china,Xinjiang Flying Tigers,76.0,40.0,0.5263,98.1184,94.75
+cba-china,Fujian Sturgeons,76.0,24.0,0.3158,98.8026,104.9079
+cba-china,Guangdong Southern Tigers,76.0,51.0,0.6711,99.25,93.4474
+cba-china,Nanjing Tongxi Monkey Kings,38.0,12.0,0.3158,89.7105,94.6579
+cba-china,Shanghai Sharks,76.0,57.0,0.75,105.2105,93.5
+cba-china,Jilin Northeast Tigers,76.0,24.0,0.3158,92.3026,101.2237
+cba-china,Zhejiang Golden Bulls,76.0,47.0,0.6184,99.8553,93.2105
+cba-china,Ningbo Rockets,76.0,30.0,0.3947,94.4211,99.1579
+cba-china,Nanjing Monkey Kings,38.0,19.0,0.5,107.9211,108.0789
+cba-china,Shenzhen Leopards,38.0,14.0,0.3684,104.5526,107.7368
+cba-china,Zhejiang Guangsha Lions,38.0,33.0,0.8684,104.8421,92.9737
+cba-china,Tianjin Pioneers,38.0,10.0,0.2632,101.8947,109.5
+euroleague,Anadolu Efes,72.0,32.0,0.4444,83.25,83.3472
+euroleague,Maccabi Rapyd Tel Aviv,38.0,18.0,0.4737,90.1316,92.6579
+euroleague,Dubai,38.0,19.0,0.5,88.1316,88.0
+euroleague,Partizan Mozzart Bet,72.0,32.0,0.4444,81.6806,83.5139
+euroleague,Hapoel IBI Tel Aviv,38.0,23.0,0.6053,88.2368,85.3421
+euroleague,Barcelona,72.0,41.0,0.5694,86.3472,84.125
+euroleague,Panathinaikos AKTOR,72.0,44.0,0.6111,87.7639,84.4306
+euroleague,Bayern München,72.0,36.0,0.5,83.8194,85.6111
+euroleague,Crvena zvezda Meridianbet,72.0,39.0,0.5417,85.2917,83.8194
+euroleague,EA7 Emporio Armani Milano,72.0,34.0,0.4722,85.7639,86.9583
+euroleague,Virtus Olidata Bologna,38.0,14.0,0.3684,81.8421,86.4474
+euroleague,Real Madrid,72.0,44.0,0.6111,86.5972,82.9028
+euroleague,Baskonia,72.0,27.0,0.375,85.6111,88.6111
+euroleague,Olympiacos,72.0,50.0,0.6944,88.6667,82.8472
+euroleague,AS Monaco,72.0,43.0,0.5972,88.5278,85.0278
+euroleague,Žalgiris,72.0,38.0,0.5278,82.8056,80.9861
+euroleague,Fenerbahçe Beko,72.0,47.0,0.6528,82.5417,80.8472
+euroleague,Paris Basketball,72.0,34.0,0.4722,88.3611,88.4167
+euroleague,LDLC ASVEL,72.0,21.0,0.2917,80.0417,85.9722
+euroleague,Valencia Basket,38.0,25.0,0.6579,90.8947,86.3158
+euroleague,Panathinaikos B.C.,3.0,2.0,0.6667,80.6667,79.0
+euroleague,AS Monaco Basket,4.0,1.0,0.25,77.5,88.25
+euroleague,Olympiacos B.C.,4.0,4.0,1.0,91.75,74.5
+euroleague,Fenerbahçe S.K.,3.0,1.0,0.3333,76.0,79.3333
+euroleague,Valencia Basket Club,3.0,1.0,0.3333,82.6667,86.6667
+euroleague,Real Madrid Baloncesto,4.0,2.0,0.5,86.25,85.0
+euroleague,ALBA Berlin,34.0,5.0,0.1471,78.6765,91.2941
+euroleague,Maccabi Playtika Tel Aviv,34.0,11.0,0.3235,85.9118,89.7647
+euroleague,Virtus Segafredo Bologna,34.0,9.0,0.2647,79.2059,83.7059
+eurocup,Dreamland Gran Canaria,20.0,14.0,0.7,80.2,76.7
+eurocup,Dolomiti Energia Trento,34.0,15.0,0.4412,77.5882,80.1471
+eurocup,Joventut,36.0,19.0,0.5278,82.4167,83.1944
+eurocup,Hapoel Tel Aviv,21.0,14.0,0.6667,87.8095,79.7619
+eurocup,Beşiktaş Fibabanka,19.0,10.0,0.5263,85.2632,85.0526
+eurocup,Budućnost VOLI,37.0,18.0,0.4865,83.1622,83.1351
+eurocup,Trefl Sopot,18.0,1.0,0.0556,76.3333,86.2222
+eurocup,ratiopharm Ulm,28.0,13.0,0.4643,84.4286,85.2143
+eurocup,Wolves Twinsbet,19.0,10.0,0.5263,85.5263,85.8421
+eurocup,Bahçeşehir Koleji,29.0,17.0,0.5862,81.8966,78.0345
+eurocup,Veolia Towers Hamburg,18.0,6.0,0.3333,78.1111,87.0
+eurocup,Cosea JL Bourg,18.0,9.0,0.5,86.6667,83.1667
+eurocup,Türk Telekom,20.0,11.0,0.55,79.55,80.5
+eurocup,7bet-Lietkabelis,18.0,5.0,0.2778,82.6111,87.9444
+eurocup,U-BT Cluj-Napoca,19.0,11.0,0.5789,89.5789,87.6316
+eurocup,Cedevita Olimpija,36.0,21.0,0.5833,82.6667,80.0556
+eurocup,Hapoel Bank Yahav Jerusalem,19.0,11.0,0.5789,84.2632,78.4211

@@ -1,0 +1,101 @@
+﻿id,match_id,league_code,league_name,season,home_team,away_team,kickoff_utc,home_score,away_score,home_score_ht,away_score_ht,status,fetch_date
+40473,10715839,australia_nbl,Australia - NBL,current,Perth,South East Melbourne,19.09.,79,100,,,finished,2026-10-12
+40472,10715837,australia_nbl,Australia - NBL,current,Melbourne United,Adelaide,19.09.,95,97,,,finished,2026-10-12
+40471,10715841,australia_nbl,Australia - NBL,current,Sydney,Cairns Taipans,20.09.,111,90,,,finished,2026-10-12
+40470,10716101,australia_nbl,Australia - NBL,current,New Zealand Breakers,Illawarra Hawks,20.09.,95,81,,,finished,2026-10-12
+40469,10715843,australia_nbl,Australia - NBL,current,Tasmania JackJumpers,South East Melbourne,21.09.,96,91,,,finished,2026-10-12
+40468,10716103,australia_nbl,Australia - NBL,current,Brisbane Bullets,New Zealand Breakers,22.09.,88,85,,,finished,2026-10-12
+40467,10715845,australia_nbl,Australia - NBL,current,Cairns Taipans,Tasmania JackJumpers,23.09.,93,87,,,finished,2026-10-12
+40466,10715847,australia_nbl,Australia - NBL,current,South East Melbourne,Melbourne United,24.09.,61,86,,,finished,2026-10-12
+40465,10715849,australia_nbl,Australia - NBL,current,Perth,Adelaide,24.09.,98,97,,,finished,2026-10-12
+40464,10715851,australia_nbl,Australia - NBL,current,Brisbane Bullets,Illawarra Hawks,25.09.,103,95,,,finished,2026-10-12
+40463,10716105,australia_nbl,Australia - NBL,current,Perth,New Zealand Breakers,26.09.,97,93,,,finished,2026-10-12
+40462,10715855,australia_nbl,Australia - NBL,current,Sydney,Illawarra Hawks,27.09.,121,100,,,finished,2026-10-12
+40461,10715853,australia_nbl,Australia - NBL,current,Adelaide,Cairns Taipans,27.09.,83,69,,,finished,2026-10-12
+40460,10715857,australia_nbl,Australia - NBL,current,Sydney,Brisbane Bullets,30.09.,93,78,,,finished,2026-10-12
+40459,10716107,australia_nbl,Australia - NBL,current,New Zealand Breakers,Cairns Taipans,30.09.,98,75,,,finished,2026-10-12
+40458,10715859,australia_nbl,Australia - NBL,current,Tasmania JackJumpers,Melbourne United,01.10.,84,82,,,finished,2026-10-12
+40457,10715863,australia_nbl,Australia - NBL,current,Perth,South East Melbourne,02.10.,92,88,,,finished,2026-10-12
+40456,10715861,australia_nbl,Australia - NBL,current,Illawarra Hawks,Adelaide,02.10.,114,92,,,finished,2026-10-12
+40455,10715867,australia_nbl,Australia - NBL,current,Melbourne United,Cairns Taipans,03.10.,95,107,,,finished,2026-10-12
+40454,10715865,australia_nbl,Australia - NBL,current,Brisbane Bullets,Tasmania JackJumpers,03.10.,99,109,,,finished,2026-10-12
+40453,10715869,australia_nbl,Australia - NBL,current,South East Melbourne,Illawarra Hawks,04.10.,113,96,,,finished,2026-10-12
+40452,10716109,australia_nbl,Australia - NBL,current,Adelaide,New Zealand Breakers,04.10.,72,88,,,finished,2026-10-12
+40451,10715871,australia_nbl,Australia - NBL,current,Adelaide,Melbourne United,07.10.,91,96,,,finished,2026-10-12
+40450,10715873,australia_nbl,Australia - NBL,current,Cairns Taipans,Brisbane Bullets,08.10.,97,91,,,finished,2026-10-12
+40449,10715875,australia_nbl,Australia - NBL,current,Illawarra Hawks,Tasmania JackJumpers,09.10.,112,122,,,finished,2026-10-12
+40448,10715877,australia_nbl,Australia - NBL,current,South East Melbourne,Melbourne United,10.10.,99,104,,,finished,2026-10-12
+40447,10716111,australia_nbl,Australia - NBL,current,Perth,New Zealand Breakers,10.10.,100,84,,,finished,2026-10-12
+40446,10715879,australia_nbl,Australia - NBL,current,Sydney,Adelaide,Yesterday,78,84,,,finished,2026-10-12
+40445,10715881,australia_nbl,Australia - NBL,current,Illawarra Hawks,Cairns Taipans,Yesterday,100,110,,,finished,2026-10-12
+40415,11173525,portugal_lpb,Portugal - LPB,current,CA Queluz,FC Porto,02.10.,93,110,,,finished,2026-10-12
+40414,11173527,portugal_lpb,Portugal - LPB,current,Portimonense,Oliveirense,03.10.,82,91,,,finished,2026-10-12
+40413,11173517,portugal_lpb,Portugal - LPB,current,Ovarense,Braga,03.10.,96,83,,,finished,2026-10-12
+40412,11173521,portugal_lpb,Portugal - LPB,current,Esgueira,CD Povoa,03.10.,64,84,,,finished,2026-10-12
+40411,11173519,portugal_lpb,Portugal - LPB,current,CAB Madeira,Vitoria,03.10.,78,83,,,finished,2026-10-12
+40410,11173523,portugal_lpb,Portugal - LPB,current,Benfica,Sporting CP,03.10.,84,71,,,finished,2026-10-12
+40409,11173531,portugal_lpb,Portugal - LPB,current,Vitoria,Ovarense,10.10.,71,87,,,finished,2026-10-12
+40408,11173535,portugal_lpb,Portugal - LPB,current,Sporting CP,Esgueira,10.10.,88,60,,,finished,2026-10-12
+40407,11173533,portugal_lpb,Portugal - LPB,current,CD Povoa,CAB Madeira,10.10.,73,69,,,finished,2026-10-12
+40406,11173537,portugal_lpb,Portugal - LPB,current,FC Porto,Benfica,Yesterday,93,86,,,finished,2026-10-12
+40405,11173529,portugal_lpb,Portugal - LPB,current,Braga,Portimonense,Yesterday,105,71,,,finished,2026-10-12
+40393,11330673,finland_kl,Finland - Korisliiga,current,Salon Vilpas,Honka,29.09.,104,107,,,finished,2026-10-12
+40392,11330675,finland_kl,Finland - Korisliiga,current,KTP Kotka Basket,Bisons Loimaa,29.09.,87,64,,,finished,2026-10-12
+40391,11330671,finland_kl,Finland - Korisliiga,current,Kataja,Helsinki Seagulls,29.09.,102,83,,,finished,2026-10-12
+40390,11330679,finland_kl,Finland - Korisliiga,current,UU-Korihait Uusikaupunki,Pyrinto Tampere,30.09.,89,95,,,finished,2026-10-12
+40389,11330681,finland_kl,Finland - Korisliiga,current,Kouvot Kouvola,Karhu Basket,30.09.,74,77,,,finished,2026-10-12
+40388,11330683,finland_kl,Finland - Korisliiga,current,Helsinki Seagulls,Lahti Basketball,02.10.,76,70,,,finished,2026-10-12
+40387,11330693,finland_kl,Finland - Korisliiga,current,Pyrinto Tampere,Salon Vilpas,03.10.,79,97,,,finished,2026-10-12
+40386,11330685,finland_kl,Finland - Korisliiga,current,Kipina,UU-Korihait Uusikaupunki,03.10.,109,85,,,finished,2026-10-12
+40385,11330691,finland_kl,Finland - Korisliiga,current,Karhu Basket,KTP Kotka Basket,03.10.,78,84,,,finished,2026-10-12
+40384,11330687,finland_kl,Finland - Korisliiga,current,Honka,Kouvot Kouvola,03.10.,99,91,,,finished,2026-10-12
+40383,11330689,finland_kl,Finland - Korisliiga,current,Bisons Loimaa,Kataja,03.10.,71,86,,,finished,2026-10-12
+40382,11330695,finland_kl,Finland - Korisliiga,current,UU-Korihait Uusikaupunki,Helsinki Seagulls,06.10.,88,67,,,finished,2026-10-12
+40381,11330699,finland_kl,Finland - Korisliiga,current,Kouvot Kouvola,Kipina,06.10.,80,89,,,finished,2026-10-12
+40380,11330703,finland_kl,Finland - Korisliiga,current,Karhu Basket,Bisons Loimaa,06.10.,72,73,,,finished,2026-10-12
+40379,11330697,finland_kl,Finland - Korisliiga,current,Honka,Pyrinto Tampere,06.10.,97,96,,,finished,2026-10-12
+40378,11330701,finland_kl,Finland - Korisliiga,current,Lahti Basketball,Kataja,07.10.,91,85,,,finished,2026-10-12
+40377,11330709,finland_kl,Finland - Korisliiga,current,KTP Kotka Basket,Pyrinto Tampere,09.10.,88,72,,,finished,2026-10-12
+40376,11330707,finland_kl,Finland - Korisliiga,current,Helsinki Seagulls,Bisons Loimaa,09.10.,84,56,,,finished,2026-10-12
+40375,11330715,finland_kl,Finland - Korisliiga,current,Salon Vilpas,UU-Korihait Uusikaupunki,10.10.,95,73,,,finished,2026-10-12
+40374,11330713,finland_kl,Finland - Korisliiga,current,Kipina,Karhu Basket,10.10.,98,95,,,finished,2026-10-12
+40373,11330711,finland_kl,Finland - Korisliiga,current,Kataja,Honka,10.10.,99,108,,,finished,2026-10-12
+40351,11030211,czech_nbl,Czech Republic - NBL,current,Plzen,Decin,17.09.,79,109,,,finished,2026-10-12
+40350,11030213,czech_nbl,Czech Republic - NBL,current,USK Prague,Slavia Prague ERA NBK,19.09.,80,88,,,finished,2026-10-12
+40349,11030217,czech_nbl,Czech Republic - NBL,current,Pardubice,Brno,19.09.,85,79,,,finished,2026-10-12
+40348,11030215,czech_nbl,Czech Republic - NBL,current,Opava,NH Ostrava,19.09.,77,89,,,finished,2026-10-12
+40347,11030219,czech_nbl,Czech Republic - NBL,current,Usti n. Labem,Srsni Pisek,20.09.,78,80,,,finished,2026-10-12
+40346,11030221,czech_nbl,Czech Republic - NBL,current,Olomoucko,Hradec Kralove,20.09.,81,93,,,finished,2026-10-12
+40345,11030233,czech_nbl,Czech Republic - NBL,current,Usti n. Labem,Plzen,23.09.,115,74,,,finished,2026-10-12
+40344,11030223,czech_nbl,Czech Republic - NBL,current,Srsni Pisek,Hradec Kralove,23.09.,111,87,,,finished,2026-10-12
+40343,11030229,czech_nbl,Czech Republic - NBL,current,Slavia Prague ERA NBK,Opava,23.09.,114,81,,,finished,2026-10-12
+40342,11030227,czech_nbl,Czech Republic - NBL,current,NH Ostrava,Brno,23.09.,85,76,,,finished,2026-10-12
+40341,11030231,czech_nbl,Czech Republic - NBL,current,Decin,USK Prague,23.09.,74,57,,,finished,2026-10-12
+40340,11030225,czech_nbl,Czech Republic - NBL,current,Olomoucko,Pardubice,23.09.,54,100,,,finished,2026-10-12
+40339,11030235,czech_nbl,Czech Republic - NBL,current,USK Prague,Usti n. Labem,26.09.,80,89,,,finished,2026-10-12
+40338,11030237,czech_nbl,Czech Republic - NBL,current,Opava,Decin,26.09.,83,76,,,finished,2026-10-12
+40337,11030241,czech_nbl,Czech Republic - NBL,current,Hradec Kralove,Pardubice,26.09.,78,88,,,finished,2026-10-12
+40336,11030239,czech_nbl,Czech Republic - NBL,current,Brno,Slavia Prague ERA NBK,26.09.,96,108,,,finished,2026-10-12
+40335,11030243,czech_nbl,Czech Republic - NBL,current,Plzen,Srsni Pisek,27.09.,81,88,,,finished,2026-10-12
+40334,11030245,czech_nbl,Czech Republic - NBL,current,Olomoucko,NH Ostrava,27.09.,77,76,,,finished,2026-10-12
+40333,11030255,czech_nbl,Czech Republic - NBL,current,Usti n. Labem,Opava,30.09.,86,76,,,finished,2026-10-12
+40332,11030247,czech_nbl,Czech Republic - NBL,current,Srsni Pisek,Pardubice,30.09.,82,92,,,finished,2026-10-12
+40331,11030251,czech_nbl,Czech Republic - NBL,current,Slavia Prague ERA NBK,Olomoucko,30.09.,88,62,,,finished,2026-10-12
+40330,11030257,czech_nbl,Czech Republic - NBL,current,Plzen,USK Prague,30.09.,81,84,,,finished,2026-10-12
+40329,11030249,czech_nbl,Czech Republic - NBL,current,NH Ostrava,Hradec Kralove,30.09.,89,82,,,finished,2026-10-12
+40328,11030253,czech_nbl,Czech Republic - NBL,current,Decin,Brno,30.09.,86,78,,,finished,2026-10-12
+40327,11030259,czech_nbl,Czech Republic - NBL,current,USK Prague,Srsni Pisek,03.10.,105,89,,,finished,2026-10-12
+40326,11030265,czech_nbl,Czech Republic - NBL,current,Pardubice,NH Ostrava,03.10.,110,98,,,finished,2026-10-12
+40325,11030261,czech_nbl,Czech Republic - NBL,current,Opava,Plzen,03.10.,92,82,,,finished,2026-10-12
+40324,11030263,czech_nbl,Czech Republic - NBL,current,Hradec Kralove,Slavia Prague ERA NBK,03.10.,75,101,,,finished,2026-10-12
+40323,11030267,czech_nbl,Czech Republic - NBL,current,Usti n. Labem,Brno,04.10.,83,68,,,finished,2026-10-12
+40322,11030269,czech_nbl,Czech Republic - NBL,current,Olomoucko,Decin,04.10.,51,76,,,finished,2026-10-12
+40321,11030275,czech_nbl,Czech Republic - NBL,current,USK Prague,Opava,10.10.,88,97,,,finished,2026-10-12
+40320,11030271,czech_nbl,Czech Republic - NBL,current,Slavia Prague ERA NBK,Pardubice,10.10.,105,60,,,finished,2026-10-12
+40319,11030273,czech_nbl,Czech Republic - NBL,current,Hradec Kralove,Decin,10.10.,99,93,,,finished,2026-10-12
+40318,11030279,czech_nbl,Czech Republic - NBL,current,Usti n. Labem,Olomoucko,Yesterday,102,66,,,finished,2026-10-12
+40317,11030277,czech_nbl,Czech Republic - NBL,current,Srsni Pisek,NH Ostrava,Yesterday,,,,,scheduled,2026-10-12
+40316,11030281,czech_nbl,Czech Republic - NBL,current,Plzen,Brno,Yesterday,69,83,,,finished,2026-10-12
+40279,11358071,lkl,Lithuania - LKL,current,Gargzdai,Zalgiris Kaunas,17.09.,77,98,,,finished,2026-10-12
+40278,11358075,lkl,Lithuania - LKL,current,Taurage,Jonava,19.09.,95,90,,,finished,2026-10-12
+40277,11358073,lkl,Lithuania - LKL,current,Lietkabelis,Juventus,19.09.,84,82,,,finished,2026-10-12

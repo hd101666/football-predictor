@@ -1,0 +1,32 @@
+﻿id,unified_id,sport_code,league_name,home_team,away_team,kickoff_utc,market,outcome,handicap,best_odds,model_prob,kelly_fraction,hit_score,status,profit_loss,fetch_date,created_at
+66,72150983abc2,basketball,WNBA,Toronto Tempo,Indiana Fever,2026-09-18T23:30:00Z,total,over,187.5,1.9229,0.5972,0.035,0.7993,win,0.9229,2026-09-18,2026-09-18T21:52:51
+65,756b24e47da5,basketball,WNBA,Minnesota Lynx,New York Liberty,2026-09-18T23:30:00Z,total,over,176.5,1.8629,0.5321,0.0076,0.8128,lose,-1.0,2026-09-18,2026-09-18T21:52:51
+64,681047daa9dd,basketball,Mexico - Liga Nacional de Baloncesto Profesional,Panteras de Aguascalientes,Astros de Jalisco,2026-09-18T02:30:00Z,total,over,174.0,1.8696,0.5739,0.0103,0.6832,win,0.8696,2026-09-17,2026-09-18T01:44:34
+63,fa672b70ef94,basketball,Mexico - Liga Nacional de Baloncesto Profesional,Panteras de Aguascalientes,Astros de Jalisco,2026-09-17T02:30:00Z,total,over,172.0,1.8065,0.548,0.0059,0.6893,win,0.8065,2026-09-16,2026-09-16T13:03:58
+62,f12d7c459d81,basketball,Mexico - Liga Nacional de Baloncesto Profesional,Correcaminos UAT Victoria,Dorados de Chihuahua,2026-09-12T01:15:00Z,total,over,177.5,1.8403,0.6105,0.0319,0.6718,lose,-1.0,2026-09-11,2026-09-13T03:05:12
+61,1edb451d827a,basketball,Mexico - Liga Nacional de Baloncesto Profesional,El Calor de Cancun,Panteras de Aguascalientes,2026-09-12T01:15:00Z,total,over,173.0,1.8621,0.5629,0.0074,0.6864,win,0.8621,2026-09-11,2026-09-13T03:05:12
+60,6a715fa690bd,basketball,Mexico - Liga Nacional de Baloncesto Profesional,Santos del Potosi,Fuerza Regia de Monterrey,2026-09-12T02:00:00Z,total,over,174.0,1.7752,0.5627,0.0182,0.6865,win,0.7752,2026-09-11,2026-09-13T03:05:12
+39,72120ffd6bf4,basketball,World - Club Friendlies,Fenerbahce,Tofas SK,2026-09-01T16:00:00Z,total,over,164.5,1.8333,0.5525,0.0039,0.589,pending,,2026-09-01,2026-09-01T11:42:13
+38,75795c6a4217,basketball,Mexico - Liga Nacional de Baloncesto Profesional,Dorados de Chihuahua,Mineros Zacatecas,2026-08-30T22:00:00Z,total,over,172.5,1.8547,0.557,0.003,0.6881,lose,-1.0,2026-08-30,2026-08-31T01:21:41
+37,65a1fe422211,basketball,WNBA,Seattle Storm,Toronto Tempo,2026-08-27T02:00:00Z,total,over,177.5,1.9709,0.5508,0.0018,0.6698,lose,-1.0,2026-08-26,2026-08-27T10:06:39
+35,3bbdd63e4859,basketball,Mexico - Liga Nacional de Baloncesto Profesional,Mineros Zacatecas,Panteras de Aguascalientes,2026-08-26T02:05:00Z,total,over,172.5,1.8403,0.5698,0.0123,0.6844,win,0.8403,2026-08-25,2026-08-25T19:06:41
+34,41f36a701f1f,basketball,Mexico - Liga Nacional de Baloncesto Profesional,Gambusinos de Fresnillo,Freseros de Irapuato,2026-08-26T02:00:00Z,total,over,171.5,1.8403,0.5591,0.0064,0.6875,lose,-1.0,2026-08-25,2026-08-25T19:06:41
+33,bed4a478816a,basketball,Mexico - Liga Nacional de Baloncesto Profesional,Abejas de Leon,Diablos Rojos,2026-08-26T02:00:00Z,total,over,171.5,1.8403,0.5591,0.0064,0.6875,lose,-1.0,2026-08-25,2026-08-25T19:06:41
+28,ea668c056ada,basketball,WNBA,Los Angeles Sparks,Atlanta Dream,2026-08-25T02:00:00Z,total,over,183.0,1.9091,0.5517,0.0102,0.7444,win,0.9091,2026-08-24,2026-08-24T17:51:04
+26,4c55169483ca,basketball,WNBA,Chicago Sky,New York Liberty,2026-08-19T01:00:00Z,total,over,181.5,1.9434,0.5547,0.0062,0.6687,lose,-1.0,2026-08-18,2026-08-18T13:53:05
+24,539ed0c30369,basketball,WNBA,Phoenix Mercury,Portland Fire,2026-08-16T23:00:00Z,total,over,176.5,1.9524,0.5542,0.0048,0.7435,lose,-1.0,2026-08-16,2026-08-16T18:57:07
+23,477c027cab99,basketball,WNBA,Atlanta Dream,Indiana Fever,2026-08-16T21:00:00Z,total,over,188.5,1.9418,0.5777,0.0209,0.8081,lose,-1.0,2026-08-16,2026-08-16T18:57:07
+22,e8c0d0d3bf3a,basketball,WNBA,Seattle Storm,Chicago Sky,2026-08-16T21:00:00Z,total,over,178.5,1.901,0.5473,0.0112,0.8189,lose,-1.0,2026-08-16,2026-08-16T18:57:07
+21,aa13d17fde6a,basketball,WNBA,New York Liberty,Los Angeles Sparks,2026-08-14T00:00:00Z,total,over,188.5,1.9524,0.6055,0.034,0.7246,lose,-1.0,2026-08-13,2026-08-13T14:57:22
+20,f8e1a4241274,basketball,WNBA,Dallas Wings,Toronto Tempo,2026-08-13T00:00:00Z,total,over,185.5,1.8929,0.5818,0.0284,0.7336,lose,-1.0,2026-08-12,2026-08-12T22:29:20
+19,d0af35869b0e,basketball,WNBA,Portland Fire,Minnesota Lynx,2026-08-13T02:00:00Z,total,over,186.0,1.8929,0.5706,0.0224,0.7377,lose,-1.0,2026-08-12,2026-08-12T22:29:20
+18,41d7259b67b5,basketball,WNBA,Indiana Fever,New York Liberty,2026-08-11T23:30:00Z,total,over,191.5,1.9259,0.6105,0.0397,0.7227,win,0.9259,2026-08-11,2026-08-11T20:42:35
+17,19f7e8a1ff85,basketball,WNBA,Los Angeles Sparks,Phoenix Mercury,2026-08-12T02:00:00Z,total,over,177.5,1.9009,0.5504,0.0106,0.7449,win,0.9009,2026-08-11,2026-08-11T20:42:35
+15,c18993cee198,basketball,Mexico - Liga Nacional de Baloncesto Profesional,Diablos Rojos,Fuerza Regia de Monterrey,2026-08-11T02:15:00Z,total,over,169.0,1.8333,0.556,0.0058,0.6884,lose,-1.0,2026-08-10,2026-08-10T16:16:53
+14,fc636fa55645,basketball,WNBA,Atlanta Dream,Toronto Tempo,2026-08-11T00:00:00Z,total,over,186.5,1.8621,0.5768,0.0299,0.7355,win,0.8621,2026-08-10,2026-08-10T16:16:53
+13,a576b50004b2,basketball,WNBA,Seattle Storm,Chicago Sky,2026-08-11T02:00:00Z,total,over,180.5,1.885,0.5649,0.0205,0.7398,win,0.885,2026-08-10,2026-08-10T16:16:53
+12,871dd31a6292,basketball,WNBA,New York Liberty,Las Vegas Aces,2026-08-09T16:30:00Z,total,over,179.5,1.8403,0.543,0.0146,0.7422,win,0.8403,2026-08-09,2026-08-09T22:11:33
+11,51e232186656,basketball,WNBA,Minnesota Lynx,Las Vegas Aces,2026-08-08T17:00:00Z,total,over,183.0,1.8772,0.5517,0.0135,0.7444,lose,-1.0,2026-08-08,2026-08-08T23:58:27
+10,de75cbf6f632,basketball,WNBA,Chicago Sky,Indiana Fever,2026-08-08T19:30:00Z,total,over,191.5,1.9184,0.5775,0.0245,0.8081,lose,-1.0,2026-08-08,2026-08-08T23:58:27
+8,7007b26c1287,basketball,WNBA,Minnesota Lynx,Indiana Fever,2026-08-02T17:00:00Z,total,over,192.0,1.9259,0.5975,0.0327,0.7277,win,0.9259,2026-08-02,2026-08-02T23:47:01
+7,f080c76fc91a,basketball,WNBA,Portland Fire,Los Angeles Sparks,2026-08-02T19:30:00Z,total,over,184.5,1.9091,0.569,0.0194,0.7383,win,0.9091,2026-08-02,2026-08-02T23:47:01

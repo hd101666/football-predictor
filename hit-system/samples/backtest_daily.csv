@@ -1,0 +1,4 @@
+﻿id,test_date,total_recs,matched,hit_count,miss_count,hit_rate,total_profit,roi,by_league_json,by_market_json,by_score_band_json,by_odds_band_json,created_at
+3,2026-07-20,1,0,0,0,0.0,0.0,0.0,{},{},{},{},2026-07-24 03:53:11
+2,2026-05-29,699,0,0,0,0.0,0.0,0.0,{},{},{},{},2026-05-30 09:46:04
+1,all,3544,0,0,0,0.0,0.0,0.0,{},{},{},{},2026-05-30 09:44:58

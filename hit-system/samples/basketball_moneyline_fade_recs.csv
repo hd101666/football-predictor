@@ -1,0 +1,32 @@
+﻿id,unified_id,sport_code,league_name,home_team,away_team,kickoff_utc,market,outcome,handicap,best_odds,model_prob,kelly_fraction,hit_score,status,profit_loss,fetch_date,created_at
+57,ae69649315ad,basketball,World - Club Friendlies,National Formosa University,Leeming Institute Of Technology,2026-09-20T09:10:00Z,moneyline,away,,1.7576,0.5577,0.0189,0.5877,pending,,2026-09-20,2026-09-20T15:31:02
+56,f039f609a1da,basketball,Spain - Super Copa,Valencia BC,Barcelona,2026-09-19T19:00:00Z,moneyline,away,,1.9615,0.5967,0.0272,0.5777,pending,,2026-09-19,2026-09-19T15:37:19
+55,f8d34b35ddf4,basketball,瑞典篮球超甲级联赛,马尔巴斯,埃斯基尔斯蒂纳,2026-09-19T14:00:00,moneyline,away,,1.8,0.5296,0.0003,0.5824,pending,,2026-09-19,2026-09-19T15:37:19
+53,c5317195728e,basketball,WNBA,Chicago Sky,Washington Mystics,2026-09-18T00:00:00Z,moneyline,away,,1.8027,0.5857,0.051,0.8045,win,0.8027,2026-09-17,2026-09-18T01:44:34
+52,58cc421bbb66,basketball,Puerto Rico - Superior Nacional Women,Leonas De Ponce,Monarcas Juana Diaz,2026-09-13T23:00:00Z,moneyline,away,,1.8333,0.5975,0.0286,0.5775,pending,,2026-09-13,2026-09-14T01:25:48
+50,c35ccf4a5d4c,basketball,荷兰篮球超级杯,兰德斯特德,多纳尔高宁根,2026-09-12T14:00:00,moneyline,away,,1.77,0.551,0.0171,0.5894,pending,,2026-09-12,2026-09-12T03:18:22
+49,320c9cfe04d2,basketball,篮球友谊赛,圣洛伦索,科尔多瓦学院,2026-09-12T01:00:00,moneyline,away,,3.0768,0.551,0.0294,0.6553,pending,,2026-09-12,2026-09-12T03:18:22
+48,91fd9e8fe88d,basketball,World - Club Friendlies,River Andorra,Assignia Manresa,2026-09-09T19:00:00Z,moneyline,away,,1.8696,0.5577,0.0001,0.5877,pending,,2026-09-09,2026-09-09T10:54:19
+47,cdc7cc78c504,basketball,FIBA - World Cup Women,Hungary,Japan,2026-09-08T15:45:00Z,moneyline,away,,1.8065,0.6346,0.0756,0.567,pending,,2026-09-08,2026-09-08T22:59:28
+46,85941c8d1361,basketball,Brazil - Campeonato Paulista,Paulistano,Bauru Basket SP,2026-09-04T22:30:00Z,moneyline,away,,1.7576,0.5556,0.0278,0.5883,pending,,2026-09-04,2026-09-04T13:12:05
+45,c6fa3770792d,basketball,FIBA 女子篮球世界杯 -  比赛配对(最终排名),德国(女),中国(女),2026-09-04T09:30:00,moneyline,away,,1.82,0.5524,0.0095,0.589,pending,,2026-09-04,2026-09-04T13:12:05
+44,b073815a3afc,basketball,WNBA,Seattle Storm,Los Angeles Sparks,2026-08-30T21:00:00Z,moneyline,away,,1.8333,0.6115,0.0586,0.6519,win,0.8333,2026-08-30,2026-08-31T01:21:41
+43,d6f56de38a25,basketball,WNBA,Atlanta Dream,Minnesota Lynx,2026-08-30T19:00:00Z,moneyline,away,,1.7752,0.5281,0.0248,0.6612,lose,-1.0,2026-08-30,2026-08-31T01:21:41
+42,30154cb8239b,basketball,Mexico - Liga Nacional de Baloncesto Profesional,Gambusinos de Fresnillo,Lobos Plateados,2026-08-30T02:00:00Z,moneyline,away,,1.7634,0.5587,0.0183,0.6876,win,0.7634,2026-08-29,2026-08-30T00:00:00
+39,260802d27e6c,basketball,越南篮球联赛,西贡热火,胡志明市羽翼,2026-08-23T12:30:00,moneyline,away,,1.76,0.5643,0.0227,0.5861,pending,,2026-08-23,2026-08-23T17:14:56
+36,a77dc7004570,basketball,International Friendlies,Serbia,France,2026-08-20T18:00:00Z,moneyline,away,,1.8403,0.597,0.0374,0.5777,pending,,2026-08-20,2026-08-20T18:48:48
+32,da17a9efb994,basketball,WNBA,Connecticut Sun,Los Angeles Sparks,2026-08-18T23:00:00Z,moneyline,away,,1.7812,0.7072,0.1071,0.6177,lose,-1.0,2026-08-18,2026-08-18T13:53:05
+30,e8c0d0d3bf3a,basketball,WNBA,Seattle Storm,Chicago Sky,2026-08-16T21:00:00Z,moneyline,away,,1.7663,0.6305,0.0751,0.7836,win,0.7663,2026-08-16,2026-08-16T18:57:07
+29,477c027cab99,basketball,WNBA,Atlanta Dream,Indiana Fever,2026-08-16T21:00:00Z,moneyline,away,,2.0558,0.6131,0.0342,0.7919,win,1.0558,2026-08-16,2026-08-16T18:57:07
+28,50477ec38993,basketball,Brazil - Campeonato Paulista,Corinthians Paulista,Franca Basquetbol Clube,2026-08-15T19:00:00Z,moneyline,home,,1.8621,0.5566,0.0017,0.588,pending,,2026-08-15,2026-08-16T00:28:03
+27,f8abfc7b238f,basketball,Mexico - Liga Nacional de Baloncesto Profesional,Gambusinos de Fresnillo,Diablos Rojos,2026-08-16T02:00:00Z,moneyline,home,,1.7576,0.5245,0.0015,0.6796,win,0.7576,2026-08-15,2026-08-16T00:28:03
+25,19f7e8a1ff85,basketball,WNBA,Los Angeles Sparks,Phoenix Mercury,2026-08-12T02:00:00Z,moneyline,away,,2.0049,0.5423,0.0023,0.8169,win,1.0049,2026-08-11,2026-08-11T20:42:35
+24,bed1812273b7,basketball,卢旺达女子篮球联赛,胡普斯(女),开普勒(女),2026-08-10T12:00:00,moneyline,away,,1.78,0.5659,0.0058,0.5857,pending,,2026-08-10,2026-08-10T16:16:53
+23,ce37964014a7,basketball,Rwanda - National League Women,The Hoops BBC,Kepler,2026-08-10T12:00:00Z,moneyline,away,,1.8197,0.5657,0.0024,0.5858,pending,,2026-08-10,2026-08-10T16:16:53
+22,a576b50004b2,basketball,WNBA,Seattle Storm,Chicago Sky,2026-08-11T02:00:00Z,moneyline,away,,1.9921,0.6382,0.0546,0.7798,lose,-1.0,2026-08-10,2026-08-10T16:16:53
+21,1d7caaebe67d,basketball,WNBA,Washington Mystics,Phoenix Mercury,2026-08-09T19:00:00Z,moneyline,home,,1.7524,0.5443,0.0368,0.8177,win,0.7524,2026-08-09,2026-08-09T22:11:33
+18,7bf8b9fe4347,basketball,New Zealand - NBL,Southland Sharks,Wellington Saints,2026-08-09T03:00:00Z,moneyline,away,,1.8065,0.548,0.0161,0.5889,lose,-1.0,2026-08-08,2026-08-08T23:58:27
+17,097a9cd31286,basketball,WNBA,Portland Fire,Seattle Storm,2026-08-09T00:30:00Z,moneyline,home,,1.7902,0.5044,0.0072,0.8018,win,0.7902,2026-08-08,2026-08-08T23:58:27
+14,bcf16440ee62,basketball,WNBA,Dallas Wings,Golden State Valkyries,2026-08-08T01:30:00Z,moneyline,home,,1.8062,0.51,0.0075,0.804,lose,-1.0,2026-08-07,2026-08-07T19:29:37
+11,f080c76fc91a,basketball,WNBA,Portland Fire,Los Angeles Sparks,2026-08-02T19:30:00Z,moneyline,away,,1.8176,0.5491,0.0247,0.8196,win,0.8176,2026-08-02,2026-08-02T23:47:01
+1,8481dc1ccdc5,basketball,Lebanon - Lebanese Basketball League,Sagesse,Al Riyadi,2026-08-01T18:30:00Z,moneyline,home,,1.625,0.5007,0.0117,0.5722,win,0.625,2026-08-01,2026-08-01T21:17:19
