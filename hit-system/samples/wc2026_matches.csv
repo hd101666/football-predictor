@@ -1,0 +1,71 @@
+﻿match_id,group_id,home_team,away_team,kickoff_bj,utc_offset,venue,status,home_score,away_score,ht_home,ht_away,competition,updated_at
+wc2026_0001,A,Mexico,South Africa,2026-06-12 03:00,UTC-6,Mexico City,FT,2,0,1,0,FIFA World Cup 2026,2026-06-26T17:35:07
+wc2026_0002,A,South Korea,Czech Republic,2026-06-12 10:00,UTC-6,Guadalajara (Zapopan),FT,2,1,0,0,FIFA World Cup 2026,2026-06-26T17:35:07
+wc2026_0003,A,Czech Republic,South Africa,2026-06-19 00:00,UTC-4,Atlanta,FT,1,1,,,FIFA World Cup 2026,2026-06-26T17:35:07
+wc2026_0004,A,Mexico,South Korea,2026-06-19 09:00,UTC-6,Guadalajara (Zapopan),FT,1,0,,,FIFA World Cup 2026,2026-06-26T17:35:07
+wc2026_0005,A,Czech Republic,Mexico,2026-06-25 09:00,UTC-6,Mexico City,FT,0,3,,,FIFA World Cup 2026,2026-06-26T17:35:07
+wc2026_0006,A,South Africa,South Korea,2026-06-25 09:00,UTC-6,Monterrey (Guadalupe),FT,1,0,,,FIFA World Cup 2026,2026-06-26T17:35:07
+wc2026_0007,B,Canada,Bosnia & Herzegovina,2026-06-13 03:00,UTC-4,Toronto,FT,1,1,,,FIFA World Cup 2026,2026-06-26T17:35:07
+wc2026_0008,B,Qatar,Switzerland,2026-06-14 03:00,UTC-7,San Francisco Bay Area (Santa Clara),FT,1,1,,,FIFA World Cup 2026,2026-06-26T17:35:07
+wc2026_0009,B,Switzerland,Bosnia & Herzegovina,2026-06-19 03:00,UTC-7,Los Angeles (Inglewood),FT,4,1,,,FIFA World Cup 2026,2026-06-26T17:35:07
+wc2026_0010,B,Canada,Qatar,2026-06-19 06:00,UTC-7,Vancouver,FT,6,0,,,FIFA World Cup 2026,2026-06-26T17:35:07
+wc2026_0011,B,Switzerland,Canada,2026-06-25 03:00,UTC-7,Vancouver,FT,2,1,,,FIFA World Cup 2026,2026-06-26T17:35:07
+wc2026_0012,B,Bosnia & Herzegovina,Qatar,2026-06-25 03:00,UTC-7,Seattle,FT,3,1,,,FIFA World Cup 2026,2026-06-26T17:35:07
+wc2026_0013,C,Brazil,Morocco,2026-06-14 06:00,UTC-4,New York/New Jersey (East Rutherford),FT,1,1,,,FIFA World Cup 2026,2026-06-26T17:35:07
+wc2026_0014,C,Haiti,Scotland,2026-06-14 09:00,UTC-4,Boston (Foxborough),FT,0,1,,,FIFA World Cup 2026,2026-06-26T17:35:07
+wc2026_0015,C,Scotland,Morocco,2026-06-20 06:00,UTC-4,Boston (Foxborough),FT,0,1,,,FIFA World Cup 2026,2026-06-26T17:35:07
+wc2026_0016,C,Brazil,Haiti,2026-06-20 08:30,UTC-4,Philadelphia,FT,3,0,,,FIFA World Cup 2026,2026-06-26T17:35:07
+wc2026_0017,C,Scotland,Brazil,2026-06-25 06:00,UTC-4,Miami (Miami Gardens),FT,0,3,,,FIFA World Cup 2026,2026-06-26T17:35:07
+wc2026_0018,C,Morocco,Haiti,2026-06-25 06:00,UTC-4,Atlanta,FT,4,2,,,FIFA World Cup 2026,2026-06-26T17:35:07
+wc2026_0019,D,USA,Paraguay,2026-06-13 09:00,UTC-7,Los Angeles (Inglewood),FT,4,1,,,FIFA World Cup 2026,2026-06-26T17:35:07
+wc2026_0020,D,Australia,Turkey,2026-06-14 12:00,UTC-7,Vancouver,FT,2,0,,,FIFA World Cup 2026,2026-06-26T17:35:07
+wc2026_0021,D,USA,Australia,2026-06-20 03:00,UTC-7,Seattle,FT,2,0,,,FIFA World Cup 2026,2026-06-26T17:35:07
+wc2026_0022,D,Turkey,Paraguay,2026-06-20 11:00,UTC-7,San Francisco Bay Area (Santa Clara),FT,0,1,,,FIFA World Cup 2026,2026-06-26T17:35:07
+wc2026_0023,D,Turkey,USA,2026-06-26 10:00,UTC-7,Los Angeles (Inglewood),FT,3,2,,,FIFA World Cup 2026,2026-06-26T17:35:07
+wc2026_0024,D,Paraguay,Australia,2026-06-26 10:00,UTC-7,San Francisco Bay Area (Santa Clara),FT,0,0,,,FIFA World Cup 2026,2026-06-26T17:35:07
+wc2026_0026,E,Ivory Coast,Ecuador,2026-06-15 07:00,UTC-4,Philadelphia,FT,1,0,,,FIFA World Cup 2026,2026-06-26T17:35:07
+wc2026_0027,E,Germany,Ivory Coast,2026-06-21 04:00,UTC-4,Toronto,FT,2,1,,,FIFA World Cup 2026,2026-06-26T17:35:07
+wc2026_0028,E,Ecuador,Curaçao,2026-06-21 08:00,UTC-5,Kansas City,FT,0,0,,,FIFA World Cup 2026,2026-06-26T17:35:07
+wc2026_0029,E,Curaçao,Ivory Coast,2026-06-26 04:00,UTC-4,Philadelphia,FT,0,2,,,FIFA World Cup 2026,2026-06-26T17:35:07
+wc2026_0030,E,Ecuador,Germany,2026-06-26 04:00,UTC-4,New York/New Jersey (East Rutherford),FT,2,1,,,FIFA World Cup 2026,2026-06-26T17:35:07
+wc2026_0031,F,Netherlands,Japan,2026-06-15 04:00,UTC-5,Dallas (Arlington),FT,2,2,,,FIFA World Cup 2026,2026-06-26T17:35:07
+wc2026_0032,F,Sweden,Tunisia,2026-06-15 10:00,UTC-6,Monterrey (Guadalupe),FT,5,1,,,FIFA World Cup 2026,2026-06-26T17:35:07
+wc2026_0033,F,Netherlands,Sweden,2026-06-21 01:00,UTC-5,Houston,FT,5,1,,,FIFA World Cup 2026,2026-06-26T17:35:07
+wc2026_0034,F,Tunisia,Japan,2026-06-21 12:00,UTC-6,Monterrey (Guadalupe),FT,0,4,,,FIFA World Cup 2026,2026-06-26T17:35:07
+wc2026_0035,F,Japan,Sweden,2026-06-26 07:00,UTC-5,Dallas (Arlington),FT,1,1,,,FIFA World Cup 2026,2026-06-26T17:35:07
+wc2026_0036,F,Tunisia,Netherlands,2026-06-26 07:00,UTC-5,Kansas City,FT,1,3,,,FIFA World Cup 2026,2026-06-26T17:35:07
+wc2026_0037,G,Belgium,Egypt,2026-06-16 03:00,UTC-7,Seattle,FT,1,1,,,FIFA World Cup 2026,2026-06-26T17:35:07
+wc2026_0038,G,Iran,New Zealand,2026-06-16 09:00,UTC-7,Los Angeles (Inglewood),FT,2,2,,,FIFA World Cup 2026,2026-06-26T17:35:07
+wc2026_0039,G,Belgium,Iran,2026-06-22 03:00,UTC-7,Los Angeles (Inglewood),FT,0,0,,,FIFA World Cup 2026,2026-06-26T17:35:07
+wc2026_0040,G,New Zealand,Egypt,2026-06-22 09:00,UTC-7,Vancouver,FT,1,3,,,FIFA World Cup 2026,2026-06-26T17:35:07
+wc2026_0043,H,Spain,Cape Verde,2026-06-16 00:00,UTC-4,Atlanta,FT,0,0,,,FIFA World Cup 2026,2026-06-26T17:35:07
+wc2026_0044,H,Saudi Arabia,Uruguay,2026-06-16 06:00,UTC-4,Miami (Miami Gardens),FT,1,1,,,FIFA World Cup 2026,2026-06-26T17:35:07
+wc2026_0045,H,Spain,Saudi Arabia,2026-06-22 00:00,UTC-4,Atlanta,FT,4,0,,,FIFA World Cup 2026,2026-06-26T17:35:07
+wc2026_0048,I,France,Senegal,2026-06-17 03:00,UTC-4,New York/New Jersey (East Rutherford),FT,3,1,,,FIFA World Cup 2026,2026-06-26T17:35:07
+wc2026_0049,I,Iraq,Norway,2026-06-17 06:00,UTC-4,Boston (Foxborough),FT,1,4,,,FIFA World Cup 2026,2026-06-26T17:35:07
+wc2026_0050,I,France,Iraq,2026-06-23 05:00,UTC-4,Philadelphia,FT,3,0,,,FIFA World Cup 2026,2026-06-26T17:35:07
+wc2026_0051,I,Norway,Senegal,2026-06-23 08:00,UTC-4,New York/New Jersey (East Rutherford),FT,3,2,,,FIFA World Cup 2026,2026-06-26T17:35:07
+wc2026_0054,J,Argentina,Algeria,2026-06-17 09:00,UTC-5,Kansas City,FT,3,0,,,FIFA World Cup 2026,2026-06-26T17:35:07
+wc2026_0055,J,Austria,Jordan,2026-06-17 12:00,UTC-7,San Francisco Bay Area (Santa Clara),FT,3,1,,,FIFA World Cup 2026,2026-06-26T17:35:07
+wc2026_0056,J,Argentina,Austria,2026-06-23 01:00,UTC-5,Dallas (Arlington),FT,2,0,,,FIFA World Cup 2026,2026-06-26T17:35:07
+wc2026_0057,J,Jordan,Algeria,2026-06-23 11:00,UTC-7,San Francisco Bay Area (Santa Clara),FT,1,2,,,FIFA World Cup 2026,2026-06-26T17:35:07
+wc2026_0059,K,Portugal,DR Congo,2026-06-18 01:00,UTC-5,Houston,FT,1,1,,,FIFA World Cup 2026,2026-06-26T17:35:07
+wc2026_0060,K,Uzbekistan,Colombia,2026-06-18 10:00,UTC-6,Mexico City,FT,1,3,,,FIFA World Cup 2026,2026-06-26T17:35:07
+wc2026_0061,K,Portugal,Uzbekistan,2026-06-24 01:00,UTC-5,Houston,FT,5,0,,,FIFA World Cup 2026,2026-06-26T17:35:07
+wc2026_0062,K,Colombia,DR Congo,2026-06-24 10:00,UTC-6,Guadalajara (Zapopan),FT,1,0,,,FIFA World Cup 2026,2026-06-26T17:35:07
+wc2026_0065,L,England,Croatia,2026-06-18 04:00,UTC-5,Dallas (Arlington),FT,4,2,,,FIFA World Cup 2026,2026-06-26T17:35:07
+wc2026_0066,L,Ghana,Panama,2026-06-18 07:00,UTC-4,Toronto,FT,1,0,,,FIFA World Cup 2026,2026-06-26T17:35:07
+wc2026_0067,L,England,Ghana,2026-06-24 04:00,UTC-4,Boston (Foxborough),FT,0,0,,,FIFA World Cup 2026,2026-06-26T17:35:07
+wc2026_0068,L,Panama,Croatia,2026-06-24 07:00,UTC-4,Toronto,FT,0,1,,,FIFA World Cup 2026,2026-06-26T17:35:07
+wc2026_0025,E,Germany,Curaçao,2026-06-15 01:00,UTC-5,Atlanta Stadium (Mercedes-Benz Stadium),FT,7,1,,,FIFA World Cup 2026,2026-06-24T13:42:09
+wc2026_0041,G,Egypt,Iran,2026-06-27 11:00,UTC-7,Seattle,NS,,,,,FIFA World Cup 2026,2026-06-12 18:08:53
+wc2026_0042,G,New Zealand,Belgium,2026-06-27 11:00,UTC-7,Vancouver,NS,,,,,FIFA World Cup 2026,2026-06-12 18:08:53
+wc2026_0046,H,Cape Verde,Saudi Arabia,2026-06-27 08:00,UTC-5,Houston,NS,,,,,FIFA World Cup 2026,2026-06-12 18:08:53
+wc2026_0047,H,Uruguay,Spain,2026-06-27 08:00,UTC-6,Guadalajara (Zapopan),NS,,,,,FIFA World Cup 2026,2026-06-12 18:08:53
+wc2026_0052,I,Norway,France,2026-06-27 03:00,UTC-4,Boston (Foxborough),NS,,,,,FIFA World Cup 2026,2026-06-12 18:08:53
+wc2026_0053,I,Senegal,Iraq,2026-06-27 03:00,UTC-4,Toronto,NS,,,,,FIFA World Cup 2026,2026-06-12 18:08:53
+wc2026_0058,J,Algeria,Austria,2026-06-28 10:00,UTC-5,Kansas City,NS,,,,,FIFA World Cup 2026,2026-06-12 18:08:53
+wc2026_0063,K,Colombia,Portugal,2026-06-28 07:30,UTC-4,Miami (Miami Gardens),NS,,,,,FIFA World Cup 2026,2026-06-12 18:08:53
+wc2026_0064,K,DR Congo,Uzbekistan,2026-06-28 07:30,UTC-4,Atlanta,NS,,,,,FIFA World Cup 2026,2026-06-12 18:08:53
+wc2026_0069,L,Panama,England,2026-06-28 05:00,UTC-4,New York/New Jersey (East Rutherford),NS,,,,,FIFA World Cup 2026,2026-06-12 18:08:53
+wc2026_0070,L,Croatia,Ghana,2026-06-28 05:00,UTC-4,Philadelphia,NS,,,,,FIFA World Cup 2026,2026-06-12 18:08:53
