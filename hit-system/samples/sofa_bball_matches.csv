@@ -1,0 +1,101 @@
+﻿id,event_id,tournament_id,league_code,home_team,away_team,start_timestamp,home_score,away_score,status,round_info,fetch_date
+6579,15878336,406,czech_nbl,Mjällby AIF,Hammarby IF,1778765400,2,1,Ended,29,2026-09-20
+6578,15743250,406,czech_nbl,Mjällby AIF,GAIS,1774191600,3,0,Ended,28,2026-09-20
+6577,15743251,406,czech_nbl,Hammarby IF,IK Sirius,1774182600,7,5,AP,28,2026-09-20
+6576,15703134,406,czech_nbl,IK Sirius,IFK Göteborg,1773591300,1,0,AET,27,2026-09-20
+6575,15703136,406,czech_nbl,Hammarby IF,Djurgårdens IF,1773583200,1,0,Ended,27,2026-09-20
+6574,15703135,406,czech_nbl,Mjällby AIF,Malmö FF,1773497700,4,0,Ended,27,2026-09-20
+6573,15703137,406,czech_nbl,GAIS,AIK,1773489600,3,2,Ended,27,2026-09-20
+6572,8557952,405,polish_bl,Dalstorps IF,Asarums IF FK,1586005200,,,Canceled,1,2026-09-20
+6571,8557477,405,polish_bl,IFK Karlshamn,IK Tord,1586005200,,,Canceled,1,2026-09-20
+6570,8557912,405,polish_bl,FK Älmeboda-Linneryd,Nosaby IF,1586001600,,,Canceled,1,2026-09-20
+6569,8557528,405,polish_bl,Österlen FF,Ifö Bromölla IF,1586001600,,,Canceled,1,2026-09-20
+6568,8557476,405,polish_bl,Hässleholms IF,Kristianstad FC,1585933200,,,Canceled,1,2026-09-20
+6567,8558303,405,polish_bl,IFK Karlshamn,Hässleholms IF,1588424400,,,Canceled,5,2026-09-20
+6566,8557993,405,polish_bl,Husqvarna FF,Ifö Bromölla IF,1588420800,,,Canceled,5,2026-09-20
+6565,8558081,405,polish_bl,Dalstorps IF,Kristianstad FC,1588338000,,,Canceled,5,2026-09-20
+6564,8558170,405,polish_bl,Österlen FF,FK Älmeboda-Linneryd,1588338000,,,Canceled,5,2026-09-20
+6563,8557639,405,polish_bl,Asarums IF FK,IFK Berga,1588334400,,,Canceled,5,2026-09-20
+6562,8558079,405,polish_bl,Räppe GoIF,Nosaby IF,1588334400,,,Canceled,5,2026-09-20
+6561,8557657,405,polish_bl,Kristianstad FC,IFK Karlshamn,1588006800,,,Canceled,4,2026-09-20
+6560,8558076,405,polish_bl,IFK Berga,FK Älmeboda-Linneryd,1587816000,,,Canceled,4,2026-09-20
+6559,8558082,405,polish_bl,Nosaby IF,Dalstorps IF,1587816000,,,Canceled,4,2026-09-20
+6558,8558090,405,polish_bl,Asarums IF FK,IFK Hässleholm,1587816000,,,Canceled,4,2026-09-20
+6557,8558108,405,polish_bl,IK Tord,Husqvarna FF,1587816000,,,Canceled,4,2026-09-20
+6556,8557681,405,polish_bl,Ifö Bromölla IF,Räppe GoIF,1587816000,,,Canceled,4,2026-09-20
+6555,8557680,405,polish_bl,Hässleholms IF,Österlen FF,1587748500,,,Canceled,4,2026-09-20
+6554,8557669,405,polish_bl,Räppe GoIF,IK Tord,1587301200,,,Canceled,3,2026-09-20
+6553,8558033,405,polish_bl,Husqvarna FF,Asarums IF FK,1587297600,,,Canceled,3,2026-09-20
+6552,8557682,405,polish_bl,Dalstorps IF,Ifö Bromölla IF,1587214800,,,Canceled,3,2026-09-20
+6551,8558192,405,polish_bl,IFK Karlshamn,Nosaby IF,1587214800,,,Canceled,3,2026-09-20
+6550,8557646,405,polish_bl,IFK Hässleholm,IFK Berga,1587211200,,,Canceled,3,2026-09-20
+6549,8557925,405,polish_bl,FK Älmeboda-Linneryd,Hässleholms IF,1587211200,,,Canceled,3,2026-09-20
+6548,8558191,405,polish_bl,Österlen FF,Kristianstad FC,1587211200,,,Canceled,3,2026-09-20
+6547,8557609,405,polish_bl,IFK Hässleholm,Husqvarna FF,1586782800,,,Canceled,2,2026-09-20
+6546,8558084,405,polish_bl,Asarums IF FK,Räppe GoIF,1586606400,,,Canceled,2,2026-09-20
+6545,8558171,405,polish_bl,Kristianstad FC,FK Älmeboda-Linneryd,1586527200,,,Canceled,2,2026-09-20
+6544,8558089,405,polish_bl,IFK Berga,Hässleholms IF,1586520000,,,Canceled,2,2026-09-20
+6543,8557712,405,polish_bl,Nosaby IF,Österlen FF,1586520000,,,Canceled,2,2026-09-20
+6542,8557904,405,polish_bl,Ifö Bromölla IF,IFK Karlshamn,1586520000,,,Canceled,2,2026-09-20
+6541,8557611,405,polish_bl,IK Tord,Dalstorps IF,1586449800,,,Canceled,2,2026-09-20
+6540,8557555,405,polish_bl,Räppe GoIF,IFK Hässleholm,1586091600,,,Canceled,1,2026-09-20
+6539,8612073,405,polish_bl,Husqvarna FF,Syrianska FC,1586088000,,,Canceled,1,2026-09-20
+6538,8557909,405,polish_bl,Husqvarna FF,IFK Berga,1586088000,,,Postponed,1,2026-09-20
+6537,8557557,405,polish_bl,IFK Hässleholm,Räppe GoIF,1597856400,3,0,Ended,15,2026-09-20
+6536,8557941,405,polish_bl,Kristianstad FC,Hässleholms IF,1597770000,2,0,Ended,15,2026-09-20
+6535,8692340,405,polish_bl,FK Älmeboda-Linneryd,Syrianska FC,1597586400,1,1,Ended,17,2026-09-20
+6534,8557779,405,polish_bl,Dalstorps IF,Nosaby IF,1597496400,0,1,Ended,17,2026-09-20
+6533,8557759,405,polish_bl,Husqvarna FF,IK Tord,1597492800,1,2,Ended,17,2026-09-20
+6532,8558309,405,polish_bl,IFK Hässleholm,Asarums IF FK,1597492800,3,4,Ended,17,2026-09-20
+6531,8558354,405,polish_bl,Räppe GoIF,Ifö Bromölla IF,1597492800,,,Postponed,17,2026-09-20
+6530,8558248,405,polish_bl,Österlen FF,Hässleholms IF,1597424400,1,0,Ended,17,2026-09-20
+6529,8558293,405,polish_bl,IFK Karlshamn,Kristianstad FC,1597424400,1,1,Ended,17,2026-09-20
+6528,8558260,405,polish_bl,Kristianstad FC,Österlen FF,1597080600,0,4,Ended,16,2026-09-20
+6527,8692339,405,polish_bl,Syrianska FC,IFK Hässleholm,1596902400,1,0,Ended,16,2026-09-20
+6526,8557514,405,polish_bl,Asarums IF FK,Husqvarna FF,1596895200,1,1,Ended,16,2026-09-20
+6525,8557552,405,polish_bl,Hässleholms IF,FK Älmeboda-Linneryd,1596888000,3,2,Ended,16,2026-09-20
+6524,8557494,405,polish_bl,Nosaby IF,IFK Karlshamn,1596888000,4,0,Ended,16,2026-09-20
+6523,8557577,405,polish_bl,Ifö Bromölla IF,Dalstorps IF,1596888000,0,2,Ended,16,2026-09-20
+6522,8557589,405,polish_bl,IK Tord,Räppe GoIF,1596888000,3,3,Ended,16,2026-09-20
+6521,8558468,405,polish_bl,IFK Hässleholm,FK Älmeboda-Linneryd,1596888000,3,2,Ended,22,2026-09-20
+6520,8557782,405,polish_bl,Räppe GoIF,Asarums IF FK,1596560400,2,3,Ended,14,2026-09-20
+6519,8557569,405,polish_bl,Nosaby IF,FK Älmeboda-Linneryd,1596283200,1,2,Ended,15,2026-09-20
+6518,8690889,405,polish_bl,Syrianska FC,Husqvarna FF,1593349200,1,3,Ended,15,2026-09-20
+6517,8703585,405,polish_bl,Ifö Bromölla IF,Österlen FF,1592497800,0,2,Ended,,2026-09-20
+6516,8557860,405,polish_bl,Asarums IF FK,Ifö Bromölla IF,1589389200,,,Canceled,7,2026-09-20
+6515,8558361,405,polish_bl,Kristianstad FC,Räppe GoIF,1589119200,,,Canceled,6,2026-09-20
+6514,8558357,405,polish_bl,FK Älmeboda-Linneryd,IFK Karlshamn,1589032800,,,Canceled,6,2026-09-20
+6513,8558240,405,polish_bl,Nosaby IF,Husqvarna FF,1589025600,,,Canceled,6,2026-09-20
+6512,8558253,405,polish_bl,Hässleholms IF,Dalstorps IF,1589025600,,,Canceled,6,2026-09-20
+6511,8558302,405,polish_bl,IFK Berga,Österlen FF,1589025600,,,Canceled,6,2026-09-20
+6510,8558286,405,polish_bl,Ifö Bromölla IF,IFK Hässleholm,1589025600,,,Canceled,6,2026-09-20
+6509,8558043,405,polish_bl,IK Tord,Asarums IF FK,1589025600,,,Canceled,6,2026-09-20
+6508,8557608,405,polish_bl,IFK Hässleholm,IK Tord,1588505400,,,Canceled,5,2026-09-20
+6507,8558498,405,polish_bl,IK Tord,Kristianstad FC,1600516800,4,0,Ended,22,2026-09-20
+6506,8558074,405,polish_bl,Asarums IF FK,Hässleholms IF,1600516800,1,3,Ended,22,2026-09-20
+6505,8558506,405,polish_bl,Ifö Bromölla IF,Nosaby IF,1600516800,3,1,Ended,22,2026-09-20
+6504,8557730,405,polish_bl,Asarums IF FK,Nosaby IF,1599994800,2,5,Ended,21,2026-09-20
+6503,8692344,405,polish_bl,IFK Karlshamn,Syrianska FC,1599922800,0,1,Ended,21,2026-09-20
+6502,8558281,405,polish_bl,Dalstorps IF,Österlen FF,1599915600,4,1,Ended,21,2026-09-20
+6501,8557785,405,polish_bl,Husqvarna FF,Hässleholms IF,1599912000,1,0,Ended,21,2026-09-20
+6500,8558096,405,polish_bl,Räppe GoIF,FK Älmeboda-Linneryd,1599912000,4,0,Ended,21,2026-09-20
+6499,8558065,405,polish_bl,IK Tord,Ifö Bromölla IF,1599912000,1,2,Ended,21,2026-09-20
+6498,8558280,405,polish_bl,IFK Hässleholm,Kristianstad FC,1599757200,3,2,Ended,21,2026-09-20
+6497,8557764,405,polish_bl,Kristianstad FC,Husqvarna FF,1599397200,2,0,Ended,20,2026-09-20
+6496,8558291,405,polish_bl,Österlen FF,IFK Karlshamn,1599393600,3,1,Ended,20,2026-09-20
+6495,8692343,405,polish_bl,Syrianska FC,IK Tord,1599318000,1,1,Ended,20,2026-09-20
+6494,8557693,405,polish_bl,Nosaby IF,IFK Hässleholm,1599307200,1,2,Ended,20,2026-09-20
+6493,8558085,405,polish_bl,FK Älmeboda-Linneryd,Dalstorps IF,1599307200,3,3,Ended,20,2026-09-20
+6492,8557708,405,polish_bl,Ifö Bromölla IF,Asarums IF FK,1599307200,0,1,Ended,20,2026-09-20
+6491,8558099,405,polish_bl,Hässleholms IF,Räppe GoIF,1599238800,3,1,Ended,20,2026-09-20
+6490,8558190,405,polish_bl,Räppe GoIF,Kristianstad FC,1598706000,,,Canceled,19,2026-09-20
+6489,8558305,405,polish_bl,Dalstorps IF,Hässleholms IF,1598706000,1,1,Ended,19,2026-09-20
+6488,8557690,405,polish_bl,IFK Karlshamn,FK Älmeboda-Linneryd,1598706000,4,2,Ended,19,2026-09-20
+6487,8557720,405,polish_bl,Husqvarna FF,Nosaby IF,1598702400,3,1,Ended,19,2026-09-20
+6486,8558269,405,polish_bl,IFK Hässleholm,Ifö Bromölla IF,1598702400,1,0,Ended,19,2026-09-20
+6485,8558122,405,polish_bl,Asarums IF FK,IK Tord,1598702400,2,0,Ended,19,2026-09-20
+6484,8557742,405,polish_bl,Hässleholms IF,IFK Karlshamn,1598184000,2,1,Ended,18,2026-09-20
+6483,8558254,405,polish_bl,IK Tord,IFK Hässleholm,1598184000,2,1,Ended,18,2026-09-20
+6482,8692341,405,polish_bl,Syrianska FC,Asarums IF FK,1598101200,1,0,Ended,18,2026-09-20
+6481,8557689,405,polish_bl,Kristianstad FC,Dalstorps IF,1598101200,2,2,Ended,18,2026-09-20
+6480,8558047,405,polish_bl,Nosaby IF,Räppe GoIF,1598097600,4,2,Ended,18,2026-09-20

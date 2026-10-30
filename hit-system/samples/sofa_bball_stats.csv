@@ -1,0 +1,101 @@
+﻿id,event_id,team_side,team_name,stat_key,stat_value,fetch_date
+58684,15878336,away,Hammarby IF,goalKicks,8,2026-09-20
+58683,15878336,home,Mjällby AIF,goalKicks,9,2026-09-20
+58682,15878336,away,Hammarby IF,goalkeeperSaves,4,2026-09-20
+58681,15878336,home,Mjällby AIF,goalkeeperSaves,2,2026-09-20
+58680,15878336,away,Hammarby IF,errorsLeadToShot,4,2026-09-20
+58679,15878336,home,Mjällby AIF,errorsLeadToShot,1,2026-09-20
+58678,15878336,away,Hammarby IF,totalClearance,16,2026-09-20
+58677,15878336,home,Mjällby AIF,totalClearance,23,2026-09-20
+58676,15878336,away,Hammarby IF,interceptionWon,17,2026-09-20
+58675,15878336,home,Mjällby AIF,interceptionWon,28,2026-09-20
+58674,15878336,away,Hammarby IF,totalTackle,3,2026-09-20
+58673,15878336,home,Mjällby AIF,totalTackle,2,2026-09-20
+58672,15878336,away,Hammarby IF,dribblesPercentage,16/22 (73%),2026-09-20
+58671,15878336,home,Mjällby AIF,dribblesPercentage,9/16 (56%),2026-09-20
+58670,15878336,away,Hammarby IF,aerialDuelsPercentage,16/45 (36%),2026-09-20
+58669,15878336,home,Mjällby AIF,aerialDuelsPercentage,26/45 (58%),2026-09-20
+58668,15878336,away,Hammarby IF,groundDuelsPercentage,52/140 (37%),2026-09-20
+58667,15878336,home,Mjällby AIF,groundDuelsPercentage,42/148 (28%),2026-09-20
+58666,15878336,away,Hammarby IF,dispossessed,8,2026-09-20
+58665,15878336,home,Mjällby AIF,dispossessed,10,2026-09-20
+58664,15878336,away,Hammarby IF,duelWonPercent,36%,2026-09-20
+58663,15878336,home,Mjällby AIF,duelWonPercent,35%,2026-09-20
+58662,15878336,away,Hammarby IF,accurateCross,2/20 (10%),2026-09-20
+58661,15878336,home,Mjällby AIF,accurateCross,0/3 (0%),2026-09-20
+58660,15878336,away,Hammarby IF,accurateLongBalls,21/50 (42%),2026-09-20
+58659,15878336,home,Mjällby AIF,accurateLongBalls,30/56 (53%),2026-09-20
+58658,15878336,away,Hammarby IF,finalThirdPhaseStatistic,70/91 (77%),2026-09-20
+58657,15878336,home,Mjällby AIF,finalThirdPhaseStatistic,19/32 (59%),2026-09-20
+58656,15878336,away,Hammarby IF,throwIns,26,2026-09-20
+58655,15878336,home,Mjällby AIF,throwIns,23,2026-09-20
+58654,15878336,away,Hammarby IF,accuratePasses,506,2026-09-20
+58653,15878336,home,Mjällby AIF,accuratePasses,244,2026-09-20
+58652,15878336,away,Hammarby IF,offsides,1,2026-09-20
+58651,15878336,home,Mjällby AIF,offsides,1,2026-09-20
+58650,15878336,away,Hammarby IF,touchesInOppBox,21,2026-09-20
+58649,15878336,home,Mjällby AIF,touchesInOppBox,11,2026-09-20
+58648,15878336,away,Hammarby IF,accurateThroughBall,3,2026-09-20
+58647,15878336,home,Mjällby AIF,accurateThroughBall,5,2026-09-20
+58646,15878336,away,Hammarby IF,totalShotsOutsideBox,11,2026-09-20
+58645,15878336,home,Mjällby AIF,totalShotsOutsideBox,3,2026-09-20
+58644,15878336,away,Hammarby IF,totalShotsInsideBox,3,2026-09-20
+58643,15878336,home,Mjällby AIF,totalShotsInsideBox,5,2026-09-20
+58642,15878336,away,Hammarby IF,blockedScoringAttempt,6,2026-09-20
+58641,15878336,home,Mjällby AIF,blockedScoringAttempt,0,2026-09-20
+58640,15878336,away,Hammarby IF,shotsOffGoal,4,2026-09-20
+58639,15878336,home,Mjällby AIF,shotsOffGoal,2,2026-09-20
+58638,15878336,away,Hammarby IF,hitWoodwork,1,2026-09-20
+58637,15878336,home,Mjällby AIF,hitWoodwork,0,2026-09-20
+58636,15878336,away,Hammarby IF,expectedGoals,1.00,2026-09-20
+58635,15878336,home,Mjällby AIF,expectedGoals,1.40,2026-09-20
+58634,15878336,away,Hammarby IF,shotsOnGoal,3,2026-09-20
+58633,15878336,home,Mjällby AIF,shotsOnGoal,6,2026-09-20
+58632,15878336,away,Hammarby IF,totalShotsOnGoal,14,2026-09-20
+58631,15878336,home,Mjällby AIF,totalShotsOnGoal,8,2026-09-20
+58630,15878336,away,Hammarby IF,redCards,0,2026-09-20
+58629,15878336,home,Mjällby AIF,redCards,1,2026-09-20
+58628,15878336,away,Hammarby IF,yellowCards,2,2026-09-20
+58627,15878336,home,Mjällby AIF,yellowCards,2,2026-09-20
+58626,15878336,away,Hammarby IF,freeKicks,4,2026-09-20
+58625,15878336,home,Mjällby AIF,freeKicks,1,2026-09-20
+58622,15878336,away,Hammarby IF,passes,593,2026-09-20
+58621,15878336,home,Mjällby AIF,passes,317,2026-09-20
+58620,15878336,away,Hammarby IF,fouls,11,2026-09-20
+58619,15878336,home,Mjällby AIF,fouls,18,2026-09-20
+58618,15878336,away,Hammarby IF,cornerKicks,5,2026-09-20
+58617,15878336,home,Mjällby AIF,cornerKicks,3,2026-09-20
+58610,15878336,away,Hammarby IF,ballPossession,64%,2026-09-20
+58609,15878336,home,Mjällby AIF,ballPossession,36%,2026-09-20
+58608,15743250,away,GAIS,goalKicks,5,2026-09-20
+58607,15743250,home,Mjällby AIF,goalKicks,11,2026-09-20
+58606,15743250,away,GAIS,highClaims,1,2026-09-20
+58605,15743250,home,Mjällby AIF,highClaims,0,2026-09-20
+58604,15743250,away,GAIS,goalkeeperSaves,5,2026-09-20
+58603,15743250,home,Mjällby AIF,goalkeeperSaves,2,2026-09-20
+58602,15743250,away,GAIS,errorsLeadToShot,4,2026-09-20
+58601,15743250,home,Mjällby AIF,errorsLeadToShot,2,2026-09-20
+58600,15743250,away,GAIS,totalClearance,19,2026-09-20
+58599,15743250,home,Mjällby AIF,totalClearance,14,2026-09-20
+58598,15743250,away,GAIS,interceptionWon,18,2026-09-20
+58597,15743250,home,Mjällby AIF,interceptionWon,21,2026-09-20
+58596,15743250,away,GAIS,totalTackle,8,2026-09-20
+58595,15743250,home,Mjällby AIF,totalTackle,3,2026-09-20
+58594,15743250,away,GAIS,dribblesPercentage,19/23 (83%),2026-09-20
+58593,15743250,home,Mjällby AIF,dribblesPercentage,15/18 (83%),2026-09-20
+58592,15743250,away,GAIS,aerialDuelsPercentage,13/24 (54%),2026-09-20
+58591,15743250,home,Mjällby AIF,aerialDuelsPercentage,11/19 (58%),2026-09-20
+58590,15743250,away,GAIS,groundDuelsPercentage,49/126 (39%),2026-09-20
+58589,15743250,home,Mjällby AIF,groundDuelsPercentage,37/99 (37%),2026-09-20
+58588,15743250,away,GAIS,dispossessed,11,2026-09-20
+58587,15743250,home,Mjällby AIF,dispossessed,10,2026-09-20
+58586,15743250,away,GAIS,duelWonPercent,41%,2026-09-20
+58585,15743250,home,Mjällby AIF,duelWonPercent,40%,2026-09-20
+58584,15743250,away,GAIS,accurateCross,6/16 (37%),2026-09-20
+58583,15743250,home,Mjällby AIF,accurateCross,2/12 (16%),2026-09-20
+58582,15743250,away,GAIS,accurateLongBalls,18/42 (42%),2026-09-20
+58581,15743250,home,Mjällby AIF,accurateLongBalls,23/53 (43%),2026-09-20
+58580,15743250,away,GAIS,finalThirdPhaseStatistic,35/45 (78%),2026-09-20
+58579,15743250,home,Mjällby AIF,finalThirdPhaseStatistic,46/65 (71%),2026-09-20
+58578,15743250,away,GAIS,throwIns,19,2026-09-20
+58577,15743250,home,Mjällby AIF,throwIns,21,2026-09-20

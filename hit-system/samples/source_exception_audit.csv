@@ -1,0 +1,4 @@
+﻿exception_id,run_id,provider,occurred_at_utc,severity,category,endpoint,source_entity_id,http_status,exception_type,message,attempt_index,handled,retry_count,raw_response_id,context_json,notes
+e5c1fc7e996600b6a48a1eb0ed31ac6f0ecdc996,,The Odds API,2026-10-09T03:35:40Z,warning,quota,,,,,额度闸拦截：七槽合计 11 < 下限 50；未发送任何请求,,1,0,,"{""total_remaining"": 11}",
+b66863d34e52206aaf913d59ae9232eddf7a20dc,f0d38ba409818f667dfe504bd700fc44876a43c5,The Odds API,2026-10-09T03:36:07Z,warning,quota,,,,,额度闸拦截：七槽合计 11 < 下限 50；未发送任何请求,,1,0,,"{""total_remaining"": 11}",
+7fdb71db7a8ea96a1c26a94a7e0248b95515ed7d,209a1fad492a794fcd85536221f0598827a336b8,The Odds API,2026-10-24T09:59:46Z,warning,quota,,,,,额度闸拦截：八槽合计 1 < 下限 50；未发送任何请求,,1,0,,"{""total_remaining"": 1}",
