@@ -1,0 +1,97 @@
+﻿league,team,sport_type,gnn_correlation_score,court_motion_factor
+nba,Atlanta Hawks,football,1.0938,1.0
+nba,Boston Celtics,football,1.2243,1.0
+nba,Brooklyn Nets,football,0.9246,1.0
+nba,Candace’s Rising Stars,football,0.3,1.0
+nba,Charlotte Hornets,football,0.8802,1.0
+nba,Chicago Bulls,football,1.1021,1.0
+nba,Chuck’s Global Stars,football,0.4613,1.0
+nba,Cleveland Cavaliers,football,1.2651,1.0
+nba,Dallas Mavericks,football,1.0707,1.0
+nba,Denver Nuggets,football,1.1618,1.0
+nba,Detroit Pistons,football,1.1031,1.0
+nba,Golden State Warriors,football,1.1389,1.0
+nba,Houston Rockets,football,1.163,1.0
+nba,Indiana Pacers,football,1.1801,1.0
+nba,Kenny’s Young Stars,football,0.3,1.0
+nba,Los Angeles Clippers,football,1.1361,1.0
+nba,Los Angeles Lakers,football,1.1256,1.0
+nba,Memphis Grizzlies,football,1.1596,1.0
+nba,Miami Heat,football,1.0385,1.0
+nba,Milwaukee Bucks,football,1.1153,1.0
+nba,Minnesota Timberwolves,football,1.1343,1.0
+nba,New Orleans Pelicans,football,0.9214,1.0
+nba,New York Knicks,football,1.1688,1.0
+nba,Oklahoma City Thunder,football,1.2888,1.0
+nba,Orlando Magic,football,1.023,1.0
+nba,Philadelphia 76ers,football,0.9381,1.0
+nba,Phoenix Suns,football,1.0583,1.0
+nba,Portland Trail Blazers,football,1.0382,1.0
+nba,Sacramento Kings,football,1.0633,1.0
+nba,San Antonio Spurs,football,1.0363,1.0
+nba,Shaq’s OGs,football,0.9292,1.0
+nba,Toronto Raptors,football,0.9976,1.0
+nba,Utah Jazz,football,0.9154,1.0
+nba,Washington Wizards,football,0.9001,1.0
+wnba,Atlanta Dream W,football,0.9145,1.0
+wnba,Chicago Sky W,football,0.9049,1.0
+wnba,Connecticut Sun W,football,1.1277,1.0
+wnba,Dallas Wings W,football,0.9062,1.0
+wnba,Indiana Fever W,football,1.0618,1.0
+wnba,Las Vegas Aces W,football,1.1562,1.0
+wnba,Los Angeles Sparks W,football,0.8366,1.0
+wnba,Minnesota Lynx W,football,1.1725,1.0
+wnba,New York Liberty W,football,1.2189,1.0
+wnba,Phoenix Mercury W,football,1.0246,1.0
+wnba,Seattle Storm W,football,1.0971,1.0
+wnba,Team USA W,football,0.4818,1.0
+wnba,Team WNBA W,football,1.1681,1.0
+wnba,Washington Mystics W,football,0.9291,1.0
+nba,Atlanta Hawks,basketball,1.0938,1.0
+nba,Boston Celtics,basketball,1.2243,1.0
+nba,Brooklyn Nets,basketball,0.9246,1.0
+nba,Candace’s Rising Stars,basketball,0.3,1.0
+nba,Charlotte Hornets,basketball,0.8802,1.0
+nba,Chicago Bulls,basketball,1.1021,1.0
+nba,Chuck’s Global Stars,basketball,0.4613,1.0
+nba,Cleveland Cavaliers,basketball,1.2651,1.0
+nba,Dallas Mavericks,basketball,1.0707,1.0
+nba,Denver Nuggets,basketball,1.1618,1.0
+nba,Detroit Pistons,basketball,1.1031,1.0
+nba,Golden State Warriors,basketball,1.1389,1.0
+nba,Houston Rockets,basketball,1.163,1.0
+nba,Indiana Pacers,basketball,1.1801,1.0
+nba,Kenny’s Young Stars,basketball,0.3,1.0
+nba,Los Angeles Clippers,basketball,1.1361,1.0
+nba,Los Angeles Lakers,basketball,1.1256,1.0
+nba,Memphis Grizzlies,basketball,1.1596,1.0
+nba,Miami Heat,basketball,1.0385,1.0
+nba,Milwaukee Bucks,basketball,1.1153,1.0
+nba,Minnesota Timberwolves,basketball,1.1343,1.0
+nba,New Orleans Pelicans,basketball,0.9214,1.0
+nba,New York Knicks,basketball,1.1688,1.0
+nba,Oklahoma City Thunder,basketball,1.2888,1.0
+nba,Orlando Magic,basketball,1.023,1.0
+nba,Philadelphia 76ers,basketball,0.9381,1.0
+nba,Phoenix Suns,basketball,1.0583,1.0
+nba,Portland Trail Blazers,basketball,1.0382,1.0
+nba,Sacramento Kings,basketball,1.0633,1.0
+nba,San Antonio Spurs,basketball,1.0363,1.0
+nba,Shaq’s OGs,basketball,0.9292,1.0
+nba,Toronto Raptors,basketball,0.9976,1.0
+nba,Utah Jazz,basketball,0.9154,1.0
+nba,Washington Wizards,basketball,0.9001,1.0
+wnba,Atlanta Dream W,basketball,0.9145,1.0
+wnba,Chicago Sky W,basketball,0.9049,1.0
+wnba,Connecticut Sun W,basketball,1.1277,1.0
+wnba,Dallas Wings W,basketball,0.9062,1.0
+wnba,Indiana Fever W,basketball,1.0618,1.0
+wnba,Las Vegas Aces W,basketball,1.1562,1.0
+wnba,Los Angeles Sparks W,basketball,0.8366,1.0
+wnba,Minnesota Lynx W,basketball,1.1725,1.0
+wnba,New York Liberty W,basketball,1.2189,1.0
+wnba,Phoenix Mercury W,basketball,1.0246,1.0
+wnba,Seattle Storm W,basketball,1.0971,1.0
+wnba,Team USA W,basketball,0.4818,1.0
+wnba,Team WNBA W,basketball,1.1681,1.0
+wnba,Washington Mystics W,basketball,0.9291,1.0
