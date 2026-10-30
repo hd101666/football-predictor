@@ -1,0 +1,101 @@
+﻿id,league_code,league_name,season,game_date,home_team,away_team,home_pts,away_pts,source
+32672,mens-olympics,奥运男篮,1948,,South Korea,Czechoslovakia,38,39,basketball-reference
+32671,mens-olympics,奥运男篮,1948,,France,United States,21,65,basketball-reference
+32670,mens-olympics,奥运男篮,1948,,China,Italy,38,54,basketball-reference
+32669,mens-olympics,奥运男篮,1948,,Chile,Uruguay,32,50,basketball-reference
+32668,mens-olympics,奥运男篮,1948,,Brazil,Mexico,52,47,basketball-reference
+32667,mens-olympics,奥运男篮,1948,,Egypt,Great Britain,50,18,basketball-reference
+32665,mens-olympics,奥运男篮,1948,,Canada,Peru,49,43,basketball-reference
+32663,mens-olympics,奥运男篮,1948,,Cuba,Peru,40,45,basketball-reference
+32662,mens-olympics,奥运男篮,1948,,Canada,Iran,81,25,basketball-reference
+32661,mens-olympics,奥运男篮,1948,,Argentina,Philippines,43,45,basketball-reference
+32660,mens-olympics,奥运男篮,1948,,South Korea,Uruguay,36,45,basketball-reference
+32659,mens-olympics,奥运男篮,1948,,Chile,Czechoslovakia,38,36,basketball-reference
+32658,mens-olympics,奥运男篮,1948,,Ireland,Switzerland,12,55,basketball-reference
+32657,mens-olympics,奥运男篮,1948,,China,Great Britain,54,25,basketball-reference
+32656,mens-olympics,奥运男篮,1948,,Egypt,Italy,33,35,basketball-reference
+32655,mens-olympics,奥运男篮,1948,,Mexico,United States,40,71,basketball-reference
+32654,mens-olympics,奥运男篮,1948,,Brazil,France,33,43,basketball-reference
+32653,mens-olympics,奥运男篮,1948,,Uruguay,United States,28,63,basketball-reference
+32652,mens-olympics,奥运男篮,1948,,South Korea,Mexico,32,43,basketball-reference
+32651,mens-olympics,奥运男篮,1948,,Chile,France,52,53,basketball-reference
+32650,mens-olympics,奥运男篮,1948,,Brazil,Czechoslovakia,28,23,basketball-reference
+32649,mens-olympics,奥运男篮,1948,,France,Ireland,73,14,basketball-reference
+32648,mens-olympics,奥运男篮,1948,,Cuba,Iran,63,30,basketball-reference
+32647,mens-olympics,奥运男篮,1948,,Iran,Mexico,27,68,basketball-reference
+32646,mens-olympics,奥运男篮,1948,,Cuba,Ireland,88,25,basketball-reference
+32645,mens-olympics,奥运男篮,1948,,Iran,Ireland,49,22,basketball-reference
+32644,mens-olympics,奥运男篮,1948,,France,Mexico,42,56,basketball-reference
+32643,mens-olympics,奥运男篮,1948,,Ireland,Mexico,9,71,basketball-reference
+32642,mens-olympics,奥运男篮,1948,,Cuba,France,31,37,basketball-reference
+32641,mens-olympics,奥运男篮,1948,,France,Iran,62,30,basketball-reference
+32640,mens-olympics,奥运男篮,1948,,Cuba,Mexico,31,39,basketball-reference
+32639,mens-olympics,奥运男篮,1948,,Peru,United States,33,61,basketball-reference
+32638,mens-olympics,奥运男篮,1948,,Egypt,Switzerland,31,29,basketball-reference
+32637,mens-olympics,奥运男篮,1948,,Argentina,Czechoslovakia,41,45,basketball-reference
+32636,mens-olympics,奥运男篮,1948,,Switzerland,Czechoslovakia,28,54,basketball-reference
+32635,mens-olympics,奥运男篮,1948,,Argentina,Peru,42,34,basketball-reference
+32634,mens-olympics,奥运男篮,1948,,Egypt,United States,28,66,basketball-reference
+32633,mens-olympics,奥运男篮,1948,,Peru,Switzerland,49,19,basketball-reference
+32632,mens-olympics,奥运男篮,1948,,Egypt,Czechoslovakia,38,52,basketball-reference
+32631,mens-olympics,奥运男篮,1948,,Argentina,United States,57,59,basketball-reference
+32630,mens-olympics,奥运男篮,1948,,Egypt,Peru,27,52,basketball-reference
+32629,mens-olympics,奥运男篮,1948,,Czechoslovakia,United States,28,53,basketball-reference
+32628,mens-olympics,奥运男篮,1948,,Argentina,Switzerland,49,23,basketball-reference
+32627,mens-olympics,奥运男篮,1948,,Argentina,Egypt,57,38,basketball-reference
+32626,mens-olympics,奥运男篮,1948,,Switzerland,United States,21,86,basketball-reference
+32625,mens-olympics,奥运男篮,1948,,Peru,Czechoslovakia,30,38,basketball-reference
+32624,mens-olympics,奥运男篮,1948,,China,Iraq,125,25,basketball-reference
+32623,mens-olympics,奥运男篮,1948,,Chile,South Korea,21,28,basketball-reference
+32622,mens-olympics,奥运男篮,1948,,Belgium,Philippines,35,34,basketball-reference
+32621,mens-olympics,奥运男篮,1948,,Iraq,South Korea,20,120,basketball-reference
+32620,mens-olympics,奥运男篮,1948,,China,Philippines,32,51,basketball-reference
+32619,mens-olympics,奥运男篮,1948,,Belgium,Chile,38,36,basketball-reference
+32618,mens-olympics,奥运男篮,1948,,China,South Korea,49,48,basketball-reference
+32617,mens-olympics,奥运男篮,1948,,Chile,Philippines,68,39,basketball-reference
+32616,mens-olympics,奥运男篮,1948,,Belgium,Iraq,98,20,basketball-reference
+32615,mens-olympics,奥运男篮,1948,,Belgium,China,34,36,basketball-reference
+32614,mens-olympics,奥运男篮,1948,,South Korea,Philippines,33,35,basketball-reference
+32613,mens-olympics,奥运男篮,1948,,Chile,Iraq,100,18,basketball-reference
+32612,mens-olympics,奥运男篮,1948,,Iraq,Philippines,30,102,basketball-reference
+32611,mens-olympics,奥运男篮,1948,,Chile,China,44,39,basketball-reference
+32610,mens-olympics,奥运男篮,1948,,Belgium,South Korea,27,29,basketball-reference
+32609,mens-olympics,奥运男篮,1948,,Great Britain,Hungary,23,60,basketball-reference
+32608,mens-olympics,奥运男篮,1948,,Canada,Uruguay,52,50,basketball-reference
+32607,mens-olympics,奥运男篮,1948,,Brazil,Italy,47,31,basketball-reference
+32606,mens-olympics,奥运男篮,1948,,Hungary,Uruguay,31,49,basketball-reference
+32605,mens-olympics,奥运男篮,1948,,Great Britain,Italy,28,49,basketball-reference
+32604,mens-olympics,奥运男篮,1948,,Brazil,Canada,57,35,basketball-reference
+32603,mens-olympics,奥运男篮,1948,,Italy,Uruguay,34,46,basketball-reference
+32602,mens-olympics,奥运男篮,1948,,Canada,Hungary,36,37,basketball-reference
+32601,mens-olympics,奥运男篮,1948,,Brazil,Great Britain,76,11,basketball-reference
+32600,mens-olympics,奥运男篮,1948,,Hungary,Italy,32,19,basketball-reference
+32599,mens-olympics,奥运男篮,1948,,Canada,Great Britain,44,24,basketball-reference
+32598,mens-olympics,奥运男篮,1948,,Brazil,Uruguay,36,32,basketball-reference
+32597,mens-olympics,奥运男篮,1948,,Great Britain,Uruguay,17,69,basketball-reference
+32596,mens-olympics,奥运男篮,1948,,Canada,Italy,55,37,basketball-reference
+32595,mens-olympics,奥运男篮,1948,,Brazil,Hungary,45,41,basketball-reference
+32593,mens-olympics,奥运男篮,1956,,South Korea,Singapore,79,92,basketball-reference
+32587,mens-olympics,奥运男篮,1956,,Uruguay,United States,38,101,basketball-reference
+32585,mens-olympics,奥运男篮,1956,,Japan,Chinese Taipei,82,61,basketball-reference
+32584,mens-olympics,奥运男篮,1956,,Australia,Canada,38,83,basketball-reference
+32583,mens-olympics,奥运男篮,1956,,Bulgaria,Philippines,80,70,basketball-reference
+32581,mens-olympics,奥运男篮,1956,,South Korea,Thailand,61,47,basketball-reference
+32580,mens-olympics,奥运男篮,1956,,Canada,Japan,73,60,basketball-reference
+32579,mens-olympics,奥运男篮,1956,,Japan,South Korea,83,67,basketball-reference
+32578,mens-olympics,奥运男篮,1956,,Canada,South Korea,74,63,basketball-reference
+32577,mens-olympics,奥运男篮,1956,,Thailand,Chinese Taipei,52,65,basketball-reference
+32576,mens-olympics,奥运男篮,1956,,Australia,Singapore,98,74,basketball-reference
+32575,mens-olympics,奥运男篮,1956,,Singapore,Thailand,62,50,basketball-reference
+32574,mens-olympics,奥运男篮,1956,,Australia,Chinese Taipei,73,86,basketball-reference
+32573,mens-olympics,奥运男篮,1956,,Singapore,Chinese Taipei,64,67,basketball-reference
+32572,mens-olympics,奥运男篮,1956,,Australia,Thailand,87,48,basketball-reference
+32571,mens-olympics,奥运男篮,1956,,Soviet Union,United States,55,85,basketball-reference
+32570,mens-olympics,奥运男篮,1956,,Brazil,Bulgaria,73,82,basketball-reference
+32569,mens-olympics,奥运男篮,1956,,Bulgaria,Soviet Union,56,66,basketball-reference
+32568,mens-olympics,奥运男篮,1956,,Brazil,United States,51,113,basketball-reference
+32567,mens-olympics,奥运男篮,1956,,Bulgaria,United States,44,85,basketball-reference
+32566,mens-olympics,奥运男篮,1956,,Brazil,Soviet Union,68,87,basketball-reference
+32565,mens-olympics,奥运男篮,1956,,France,Uruguay,66,62,basketball-reference
+32564,mens-olympics,奥运男篮,1956,,Chile,Philippines,88,69,basketball-reference
+32563,mens-olympics,奥运男篮,1956,,France,Philippines,58,65,basketball-reference

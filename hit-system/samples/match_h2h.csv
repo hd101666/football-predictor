@@ -1,0 +1,101 @@
+﻿id,home_team,away_team,sport,meetings,home_wins,draws,away_wins,home_goals,away_goals,fetch_date
+23121,Beerschot VA,Eupen,football,2,0,0,2,0.0,4.0,2026-06-24
+23120,Beerschot VA,Oostende,football,2,0,0,2,1.0,5.0,2026-06-24
+23119,Dresden,Ingolstadt,football,2,1,0,1,3.0,3.0,2026-06-24
+23118,Erzgebirge Aue,Nurnberg,football,2,0,1,1,1.0,3.0,2026-06-24
+23117,Hannover,Werder Bremen,football,2,0,1,1,2.0,5.0,2026-06-24
+23116,Cambuur,Heracles,football,2,1,1,0,3.0,2.0,2026-06-24
+23115,Middlesbrough,Nott'm Forest,football,2,2,0,0,4.0,0.0,2026-06-24
+23114,Arsenal,Norwich,football,2,2,0,0,6.0,0.0,2026-06-24
+23113,Bournemouth,QPR,football,2,2,0,0,3.0,1.0,2026-06-24
+23112,AFC Wimbledon,Oxford,football,2,1,0,1,3.0,4.0,2026-06-24
+23111,Barnsley,Blackburn,football,2,0,1,1,1.0,2.0,2026-06-24
+23110,Huddersfield,Nott'm Forest,football,2,1,0,1,1.0,2.0,2026-06-24
+23109,Bournemouth,Cardiff,football,2,2,0,0,4.0,0.0,2026-06-24
+23108,Chesterfield,Kings Lynn,football,2,2,0,0,3.0,0.0,2026-06-24
+23107,Exeter,Sutton,football,2,1,0,1,3.0,2.0,2026-06-24
+23106,Forest Green,Stevenage,football,2,2,0,0,6.0,0.0,2026-06-24
+23105,Burton,Crewe,football,2,1,0,1,4.0,3.0,2026-06-24
+23104,Tottenham,Watford,football,2,2,0,0,2.0,0.0,2026-06-24
+23103,Fuenlabrada,Ibiza,football,2,0,0,2,2.0,5.0,2026-06-24
+23102,Girona,Huesca,football,2,1,0,1,2.0,3.0,2026-06-24
+23101,Dag and Red,Dover Athletic,football,2,2,0,0,5.0,1.0,2026-06-24
+23100,Alcorcon,Malaga,football,2,0,0,2,0.0,2.0,2026-06-24
+23099,Apollon,Olympiakos,football,2,0,1,1,1.0,4.0,2026-06-24
+23098,Cagliari,Sampdoria,football,2,2,0,0,5.0,2.0,2026-06-24
+23097,Trabzonspor,Yeni Malatyaspor,football,2,2,0,0,6.0,1.0,2026-06-24
+23096,Bordeaux,Marseille,football,2,0,1,1,2.0,3.0,2026-06-24
+23095,Alcorcon,Ibiza,football,2,0,0,2,2.0,8.0,2026-06-24
+23094,Greuther Furth,Stuttgart,football,2,0,1,1,1.0,5.0,2026-06-24
+23093,Bielefeld,Freiburg,football,2,0,2,0,2.0,2.0,2026-06-24
+23092,Scunthorpe,Tranmere,football,2,1,0,1,1.0,4.0,2026-06-24
+23091,Sunderland,Wycombe,football,2,1,1,0,6.0,4.0,2026-06-24
+23090,Altay,Kayserispor,football,2,1,0,1,3.0,1.0,2026-06-24
+23089,Fuenlabrada,Girona,football,2,0,0,2,2.0,4.0,2026-06-24
+23088,Genoa,Spezia,football,2,0,1,1,1.0,2.0,2026-06-24
+23087,Grimsby,Halifax,football,2,0,1,1,1.0,2.0,2026-06-24
+23086,Altrincham,Stockport,football,2,0,0,2,2.0,9.0,2026-06-24
+23085,Fulham,Reading,football,2,1,0,1,8.0,2.0,2026-06-24
+23084,Charlton,Crewe,football,2,1,0,1,3.0,2.0,2026-06-24
+23083,Goztep,Yeni Malatyaspor,football,2,1,0,1,2.0,2.0,2026-06-24
+23082,Dresden,Hamburg,football,2,0,2,0,2.0,2.0,2026-06-24
+23081,Apollon,Aris,football,2,0,2,0,0.0,0.0,2026-06-24
+23080,Pau FC,Toulouse,football,2,0,1,1,1.0,2.0,2026-06-24
+23079,Fortuna Dusseldorf,Werder Bremen,football,2,0,0,2,2.0,6.0,2026-06-24
+23078,Erzgebirge Aue,St Pauli,football,2,0,2,0,2.0,2.0,2026-06-24
+23077,Dover Athletic,Wealdstone,football,2,0,0,2,3.0,5.0,2026-06-24
+23076,Altrincham,Grimsby,football,2,0,0,2,2.0,5.0,2026-06-24
+23075,Forest Green,Northampton,football,2,1,1,0,2.0,1.0,2026-06-24
+23074,Exeter,Scunthorpe,football,2,2,0,0,6.0,0.0,2026-06-24
+23073,Bristol Rvs,Hartlepool,football,2,1,0,1,2.0,1.0,2026-06-24
+23072,Burton,Gillingham,football,2,1,1,0,4.0,2.0,2026-06-24
+23071,Fleetwood Town,Rotherham,football,2,2,0,0,5.0,2.0,2026-06-24
+23070,Accrington,Sunderland,football,2,0,1,1,2.0,3.0,2026-06-24
+23069,Coventry,Peterboro,football,2,2,0,0,7.0,1.0,2026-06-24
+23068,Millwall,Nott'm Forest,football,2,0,1,1,1.0,2.0,2026-06-24
+23067,Bristol City,Fulham,football,2,0,1,1,3.0,7.0,2026-06-24
+23066,Everton,Norwich,football,2,1,0,1,3.0,2.0,2026-06-24
+23065,Newcastle,Watford,football,2,0,2,0,2.0,2.0,2026-06-24
+23064,Alanyaspor,Altay,football,2,1,0,1,3.0,4.0,2026-06-24
+23063,Belenenses,Porto,football,2,0,0,2,1.0,6.0,2026-06-24
+23062,Bordeaux,Rennes,football,2,0,1,1,1.0,7.0,2026-06-24
+23061,Heidenheim,Ingolstadt,football,2,2,0,0,4.0,2.0,2026-06-24
+23060,Cambridge,Doncaster,football,2,1,1,0,4.0,2.0,2026-06-24
+23059,AFC Wimbledon,Portsmouth,football,2,0,1,1,1.0,2.0,2026-06-24
+23058,Birmingham,Fulham,football,2,0,0,2,3.0,10.0,2026-06-24
+23057,Altay,Fenerbahce,football,2,0,0,2,1.0,4.0,2026-06-24
+23056,Nancy,Toulouse,football,2,0,0,2,0.0,8.0,2026-06-24
+23055,Bielefeld,Ein Frankfurt,football,2,1,1,0,3.0,1.0,2026-06-24
+23054,Kings Lynn,Southend,football,2,0,0,2,1.0,3.0,2026-06-24
+23053,Besiktas,Yeni Malatyaspor,football,2,1,1,0,4.0,1.0,2026-06-24
+23052,Tondela,Vizela,football,2,0,0,2,3.0,5.0,2026-06-24
+23051,Dunkerque,Sochaux,football,2,0,1,1,0.0,1.0,2026-06-24
+23050,Bastia,Toulouse,football,2,0,1,1,0.0,1.0,2026-06-24
+23049,Fuenlabrada,Las Palmas,football,2,1,0,1,4.0,4.0,2026-06-24
+23048,Perugia,Pordenone,football,2,1,0,1,1.0,1.0,2026-06-24
+23047,Monza,Reggina,football,2,1,1,0,1.0,0.0,2026-06-24
+23046,Como,Crotone,football,2,0,2,0,3.0,3.0,2026-06-24
+23045,Alessandria,Benevento,football,2,1,0,1,5.0,4.0,2026-06-24
+23044,Erzgebirge Aue,Schalke 04,football,2,0,1,1,1.0,6.0,2026-06-24
+23043,Paderborn,Werder Bremen,football,2,1,0,1,7.0,5.0,2026-06-24
+23042,Darmstadt,Ingolstadt,football,2,2,0,0,8.0,1.0,2026-06-24
+23041,Greuther Furth,Mainz,football,2,1,0,1,2.0,4.0,2026-06-24
+23040,Dag and Red,Stockport,football,2,1,0,1,3.0,3.0,2026-06-24
+23039,Dover Athletic,Solihull,football,2,0,1,1,0.0,5.0,2026-06-24
+23038,Boreham Wood,Weymouth,football,2,1,1,0,3.0,1.0,2026-06-24
+23037,Exeter,Walsall,football,2,1,1,0,4.0,2.0,2026-06-24
+23036,Newport County,Scunthorpe,football,2,2,0,0,4.0,0.0,2026-06-24
+23035,Gillingham,Wigan,football,2,0,0,2,2.0,5.0,2026-06-24
+23034,Cheltenham,Rotherham,football,2,0,0,2,0.0,3.0,2026-06-24
+23033,Peterboro,West Brom,football,2,0,0,2,0.0,4.0,2026-06-24
+23032,Fulham,Stoke,football,2,2,0,0,6.0,2.0,2026-06-24
+23031,Bournemouth,Hull,football,2,0,1,1,0.0,1.0,2026-06-24
+23030,Derby,Nott'm Forest,football,2,0,1,1,2.0,3.0,2026-06-24
+23029,Altay,Konyaspor,football,2,0,0,2,1.0,4.0,2026-06-24
+23028,Belenenses,Maritimo,football,2,0,1,1,2.0,3.0,2026-06-24
+23027,Bordeaux,Strasbourg,football,2,1,0,1,6.0,8.0,2026-06-24
+23026,Girona,Lugo,football,2,0,1,1,1.0,2.0,2026-06-24
+23025,Cittadella,Vicenza,football,2,1,1,0,4.0,3.0,2026-06-24
+23024,Cartagena,Sociedad B,football,2,2,0,0,3.0,1.0,2026-06-24
+23023,Dag and Red,Weymouth,football,2,2,0,0,6.0,3.0,2026-06-24
+23022,Maidenhead,Stockport,football,2,0,0,2,0.0,5.0,2026-06-24
