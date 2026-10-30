@@ -1,0 +1,1529 @@
+{
+ "generated_at": "2026-10-30",
+ "db": "data/sports_data.db",
+ "tables_exported": 190,
+ "tables": [
+  {
+   "table": "backtest_curve",
+   "file": "samples/backtest_curve.csv",
+   "total_rows": 181,
+   "exported_rows": 100,
+   "columns": 1,
+   "dropped_sensitive_cols": 0
+  },
+  {
+   "table": "backtest_daily",
+   "file": "samples/backtest_daily.csv",
+   "total_rows": 3,
+   "exported_rows": 3,
+   "columns": 14,
+   "dropped_sensitive_cols": 0
+  },
+  {
+   "table": "backtest_summary",
+   "file": "samples/backtest_summary.csv",
+   "total_rows": 1,
+   "exported_rows": 1,
+   "columns": 10,
+   "dropped_sensitive_cols": 0
+  },
+  {
+   "table": "basketball_h2h",
+   "file": "samples/basketball_h2h.csv",
+   "total_rows": 2353,
+   "exported_rows": 100,
+   "columns": 6,
+   "dropped_sensitive_cols": 0
+  },
+  {
+   "table": "basketball_league_ou",
+   "file": "samples/basketball_league_ou.csv",
+   "total_rows": 15,
+   "exported_rows": 15,
+   "columns": 5,
+   "dropped_sensitive_cols": 0
+  },
+  {
+   "table": "basketball_matches",
+   "file": "samples/basketball_matches.csv",
+   "total_rows": 52923,
+   "exported_rows": 100,
+   "columns": 11,
+   "dropped_sensitive_cols": 0
+  },
+  {
+   "table": "basketball_moneyline_fade_recs",
+   "file": "samples/basketball_moneyline_fade_recs.csv",
+   "total_rows": 31,
+   "exported_rows": 31,
+   "columns": 18,
+   "dropped_sensitive_cols": 0
+  },
+  {
+   "table": "basketball_prediction",
+   "file": "samples/basketball_prediction.csv",
+   "total_rows": 267,
+   "exported_rows": 100,
+   "columns": 18,
+   "dropped_sensitive_cols": 0
+  },
+  {
+   "table": "basketball_team_stats",
+   "file": "samples/basketball_team_stats.csv",
+   "total_rows": 379,
+   "exported_rows": 100,
+   "columns": 7,
+   "dropped_sensitive_cols": 0
+  },
+  {
+   "table": "basketball_under_fade_recs",
+   "file": "samples/basketball_under_fade_recs.csv",
+   "total_rows": 31,
+   "exported_rows": 31,
+   "columns": 18,
+   "dropped_sensitive_cols": 0
+  },
+  {
+   "table": "bballref_team_stats",
+   "file": "samples/bballref_team_stats.csv",
+   "total_rows": 60,
+   "exported_rows": 60,
+   "columns": 19,
+   "dropped_sensitive_cols": 0
+  },
+  {
+   "table": "be_bball_matches",
+   "file": "samples/be_bball_matches.csv",
+   "total_rows": 588,
+   "exported_rows": 100,
+   "columns": 14,
+   "dropped_sensitive_cols": 0
+  },
+  {
+   "table": "be_bball_odds",
+   "file": "samples/be_bball_odds.csv",
+   "total_rows": 1176,
+   "exported_rows": 100,
+   "columns": 11,
+   "dropped_sensitive_cols": 0
+  },
+  {
+   "table": "betexplorer_matches",
+   "file": "samples/betexplorer_matches.csv",
+   "total_rows": 6145,
+   "exported_rows": 100,
+   "columns": 15,
+   "dropped_sensitive_cols": 0
+  },
+  {
+   "table": "betting_slips",
+   "file": "samples/betting_slips.csv",
+   "total_rows": 16,
+   "exported_rows": 16,
+   "columns": 9,
+   "dropped_sensitive_cols": 0
+  },
+  {
+   "table": "capital_allocation",
+   "file": "samples/capital_allocation.csv",
+   "total_rows": 971,
+   "exported_rows": 100,
+   "columns": 7,
+   "dropped_sensitive_cols": 0
+  },
+  {
+   "table": "club_elo",
+   "file": "samples/club_elo.csv",
+   "total_rows": 21496,
+   "exported_rows": 100,
+   "columns": 6,
+   "dropped_sensitive_cols": 0
+  },
+  {
+   "table": "combination_result",
+   "file": "samples/combination_result.csv",
+   "total_rows": 953,
+   "exported_rows": 100,
+   "columns": 5,
+   "dropped_sensitive_cols": 0
+  },
+  {
+   "table": "consensus_odds",
+   "file": "samples/consensus_odds.csv",
+   "total_rows": 495835,
+   "exported_rows": 100,
+   "columns": 12,
+   "dropped_sensitive_cols": 0
+  },
+  {
+   "table": "corner_league_baseline",
+   "file": "samples/corner_league_baseline.csv",
+   "total_rows": 22,
+   "exported_rows": 22,
+   "columns": 16,
+   "dropped_sensitive_cols": 0
+  },
+  {
+   "table": "corner_live_odds",
+   "file": "samples/corner_live_odds.csv",
+   "total_rows": 2879,
+   "exported_rows": 100,
+   "columns": 19,
+   "dropped_sensitive_cols": 0
+  },
+  {
+   "table": "corner_recommendations",
+   "file": "samples/corner_recommendations.csv",
+   "total_rows": 121,
+   "exported_rows": 100,
+   "columns": 20,
+   "dropped_sensitive_cols": 0
+  },
+  {
+   "table": "corner_stats_final",
+   "file": "samples/corner_stats_final.csv",
+   "total_rows": 1602,
+   "exported_rows": 100,
+   "columns": 16,
+   "dropped_sensitive_cols": 0
+  },
+  {
+   "table": "corner_stats_pending",
+   "file": "samples/corner_stats_pending.csv",
+   "total_rows": 2138,
+   "exported_rows": 100,
+   "columns": 8,
+   "dropped_sensitive_cols": 0
+  },
+  {
+   "table": "corner_team_stats",
+   "file": "samples/corner_team_stats.csv",
+   "total_rows": 601,
+   "exported_rows": 100,
+   "columns": 24,
+   "dropped_sensitive_cols": 0
+  },
+  {
+   "table": "data_quality_issue_log",
+   "file": "samples/data_quality_issue_log.csv",
+   "total_rows": 17178,
+   "exported_rows": 100,
+   "columns": 7,
+   "dropped_sensitive_cols": 0
+  },
+  {
+   "table": "dc_rho_state",
+   "file": "samples/dc_rho_state.csv",
+   "total_rows": 252,
+   "exported_rows": 100,
+   "columns": 4,
+   "dropped_sensitive_cols": 0
+  },
+  {
+   "table": "draw_calibration_curve",
+   "file": "samples/draw_calibration_curve.csv",
+   "total_rows": 3,
+   "exported_rows": 3,
+   "columns": 6,
+   "dropped_sensitive_cols": 0
+  },
+  {
+   "table": "espn_scores",
+   "file": "samples/espn_scores.csv",
+   "total_rows": 75,
+   "exported_rows": 75,
+   "columns": 24,
+   "dropped_sensitive_cols": 0
+  },
+  {
+   "table": "euroleague_boxscores",
+   "file": "samples/euroleague_boxscores.csv",
+   "total_rows": 202,
+   "exported_rows": 100,
+   "columns": 23,
+   "dropped_sensitive_cols": 0
+  },
+  {
+   "table": "euroleague_clubs",
+   "file": "samples/euroleague_clubs.csv",
+   "total_rows": 38,
+   "exported_rows": 38,
+   "columns": 9,
+   "dropped_sensitive_cols": 0
+  },
+  {
+   "table": "euroleague_games",
+   "file": "samples/euroleague_games.csv",
+   "total_rows": 101,
+   "exported_rows": 100,
+   "columns": 16,
+   "dropped_sensitive_cols": 0
+  },
+  {
+   "table": "euroleague_standings",
+   "file": "samples/euroleague_standings.csv",
+   "total_rows": 38,
+   "exported_rows": 38,
+   "columns": 14,
+   "dropped_sensitive_cols": 0
+  },
+  {
+   "table": "fbref_match_stats",
+   "file": "samples/fbref_match_stats.csv",
+   "total_rows": 9069,
+   "exported_rows": 100,
+   "columns": 11,
+   "dropped_sensitive_cols": 0
+  },
+  {
+   "table": "fd_corner_stats",
+   "file": "samples/fd_corner_stats.csv",
+   "total_rows": 155213,
+   "exported_rows": 100,
+   "columns": 47,
+   "dropped_sensitive_cols": 0
+  },
+  {
+   "table": "fd_elo_ratings",
+   "file": "samples/fd_elo_ratings.csv",
+   "total_rows": 1298,
+   "exported_rows": 100,
+   "columns": 5,
+   "dropped_sensitive_cols": 0
+  },
+  {
+   "table": "fd_matches",
+   "file": "samples/fd_matches.csv",
+   "total_rows": 309641,
+   "exported_rows": 100,
+   "columns": 81,
+   "dropped_sensitive_cols": 0
+  },
+  {
+   "table": "fd_matches_2627_fotmob",
+   "file": "samples/fd_matches_2627_fotmob.csv",
+   "total_rows": 234,
+   "exported_rows": 100,
+   "columns": 14,
+   "dropped_sensitive_cols": 0
+  },
+  {
+   "table": "fd_matches_archive_fix004",
+   "file": "samples/fd_matches_archive_fix004.csv",
+   "total_rows": 22358,
+   "exported_rows": 100,
+   "columns": 83,
+   "dropped_sensitive_cols": 0
+  },
+  {
+   "table": "fdcouk_elo_ratings",
+   "file": "samples/fdcouk_elo_ratings.csv",
+   "total_rows": 245033,
+   "exported_rows": 100,
+   "columns": 5,
+   "dropped_sensitive_cols": 0
+  },
+  {
+   "table": "fdcouk_matches",
+   "file": "samples/fdcouk_matches.csv",
+   "total_rows": 230557,
+   "exported_rows": 100,
+   "columns": 49,
+   "dropped_sensitive_cols": 0
+  },
+  {
+   "table": "fixture_lineups",
+   "file": "samples/fixture_lineups.csv",
+   "total_rows": 29103,
+   "exported_rows": 100,
+   "columns": 30,
+   "dropped_sensitive_cols": 0
+  },
+  {
+   "table": "flashscore_matches",
+   "file": "samples/flashscore_matches.csv",
+   "total_rows": 4522,
+   "exported_rows": 100,
+   "columns": 17,
+   "dropped_sensitive_cols": 0
+  },
+  {
+   "table": "flashscore_scrape_log",
+   "file": "samples/flashscore_scrape_log.csv",
+   "total_rows": 3426,
+   "exported_rows": 100,
+   "columns": 4,
+   "dropped_sensitive_cols": 0
+  },
+  {
+   "table": "football_matches",
+   "file": "samples/football_matches.csv",
+   "total_rows": 8202,
+   "exported_rows": 100,
+   "columns": 9,
+   "dropped_sensitive_cols": 0
+  },
+  {
+   "table": "football_score_predictions",
+   "file": "samples/football_score_predictions.csv",
+   "total_rows": 17273,
+   "exported_rows": 100,
+   "columns": 12,
+   "dropped_sensitive_cols": 0
+  },
+  {
+   "table": "football_team_stats",
+   "file": "samples/football_team_stats.csv",
+   "total_rows": 1598,
+   "exported_rows": 100,
+   "columns": 30,
+   "dropped_sensitive_cols": 0
+  },
+  {
+   "table": "football_xg_stats",
+   "file": "samples/football_xg_stats.csv",
+   "total_rows": 495,
+   "exported_rows": 100,
+   "columns": 5,
+   "dropped_sensitive_cols": 0
+  },
+  {
+   "table": "fotmob_fixtures",
+   "file": "samples/fotmob_fixtures.csv",
+   "total_rows": 393,
+   "exported_rows": 100,
+   "columns": 9,
+   "dropped_sensitive_cols": 0
+  },
+  {
+   "table": "fotmob_h2h_matches",
+   "file": "samples/fotmob_h2h_matches.csv",
+   "total_rows": 8464,
+   "exported_rows": 100,
+   "columns": 16,
+   "dropped_sensitive_cols": 0
+  },
+  {
+   "table": "fotmob_lineup_players",
+   "file": "samples/fotmob_lineup_players.csv",
+   "total_rows": 25427,
+   "exported_rows": 100,
+   "columns": 24,
+   "dropped_sensitive_cols": 0
+  },
+  {
+   "table": "fotmob_lineups",
+   "file": "samples/fotmob_lineups.csv",
+   "total_rows": 35336,
+   "exported_rows": 100,
+   "columns": 10,
+   "dropped_sensitive_cols": 0
+  },
+  {
+   "table": "fotmob_match_availability",
+   "file": "samples/fotmob_match_availability.csv",
+   "total_rows": 2525,
+   "exported_rows": 100,
+   "columns": 13,
+   "dropped_sensitive_cols": 0
+  },
+  {
+   "table": "fotmob_match_events",
+   "file": "samples/fotmob_match_events.csv",
+   "total_rows": 3116,
+   "exported_rows": 100,
+   "columns": 22,
+   "dropped_sensitive_cols": 0
+  },
+  {
+   "table": "fotmob_match_identity",
+   "file": "samples/fotmob_match_identity.csv",
+   "total_rows": 440,
+   "exported_rows": 100,
+   "columns": 30,
+   "dropped_sensitive_cols": 0
+  },
+  {
+   "table": "fotmob_match_stats_raw",
+   "file": "samples/fotmob_match_stats_raw.csv",
+   "total_rows": 68134,
+   "exported_rows": 100,
+   "columns": 17,
+   "dropped_sensitive_cols": 0
+  },
+  {
+   "table": "fotmob_match_team_stats",
+   "file": "samples/fotmob_match_team_stats.csv",
+   "total_rows": 35468,
+   "exported_rows": 100,
+   "columns": 52,
+   "dropped_sensitive_cols": 1
+  },
+  {
+   "table": "fotmob_match_weather",
+   "file": "samples/fotmob_match_weather.csv",
+   "total_rows": 439,
+   "exported_rows": 100,
+   "columns": 16,
+   "dropped_sensitive_cols": 0
+  },
+  {
+   "table": "fotmob_matches",
+   "file": "samples/fotmob_matches.csv",
+   "total_rows": 17737,
+   "exported_rows": 100,
+   "columns": 17,
+   "dropped_sensitive_cols": 0
+  },
+  {
+   "table": "fotmob_player_match_stats",
+   "file": "samples/fotmob_player_match_stats.csv",
+   "total_rows": 703768,
+   "exported_rows": 100,
+   "columns": 12,
+   "dropped_sensitive_cols": 0
+  },
+  {
+   "table": "fotmob_raw_responses",
+   "file": "samples/fotmob_raw_responses.csv",
+   "total_rows": 2844,
+   "exported_rows": 100,
+   "columns": 20,
+   "dropped_sensitive_cols": 0
+  },
+  {
+   "table": "fotmob_shots",
+   "file": "samples/fotmob_shots.csv",
+   "total_rows": 426002,
+   "exported_rows": 100,
+   "columns": 19,
+   "dropped_sensitive_cols": 0
+  },
+  {
+   "table": "fotmob_team_form",
+   "file": "samples/fotmob_team_form.csv",
+   "total_rows": 4517,
+   "exported_rows": 100,
+   "columns": 16,
+   "dropped_sensitive_cols": 0
+  },
+  {
+   "table": "fs_bball_matches",
+   "file": "samples/fs_bball_matches.csv",
+   "total_rows": 1298,
+   "exported_rows": 100,
+   "columns": 21,
+   "dropped_sensitive_cols": 0
+  },
+  {
+   "table": "fs_bball_scrape_log",
+   "file": "samples/fs_bball_scrape_log.csv",
+   "total_rows": 4557,
+   "exported_rows": 100,
+   "columns": 4,
+   "dropped_sensitive_cols": 0
+  },
+  {
+   "table": "hit_recommendations",
+   "file": "samples/hit_recommendations.csv",
+   "total_rows": 1709,
+   "exported_rows": 100,
+   "columns": 36,
+   "dropped_sensitive_cols": 0
+  },
+  {
+   "table": "intl_basketball",
+   "file": "samples/intl_basketball.csv",
+   "total_rows": 28680,
+   "exported_rows": 100,
+   "columns": 10,
+   "dropped_sensitive_cols": 0
+  },
+  {
+   "table": "jingcai_divergence_log",
+   "file": "samples/jingcai_divergence_log.csv",
+   "total_rows": 1163,
+   "exported_rows": 100,
+   "columns": 22,
+   "dropped_sensitive_cols": 0
+  },
+  {
+   "table": "jingcai_history_bball_matches",
+   "file": "samples/jingcai_history_bball_matches.csv",
+   "total_rows": 22261,
+   "exported_rows": 100,
+   "columns": 18,
+   "dropped_sensitive_cols": 0
+  },
+  {
+   "table": "jingcai_history_divergence",
+   "file": "samples/jingcai_history_divergence.csv",
+   "total_rows": 81744,
+   "exported_rows": 100,
+   "columns": 23,
+   "dropped_sensitive_cols": 0
+  },
+  {
+   "table": "jingcai_history_matches",
+   "file": "samples/jingcai_history_matches.csv",
+   "total_rows": 81744,
+   "exported_rows": 100,
+   "columns": 22,
+   "dropped_sensitive_cols": 0
+  },
+  {
+   "table": "jingcai_history_odds",
+   "file": "samples/jingcai_history_odds.csv",
+   "total_rows": 402668,
+   "exported_rows": 100,
+   "columns": 9,
+   "dropped_sensitive_cols": 0
+  },
+  {
+   "table": "league_ah_edge_recs",
+   "file": "samples/league_ah_edge_recs.csv",
+   "total_rows": 24,
+   "exported_rows": 24,
+   "columns": 18,
+   "dropped_sensitive_cols": 0
+  },
+  {
+   "table": "league_master",
+   "file": "samples/league_master.csv",
+   "total_rows": 5,
+   "exported_rows": 5,
+   "columns": 8,
+   "dropped_sensitive_cols": 0
+  },
+  {
+   "table": "league_preview_articles",
+   "file": "samples/league_preview_articles.csv",
+   "total_rows": 9,
+   "exported_rows": 9,
+   "columns": 9,
+   "dropped_sensitive_cols": 0
+  },
+  {
+   "table": "legacy_team_total_under_recs",
+   "file": "samples/legacy_team_total_under_recs.csv",
+   "total_rows": 55,
+   "exported_rows": 55,
+   "columns": 18,
+   "dropped_sensitive_cols": 0
+  },
+  {
+   "table": "lottery_sfc_matches",
+   "file": "samples/lottery_sfc_matches.csv",
+   "total_rows": 46396,
+   "exported_rows": 100,
+   "columns": 19,
+   "dropped_sensitive_cols": 0
+  },
+  {
+   "table": "lottery_sfc_prizes",
+   "file": "samples/lottery_sfc_prizes.csv",
+   "total_rows": 9933,
+   "exported_rows": 100,
+   "columns": 10,
+   "dropped_sensitive_cols": 0
+  },
+  {
+   "table": "ls_bball_games",
+   "file": "samples/ls_bball_games.csv",
+   "total_rows": 3223,
+   "exported_rows": 100,
+   "columns": 22,
+   "dropped_sensitive_cols": 0
+  },
+  {
+   "table": "ls_bball_leagues",
+   "file": "samples/ls_bball_leagues.csv",
+   "total_rows": 209,
+   "exported_rows": 100,
+   "columns": 6,
+   "dropped_sensitive_cols": 0
+  },
+  {
+   "table": "market_prediction_snapshot",
+   "file": "samples/market_prediction_snapshot.csv",
+   "total_rows": 795559,
+   "exported_rows": 100,
+   "columns": 22,
+   "dropped_sensitive_cols": 0
+  },
+  {
+   "table": "match_h2h",
+   "file": "samples/match_h2h.csv",
+   "total_rows": 15414,
+   "exported_rows": 100,
+   "columns": 11,
+   "dropped_sensitive_cols": 0
+  },
+  {
+   "table": "match_master",
+   "file": "samples/match_master.csv",
+   "total_rows": 91,
+   "exported_rows": 91,
+   "columns": 15,
+   "dropped_sensitive_cols": 0
+  },
+  {
+   "table": "match_predictions",
+   "file": "samples/match_predictions.csv",
+   "total_rows": 74,
+   "exported_rows": 74,
+   "columns": 17,
+   "dropped_sensitive_cols": 0
+  },
+  {
+   "table": "match_results",
+   "file": "samples/match_results.csv",
+   "total_rows": 22086,
+   "exported_rows": 100,
+   "columns": 15,
+   "dropped_sensitive_cols": 0
+  },
+  {
+   "table": "match_source_map",
+   "file": "samples/match_source_map.csv",
+   "total_rows": 91,
+   "exported_rows": 91,
+   "columns": 11,
+   "dropped_sensitive_cols": 0
+  },
+  {
+   "table": "moneyline_shadow_full",
+   "file": "samples/moneyline_shadow_full.csv",
+   "total_rows": 453,
+   "exported_rows": 100,
+   "columns": 17,
+   "dropped_sensitive_cols": 0
+  },
+  {
+   "table": "multi_bookie_odds",
+   "file": "samples/multi_bookie_odds.csv",
+   "total_rows": 50794,
+   "exported_rows": 100,
+   "columns": 13,
+   "dropped_sensitive_cols": 0
+  },
+  {
+   "table": "multi_xg_team_stats",
+   "file": "samples/multi_xg_team_stats.csv",
+   "total_rows": 59,
+   "exported_rows": 59,
+   "columns": 8,
+   "dropped_sensitive_cols": 0
+  },
+  {
+   "table": "multisource_odds",
+   "file": "samples/multisource_odds.csv",
+   "total_rows": 87791,
+   "exported_rows": 100,
+   "columns": 26,
+   "dropped_sensitive_cols": 0
+  },
+  {
+   "table": "national_team_elo",
+   "file": "samples/national_team_elo.csv",
+   "total_rows": 13420,
+   "exported_rows": 100,
+   "columns": 5,
+   "dropped_sensitive_cols": 0
+  },
+  {
+   "table": "nba_matches",
+   "file": "samples/nba_matches.csv",
+   "total_rows": 52481,
+   "exported_rows": 100,
+   "columns": 37,
+   "dropped_sensitive_cols": 0
+  },
+  {
+   "table": "odds_snapshot",
+   "file": "samples/odds_snapshot.csv",
+   "total_rows": 1780,
+   "exported_rows": 100,
+   "columns": 17,
+   "dropped_sensitive_cols": 0
+  },
+  {
+   "table": "odds_snapshots",
+   "file": "samples/odds_snapshots.csv",
+   "total_rows": 1760299,
+   "exported_rows": 100,
+   "columns": 8,
+   "dropped_sensitive_cols": 0
+  },
+  {
+   "table": "oddsportal_matches",
+   "file": "samples/oddsportal_matches.csv",
+   "total_rows": 5251,
+   "exported_rows": 100,
+   "columns": 14,
+   "dropped_sensitive_cols": 0
+  },
+  {
+   "table": "oddsportal_odds",
+   "file": "samples/oddsportal_odds.csv",
+   "total_rows": 7860,
+   "exported_rows": 100,
+   "columns": 8,
+   "dropped_sensitive_cols": 0
+  },
+  {
+   "table": "ofb_matches",
+   "file": "samples/ofb_matches.csv",
+   "total_rows": 90787,
+   "exported_rows": 100,
+   "columns": 15,
+   "dropped_sensitive_cols": 0
+  },
+  {
+   "table": "okooo_basketball_odds",
+   "file": "samples/okooo_basketball_odds.csv",
+   "total_rows": 212,
+   "exported_rows": 100,
+   "columns": 14,
+   "dropped_sensitive_cols": 0
+  },
+  {
+   "table": "okooo_bet_flow",
+   "file": "samples/okooo_bet_flow.csv",
+   "total_rows": 2547,
+   "exported_rows": 100,
+   "columns": 19,
+   "dropped_sensitive_cols": 0
+  },
+  {
+   "table": "okooo_football_odds",
+   "file": "samples/okooo_football_odds.csv",
+   "total_rows": 1433,
+   "exported_rows": 100,
+   "columns": 15,
+   "dropped_sensitive_cols": 0
+  },
+  {
+   "table": "okooo_injuries",
+   "file": "samples/okooo_injuries.csv",
+   "total_rows": 1306,
+   "exported_rows": 100,
+   "columns": 16,
+   "dropped_sensitive_cols": 0
+  },
+  {
+   "table": "okooo_ren9_matches",
+   "file": "samples/okooo_ren9_matches.csv",
+   "total_rows": 1412,
+   "exported_rows": 100,
+   "columns": 16,
+   "dropped_sensitive_cols": 0
+  },
+  {
+   "table": "okooo_ren9_snapshots",
+   "file": "samples/okooo_ren9_snapshots.csv",
+   "total_rows": 868,
+   "exported_rows": 100,
+   "columns": 11,
+   "dropped_sensitive_cols": 0
+  },
+  {
+   "table": "over_shadow_bets",
+   "file": "samples/over_shadow_bets.csv",
+   "total_rows": 333,
+   "exported_rows": 100,
+   "columns": 17,
+   "dropped_sensitive_cols": 0
+  },
+  {
+   "table": "pin_arm_runs",
+   "file": "samples/pin_arm_runs.csv",
+   "total_rows": 18,
+   "exported_rows": 18,
+   "columns": 7,
+   "dropped_sensitive_cols": 0
+  },
+  {
+   "table": "pinnacle_corner_odds",
+   "file": "samples/pinnacle_corner_odds.csv",
+   "total_rows": 150806,
+   "exported_rows": 100,
+   "columns": 19,
+   "dropped_sensitive_cols": 0
+  },
+  {
+   "table": "pinnacle_corner_odds_tiers",
+   "file": "samples/pinnacle_corner_odds_tiers.csv",
+   "total_rows": 237062,
+   "exported_rows": 100,
+   "columns": 20,
+   "dropped_sensitive_cols": 0
+  },
+  {
+   "table": "pinnacle_correct_score_odds",
+   "file": "samples/pinnacle_correct_score_odds.csv",
+   "total_rows": 62434,
+   "exported_rows": 100,
+   "columns": 8,
+   "dropped_sensitive_cols": 0
+  },
+  {
+   "table": "pinnacle_fixtures",
+   "file": "samples/pinnacle_fixtures.csv",
+   "total_rows": 8167,
+   "exported_rows": 100,
+   "columns": 13,
+   "dropped_sensitive_cols": 0
+  },
+  {
+   "table": "pinnacle_leagues",
+   "file": "samples/pinnacle_leagues.csv",
+   "total_rows": 503,
+   "exported_rows": 100,
+   "columns": 7,
+   "dropped_sensitive_cols": 0
+  },
+  {
+   "table": "pinnacle_odds",
+   "file": "samples/pinnacle_odds.csv",
+   "total_rows": 62460,
+   "exported_rows": 100,
+   "columns": 10,
+   "dropped_sensitive_cols": 0
+  },
+  {
+   "table": "pinnacle_odds_history",
+   "file": "samples/pinnacle_odds_history.csv",
+   "total_rows": 323715,
+   "exported_rows": 100,
+   "columns": 9,
+   "dropped_sensitive_cols": 0
+  },
+  {
+   "table": "pipeline_run_log",
+   "file": "samples/pipeline_run_log.csv",
+   "total_rows": 397,
+   "exported_rows": 100,
+   "columns": 7,
+   "dropped_sensitive_cols": 0
+  },
+  {
+   "table": "player_availability",
+   "file": "samples/player_availability.csv",
+   "total_rows": 2475,
+   "exported_rows": 100,
+   "columns": 34,
+   "dropped_sensitive_cols": 0
+  },
+  {
+   "table": "prediction_snapshot",
+   "file": "samples/prediction_snapshot.csv",
+   "total_rows": 1824,
+   "exported_rows": 100,
+   "columns": 27,
+   "dropped_sensitive_cols": 0
+  },
+  {
+   "table": "qiety_h2h_history",
+   "file": "samples/qiety_h2h_history.csv",
+   "total_rows": 168590,
+   "exported_rows": 100,
+   "columns": 19,
+   "dropped_sensitive_cols": 0
+  },
+  {
+   "table": "qiety_lineup_scrape_log",
+   "file": "samples/qiety_lineup_scrape_log.csv",
+   "total_rows": 14942,
+   "exported_rows": 100,
+   "columns": 3,
+   "dropped_sensitive_cols": 0
+  },
+  {
+   "table": "qiety_lineups",
+   "file": "samples/qiety_lineups.csv",
+   "total_rows": 86203,
+   "exported_rows": 100,
+   "columns": 13,
+   "dropped_sensitive_cols": 0
+  },
+  {
+   "table": "qiety_matches",
+   "file": "samples/qiety_matches.csv",
+   "total_rows": 29800,
+   "exported_rows": 100,
+   "columns": 11,
+   "dropped_sensitive_cols": 0
+  },
+  {
+   "table": "qiety_odds",
+   "file": "samples/qiety_odds.csv",
+   "total_rows": 4860,
+   "exported_rows": 100,
+   "columns": 11,
+   "dropped_sensitive_cols": 0
+  },
+  {
+   "table": "qiety_odds_snapshots",
+   "file": "samples/qiety_odds_snapshots.csv",
+   "total_rows": 91301,
+   "exported_rows": 100,
+   "columns": 12,
+   "dropped_sensitive_cols": 0
+  },
+  {
+   "table": "qiety_standings",
+   "file": "samples/qiety_standings.csv",
+   "total_rows": 224487,
+   "exported_rows": 100,
+   "columns": 20,
+   "dropped_sensitive_cols": 0
+  },
+  {
+   "table": "qiumibao_match_results",
+   "file": "samples/qiumibao_match_results.csv",
+   "total_rows": 31565,
+   "exported_rows": 100,
+   "columns": 18,
+   "dropped_sensitive_cols": 0
+  },
+  {
+   "table": "qiumibao_odds_snapshot",
+   "file": "samples/qiumibao_odds_snapshot.csv",
+   "total_rows": 1348,
+   "exported_rows": 100,
+   "columns": 13,
+   "dropped_sensitive_cols": 0
+  },
+  {
+   "table": "ren9_live_slips",
+   "file": "samples/ren9_live_slips.csv",
+   "total_rows": 235,
+   "exported_rows": 100,
+   "columns": 8,
+   "dropped_sensitive_cols": 0
+  },
+  {
+   "table": "ren9_rule_review",
+   "file": "samples/ren9_rule_review.csv",
+   "total_rows": 69,
+   "exported_rows": 69,
+   "columns": 25,
+   "dropped_sensitive_cols": 0
+  },
+  {
+   "table": "ren9_shadow_v2",
+   "file": "samples/ren9_shadow_v2.csv",
+   "total_rows": 2,
+   "exported_rows": 2,
+   "columns": 12,
+   "dropped_sensitive_cols": 0
+  },
+  {
+   "table": "ren9_warning_signals",
+   "file": "samples/ren9_warning_signals.csv",
+   "total_rows": 476,
+   "exported_rows": 100,
+   "columns": 19,
+   "dropped_sensitive_cols": 0
+  },
+  {
+   "table": "scraper_run_log",
+   "file": "samples/scraper_run_log.csv",
+   "total_rows": 4212,
+   "exported_rows": 100,
+   "columns": 7,
+   "dropped_sensitive_cols": 0
+  },
+  {
+   "table": "season_identity_evidence",
+   "file": "samples/season_identity_evidence.csv",
+   "total_rows": 55,
+   "exported_rows": 55,
+   "columns": 20,
+   "dropped_sensitive_cols": 0
+  },
+  {
+   "table": "settle_summary",
+   "file": "samples/settle_summary.csv",
+   "total_rows": 8,
+   "exported_rows": 8,
+   "columns": 12,
+   "dropped_sensitive_cols": 0
+  },
+  {
+   "table": "shadow_recommendations",
+   "file": "samples/shadow_recommendations.csv",
+   "total_rows": 3930,
+   "exported_rows": 100,
+   "columns": 20,
+   "dropped_sensitive_cols": 0
+  },
+  {
+   "table": "soccerway_matches",
+   "file": "samples/soccerway_matches.csv",
+   "total_rows": 2259,
+   "exported_rows": 100,
+   "columns": 19,
+   "dropped_sensitive_cols": 0
+  },
+  {
+   "table": "sofa_bball_matches",
+   "file": "samples/sofa_bball_matches.csv",
+   "total_rows": 837,
+   "exported_rows": 100,
+   "columns": 12,
+   "dropped_sensitive_cols": 0
+  },
+  {
+   "table": "sofa_bball_stats",
+   "file": "samples/sofa_bball_stats.csv",
+   "total_rows": 3750,
+   "exported_rows": 100,
+   "columns": 7,
+   "dropped_sensitive_cols": 0
+  },
+  {
+   "table": "soft_odds_snapshots",
+   "file": "samples/soft_odds_snapshots.csv",
+   "total_rows": 204679,
+   "exported_rows": 100,
+   "columns": 18,
+   "dropped_sensitive_cols": 0
+  },
+  {
+   "table": "soft_snap_seen",
+   "file": "samples/soft_snap_seen.csv",
+   "total_rows": 1,
+   "exported_rows": 1,
+   "columns": 3,
+   "dropped_sensitive_cols": 0
+  },
+  {
+   "table": "source_collection_runs",
+   "file": "samples/source_collection_runs.csv",
+   "total_rows": 9,
+   "exported_rows": 9,
+   "columns": 22,
+   "dropped_sensitive_cols": 0
+  },
+  {
+   "table": "source_evidence_limitations",
+   "file": "samples/source_evidence_limitations.csv",
+   "total_rows": 12,
+   "exported_rows": 12,
+   "columns": 13,
+   "dropped_sensitive_cols": 0
+  },
+  {
+   "table": "source_exception_audit",
+   "file": "samples/source_exception_audit.csv",
+   "total_rows": 3,
+   "exported_rows": 3,
+   "columns": 17,
+   "dropped_sensitive_cols": 0
+  },
+  {
+   "table": "source_field_observations",
+   "file": "samples/source_field_observations.csv",
+   "total_rows": 25484,
+   "exported_rows": 100,
+   "columns": 20,
+   "dropped_sensitive_cols": 0
+  },
+  {
+   "table": "source_identity_crosswalk",
+   "file": "samples/source_identity_crosswalk.csv",
+   "total_rows": 1,
+   "exported_rows": 1,
+   "columns": 12,
+   "dropped_sensitive_cols": 0
+  },
+  {
+   "table": "source_identity_evidence",
+   "file": "samples/source_identity_evidence.csv",
+   "total_rows": 5,
+   "exported_rows": 5,
+   "columns": 16,
+   "dropped_sensitive_cols": 0
+  },
+  {
+   "table": "source_incident_log",
+   "file": "samples/source_incident_log.csv",
+   "total_rows": 3,
+   "exported_rows": 3,
+   "columns": 14,
+   "dropped_sensitive_cols": 0
+  },
+  {
+   "table": "source_quota_receipts",
+   "file": "samples/source_quota_receipts.csv",
+   "total_rows": 107,
+   "exported_rows": 100,
+   "columns": 11,
+   "dropped_sensitive_cols": 0
+  },
+  {
+   "table": "source_request_ledger",
+   "file": "samples/source_request_ledger.csv",
+   "total_rows": 4842,
+   "exported_rows": 100,
+   "columns": 31,
+   "dropped_sensitive_cols": 0
+  },
+  {
+   "table": "sqlite_sequence",
+   "file": "samples/sqlite_sequence.csv",
+   "total_rows": 137,
+   "exported_rows": 100,
+   "columns": 2,
+   "dropped_sensitive_cols": 0
+  },
+  {
+   "table": "statsbomb_national_xg_matches",
+   "file": "samples/statsbomb_national_xg_matches.csv",
+   "total_rows": 377,
+   "exported_rows": 100,
+   "columns": 13,
+   "dropped_sensitive_cols": 0
+  },
+  {
+   "table": "statsbomb_national_xg_teams",
+   "file": "samples/statsbomb_national_xg_teams.csv",
+   "total_rows": 228,
+   "exported_rows": 100,
+   "columns": 12,
+   "dropped_sensitive_cols": 0
+  },
+  {
+   "table": "statsbomb_team_xg",
+   "file": "samples/statsbomb_team_xg.csv",
+   "total_rows": 469,
+   "exported_rows": 100,
+   "columns": 8,
+   "dropped_sensitive_cols": 0
+  },
+  {
+   "table": "team_form",
+   "file": "samples/team_form.csv",
+   "total_rows": 2382,
+   "exported_rows": 100,
+   "columns": 14,
+   "dropped_sensitive_cols": 0
+  },
+  {
+   "table": "team_gnn_courtmotion",
+   "file": "samples/team_gnn_courtmotion.csv",
+   "total_rows": 96,
+   "exported_rows": 96,
+   "columns": 5,
+   "dropped_sensitive_cols": 0
+  },
+  {
+   "table": "team_lstm_state",
+   "file": "samples/team_lstm_state.csv",
+   "total_rows": 544,
+   "exported_rows": 100,
+   "columns": 4,
+   "dropped_sensitive_cols": 0
+  },
+  {
+   "table": "team_master",
+   "file": "samples/team_master.csv",
+   "total_rows": 125,
+   "exported_rows": 100,
+   "columns": 5,
+   "dropped_sensitive_cols": 0
+  },
+  {
+   "table": "team_multimodal",
+   "file": "samples/team_multimodal.csv",
+   "total_rows": 48,
+   "exported_rows": 48,
+   "columns": 6,
+   "dropped_sensitive_cols": 0
+  },
+  {
+   "table": "team_name_map",
+   "file": "samples/team_name_map.csv",
+   "total_rows": 746,
+   "exported_rows": 100,
+   "columns": 7,
+   "dropped_sensitive_cols": 0
+  },
+  {
+   "table": "team_preview_notes",
+   "file": "samples/team_preview_notes.csv",
+   "total_rows": 112,
+   "exported_rows": 100,
+   "columns": 13,
+   "dropped_sensitive_cols": 0
+  },
+  {
+   "table": "team_rl_mas",
+   "file": "samples/team_rl_mas.csv",
+   "total_rows": 48,
+   "exported_rows": 48,
+   "columns": 4,
+   "dropped_sensitive_cols": 0
+  },
+  {
+   "table": "team_total_shadow_full",
+   "file": "samples/team_total_shadow_full.csv",
+   "total_rows": 639,
+   "exported_rows": 100,
+   "columns": 18,
+   "dropped_sensitive_cols": 0
+  },
+  {
+   "table": "team_transformer_state",
+   "file": "samples/team_transformer_state.csv",
+   "total_rows": 496,
+   "exported_rows": 100,
+   "columns": 3,
+   "dropped_sensitive_cols": 0
+  },
+  {
+   "table": "theodds_api_bookmakers",
+   "file": "samples/theodds_api_bookmakers.csv",
+   "total_rows": 3,
+   "exported_rows": 3,
+   "columns": 7,
+   "dropped_sensitive_cols": 0
+  },
+  {
+   "table": "theodds_api_events",
+   "file": "samples/theodds_api_events.csv",
+   "total_rows": 895,
+   "exported_rows": 100,
+   "columns": 12,
+   "dropped_sensitive_cols": 0
+  },
+  {
+   "table": "theodds_api_market_catalog",
+   "file": "samples/theodds_api_market_catalog.csv",
+   "total_rows": 56,
+   "exported_rows": 56,
+   "columns": 9,
+   "dropped_sensitive_cols": 0
+  },
+  {
+   "table": "theodds_api_odds",
+   "file": "samples/theodds_api_odds.csv",
+   "total_rows": 180505,
+   "exported_rows": 100,
+   "columns": 14,
+   "dropped_sensitive_cols": 0
+  },
+  {
+   "table": "theodds_api_odds_history",
+   "file": "samples/theodds_api_odds_history.csv",
+   "total_rows": 10960,
+   "exported_rows": 100,
+   "columns": 35,
+   "dropped_sensitive_cols": 0
+  },
+  {
+   "table": "theodds_api_raw_responses",
+   "file": "samples/theodds_api_raw_responses.csv",
+   "total_rows": 88,
+   "exported_rows": 88,
+   "columns": 24,
+   "dropped_sensitive_cols": 0
+  },
+  {
+   "table": "theodds_fixtures",
+   "file": "samples/theodds_fixtures.csv",
+   "total_rows": 49560,
+   "exported_rows": 100,
+   "columns": 12,
+   "dropped_sensitive_cols": 0
+  },
+  {
+   "table": "theodds_odds",
+   "file": "samples/theodds_odds.csv",
+   "total_rows": 426530,
+   "exported_rows": 100,
+   "columns": 12,
+   "dropped_sensitive_cols": 0
+  },
+  {
+   "table": "theodds_odds_history",
+   "file": "samples/theodds_odds_history.csv",
+   "total_rows": 2102401,
+   "exported_rows": 100,
+   "columns": 10,
+   "dropped_sensitive_cols": 0
+  },
+  {
+   "table": "titan007_1x2_odds",
+   "file": "samples/titan007_1x2_odds.csv",
+   "total_rows": 21546,
+   "exported_rows": 100,
+   "columns": 15,
+   "dropped_sensitive_cols": 0
+  },
+  {
+   "table": "titan007_handicap_odds",
+   "file": "samples/titan007_handicap_odds.csv",
+   "total_rows": 17057,
+   "exported_rows": 100,
+   "columns": 11,
+   "dropped_sensitive_cols": 0
+  },
+  {
+   "table": "titan007_match_history",
+   "file": "samples/titan007_match_history.csv",
+   "total_rows": 1645374,
+   "exported_rows": 100,
+   "columns": 17,
+   "dropped_sensitive_cols": 0
+  },
+  {
+   "table": "titan007_totals_odds",
+   "file": "samples/titan007_totals_odds.csv",
+   "total_rows": 17058,
+   "exported_rows": 100,
+   "columns": 11,
+   "dropped_sensitive_cols": 0
+  },
+  {
+   "table": "transfermarkt_squad_values",
+   "file": "samples/transfermarkt_squad_values.csv",
+   "total_rows": 203,
+   "exported_rows": 100,
+   "columns": 9,
+   "dropped_sensitive_cols": 0
+  },
+  {
+   "table": "under_shadow_bets",
+   "file": "samples/under_shadow_bets.csv",
+   "total_rows": 3027,
+   "exported_rows": 100,
+   "columns": 17,
+   "dropped_sensitive_cols": 0
+  },
+  {
+   "table": "understat_matches",
+   "file": "samples/understat_matches.csv",
+   "total_rows": 12174,
+   "exported_rows": 100,
+   "columns": 15,
+   "dropped_sensitive_cols": 0
+  },
+  {
+   "table": "understat_team_stats",
+   "file": "samples/understat_team_stats.csv",
+   "total_rows": 678,
+   "exported_rows": 100,
+   "columns": 18,
+   "dropped_sensitive_cols": 0
+  },
+  {
+   "table": "understat_xg_matches",
+   "file": "samples/understat_xg_matches.csv",
+   "total_rows": 5976,
+   "exported_rows": 100,
+   "columns": 13,
+   "dropped_sensitive_cols": 0
+  },
+  {
+   "table": "understat_xg_teams",
+   "file": "samples/understat_xg_teams.csv",
+   "total_rows": 336,
+   "exported_rows": 100,
+   "columns": 10,
+   "dropped_sensitive_cols": 0
+  },
+  {
+   "table": "unified_matches",
+   "file": "samples/unified_matches.csv",
+   "total_rows": 74621,
+   "exported_rows": 100,
+   "columns": 17,
+   "dropped_sensitive_cols": 0
+  },
+  {
+   "table": "unified_odds",
+   "file": "samples/unified_odds.csv",
+   "total_rows": 560846,
+   "exported_rows": 100,
+   "columns": 9,
+   "dropped_sensitive_cols": 0
+  },
+  {
+   "table": "wc2026_group_standings",
+   "file": "samples/wc2026_group_standings.csv",
+   "total_rows": 48,
+   "exported_rows": 48,
+   "columns": 15,
+   "dropped_sensitive_cols": 0
+  },
+  {
+   "table": "wc2026_groups",
+   "file": "samples/wc2026_groups.csv",
+   "total_rows": 12,
+   "exported_rows": 12,
+   "columns": 5,
+   "dropped_sensitive_cols": 0
+  },
+  {
+   "table": "wc2026_h2h",
+   "file": "samples/wc2026_h2h.csv",
+   "total_rows": 48,
+   "exported_rows": 48,
+   "columns": 10,
+   "dropped_sensitive_cols": 0
+  },
+  {
+   "table": "wc2026_match_events",
+   "file": "samples/wc2026_match_events.csv",
+   "total_rows": 258,
+   "exported_rows": 100,
+   "columns": 9,
+   "dropped_sensitive_cols": 0
+  },
+  {
+   "table": "wc2026_match_team_stats",
+   "file": "samples/wc2026_match_team_stats.csv",
+   "total_rows": 88,
+   "exported_rows": 88,
+   "columns": 19,
+   "dropped_sensitive_cols": 1
+  },
+  {
+   "table": "wc2026_matches",
+   "file": "samples/wc2026_matches.csv",
+   "total_rows": 70,
+   "exported_rows": 70,
+   "columns": 14,
+   "dropped_sensitive_cols": 0
+  },
+  {
+   "table": "wc2026_teams",
+   "file": "samples/wc2026_teams.csv",
+   "total_rows": 48,
+   "exported_rows": 48,
+   "columns": 9,
+   "dropped_sensitive_cols": 0
+  },
+  {
+   "table": "yb_corner_odds",
+   "file": "samples/yb_corner_odds.csv",
+   "total_rows": 658,
+   "exported_rows": 100,
+   "columns": 11,
+   "dropped_sensitive_cols": 0
+  },
+  {
+   "table": "yb_correct_score_odds",
+   "file": "samples/yb_correct_score_odds.csv",
+   "total_rows": 369031,
+   "exported_rows": 100,
+   "columns": 6,
+   "dropped_sensitive_cols": 0
+  }
+ ],
+ "skipped": [],
+ "note_raw_response": "raw_response 列已截断到600字符并标注原长度，避免单行数MB的原始JSON转储；元数据列完整保留"
+}
