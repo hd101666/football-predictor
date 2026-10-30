@@ -1,0 +1,60 @@
+﻿id,team_name,league,source,xg,xga,matches,fetch_date
+59,Atlético Madrid,Champions League,statsbomb,1.0,1.0,1,2026-06-06
+58,Real Madrid,Champions League,statsbomb,1.0,1.0,1,2026-06-06
+57,Hoffenheim,Bundesliga,statsbomb,2.0,3.0,2,2026-06-06
+56,Hannover 96,Bundesliga,statsbomb,0.0,4.0,2,2026-06-06
+55,Bayern Munich,Bundesliga,statsbomb,3.0,0.0,2,2026-06-06
+54,Darmstadt 98,Bundesliga,statsbomb,2.0,2.0,2,2026-06-06
+53,Borussia Dortmund,Bundesliga,statsbomb,4.0,0.0,2,2026-06-06
+52,FSV Mainz 05,Bundesliga,statsbomb,3.0,2.0,2,2026-06-06
+51,Werder Bremen,Bundesliga,statsbomb,4.0,4.0,2,2026-06-06
+50,Augsburg,Bundesliga,statsbomb,4.0,4.0,2,2026-06-06
+49,Hamburger SV,Bundesliga,statsbomb,0.0,1.0,2,2026-06-06
+48,VfB Stuttgart,Bundesliga,statsbomb,3.0,6.0,2,2026-06-06
+47,Wolfsburg,Bundesliga,statsbomb,2.0,4.0,2,2026-06-06
+46,FC Köln,Bundesliga,statsbomb,2.0,3.0,2,2026-06-06
+45,Eintracht Frankfurt,Bundesliga,statsbomb,1.0,6.0,2,2026-06-06
+44,Schalke 04,Bundesliga,statsbomb,3.0,4.0,2,2026-06-06
+43,Hertha Berlin,Bundesliga,statsbomb,3.0,3.0,2,2026-06-06
+42,Borussia Mönchengladbach,Bundesliga,statsbomb,2.0,6.0,2,2026-06-06
+41,Ingolstadt,Bundesliga,statsbomb,2.0,4.0,2,2026-06-06
+40,Bayer Leverkusen,Bundesliga,statsbomb,56.0,40.0,34,2026-06-06
+39,Granada,La Liga,statsbomb,6.0,9.0,4,2026-06-06
+38,Real Sociedad,La Liga,statsbomb,3.0,4.0,4,2026-06-06
+37,Valencia,La Liga,statsbomb,6.0,2.0,3,2026-06-06
+36,Celta Vigo,La Liga,statsbomb,2.0,3.0,3,2026-06-06
+35,Atlético Madrid,La Liga,statsbomb,11.0,3.0,6,2026-06-06
+34,Athletic Club,La Liga,statsbomb,7.0,4.0,5,2026-06-06
+33,Real Betis,La Liga,statsbomb,6.0,5.0,6,2026-06-06
+32,Rayo Vallecano,La Liga,statsbomb,6.0,4.0,4,2026-06-06
+31,Villarreal,La Liga,statsbomb,5.0,5.0,5,2026-06-06
+30,Espanyol,La Liga,statsbomb,6.0,11.0,4,2026-06-06
+29,Málaga,La Liga,statsbomb,8.0,5.0,6,2026-06-06
+28,Getafe,La Liga,statsbomb,7.0,14.0,7,2026-06-06
+27,RC Deportivo La Coruña,La Liga,statsbomb,3.0,9.0,5,2026-06-06
+26,Sevilla,La Liga,statsbomb,6.0,10.0,6,2026-06-06
+25,Las Palmas,La Liga,statsbomb,10.0,6.0,5,2026-06-06
+24,Eibar,La Liga,statsbomb,14.0,16.0,8,2026-06-06
+23,Levante UD,La Liga,statsbomb,14.0,18.0,10,2026-06-06
+22,Sporting Gijón,La Liga,statsbomb,6.0,8.0,6,2026-06-06
+21,Real Madrid,La Liga,statsbomb,12.0,2.0,3,2026-06-06
+20,West Ham United,Premier League,statsbomb,3.0,0.0,2,2026-06-06
+19,Manchester United,Premier League,statsbomb,3.0,2.0,4,2026-06-06
+18,Stoke City,Premier League,statsbomb,9.0,6.0,7,2026-06-06
+17,Norwich City,Premier League,statsbomb,5.0,3.0,4,2026-06-06
+16,Tottenham Hotspur,Premier League,statsbomb,8.0,1.0,3,2026-06-06
+15,Watford,Premier League,statsbomb,5.0,5.0,4,2026-06-06
+14,Crystal Palace,Premier League,statsbomb,3.0,5.0,4,2026-06-06
+13,Everton,Premier League,statsbomb,3.0,1.0,3,2026-06-06
+12,Newcastle United,Premier League,statsbomb,3.0,4.0,3,2026-06-06
+11,West Bromwich Albion,Premier League,statsbomb,7.0,7.0,6,2026-06-06
+10,AFC Bournemouth,Premier League,statsbomb,6.0,11.0,7,2026-06-06
+9,Leicester City,Premier League,statsbomb,7.0,5.0,6,2026-06-06
+8,Southampton,Premier League,statsbomb,10.0,2.0,3,2026-06-06
+7,Liverpool,Premier League,statsbomb,6.0,7.0,7,2026-06-06
+6,Sunderland,Premier League,statsbomb,5.0,13.0,7,2026-06-06
+5,Swansea City,Premier League,statsbomb,5.0,10.0,5,2026-06-06
+4,Manchester City,Premier League,statsbomb,1.0,4.0,4,2026-06-06
+3,Aston Villa,Premier League,statsbomb,3.0,14.0,6,2026-06-06
+2,Arsenal,Premier League,statsbomb,18.0,9.0,10,2026-06-06
+1,Chelsea,Premier League,statsbomb,6.0,7.0,5,2026-06-06

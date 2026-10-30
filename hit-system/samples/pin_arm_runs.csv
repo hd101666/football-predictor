@@ -1,0 +1,19 @@
+﻿period,run_ts,status,coverage_n,coverage_total,skip_reason,detail
+TEST02,2026-09-16 23:06:23,generated,13,14,alias_unmapped=1;no_fixture=0;odds_incomplete=0,
+TEST03,2026-09-16 23:06:23,scrape_failed,,,,returncode=2
+TEST01,2026-09-16 23:06:23,generated,13,14,,
+26127,2026-09-16 17:11:27,coverage_lt_12,1,14,alias_unmapped=13;no_fixture=0;odds_incomplete=0,backfill_20260916：机制上线前17:11实跑覆盖1/14跳过无落库，事后补登；证据=reports/ren9_26127_live_closeout.md §3（离线复现一致，唯一匹配还是bookings假身）
+26128,2026-09-17 19:10:26,coverage_lt_12,5,14,alias_unmapped=9;no_fixture=0;odds_incomplete=0,
+26129,2026-09-18 19:23:17,coverage_lt_12,7,14,alias_unmapped=7;no_fixture=0;odds_incomplete=0,
+26130,2026-09-19 20:42:22,coverage_lt_12,7,14,alias_unmapped=7;no_fixture=0;odds_incomplete=0,
+26132,2026-09-24 19:00:47,coverage_lt_12,2,14,alias_unmapped=10;no_fixture=2;odds_incomplete=0,
+26133,2026-09-26 19:00:29,coverage_lt_12,0,14,alias_unmapped=10;no_fixture=4;odds_incomplete=0,
+26134,2026-09-30 19:00:59,coverage_lt_12,0,14,alias_unmapped=9;no_fixture=5;odds_incomplete=0,
+26135,2026-10-07 20:10:36,coverage_lt_12,0,14,alias_unmapped=11;no_fixture=3;odds_incomplete=0,
+26145,2026-10-18 19:04:28,coverage_lt_12,9,14,alias_unmapped=5;no_fixture=0;odds_incomplete=0,
+26146,2026-10-20 19:02:03,coverage_lt_12,0,14,alias_unmapped=6;no_fixture=8;odds_incomplete=0,
+26147,2026-10-22 19:03:10,coverage_lt_12,0,14,alias_unmapped=9;no_fixture=5;odds_incomplete=0,
+26148,2026-10-23 19:20:30,coverage_lt_12,6,14,alias_unmapped=8;no_fixture=0;odds_incomplete=0,
+26149,2026-10-24 21:08:20,coverage_lt_12,8,14,alias_unmapped=6;no_fixture=0;odds_incomplete=0,
+26150,2026-10-25 19:43:19,coverage_lt_12,9,14,alias_unmapped=4;no_fixture=1;odds_incomplete=0,
+26152,2026-10-28 21:54:44,coverage_lt_12,6,14,alias_unmapped=6;no_fixture=2;odds_incomplete=0,
