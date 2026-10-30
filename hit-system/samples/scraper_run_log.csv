@@ -1,0 +1,669 @@
+﻿id,scraper,run_at,status,records_written,error_msg,stdout_tail
+4255,29_qiety_yb_full_scraper.run_basketball,2026-10-12T13:10:02,ok,105,,补爬(token刷新后): 38场成功 105条赔率
+4254,29_qiety_yb_full_scraper.run_football,2026-10-12T13:10:02,ok,330,,补爬(token刷新后): 110场成功 330条赔率
+4253,11_fbref_xg_scraper.run,2026-10-12T12:29:20,ok,1,,"stats/Chinese-Super-League-Stats
+2026-10-12 12:28:39,814 INFO   ✓ 页面加载 (2298037 chars): https://fbref.com/en/comps/206/stats/Chinese-Super-League-St
+2026-10-12 12:28:46,034 WARNING   关键列缺失: squad=Unnamed: 0_level_0_Squad, xG=None
+2026-10-12 12:28:46,034 WARNING   可用列(全部21个): ['Unnamed: 0_level_0_Squad', 'Unnamed: 1_level_0_# Pl', 'Unnamed: 2_level_0_Age', 'Unnamed: 3_level_0_Poss', 'Playing Time_MP', 'Playing Time_Starts', 'Playing Time_Min', 'Playing Time_90s', 'Performance_Gls', 'Performance_Ast', 'Performance_G+A', 'Performance_G-PK', 'Performance_PK', 'Performance_PKatt', 'Performance_CrdY', 'Performance_CrdR', 'Per 90 Minutes_Gls', 'Per 90 Minutes_Ast', 'Per 90 Minutes_G+A', 'Per 90 Minutes_G-PK', 'Per 90 Minutes_G+A-PK']
+2026-10-12 12:28:46,034 WARNING   解析到 0 行: csl
+2026-10-12 12:28:46,034 INFO 抓取 FBref xG k_league_1: https://fbref.com/en/comps/308/stats/K-League-1-Stats
+2026-10-12 12:28:54,718 INFO   ✓ 页面加载 (467517 chars): https://fbref.com/en/comps/308/stats/K-League-1-Stats
+2026-10-12 12:29:01,189 WARNING   页面无 stats_squads_standard_for 表: k_league_1
+2026-10-12 12:29:01,189 INFO 抓取 FBref xG serie_a_br: https://fbref.com/en/comps/37/stats/Serie-A-Stats
+2026-10-12 12:29:12,051 INFO   ✓ 页面加载 (2099460 chars): https://fbref.com/en/comps/37/stats/Serie-A-Stats
+2026-10-12 12:29:18,748 WARNING   关键列缺失: squad=Unnamed: 0_level_0_Squad, xG=None
+2026-10-12 12:29:18,748 WARNING   可用列(全部21个): ['Unnamed: 0_level_0_Squad', 'Unnamed: 1_level_0_# Pl', 'Unnamed: 2_level_0_Age', 'Unnamed: 3_level_0_Poss', 'Playing Time_MP', 'Playing Time_Starts', 'Playing Time_Min', 'Playing Time_90s', 'Performance_Gls', 'Performance_Ast', 'Performance_G+A', 'Performance_G-PK', 'Performance_PK', 'Performance_PKatt', 'Performance_CrdY', 'Performance_CrdR', 'Per 90 Minutes_Gls', 'Per 90 Minutes_Ast', 'Per 90 Minutes_G+A', 'Per 90 Minutes_G-PK', 'Per 90 Minutes_G+A-PK']
+2026-10-12 12:29:18,748 WARNING   解析到 0 行: serie_a_br
+2026-10-12 12:29:18,942 INFO === FBref xG 抓取完成，共 0 支球队 ==="
+4252,12_statsbomb_national_xg_scraper.run,2026-10-12T12:28:32,ok,199,,"2026-10-12 12:24:06,954 INFO ✅ StatsBomb 国家队数据表初始化完成
+2026-10-12 12:24:08,300 INFO === StatsBomb 国家队 xG 抓取 | 赛事数=4 ===
+2026-10-12 12:24:08,301 INFO 赛事: African Cup of Nations | 1 个赛季
+2026-10-12 12:24:08,301 INFO   African Cup of Nations 2023 (season_id=107)
+2026-10-12 12:24:08,736 INFO     共 52 场
+2026-10-12 12:25:11,327 INFO   ✅ statsbomb_national_xg_matches 写入 52 场 (African Cup of Nations)
+2026-10-12 12:25:11,932 INFO   ✅ statsbomb_national_xg_teams 写入 24 队 (African Cup of Nations)
+2026-10-12 12:25:11,939 INFO 赛事: Copa America | 1 个赛季
+2026-10-12 12:25:11,939 INFO   Copa America 2024 (season_id=282)
+2026-10-12 12:25:12,265 INFO     共 32 场
+2026-10-12 12:25:54,340 INFO   ✅ statsbomb_national_xg_matches 写入 32 场 (Copa America)
+2026-10-12 12:25:55,048 INFO   ✅ statsbomb_national_xg_teams 写入 16 队 (Copa America)
+2026-10-12 12:25:55,055 INFO 赛事: FIFA World Cup | 1 个赛季
+2026-10-12 12:25:55,055 INFO   FIFA World Cup 2022 (season_id=106)
+2026-10-12 12:25:55,389 INFO     共 64 场
+2026-10-12 12:27:17,124 INFO   ✅ statsbomb_national_xg_matches 写入 64 场 (FIFA World Cup)
+2026-10-12 12:27:17,692 INFO   ✅ statsbomb_national_xg_teams 写入 32 队 (FIFA World Cup)
+2026-10-12 12:27:17,700 INFO 赛事: UEFA Euro | 1 个赛季
+2026-10-12 12:27:17,700 INFO   UEFA Euro 2024 (season_id=282)
+2026-10-12 12:27:18,083 INFO     共 51 场
+2026-10-12 12:28:30,853 INFO   ✅ statsbomb_national_xg_matches 写入 51 场 (UEFA Euro)
+2026-10-12 12:28:31,698 INFO   ✅ statsbomb_national_xg_teams 写入 24 队 (UEFA Euro)
+2026-10-12 12:28:31,706 INFO === StatsBomb 国家队 xG 抓取完成 ==="
+4251,31_nba_official_scraper.run,2026-10-12T12:25:16,ok,1,,
+4250,04_2_Football_xG_Module.calc_and_save,2026-10-12T12:25:06,ok,495,,"2026-10-12 12:25:05,685 INFO 加载各数据源 xG...
+2026-10-12 12:25:05,723 INFO   Understat: 112 条
+2026-10-12 12:25:05,727 INFO   FBref: 0 条
+2026-10-12 12:25:05,853 INFO   历史比分: 448 条
+2026-10-12 12:25:05,910 INFO 融合后共 495 条 xG 记录
+2026-10-12 12:25:05,914 INFO   来源分布: {'historical': 383, 'understat': 112}
+2026-10-12 12:25:05,971 INFO ✅ football_xg_stats 写入 495 条（三源融合）"
+4249,23_football_data_scraper.run,2026-10-12T12:25:04,ok,0,,"26-10-12 12:19:22,702 INFO [扩展] ARG — Argentina Primera Division  (从 2012)
+2026-10-12 12:19:38,393 INFO   小计: 0 场
+2026-10-12 12:19:38,393 INFO [扩展] AUS — Australia A-League  (从 2003)
+2026-10-12 12:20:43,605 INFO   小计: 0 场
+2026-10-12 12:20:43,605 INFO [扩展] AUT — Austria Bundesliga  (从 2011)
+2026-10-12 12:20:59,521 INFO   小计: 0 场
+2026-10-12 12:20:59,522 INFO [扩展] BRA — Brazil Serie A  (从 2012)
+2026-10-12 12:21:15,552 INFO   小计: 0 场
+2026-10-12 12:21:15,552 INFO [扩展] CHN — China Super League  (从 2010)
+2026-10-12 12:21:34,136 INFO   小计: 0 场
+2026-10-12 12:21:34,136 INFO [扩展] DNK — Denmark Superliga  (从 2011)
+2026-10-12 12:21:51,254 INFO   小计: 0 场
+2026-10-12 12:21:51,254 INFO [扩展] FIN — Finland Veikkausliiga  (从 2010)
+2026-10-12 12:22:09,107 INFO   小计: 0 场
+2026-10-12 12:22:09,107 INFO [扩展] IRL — Ireland Premier Division  (从 2011)
+2026-10-12 12:22:26,530 INFO   小计: 0 场
+2026-10-12 12:22:26,530 INFO [扩展] JPN — Japan J1 League  (从 2012)
+2026-10-12 12:22:43,735 INFO   小计: 0 场
+2026-10-12 12:22:43,735 INFO [扩展] MEX — Mexico Liga MX  (从 2012)
+2026-10-12 12:22:59,075 INFO   小计: 0 场
+2026-10-12 12:22:59,075 INFO [扩展] NOR — Norway Eliteserien  (从 2010)
+2026-10-12 12:23:16,512 INFO   小计: 0 场
+2026-10-12 12:23:16,512 INFO [扩展] POL — Poland Ekstraklasa  (从 2011)
+2026-10-12 12:23:33,676 INFO   小计: 0 场
+2026-10-12 12:23:33,676 INFO [扩展] ROM — Romania Liga 1  (从 2010)
+2026-10-12 12:23:52,087 INFO   小计: 0 场
+2026-10-12 12:23:52,087 INFO [扩展] RUS — Russia Premier League  (从 2010)
+2026-10-12 12:24:10,788 INFO   小计: 0 场
+2026-10-12 12:24:10,788 INFO [扩展] SWE — Sweden Allsvenskan  (从 2010)
+2026-10-12 12:24:28,554 INFO   小计: 0 场
+2026-10-12 12:24:28,554 INFO [扩展] SWZ — Switzerland Super League  (从 2011)
+2026-10-12 12:24:46,313 INFO   小计: 0 场
+2026-10-12 12:24:46,313 INFO [扩展] USA — USA MLS  (从 2011)
+2026-10-12 12:25:04,045 INFO   小计: 0 场
+2026-10-12 12:25:04,045 INFO ============================================================
+2026-10-12 12:25:04,045 INFO 完成: 共写入 0 场"
+4248,25_transfermarkt_scraper.run,2026-10-12T12:24:05,ok,1,,
+4247,10_understat_xg_scraper.run,2026-10-12T12:23:02,ok,1992,,"2026-10-12 12:22:18,445 INFO ✅ Understat 数据表初始化完成
+2026-10-12 12:22:18,445 INFO === Understat xG 抓取 | 赛季=2026 | 联赛=['premier_league', 'laliga', 'bundesliga', 'serie_a', 'ligue_1', 'rfpl'] ===
+2026-10-12 12:22:18,445 INFO 抓取 EPL 2026赛季
+2026-10-12 12:22:20,801 INFO   热身 HTTP 200
+2026-10-12 12:22:22,743 INFO   teams=20 支, dates=380 场
+2026-10-12 12:22:23,303 INFO   ✅ understat_xg_matches 写入 380 条 (premier_league 2026)
+2026-10-12 12:22:23,830 INFO   ✅ understat_xg_teams 写入 20 支球队 (premier_league 2026)
+2026-10-12 12:22:25,789 INFO 抓取 La_liga 2026赛季
+2026-10-12 12:22:26,669 INFO   teams=20 支, dates=380 场
+2026-10-12 12:22:27,212 INFO   ✅ understat_xg_matches 写入 380 条 (laliga 2026)
+2026-10-12 12:22:27,794 INFO   ✅ understat_xg_teams 写入 20 支球队 (laliga 2026)
+2026-10-12 12:22:31,367 INFO 抓取 Bundesliga 2026赛季
+2026-10-12 12:22:33,488 INFO   teams=18 支, dates=306 场
+2026-10-12 12:22:34,050 INFO   ✅ understat_xg_matches 写入 306 条 (bundesliga 2026)
+2026-10-12 12:22:34,542 INFO   ✅ understat_xg_teams 写入 18 支球队 (bundesliga 2026)
+2026-10-12 12:22:38,725 INFO 抓取 Serie_A 2026赛季
+2026-10-12 12:22:42,960 INFO   teams=20 支, dates=380 场
+2026-10-12 12:22:43,582 INFO   ✅ understat_xg_matches 写入 380 条 (serie_a 2026)
+2026-10-12 12:22:44,192 INFO   ✅ understat_xg_teams 写入 20 支球队 (serie_a 2026)
+2026-10-12 12:22:48,399 INFO 抓取 Ligue_1 2026赛季
+2026-10-12 12:22:50,441 INFO   teams=18 支, dates=306 场
+2026-10-12 12:22:50,939 INFO   ✅ understat_xg_matches 写入 306 条 (ligue_1 2026)
+2026-10-12 12:22:51,576 INFO   ✅ understat_xg_teams 写入 18 支球队 (ligue_1 2026)
+2026-10-12 12:22:54,774 INFO 抓取 RFPL 2026赛季
+2026-10-12 12:22:56,703 INFO   teams=16 支, dates=240 场
+2026-10-12 12:22:57,286 INFO   ✅ understat_xg_matches 写入 240 条 (rfpl 2026)
+2026-10-12 12:22:57,773 INFO   ✅ understat_xg_teams 写入 16 支球队 (rfpl 2026)
+2026-10-12 12:23:02,125 INFO === Understat xG 抓取完成 ==="
+4246,19_whoscored_scraper.run,2026-10-12T12:22:17,ok,1,,
+4245,import_corner_stats.run,2026-10-12T12:21:57,ok,1,,
+4244,04_1_LSTM_时序状态模型.run,2026-10-12T12:21:49,ok,1,,"📊 加载完成：122250 条记录，544 支球队
+✅ EMA+AR(1) 时序状态分计算完成并入库"
+4243,_elo_scraper.run,2026-10-12T12:21:42,ok,1,,
+4242,16_footballdata_scraper.run,2026-10-12T12:21:35,ok,1,,
+4241,23_bball_ref_scraper.run,2026-10-12T12:20:29,ok,1,,
+4240,43_fotmob_match_data_scraper.run,2026-10-12T12:19:55,ok,1,,
+4239,09_flashscore_schedule_scraper.run,2026-10-12T12:18:50,ok,1,,
+4238,10_oddsportal_scraper.run,2026-10-12T12:16:04,ok,1,,
+4237,46_qiety_lineup_scraper.run_basketball,2026-10-12T12:13:50,ok,1,,"目标比赛数: 0
+
+  完成: 0场成功 0场失败 | 阵容0条 积分榜0条 交锋历史0条"
+4236,38_qiety_correct_score_scraper.run,2026-10-12T12:13:50,ok,1,,比分盘口抓取: 0 场候选比赛（unified_matches当天也无足球比赛，视为正常）
+4235,46_qiety_lineup_scraper.run_football,2026-10-12T12:13:49,ok,1,,"目标比赛数: 0
+
+  完成: 0场成功 0场失败 | 阵容0条 积分榜0条 交锋历史0条"
+4234,30_flashscore_basketball_scraper.run,2026-10-12T12:13:49,ok,1,,
+4233,18_espn_scores_scraper.run,2026-10-12T12:00:41,ok,1,,
+4232,16_flashscore_results_scraper.run,2026-10-12T11:57:59,ok,1,,
+4231,08_flashscore_scraper.run,2026-10-12T11:54:28,ok,1,,
+4230,37_corner_stats_scraper.run,2026-10-12T11:54:28,ok,1,,
+4229,29_betexplorer_basketball_scraper.run,2026-10-12T11:52:19,ok,1,,
+4228,28_livescore_basketball_scraper.run,2026-10-12T11:48:58,ok,1,,
+4227,27_euroleague_feeds_scraper.run,2026-10-12T11:47:57,ok,1,,
+4226,26_multi_bookmaker_scraper.run,2026-10-12T11:47:35,ok,1,,
+4225,48_qiumibao_corner_scraper.run_odds_snapshot,2026-10-12T11:46:40,ok,1,,
+4224,42_okooo_jingcai_scraper.run,2026-10-12T11:46:36,ok,10,,"竞彩足球: 10 场写入
+  竞彩篮球: 0 场写入"
+4223,41_okooo_betflow_scraper.run,2026-10-12T11:46:33,ok,1,,球路走势: 10 场比赛，30 行(每场胜/平/负各1行)写入
+4222,40_okooo_injury_scraper.run,2026-10-12T11:46:31,ok,31,,伤停数据: 4 场比赛，31 名球员记录写入 (31 行)
+4221,39_okooo_ren9_scraper.run,2026-10-12T11:46:29,ok,14,,"任九第26139期: 14/14 场写入（快照批次 2026-10-12 11:46:29: 14 场）
+    [1] 10-13 00:00 亚冠 瓦斯尔 vs 吉国民  胜3.4/平3.73/负1.91
+    [2] 10-13 02:15 亚冠 利胜利 vs 费干纳  胜1.21/平6.41/负10.38
+    [3] 10-13 03:00 英超 考文垂 vs 纽卡斯  胜3.17/平3.57/负2.17
+    [4] 10-13 00:30 意甲 亚特兰 vs 威尼斯  胜1.52/平4.4/负5.72
+    [5] 10-13 02:45 意甲 都灵 vs 乌迪内  胜2.34/平3.18/负3.15
+    [6] 10-13 03:00 西甲 莱万特 vs 塞维利  胜2.65/平3.22/负2.7
+    [7] 10-13 02:45 法乙 第戎 vs 梅斯  胜2.69/平3.43/负2.4
+    [8] 10-13 03:15 葡超 法马利 vs 阿维卡  胜1.85/平3.34/负4.29
+    [9] 10-13 01:00 瑞超 埃尔夫 vs 哈尔姆  胜1.31/平5.13/负8.29
+    [10] 10-13 01:00 瑞超 马尔默 vs 卡尔马  胜1.73/平3.78/负4.25
+    [11] 10-13 01:00 挪超 奥斯K vs 瓦勒伦  胜2.75/平3.61/负2.29
+    [12] 10-12 23:00 芬超 瓦萨 vs 赫火花  胜2.34/平3.36/负2.77
+    [13] 10-13 00:00 芬超 奥卢 vs 赫尔辛  胜4.18/平3.76/负1.73
+    [14] 10-13 03:00 巴甲 科里蒂 vs 博塔弗  胜2.6/平3.42/负2.51"
+4218,03_实时赔率抓取.run_all,2026-10-12T11:46:23,ok,1,,"✅ 赔率表初始化完成
+📡 正在获取套利机会...
+  sportsbook-api2 状态码 404: <!doctype html>
+<html lang=en>
+<title>404 Not Found</title>
+<h1>Not Found</h1>
+<p>The requested URL was not found on the server. If you entered the URL manually please check your spelling and try agai
+⚠️ 暂无套利数据
+📡 正在获取实时 1X2 赔率...
+  odds-feed: 当前无进行中赛事，跳过
+⚠️ 暂无实时赔率数据（可能非实时营业时间）
+
+✅ 赔率抓取完成"
+4217,33_corner_odds_scraper.main,2026-10-12T11:46:17,ok,1,,
+4216,15_pinnacle_oddsportal_scraper.fetch_all_correct_score_odds,2026-10-12T11:45:36,ok,1,,
+4215,12_pinnacle_scraper.fetch_all_corner_odds,2026-10-12T11:38:17,ok,1,,
+4214,35_theoddsapi_multi_scraper.run,2026-10-12T11:12:34,ok,1,,
+4213,15_pinnacle_oddsportal_scraper.run,2026-10-12T11:11:31,ok,1,,
+4212,12_statsbomb_national_xg_scraper.run,2026-10-08T18:06:32,ok,199,,"2026-10-08 18:02:37,240 INFO ✅ StatsBomb 国家队数据表初始化完成
+2026-10-08 18:02:39,709 INFO === StatsBomb 国家队 xG 抓取 | 赛事数=4 ===
+2026-10-08 18:02:39,709 INFO 赛事: African Cup of Nations | 1 个赛季
+2026-10-08 18:02:39,709 INFO   African Cup of Nations 2023 (season_id=107)
+2026-10-08 18:02:40,448 INFO     共 52 场
+2026-10-08 18:03:48,581 INFO   ✅ statsbomb_national_xg_matches 写入 52 场 (African Cup of Nations)
+2026-10-08 18:03:49,012 INFO   ✅ statsbomb_national_xg_teams 写入 24 队 (African Cup of Nations)
+2026-10-08 18:03:49,017 INFO 赛事: Copa America | 1 个赛季
+2026-10-08 18:03:49,018 INFO   Copa America 2024 (season_id=282)
+2026-10-08 18:03:49,339 INFO     共 32 场
+2026-10-08 18:04:24,164 INFO   ✅ statsbomb_national_xg_matches 写入 32 场 (Copa America)
+2026-10-08 18:04:24,653 INFO   ✅ statsbomb_national_xg_teams 写入 16 队 (Copa America)
+2026-10-08 18:04:24,659 INFO 赛事: FIFA World Cup | 1 个赛季
+2026-10-08 18:04:24,660 INFO   FIFA World Cup 2022 (season_id=106)
+2026-10-08 18:04:25,027 INFO     共 64 场
+2026-10-08 18:05:29,324 INFO   ✅ statsbomb_national_xg_matches 写入 64 场 (FIFA World Cup)
+2026-10-08 18:05:29,927 INFO   ✅ statsbomb_national_xg_teams 写入 32 队 (FIFA World Cup)
+2026-10-08 18:05:29,934 INFO 赛事: UEFA Euro | 1 个赛季
+2026-10-08 18:05:29,934 INFO   UEFA Euro 2024 (season_id=282)
+2026-10-08 18:05:30,280 INFO     共 51 场
+2026-10-08 18:06:31,746 INFO   ✅ statsbomb_national_xg_matches 写入 51 场 (UEFA Euro)
+2026-10-08 18:06:32,160 INFO   ✅ statsbomb_national_xg_teams 写入 24 队 (UEFA Euro)
+2026-10-08 18:06:32,166 INFO === StatsBomb 国家队 xG 抓取完成 ==="
+4211,11_fbref_xg_scraper.run,2026-10-08T18:06:17,ok,1,,"stats/Chinese-Super-League-Stats
+2026-10-08 18:05:35,403 INFO   ✓ 页面加载 (2268941 chars): https://fbref.com/en/comps/206/stats/Chinese-Super-League-St
+2026-10-08 18:05:41,303 WARNING   关键列缺失: squad=Unnamed: 0_level_0_Squad, xG=None
+2026-10-08 18:05:41,303 WARNING   可用列(全部21个): ['Unnamed: 0_level_0_Squad', 'Unnamed: 1_level_0_# Pl', 'Unnamed: 2_level_0_Age', 'Unnamed: 3_level_0_Poss', 'Playing Time_MP', 'Playing Time_Starts', 'Playing Time_Min', 'Playing Time_90s', 'Performance_Gls', 'Performance_Ast', 'Performance_G+A', 'Performance_G-PK', 'Performance_PK', 'Performance_PKatt', 'Performance_CrdY', 'Performance_CrdR', 'Per 90 Minutes_Gls', 'Per 90 Minutes_Ast', 'Per 90 Minutes_G+A', 'Per 90 Minutes_G-PK', 'Per 90 Minutes_G+A-PK']
+2026-10-08 18:05:41,303 WARNING   解析到 0 行: csl
+2026-10-08 18:05:41,303 INFO 抓取 FBref xG k_league_1: https://fbref.com/en/comps/308/stats/K-League-1-Stats
+2026-10-08 18:05:49,994 INFO   ✓ 页面加载 (465998 chars): https://fbref.com/en/comps/308/stats/K-League-1-Stats
+2026-10-08 18:05:57,066 WARNING   页面无 stats_squads_standard_for 表: k_league_1
+2026-10-08 18:05:57,066 INFO 抓取 FBref xG serie_a_br: https://fbref.com/en/comps/37/stats/Serie-A-Stats
+2026-10-08 18:06:07,027 INFO   ✓ 页面加载 (2001418 chars): https://fbref.com/en/comps/37/stats/Serie-A-Stats
+2026-10-08 18:06:15,194 WARNING   关键列缺失: squad=Unnamed: 0_level_0_Squad, xG=None
+2026-10-08 18:06:15,194 WARNING   可用列(全部21个): ['Unnamed: 0_level_0_Squad', 'Unnamed: 1_level_0_# Pl', 'Unnamed: 2_level_0_Age', 'Unnamed: 3_level_0_Poss', 'Playing Time_MP', 'Playing Time_Starts', 'Playing Time_Min', 'Playing Time_90s', 'Performance_Gls', 'Performance_Ast', 'Performance_G+A', 'Performance_G-PK', 'Performance_PK', 'Performance_PKatt', 'Performance_CrdY', 'Performance_CrdR', 'Per 90 Minutes_Gls', 'Per 90 Minutes_Ast', 'Per 90 Minutes_G+A', 'Per 90 Minutes_G-PK', 'Per 90 Minutes_G+A-PK']
+2026-10-08 18:06:15,194 WARNING   解析到 0 行: serie_a_br
+2026-10-08 18:06:15,452 INFO === FBref xG 抓取完成，共 0 支球队 ==="
+4210,31_nba_official_scraper.run,2026-10-08T18:03:10,ok,1,,
+4209,04_2_Football_xG_Module.calc_and_save,2026-10-08T18:02:59,ok,483,,"2026-10-08 18:02:59,551 INFO 加载各数据源 xG...
+2026-10-08 18:02:59,573 INFO   Understat: 94 条
+2026-10-08 18:02:59,577 INFO   FBref: 0 条
+2026-10-08 18:02:59,685 INFO   历史比分: 448 条
+2026-10-08 18:02:59,723 INFO 融合后共 483 条 xG 记录
+2026-10-08 18:02:59,729 INFO   来源分布: {'historical': 389, 'understat': 94}
+2026-10-08 18:02:59,781 INFO ✅ football_xg_stats 写入 483 条（三源融合）"
+4208,46_qiety_lineup_scraper.run_football,2026-10-08T18:02:58,ok,1,,"ball)... 阵容0 积分0 交锋0
+  [115/151] mid=5741932 (football)... 阵容0 积分0 交锋0
+  [116/151] mid=5741937 (football)... 阵容0 积分14 交锋11
+  [117/151] mid=5741939 (football)... 阵容0 积分0 交锋13
+  [118/151] mid=5741940 (football)... 阵容0 积分0 交锋15
+  [119/151] mid=5741942 (football)... 阵容0 积分12 交锋12
+  [120/151] mid=5741943 (football)... 阵容0 积分0 交锋4
+  [121/151] mid=5741944 (football)... 阵容0 积分0 交锋0
+  [122/151] mid=5741945 (football)... 阵容0 积分32 交锋14
+  [123/151] mid=5741950 (football)... 阵容0 积分0 交锋10
+  [124/151] mid=5743984 (football)... 阵容0 积分0 交锋13
+  [125/151] mid=5744358 (football)... 阵容0 积分16 交锋13
+  [126/151] mid=5744361 (football)... 阵容0 积分0 交锋0
+  [127/151] mid=5744367 (football)... 阵容0 积分12 交锋15
+  [128/151] mid=5744617 (football)... 阵容43 积分14 交锋11
+  [129/151] mid=5744620 (football)... 阵容0 积分14 交锋11
+  [130/151] mid=5744622 (football)... 阵容0 积分14 交锋11
+  [131/151] mid=5744952 (football)... 阵容0 积分18 交锋12
+  [132/151] mid=5745160 (football)... 阵容0 积分0 交锋0
+  [133/151] mid=5745394 (football)... 阵容0 积分12 交锋15
+  [134/151] mid=5745511 (football)... 阵容0 积分7 交锋13
+  [135/151] mid=5745512 (football)... 阵容0 积分7 交锋13
+  [136/151] mid=5745521 (football)... 阵容0 积分0 交锋0
+  [137/151] mid=5745522 (football)... 阵容0 积分0 交锋0
+  [138/151] mid=5745523 (football)... 阵容0 积分0 交锋0
+  [139/151] mid=5745524 (football)... 阵容0 积分0 交锋0
+  [140/151] mid=5746530 (football)... 阵容0 积分0 交锋10
+  [141/151] mid=5746764 (football)... 阵容0 积分0 交锋0
+  [142/151] mid=5747416 (football)... 阵容0 积分18 交锋15
+  [143/151] mid=5747422 (football)... 阵容0 积分18 交锋15
+  [144/151] mid=5748377 (football)... 阵容0 积分12 交锋12
+  [145/151] mid=5748666 (football)... 阵容0 积分18 交锋15
+  [146/151] mid=5748667 (football)... 阵容0 积分18 交锋15
+  [147/151] mid=5748672 (football)... 阵容0 积分18 交锋10
+  [148/151] mid=5748680 (football)... 阵容0 积分18 交锋11
+  [149/151] mid=5750764 (football)... 阵容0 积分0 交锋0
+  [150/151] mid=5750844 (football)... 阵容0 积分0 交锋0
+  [151/151] mid=5750958 (football)... 阵容0 积分0 交锋0
+
+  完成: 151场成功 0场失败 | 阵容450条 积分榜2195条 交锋历史1694条"
+4207,10_understat_xg_scraper.run,2026-10-08T18:02:35,ok,1992,,"2026-10-08 18:01:53,816 INFO ✅ Understat 数据表初始化完成
+2026-10-08 18:01:53,817 INFO === Understat xG 抓取 | 赛季=2026 | 联赛=['premier_league', 'laliga', 'bundesliga', 'serie_a', 'ligue_1', 'rfpl'] ===
+2026-10-08 18:01:53,817 INFO 抓取 EPL 2026赛季
+2026-10-08 18:01:56,097 INFO   热身 HTTP 200
+2026-10-08 18:02:00,867 INFO   teams=20 支, dates=380 场
+2026-10-08 18:02:01,329 INFO   ✅ understat_xg_matches 写入 380 条 (premier_league 2026)
+2026-10-08 18:02:01,836 INFO   ✅ understat_xg_teams 写入 20 支球队 (premier_league 2026)
+2026-10-08 18:02:06,402 INFO 抓取 La_liga 2026赛季
+2026-10-08 18:02:08,186 INFO   teams=20 支, dates=380 场
+2026-10-08 18:02:08,737 INFO   ✅ understat_xg_matches 写入 380 条 (laliga 2026)
+2026-10-08 18:02:09,347 INFO   ✅ understat_xg_teams 写入 20 支球队 (laliga 2026)
+2026-10-08 18:02:11,785 INFO 抓取 Bundesliga 2026赛季
+2026-10-08 18:02:12,418 INFO   teams=18 支, dates=306 场
+2026-10-08 18:02:13,083 INFO   ✅ understat_xg_matches 写入 306 条 (bundesliga 2026)
+2026-10-08 18:02:14,111 INFO   ✅ understat_xg_teams 写入 18 支球队 (bundesliga 2026)
+2026-10-08 18:02:16,721 INFO 抓取 Serie_A 2026赛季
+2026-10-08 18:02:17,505 INFO   teams=20 支, dates=380 场
+2026-10-08 18:02:18,102 INFO   ✅ understat_xg_matches 写入 380 条 (serie_a 2026)
+2026-10-08 18:02:18,806 INFO   ✅ understat_xg_teams 写入 20 支球队 (serie_a 2026)
+2026-10-08 18:02:22,669 INFO 抓取 Ligue_1 2026赛季
+2026-10-08 18:02:24,721 INFO   teams=18 支, dates=306 场
+2026-10-08 18:02:25,285 INFO   ✅ understat_xg_matches 写入 306 条 (ligue_1 2026)
+2026-10-08 18:02:25,974 INFO   ✅ understat_xg_teams 写入 18 支球队 (ligue_1 2026)
+2026-10-08 18:02:28,831 INFO 抓取 RFPL 2026赛季
+2026-10-08 18:02:29,755 INFO   teams=16 支, dates=240 场
+2026-10-08 18:02:30,366 INFO   ✅ understat_xg_matches 写入 240 条 (rfpl 2026)
+2026-10-08 18:02:30,897 INFO   ✅ understat_xg_teams 写入 16 支球队 (rfpl 2026)
+2026-10-08 18:02:34,879 INFO === Understat xG 抓取完成 ==="
+4206,19_whoscored_scraper.run,2026-10-08T18:02:10,ok,1,,
+4205,import_corner_stats.run,2026-10-08T18:01:53,ok,1,,
+4204,04_1_LSTM_时序状态模型.run,2026-10-08T18:01:49,ok,1,,"📊 加载完成：122250 条记录，544 支球队
+✅ EMA+AR(1) 时序状态分计算完成并入库"
+4203,_elo_scraper.run,2026-10-08T18:01:44,ok,1,,
+4202,25_transfermarkt_scraper.run,2026-10-08T18:01:41,ok,1,,
+4201,23_football_data_scraper.run,2026-10-08T18:01:38,ok,0,,"26-10-08 17:56:05,119 INFO [扩展] ARG — Argentina Primera Division  (从 2012)
+2026-10-08 17:56:22,553 INFO   小计: 0 场
+2026-10-08 17:56:22,553 INFO [扩展] AUS — Australia A-League  (从 2003)
+2026-10-08 17:57:24,120 INFO   小计: 0 场
+2026-10-08 17:57:24,120 INFO [扩展] AUT — Austria Bundesliga  (从 2011)
+2026-10-08 17:57:39,159 INFO   小计: 0 场
+2026-10-08 17:57:39,159 INFO [扩展] BRA — Brazil Serie A  (从 2012)
+2026-10-08 17:57:55,335 INFO   小计: 0 场
+2026-10-08 17:57:55,335 INFO [扩展] CHN — China Super League  (从 2010)
+2026-10-08 17:58:16,261 INFO   小计: 0 场
+2026-10-08 17:58:16,261 INFO [扩展] DNK — Denmark Superliga  (从 2011)
+2026-10-08 17:58:32,713 INFO   小计: 0 场
+2026-10-08 17:58:32,713 INFO [扩展] FIN — Finland Veikkausliiga  (从 2010)
+2026-10-08 17:58:49,716 INFO   小计: 0 场
+2026-10-08 17:58:49,717 INFO [扩展] IRL — Ireland Premier Division  (从 2011)
+2026-10-08 17:59:05,510 INFO   小计: 0 场
+2026-10-08 17:59:05,510 INFO [扩展] JPN — Japan J1 League  (从 2012)
+2026-10-08 17:59:22,731 INFO   小计: 0 场
+2026-10-08 17:59:22,731 INFO [扩展] MEX — Mexico Liga MX  (从 2012)
+2026-10-08 17:59:39,005 INFO   小计: 0 场
+2026-10-08 17:59:39,005 INFO [扩展] NOR — Norway Eliteserien  (从 2010)
+2026-10-08 17:59:57,052 INFO   小计: 0 场
+2026-10-08 17:59:57,052 INFO [扩展] POL — Poland Ekstraklasa  (从 2011)
+2026-10-08 18:00:12,849 INFO   小计: 0 场
+2026-10-08 18:00:12,849 INFO [扩展] ROM — Romania Liga 1  (从 2010)
+2026-10-08 18:00:29,607 INFO   小计: 0 场
+2026-10-08 18:00:29,607 INFO [扩展] RUS — Russia Premier League  (从 2010)
+2026-10-08 18:00:48,498 INFO   小计: 0 场
+2026-10-08 18:00:48,498 INFO [扩展] SWE — Sweden Allsvenskan  (从 2010)
+2026-10-08 18:01:05,759 INFO   小计: 0 场
+2026-10-08 18:01:05,759 INFO [扩展] SWZ — Switzerland Super League  (从 2011)
+2026-10-08 18:01:21,991 INFO   小计: 0 场
+2026-10-08 18:01:21,991 INFO [扩展] USA — USA MLS  (从 2011)
+2026-10-08 18:01:38,099 INFO   小计: 0 场
+2026-10-08 18:01:38,099 INFO ============================================================
+2026-10-08 18:01:38,100 INFO 完成: 共写入 0 场"
+4200,23_bball_ref_scraper.run,2026-10-08T17:58:14,ok,1,,
+4199,46_qiety_lineup_scraper.run_basketball,2026-10-08T17:57:37,ok,1,,"... 阵容0 积分52 交锋15
+  [35/71] mid=5729447 (basketball)... 阵容0 积分52 交锋15
+  [36/71] mid=5729448 (basketball)... 阵容0 积分12 交锋15
+  [37/71] mid=5729449 (basketball)... 阵容0 积分30 交锋15
+  [38/71] mid=5729450 (basketball)... 阵容0 积分18 交锋12
+  [39/71] mid=5729451 (basketball)... 阵容0 积分52 交锋15
+  [40/71] mid=5729452 (basketball)... 阵容0 积分30 交锋15
+  [41/71] mid=5729453 (basketball)... 阵容0 积分30 交锋15
+  [42/71] mid=5729454 (basketball)... 阵容0 积分52 交锋14
+  [43/71] mid=5729457 (basketball)... 阵容0 积分0 交锋0
+  [44/71] mid=5730763 (basketball)... 阵容0 积分40 交锋11
+  [45/71] mid=5732107 (basketball)... 阵容0 积分0 交锋0
+  [46/71] mid=5732120 (basketball)... 阵容0 积分30 交锋15
+  [47/71] mid=5732122 (basketball)... 阵容0 积分30 交锋15
+  [48/71] mid=5735503 (basketball)... 阵容0 积分9 交锋15
+  [49/71] mid=5735579 (basketball)... 阵容0 积分17 交锋14
+  [50/71] mid=5738139 (basketball)... 阵容0 积分52 交锋6
+  [51/71] mid=5738150 (basketball)... 阵容0 积分10 交锋12
+  [52/71] mid=5738158 (basketball)... 阵容0 积分10 交锋15
+  [53/71] mid=5740708 (basketball)... 阵容0 积分40 交锋15
+  [54/71] mid=5741899 (basketball)... 阵容0 积分0 交锋15
+  [55/71] mid=5741903 (basketball)... 阵容0 积分17 交锋15
+  [56/71] mid=5741904 (basketball)... 阵容0 积分0 交锋14
+  [57/71] mid=5741905 (basketball)... 阵容0 积分0 交锋15
+  [58/71] mid=5744418 (basketball)... 阵容0 积分0 交锋15
+  [59/71] mid=5745840 (basketball)... 阵容0 积分12 交锋15
+  [60/71] mid=5747935 (basketball)... 阵容0 积分0 交锋8
+  [61/71] mid=5747936 (basketball)... 阵容0 积分0 交锋7
+  [62/71] mid=5748763 (basketball)... 阵容0 积分12 交锋15
+  [63/71] mid=5750251 (basketball)... 阵容0 积分21 交锋15
+  [64/71] mid=5750456 (basketball)... 阵容0 积分21 交锋15
+  [65/71] mid=5750924 (basketball)... 阵容0 积分0 交锋0
+  [66/71] mid=5751009 (basketball)... 阵容0 积分0 交锋0
+  [67/71] mid=5751010 (basketball)... 阵容0 积分0 交锋0
+  [68/71] mid=5751019 (basketball)... 阵容0 积分0 交锋0
+  [69/71] mid=5751022 (basketball)... 阵容0 积分0 交锋0
+  [70/71] mid=5751034 (basketball)... 阵容24 积分8 交锋12
+  [71/71] mid=5751044 (basketball)... 阵容0 积分0 交锋0
+
+  完成: 71场成功 0场失败 | 阵容48条 积分榜1363条 交锋历史816条"
+4198,43_fotmob_match_data_scraper.run,2026-10-08T17:55:39,ok,1,,
+4197,10_oddsportal_scraper.run,2026-10-08T17:54:09,ok,1,,
+4196,09_flashscore_schedule_scraper.run,2026-10-08T17:51:59,ok,1,,
+4195,38_qiety_correct_score_scraper.run,2026-10-08T17:47:05,ok,3566,,"比分盘口抓取: 151 场候选比赛
+  qiety比分盘口: 140场有数据, 0场失败, 3566条赔率写入"
+4194,16_footballdata_scraper.run,2026-10-08T17:46:56,ok,1,,
+4193,30_flashscore_basketball_scraper.run,2026-10-08T17:39:49,ok,1,,
+4192,18_espn_scores_scraper.run,2026-10-08T17:24:56,ok,1,,
+4191,16_flashscore_results_scraper.run,2026-10-08T17:21:46,ok,1,,
+4190,29_betexplorer_basketball_scraper.run,2026-10-08T17:20:01,ok,1,,
+4189,37_corner_stats_scraper.run,2026-10-08T17:18:58,ok,1,,
+4188,29_qiety_yb_full_scraper.run_football,2026-10-08T17:18:28,ok,904,,"0 秘鲁甲级联赛 | mid=5707890... ✅ 格劳竞技 vs 洛斯香卡斯 (1X2, asian_handicap, over_under, 3条)
+    [137/151] 2026-10-09 04:30 哥伦比亚乙级联赛 | mid=5700049... ✅ 卡利竞技 vs 喀他基那 (1X2, asian_handicap, over_under, 3条)
+    [138/151] 2026-10-09 04:30 厄瓜多尔乙级联赛 - 附加赛 | mid=5740251... ✅ 圣多明各体育 vs 波托维耶霍大学 (1X2, asian_handicap, over_under, 3条)
+    [139/151] 2026-10-09 04:30 牙买加超级联赛 | mid=5746764... ✅ 波特莫尔联 vs 沃特豪斯 (1X2, asian_handicap, over_under, 3条)
+    [140/151] 2026-10-09 06:00 阿根廷联赛后备队 | mid=5729353... ✅ 博卡青年后备队 vs 科隆竞技后备队 (1X2, asian_handicap, over_under, 3条)
+    [141/151] 2026-10-09 06:30 巴西甲级联赛 | mid=5681665... ✅ 桑托斯SP vs 弗拉门戈 (1X2, asian_handicap, over_under, 3条)
+    [142/151] 2026-10-09 06:30 巴西乙级联赛 | mid=5706531... ✅ 累西腓航海PE vs 甘美奥诺瓦里桑蒂诺SP (1X2, asian_handicap, over_under, 3条)
+    [143/151] 2026-10-09 06:30 巴西乙级联赛 | mid=5711138... ✅ 塞阿拉CE vs 基斯奥马SC (1X2, asian_handicap, over_under, 3条)
+    [144/151] 2026-10-09 07:00 巴西甲级联赛 | mid=5681674... ✅ 巴拉纳竞技 vs 米内罗竞技 (1X2, asian_handicap, over_under, 3条)
+    [145/151] 2026-10-09 07:05 哥伦比亚甲级联赛 | mid=5671179... ✅ 国民竞技 vs 托利马体育 (1X2, asian_handicap, over_under, 3条)
+    [146/151] 2026-10-09 08:30 巴西甲级联赛 | mid=5681673... ✅ 弗鲁米嫩塞 vs 库里蒂巴PR (1X2, asian_handicap, over_under, 3条)
+    [147/151] 2026-10-09 08:30 巴西甲级联赛 | mid=5681675... ✅ 帕尔梅拉斯SP vs 巴伊亚BA (1X2, asian_handicap, over_under, 3条)
+    [148/151] 2026-10-09 09:00 墨西哥甲级联赛 | mid=5732257... ✅ 奧哈卡 vs 克雷卡米诺斯 (1X2, asian_handicap, over_under, 3条)
+    [149/151] 2026-10-09 09:00 危地马拉全国联赛 | mid=5729703... ✅ 安提瓜GFC vs 穆尼斯帕尔 (1X2, asian_handicap, over_under, 3条)
+    [150/151] 2026-10-09 09:10 哥伦比亚甲级联赛 | mid=5671182... ✅ 福塔雷扎CEIF vs 百万富翁 (1X2, asian_handicap, over_under, 3条)
+    [151/151] 2026-10-09 09:30 萨尔瓦多甲级联赛 | mid=5744367... ✅ CD法斯 vs 联盟FC (1X2, asian_handicap, over_under, 3条)
+
+  足球: 151场成功, 0场失败, 0场跳过(今日已抓), 452条赔率写入
+
+============================================================
+  总计: 452 条赔率写入 D:\cl\qqsj\data\sports_data.db
+============================================================"
+4187,28_livescore_basketball_scraper.run,2026-10-08T17:16:39,ok,1,,
+4186,27_euroleague_feeds_scraper.run,2026-10-08T17:15:41,ok,1,,
+4185,26_multi_bookmaker_scraper.run,2026-10-08T17:15:20,ok,1,,
+4184,48_qiumibao_corner_scraper.run_odds_snapshot,2026-10-08T17:14:27,ok,1,,
+4183,42_okooo_jingcai_scraper.run,2026-10-08T17:14:23,ok,22,,"竞彩足球: 18 场写入
+  竞彩篮球: 4 场写入"
+4182,41_okooo_betflow_scraper.run,2026-10-08T17:14:20,ok,1,,球路走势: 15 场比赛，45 行(每场胜/平/负各1行)写入
+4181,40_okooo_injury_scraper.run,2026-10-08T17:14:18,ok,33,,伤停数据: 5 场比赛，33 名球员记录写入 (33 行)
+4180,39_okooo_ren9_scraper.run,2026-10-08T17:14:15,ok,14,,"任九第26136期: 14/14 场写入（快照批次 2026-10-08 17:14:15: 14 场）
+    [1] 10-10 03:00 英冠 西汉姆 vs 巡游者  胜1.49/平4.49/负5.61
+    [2] 10-10 02:30 德甲 多特 vs 不来梅  胜1.34/平5.47/负7.55
+    [3] 10-10 00:30 德乙 不伦瑞 vs 基尔  胜2.6/平3.69/负2.37
+    [4] 10-10 00:30 德乙 海登 vs 凯泽  胜1.86/平3.62/负3.79
+    [5] 10-10 03:00 西甲 马拉加 vs 西班人  胜2.71/平3.17/负2.65
+    [6] 10-10 02:45 法甲 朗斯 vs 里昂  胜2.41/平3.67/负2.67
+    [7] 10-10 02:00 法乙 南锡 vs 甘冈  胜2.03/平3.47/负3.31
+    [8] 10-10 02:00 法乙 敦刻克 vs 阿纳西  胜2.22/平3.38/负2.97
+    [9] 10-10 02:00 法乙 蒙彼利 vs 格勒诺  胜1.61/平3.68/负5.26
+    [10] 10-10 02:00 荷甲 埃因霍 vs 海伦芬  胜1.23/平7.02/负8.73
+    [11] 10-10 01:45 葡超 摩雷伦 vs 吉维森  胜3.28/平3.12/负2.23
+    [12] 10-10 03:15 葡超 布拉加 vs 里斯本  胜3.42/平3.43/负2.04
+    [13] 10-10 01:00 瑞超 哥德堡 vs 韦斯罗  胜1.74/平3.82/负4.1
+    [14] 10-10 01:00 挪超 布兰 vs 维京  胜2.92/平3.84/负2.09"
+4179,29_qiety_yb_full_scraper.run_basketball,2026-10-08T17:14:13,ok,404,,"15 冰岛篮球超级联赛 | mid=5729440... ✅ 阿尔曼 vs 凯夫拉维克 (1X2, asian_handicap, over_under, 3条)
+    [57/71] 2026-10-09 03:15 冰岛篮球超级联赛 | mid=5729442... ✅ UMF辛德里 vs IR雷克雅维克 (1X2, asian_handicap, over_under, 3条)
+    [58/71] 2026-10-09 03:15 冰岛篮球超级联赛 | mid=5729448... ✅ 华路亚 vs 斯塔尔南 (1X2, asian_handicap, over_under, 3条)
+    [59/71] 2026-10-09 07:00 NBA - 季前赛 | mid=5729435... ✅ 克利夫兰骑士 vs 波士顿凯尔特人 (1X2, asian_handicap, over_under, 3条)
+    [60/71] 2026-10-09 07:00 智利全国联赛 | mid=5740708... ✅ 洛斯莱昂 vs 巴拉斯港 (1X2, asian_handicap, over_under, 3条)
+    [61/71] 2026-10-09 07:30 NBA - 季前赛 | mid=5729449... ✅ 布鲁克林篮网 vs 费城76人 (1X2, asian_handicap, over_under, 3条)
+    [62/71] 2026-10-09 07:30 NBA - 季前赛 | mid=5729452... ✅ 迈阿密热火 vs 新奥尔良鹈鹕 (1X2, asian_handicap, over_under, 3条)
+    [63/71] 2026-10-09 07:30 NBA - 季前赛 | mid=5729453... ✅ 纽约尼克斯 vs 华盛顿奇才 (1X2, asian_handicap, over_under, 3条)
+    [64/71] 2026-10-09 07:30 智利全国联赛 | mid=5730763... ✅ 艾斯潘诺 vs 卡斯特罗体育 (1X2, asian_handicap, over_under, 3条)
+    [65/71] 2026-10-09 08:00 NBA - 季前赛 | mid=5732120... ✅ 圣安东尼奥马刺 vs 亚特兰大老鹰 (1X2, asian_handicap, over_under, 3条)
+    [66/71] 2026-10-09 08:00 波多黎各女子国家篮球联赛 | mid=5738150... ✅ 胡安娜迪亚兹君主(女) vs 克里奥洛斯德卡瓜斯(女) (1X2, asian_handicap, over_under, 3条)
+    [67/71] 2026-10-09 08:00 阿根廷全国篮球联赛 | mid=5729450... ✅ 奇维尔科 vs 圣马丁 (1X2, asian_handicap, over_under, 3条)
+    [68/71] 2026-10-09 08:30 阿根廷全国篮球联赛 | mid=5729437... ✅ 奥利瓦独立 vs 费罗卡利 (1X2, asian_handicap, over_under, 3条)
+    [69/71] 2026-10-09 09:15 萨尔瓦多篮球甲级联赛 | mid=5750251... ✅ 圣特克拉伊姆德尔斯 vs 洛博斯BKB (1X2, asian_handicap, over_under, 3条)
+    [70/71] 2026-10-09 09:15 萨尔瓦多篮球甲级联赛 | mid=5750456... ✅ 科胡特 vs 伊萨尔科布鲁霍斯 (1X2, asian_handicap, over_under, 3条)
+    [71/71] 2026-10-09 10:30 NBA - 季前赛 | mid=5732122... ✅ 洛杉矶湖人 vs 萨克拉门托国王 (1X2, asian_handicap, over_under, 3条)
+
+  篮球: 71场成功, 0场失败, 0场跳过(今日已抓), 202条赔率写入
+
+============================================================
+  总计: 202 条赔率写入 D:\cl\qqsj\data\sports_data.db
+============================================================"
+4178,33_corner_odds_scraper.main,2026-10-08T17:10:53,ok,1,,
+4177,03_实时赔率抓取.run_all,2026-10-08T17:10:25,ok,1,,"✅ 赔率表初始化完成
+📡 正在获取套利机会...
+  sportsbook-api2 状态码 404: <!doctype html>
+<html lang=en>
+<title>404 Not Found</title>
+<h1>Not Found</h1>
+<p>The requested URL was not found on the server. If you entered the URL manually please check your spelling and try agai
+⚠️ 暂无套利数据
+📡 正在获取实时 1X2 赔率...
+  odds-feed: 当前无进行中赛事，跳过
+⚠️ 暂无实时赔率数据（可能非实时营业时间）
+
+✅ 赔率抓取完成"
+4176,08_flashscore_scraper.run,2026-10-08T17:10:20,ok,1,,
+4175,15_pinnacle_oddsportal_scraper.fetch_all_correct_score_odds,2026-10-08T17:10:19,ok,1,,
+4174,12_pinnacle_scraper.fetch_all_corner_odds,2026-10-08T17:05:21,ok,1,,
+4173,35_theoddsapi_multi_scraper.run,2026-10-08T16:40:13,ok,1,,
+4172,15_pinnacle_oddsportal_scraper.run,2026-10-08T16:38:20,ok,1,,
+4171,12_statsbomb_national_xg_scraper.run,2026-09-20T14:34:31,ok,199,,"2026-09-20 14:18:37,697 INFO ✅ StatsBomb 国家队数据表初始化完成
+2026-09-20 14:18:39,036 INFO === StatsBomb 国家队 xG 抓取 | 赛事数=4 ===
+2026-09-20 14:18:39,037 INFO 赛事: African Cup of Nations | 1 个赛季
+2026-09-20 14:18:39,037 INFO   African Cup of Nations 2023 (season_id=107)
+2026-09-20 14:18:39,415 INFO     共 52 场
+2026-09-20 14:21:46,838 INFO   ✅ statsbomb_national_xg_matches 写入 52 场 (African Cup of Nations)
+2026-09-20 14:21:47,262 INFO   ✅ statsbomb_national_xg_teams 写入 24 队 (African Cup of Nations)
+2026-09-20 14:21:47,268 INFO 赛事: Copa America | 1 个赛季
+2026-09-20 14:21:47,268 INFO   Copa America 2024 (season_id=282)
+2026-09-20 14:21:47,651 INFO     共 32 场
+2026-09-20 14:24:42,389 INFO   ✅ statsbomb_national_xg_matches 写入 32 场 (Copa America)
+2026-09-20 14:24:42,882 INFO   ✅ statsbomb_national_xg_teams 写入 16 队 (Copa America)
+2026-09-20 14:24:42,888 INFO 赛事: FIFA World Cup | 1 个赛季
+2026-09-20 14:24:42,888 INFO   FIFA World Cup 2022 (season_id=106)
+2026-09-20 14:24:43,448 INFO     共 64 场
+2026-09-20 14:29:04,510 INFO   ✅ statsbomb_national_xg_matches 写入 64 场 (FIFA World Cup)
+2026-09-20 14:29:05,007 INFO   ✅ statsbomb_national_xg_teams 写入 32 队 (FIFA World Cup)
+2026-09-20 14:29:05,014 INFO 赛事: UEFA Euro | 1 个赛季
+2026-09-20 14:29:05,015 INFO   UEFA Euro 2024 (season_id=282)
+2026-09-20 14:29:05,387 INFO     共 51 场
+2026-09-20 14:34:30,689 INFO   ✅ statsbomb_national_xg_matches 写入 51 场 (UEFA Euro)
+2026-09-20 14:34:31,082 INFO   ✅ statsbomb_national_xg_teams 写入 24 队 (UEFA Euro)
+2026-09-20 14:34:31,088 INFO === StatsBomb 国家队 xG 抓取完成 ==="
+4170,11_fbref_xg_scraper.run,2026-09-20T14:20:46,ok,1,,"497 chars): https://fbref.com/en/comps/206/stats/Chinese-Super-League-St
+2026-09-20 14:20:10,851 WARNING   关键列缺失: squad=Unnamed: 0_level_0_Squad, xG=None
+2026-09-20 14:20:10,851 WARNING   可用列(全部21个): ['Unnamed: 0_level_0_Squad', 'Unnamed: 1_level_0_# Pl', 'Unnamed: 2_level_0_Age', 'Unnamed: 3_level_0_Poss', 'Playing Time_MP', 'Playing Time_Starts', 'Playing Time_Min', 'Playing Time_90s', 'Performance_Gls', 'Performance_Ast', 'Performance_G+A', 'Performance_G-PK', 'Performance_PK', 'Performance_PKatt', 'Performance_CrdY', 'Performance_CrdR', 'Per 90 Minutes_Gls', 'Per 90 Minutes_Ast', 'Per 90 Minutes_G+A', 'Per 90 Minutes_G-PK', 'Per 90 Minutes_G+A-PK']
+2026-09-20 14:20:10,851 WARNING   解析到 0 行: csl
+2026-09-20 14:20:10,852 INFO 抓取 FBref xG k_league_1: https://fbref.com/en/comps/308/stats/K-League-1-Stats
+2026-09-20 14:20:20,724 INFO   ✓ 页面加载 (442783 chars): https://fbref.com/en/comps/308/stats/K-League-1-Stats
+2026-09-20 14:20:28,584 WARNING   页面无 stats_squads_standard_for 表: k_league_1
+2026-09-20 14:20:28,584 INFO 抓取 FBref xG serie_a_br: https://fbref.com/en/comps/37/stats/Serie-A-Stats
+2026-09-20 14:20:38,476 INFO   ✓ 页面加载 (1969193 chars): https://fbref.com/en/comps/37/stats/Serie-A-Stats
+2026-09-20 14:20:44,191 WARNING   关键列缺失: squad=Unnamed: 0_level_0_Squad, xG=None
+2026-09-20 14:20:44,191 WARNING   可用列(全部21个): ['Unnamed: 0_level_0_Squad', 'Unnamed: 1_level_0_# Pl', 'Unnamed: 2_level_0_Age', 'Unnamed: 3_level_0_Poss', 'Playing Time_MP', 'Playing Time_Starts', 'Playing Time_Min', 'Playing Time_90s', 'Performance_Gls', 'Performance_Ast', 'Performance_G+A', 'Performance_G-PK', 'Performance_PK', 'Performance_PKatt', 'Performance_CrdY', 'Performance_CrdR', 'Per 90 Minutes_Gls', 'Per 90 Minutes_Ast', 'Per 90 Minutes_G+A', 'Per 90 Minutes_G-PK', 'Per 90 Minutes_G+A-PK']
+2026-09-20 14:20:44,191 WARNING   解析到 0 行: serie_a_br
+2026-09-20 14:20:44,192 INFO terminated browser with pid 11452 successfully
+2026-09-20 14:20:44,569 INFO === FBref xG 抓取完成，共 0 支球队 ==="
+4169,31_nba_official_scraper.run,2026-09-20T14:18:48,ok,1,,
+4168,04_2_Football_xG_Module.calc_and_save,2026-09-20T14:18:38,ok,478,,"2026-09-20 14:18:38,077 INFO 加载各数据源 xG...
+2026-09-20 14:18:38,093 INFO   Understat: 70 条
+2026-09-20 14:18:38,096 INFO   FBref: 0 条
+2026-09-20 14:18:38,177 INFO   历史比分: 448 条
+2026-09-20 14:18:38,213 INFO 融合后共 478 条 xG 记录
+2026-09-20 14:18:38,218 INFO   来源分布: {'historical': 408, 'understat': 70}
+2026-09-20 14:18:38,273 INFO ✅ football_xg_stats 写入 478 条（三源融合）"
+4167,23_football_data_scraper.run,2026-09-20T14:18:36,ok,0,,"26-09-20 14:11:55,295 INFO [扩展] ARG — Argentina Primera Division  (从 2012)
+2026-09-20 14:12:16,567 INFO   小计: 0 场
+2026-09-20 14:12:16,567 INFO [扩展] AUS — Australia A-League  (从 2003)
+2026-09-20 14:13:26,394 INFO   小计: 0 场
+2026-09-20 14:13:26,394 INFO [扩展] AUT — Austria Bundesliga  (从 2011)
+2026-09-20 14:13:44,596 INFO   小计: 0 场
+2026-09-20 14:13:44,597 INFO [扩展] BRA — Brazil Serie A  (从 2012)
+2026-09-20 14:14:05,078 INFO   小计: 0 场
+2026-09-20 14:14:05,078 INFO [扩展] CHN — China Super League  (从 2010)
+2026-09-20 14:14:26,146 INFO   小计: 0 场
+2026-09-20 14:14:26,146 INFO [扩展] DNK — Denmark Superliga  (从 2011)
+2026-09-20 14:14:47,087 INFO   小计: 0 场
+2026-09-20 14:14:47,087 INFO [扩展] FIN — Finland Veikkausliiga  (从 2010)
+2026-09-20 14:15:07,209 INFO   小计: 0 场
+2026-09-20 14:15:07,209 INFO [扩展] IRL — Ireland Premier Division  (从 2011)
+2026-09-20 14:15:31,462 INFO   小计: 0 场
+2026-09-20 14:15:31,462 INFO [扩展] JPN — Japan J1 League  (从 2012)
+2026-09-20 14:15:49,909 INFO   小计: 0 场
+2026-09-20 14:15:49,910 INFO [扩展] MEX — Mexico Liga MX  (从 2012)
+2026-09-20 14:16:08,691 INFO   小计: 0 场
+2026-09-20 14:16:08,691 INFO [扩展] NOR — Norway Eliteserien  (从 2010)
+2026-09-20 14:16:26,609 INFO   小计: 0 场
+2026-09-20 14:16:26,609 INFO [扩展] POL — Poland Ekstraklasa  (从 2011)
+2026-09-20 14:16:52,382 INFO   小计: 0 场
+2026-09-20 14:16:52,382 INFO [扩展] ROM — Romania Liga 1  (从 2010)
+2026-09-20 14:17:18,751 INFO   小计: 0 场
+2026-09-20 14:17:18,751 INFO [扩展] RUS — Russia Premier League  (从 2010)
+2026-09-20 14:17:36,854 INFO   小计: 0 场
+2026-09-20 14:17:36,854 INFO [扩展] SWE — Sweden Allsvenskan  (从 2010)
+2026-09-20 14:17:56,271 INFO   小计: 0 场
+2026-09-20 14:17:56,271 INFO [扩展] SWZ — Switzerland Super League  (从 2011)
+2026-09-20 14:18:15,776 INFO   小计: 0 场
+2026-09-20 14:18:15,777 INFO [扩展] USA — USA MLS  (从 2011)
+2026-09-20 14:18:36,197 INFO   小计: 0 场
+2026-09-20 14:18:36,198 INFO ============================================================
+2026-09-20 14:18:36,198 INFO 完成: 共写入 0 场"
+4166,25_transfermarkt_scraper.run,2026-09-20T14:18:35,ok,1,,
+4165,10_understat_xg_scraper.run,2026-09-20T14:16:22,ok,1992,,"2026-09-20 14:15:41,846 INFO ✅ Understat 数据表初始化完成
+2026-09-20 14:15:41,846 INFO === Understat xG 抓取 | 赛季=2026 | 联赛=['premier_league', 'laliga', 'bundesliga', 'serie_a', 'ligue_1', 'rfpl'] ===
+2026-09-20 14:15:41,847 INFO 抓取 EPL 2026赛季
+2026-09-20 14:15:44,377 INFO   热身 HTTP 200
+2026-09-20 14:15:47,635 INFO   teams=20 支, dates=380 场
+2026-09-20 14:15:48,096 INFO   ✅ understat_xg_matches 写入 380 条 (premier_league 2026)
+2026-09-20 14:15:48,603 INFO   ✅ understat_xg_teams 写入 20 支球队 (premier_league 2026)
+2026-09-20 14:15:51,777 INFO 抓取 La_liga 2026赛季
+2026-09-20 14:15:55,988 INFO   teams=20 支, dates=380 场
+2026-09-20 14:15:56,427 INFO   ✅ understat_xg_matches 写入 380 条 (laliga 2026)
+2026-09-20 14:15:56,955 INFO   ✅ understat_xg_teams 写入 20 支球队 (laliga 2026)
+2026-09-20 14:15:59,390 INFO 抓取 Bundesliga 2026赛季
+2026-09-20 14:16:00,239 INFO   teams=18 支, dates=306 场
+2026-09-20 14:16:00,655 INFO   ✅ understat_xg_matches 写入 306 条 (bundesliga 2026)
+2026-09-20 14:16:01,144 INFO   ✅ understat_xg_teams 写入 18 支球队 (bundesliga 2026)
+2026-09-20 14:16:03,414 INFO 抓取 Serie_A 2026赛季
+2026-09-20 14:16:06,506 INFO   teams=20 支, dates=380 场
+2026-09-20 14:16:06,947 INFO   ✅ understat_xg_matches 写入 380 条 (serie_a 2026)
+2026-09-20 14:16:07,417 INFO   ✅ understat_xg_teams 写入 20 支球队 (serie_a 2026)
+2026-09-20 14:16:10,995 INFO 抓取 Ligue_1 2026赛季
+2026-09-20 14:16:13,774 INFO   teams=18 支, dates=306 场
+2026-09-20 14:16:14,241 INFO   ✅ understat_xg_matches 写入 306 条 (ligue_1 2026)
+2026-09-20 14:16:14,752 INFO   ✅ understat_xg_teams 写入 18 支球队 (ligue_1 2026)
+2026-09-20 14:16:17,350 INFO 抓取 RFPL 2026赛季
+2026-09-20 14:16:18,504 INFO   teams=16 支, dates=240 场
+2026-09-20 14:16:18,986 INFO   ✅ understat_xg_matches 写入 240 条 (rfpl 2026)
+2026-09-20 14:16:19,448 INFO   ✅ understat_xg_teams 写入 16 支球队 (rfpl 2026)
+2026-09-20 14:16:22,296 INFO === Understat xG 抓取完成 ==="
+4164,19_whoscored_scraper.run,2026-09-20T14:15:41,ok,1,,
+4163,import_corner_stats.run,2026-09-20T14:15:20,ok,1,,
+4162,04_1_LSTM_时序状态模型.run,2026-09-20T14:15:12,ok,1,,"📊 加载完成：122250 条记录，544 支球队
+✅ EMA+AR(1) 时序状态分计算完成并入库"
+4161,_elo_scraper.run,2026-09-20T14:15:05,ok,1,,
+4160,46_qiety_lineup_scraper.run_football,2026-09-20T14:14:59,error,0,timeout after 2700s,"6/640] mid=5657825 (football)... 阵容0 积分18 交锋15
+  [177/640] mid=5658622 (football)... 阵容29 积分18 交锋15
+  [178/640] mid=5658629 (football)... 阵容29 积分18 交锋15
+  [179/640] mid=5660399 (football)... 阵容11 积分20 交锋15
+  [180/640] mid=5660400 (football)... 阵容4 积分20 交锋15
+  [181/640] mid=5660469 (football)... 阵容1 积分10 交锋15
+  [182/640] mid=5660470 (football)... 阵容1 积分10 交锋15
+  [183/640] mid=5660649 (football)... 阵容0 积分10 交锋15
+  [184/640] mid=5660699 (football)... 阵容0 积分10 交锋15
+  [185/640] mid=5660717 (football)... 阵容0 积分16 交锋12
+  [186/640] mid=5661790 (football)... 阵容0 积分10 交锋15
+  [187/640] mid=5661931 (football)... 阵容45 积分0 交锋15
+  [188/640] mid=5666776 (football)... 阵容0 积分16 交锋15
+  [189/640] mid=5666794 (football)... 阵容0 积分16 交锋13
+  [190/640] mid=5666807 (football)... 阵容0 积分32 交锋13
+  [191/640] mid=5666819 (football)... 阵容0 积分18 交锋13
+  [192/640] mid=5666820 (football)... 阵容0 积分16 交锋15
+  [193/640] mid=5666833 (football)... 阵容0 积分18 交锋10
+  [194/640] mid=5666834 (football)... 阵容0 积分18 交锋15
+  [195/640] mid=5666844 (football)... 阵容0 积分18 交锋15
+  [196/640] mid=5666846 (football)... 阵容4 积分16 交锋14
+  [197/640] mid=5666847 (football)... 阵容0 积分18 交锋10
+  [198/640] mid=5666851 (football)... 阵容0 积分14 交锋15
+  [199/640] mid=5667378 (football)... 阵容0 积分10 交锋10
+  [200/640] mid=5667388 (football)... 阵容0 积分10 交锋15
+  [201/640] mid=5668442 (football)... 阵容0 积分10 交锋15
+  [202/640] mid=5668449 (football)... 阵容0 积分10 交锋15
+  [203/640] mid=5668506 (football)... 阵容2 积分14 交锋15
+  [204/640] mid=5669397 (football)... 阵容0 积分10 交锋15
+  [205/640] mid=5669481 (football)... 阵容0 积分24 交锋15
+  [206/640] mid=5672914 (football)... 阵容28 积分18 交锋15
+  [207/640] mid=5672915 (football)... 阵容27 积分18 交锋15
+  [208/640] mid=5675773 (football)... 阵容0 积分22 交锋10
+  [209/640] mid=5676538 (football)... 阵容30 积分24 交锋10
+  [210/640] mid=5676540 (football)... 阵容29 积分24 交锋11
+  [211/640] mid=5676964 (football)... 阵容0 积分20 交锋10
+  [212/640] mid=5677877 (football)... 阵容0 积分20 交锋0
+  [213/640] mid=5678065 (football)..."
+4159,23_bball_ref_scraper.run,2026-09-20T14:14:29,ok,1,,
+4158,43_fotmob_match_data_scraper.run,2026-09-20T14:13:49,ok,1,,
+4157,10_oddsportal_scraper.run,2026-09-20T14:10:55,ok,1,,
+4156,38_qiety_correct_score_scraper.run,2026-09-20T14:10:37,ok,15705,,"比分盘口抓取: 640 场候选比赛
+  qiety比分盘口: 607场有数据, 16场失败, 15705条赔率写入"
+4155,09_flashscore_schedule_scraper.run,2026-09-20T14:08:16,ok,1,,
+4154,46_qiety_lineup_scraper.run_basketball,2026-09-20T14:03:27,ok,1,,"(basketball)... 阵容0 积分16 交锋14
+  [52/88] mid=5693773 (basketball)... 阵容0 积分0 交锋0
+  [53/88] mid=5693774 (basketball)... 阵容0 积分0 交锋0
+  [54/88] mid=5693775 (basketball)... 阵容0 积分0 交锋0
+  [55/88] mid=5694203 (basketball)... 阵容0 积分12 交锋15
+  [56/88] mid=5694204 (basketball)... 阵容0 积分0 交锋15
+  [57/88] mid=5694205 (basketball)... 阵容0 积分0 交锋15
+  [58/88] mid=5694206 (basketball)... 阵容0 积分12 交锋15
+  [59/88] mid=5694949 (basketball)... 阵容0 积分0 交锋0
+  [60/88] mid=5694950 (basketball)... 阵容0 积分10 交锋15
+  [61/88] mid=5695032 (basketball)... 阵容0 积分10 交锋15
+  [62/88] mid=5695033 (basketball)... 阵容0 积分10 交锋15
+  [63/88] mid=5695870 (basketball)... 阵容0 积分30 交锋10
+  [64/88] mid=5697191 (basketball)... 阵容0 积分10 交锋5
+  [65/88] mid=5697195 (basketball)... 阵容0 积分0 交锋10
+  [66/88] mid=5697384 (basketball)... 阵容0 积分0 交锋15
+  [67/88] mid=5697385 (basketball)... 阵容0 积分0 交锋15
+  [68/88] mid=5697386 (basketball)... 阵容0 积分0 交锋15
+  [69/88] mid=5697387 (basketball)... 阵容0 积分0 交锋9
+  [70/88] mid=5697441 (basketball)... 阵容0 积分0 交锋10
+  [71/88] mid=5697651 (basketball)... 阵容0 积分56 交锋15
+  [72/88] mid=5697652 (basketball)... 阵容0 积分56 交锋10
+  [73/88] mid=5697656 (basketball)... 阵容0 积分56 交锋10
+  [74/88] mid=5697657 (basketball)... 阵容0 积分56 交锋6
+  [75/88] mid=5697658 (basketball)... 阵容0 积分56 交锋8
+  [76/88] mid=5697732 (basketball)... 阵容0 积分0 交锋10
+  [77/88] mid=5697733 (basketball)... 阵容0 积分0 交锋11
+  [78/88] mid=5697987 (basketball)... 阵容0 积分0 交锋0
+  [79/88] mid=5697988 (basketball)... 阵容0 积分0 交锋13
+  [80/88] mid=5698005 (basketball)... 阵容0 积分0 交锋15
+  [81/88] mid=5698020 (basketball)... 阵容0 积分0 交锋15
+  [82/88] mid=5698021 (basketball)... 阵容0 积分0 交锋13
+  [83/88] mid=5698026 (basketball)... 阵容0 积分0 交锋0
+  [84/88] mid=5698027 (basketball)... 阵容0 积分0 交锋15
+  [85/88] mid=5698454 (basketball)... 阵容0 积分0 交锋9
+  [86/88] mid=5698475 (basketball)... 阵容0 积分0 交锋0
+  [87/88] mid=5698501 (basketball)... 阵容0 积分0 交锋0
+  [88/88] mid=5698506 (basketball)... 阵容0 积分0 交锋0
+
+  完成: 88场成功 0场失败 | 阵容23条 积分榜1004条 交锋历史936条"
